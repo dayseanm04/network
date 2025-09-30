@@ -27,7 +27,7 @@ Search up **VMware Workstation** click on **Show Results**
 <img width="742" height="221" alt="vmware WP search" src="https://github.com/user-attachments/assets/9129bf5e-08c0-4bd1-ad75-3448b0a71568" />
 
 <br />
-Click on the **windows version** . (this GNS3 setup is for windows but you can download the linux version if you are using linux) <br/> 
+Click on the **Windows version** (this GNS3 setup is for windows but you can download the linux version if you are using linux) <br/> 
 
 <img width="459" height="244" alt="download windows version" src="https://github.com/user-attachments/assets/955a13b7-5874-4070-b1fa-32674c2ded44" />
 
@@ -42,4 +42,5 @@ Click on the download symbol on the right:
 <img width="908" height="275" alt="Download VMware Workstation" src="https://github.com/user-attachments/assets/8d9f18d3-1bc6-4125-b771-83f4bdb07ca9" />
 
 <br/>
+
 **Congrats you have finish downloading VMware** 🎉🥳🎉🥳
