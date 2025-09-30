@@ -16,11 +16,9 @@ You should see this:
 <img width="945" height="367" alt="VMware UI" src="https://github.com/user-attachments/assets/4e6424bd-1c36-4fc6-9f22-663978d9a0f7" />
 <br/>
 
-<br/>
 
 Click on __Open a Virtual Machine__
 
-<br/>
 <br/>
 
 Navigate to your Downloads folder and find GNS3 vm (click on the folder you unzipped) <br/>
