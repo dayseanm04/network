@@ -1,4 +1,4 @@
-# Set up GNS3 VM
+# Download GNS3 VM
 
 ## steps
 
