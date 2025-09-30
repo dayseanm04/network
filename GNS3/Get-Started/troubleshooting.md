@@ -66,8 +66,8 @@ Click on OK
 
 You might see this: <br/> 
 
-**3) Virtualized Intel VT-x/EPT is not supported on this platform. Continue without virtualized Intel VT-x/EPT?
-**
+**3) Virtualized Intel VT-x/EPT is not supported on this platform. Continue without virtualized Intel VT-x/EPT?**
+
 <img width="324" height="151" alt="not supported" src="https://github.com/user-attachments/assets/92980ddd-2a99-4683-8cb1-7fce2a7282d7" />
 
 Click yes it might not run or Click No (lets fix this)
