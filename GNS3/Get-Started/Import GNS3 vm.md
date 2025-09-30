@@ -17,7 +17,9 @@ You should see this:
 <br/>
 
 <br/>
+
 Click on __Open a Virtual Machine__
+
 <br/>
 <br/>
 
