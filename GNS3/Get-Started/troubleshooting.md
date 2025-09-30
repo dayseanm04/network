@@ -62,8 +62,6 @@ Right click on the vm in VMware <br/>
 Click on OK
 
 
-# problems you might run into setting up GNS3
-
 You might see this: <br/> 
 
 **3) Virtualized Intel VT-x/EPT is not supported on this platform. Continue without virtualized Intel VT-x/EPT?**
