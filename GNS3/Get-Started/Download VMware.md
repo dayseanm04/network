@@ -43,4 +43,4 @@ Click on the download symbol on the right:
 
 <br/>
 
-**Congrats you have finish downloading VMware** 🎉🥳🎉🥳
+**Congrats you have finish downloading VMware Workstation Pro** 🎉🥳🎉🥳
