@@ -2,7 +2,7 @@
 
 You might see this: <br/> 
 
-**VMware Workstation does not support nested virtualization on this host.**    <br/>
+**1) VMware Workstation does not support nested virtualization on this host.**    <br/>
 **Module 'HV' power on falled.**    <br/>
 **Failed to start the virtual machine.**    <br/>
 
