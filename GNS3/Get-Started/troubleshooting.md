@@ -1,4 +1,4 @@
-#Problems you might run into setting up GNS3
+# Problems you might run into setting up GNS3
 
 You might see this: <br/> 
 
