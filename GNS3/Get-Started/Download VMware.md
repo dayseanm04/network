@@ -31,13 +31,15 @@ Click on the **windows version** . (this GNS3 setup is for windows but you can d
 
 <img width="459" height="244" alt="download windows version" src="https://github.com/user-attachments/assets/955a13b7-5874-4070-b1fa-32674c2ded44" />
 
-<br />
+<br/> <br/>
 Download the **latest version** <br/>
 <img width="519" height="213" alt="donwload latest version" src="https://github.com/user-attachments/assets/fd83eb9a-15b8-4da0-bc45-a7285093d8f9" />
+<br/>
 Click on version **17.6.4** (note in the future the will be new versions just donload the first one)
  
-<br />
+<br/>
 Click on the download symbol on the right:
 <img width="908" height="275" alt="Download VMware Workstation" src="https://github.com/user-attachments/assets/8d9f18d3-1bc6-4125-b771-83f4bdb07ca9" />
 
+<br/>
 **Congrats you have finish downloading VMware** 🎉🥳🎉🥳
