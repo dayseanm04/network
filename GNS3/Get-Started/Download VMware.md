@@ -21,7 +21,7 @@ You should see the Dashboard:
 - Click on **My Downloads**
 - You should see this **“Free Software Downloads available Here**”
 - Click “**HERE**”
-<br /></br />
+<br />
 
 Search up **VMware Workstation** click on **Show Results**
 <img width="742" height="221" alt="vmware WP search" src="https://github.com/user-attachments/assets/9129bf5e-08c0-4bd1-ad75-3448b0a71568" />
