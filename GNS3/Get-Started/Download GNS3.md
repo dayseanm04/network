@@ -25,7 +25,7 @@ Yo will see a popup: <br/>
 - After you Log In or Creat an Account and Login the download will begin
 
 <br/>
-Go to your Downloads Folder, You you see the GNS3 executable
+Go to your Downloads Folder, You you see the GNS3 executable: 
 <img width="563" height="141" alt="donloads folder" src="https://github.com/user-attachments/assets/127fa516-2615-4302-a0b2-d6117e74c6fb" />
 
 <br/>
