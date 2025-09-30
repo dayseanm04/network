@@ -98,8 +98,8 @@ Before you restart your machine
 Restart your machine and run GNS3 again if problem not solved follow steps bellow ⬇️⬇️
 
 ## Resolve it p2
-**Enable Virtualization in BIOS
-**
+**Enable Virtualization in BIOS**
+
 You might not see the same interface as mine
 
 <img width="546" height="356" alt="BIOS 1" src="https://github.com/user-attachments/assets/64714f39-f1bc-4fb9-b542-32e346425a95" />
@@ -108,9 +108,9 @@ You might not see the same interface as mine
 - Click on Security
 - Click on Virtualization
 
-  <img width="516" height="297" alt="BIOS 2" src="https://github.com/user-attachments/assets/cd3addf5-933a-4d54-a5cf-418cbd876cc7" />
+<img width="516" height="297" alt="BIOS 2" src="https://github.com/user-attachments/assets/cd3addf5-933a-4d54-a5cf-418cbd876cc7" />
 
-  - turn off Kernal DMA Protection
+- turn off Kernal DMA Protection
 - Enable Intel Virtualization Technology
 - Enable Interl VT-d Feature
 
