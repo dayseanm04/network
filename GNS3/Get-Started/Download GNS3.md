@@ -27,7 +27,7 @@ Yo will see a popup: <br/>
 <br/>
 Go to your Downloads Folder, You you see the GNS3 executable: 
 <img width="563" height="141" alt="donloads folder" src="https://github.com/user-attachments/assets/127fa516-2615-4302-a0b2-d6117e74c6fb" />
-
+<br/>
 <br/>
 
 **Congrats you have finish downloading GNS3** 🎉🥳🎉🥳
