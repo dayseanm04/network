@@ -2,10 +2,9 @@
 
 You might see this: <br/> 
 
-**VMware Workstation does not support nested
-virtualization on this host.
-Module HV power on falled.
-Failed to start the virtual machine.**
+**VMware Workstation does not support nested virtualization on this host.**    <br/>
+**Module 'HV' power on falled.**    <br/>
+**Failed to start the virtual machine.**    <br/>
 
 
 <img width="628" height="340" alt="failed to start vm" src="https://github.com/user-attachments/assets/35fd8064-e99f-4045-af69-90fe21f86fc1" />
