@@ -9,7 +9,7 @@ You might see this: <br/>
 
 <img width="628" height="340" alt="failed to start vm" src="https://github.com/user-attachments/assets/35fd8064-e99f-4045-af69-90fe21f86fc1" />
 
-- This might be becuase You have other hyper visors on your machine
+- This might be becuase You have other hypervisors on your machine
 - I have enabled Hyper-v on my machine
 - So I will disbale Hyper-V
 
