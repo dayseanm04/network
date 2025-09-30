@@ -27,7 +27,9 @@ Navigate to your Downloads folder and find GNS3 vm (click on the folder you unzi
 <br/>
 <img width="788" height="510" alt="click on the VM" src="https://github.com/user-attachments/assets/40ce93eb-6378-41f1-a551-14c6e9776697" />
 
-Click Open
+
+Click __Open__
+
 
 <img width="421" height="423" alt="VM name" src="https://github.com/user-attachments/assets/a3f0a5e3-23aa-4320-a053-2a6cfdd60f74" />
 
