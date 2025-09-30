@@ -60,3 +60,40 @@ Right click on the vm in VMware <br/>
 <img width="616" height="269" alt="disable side channel" src="https://github.com/user-attachments/assets/38a715a3-eeb0-4864-b056-cd9ced5c2f71" />
 
 Click on OK
+
+
+# problems you might run into setting up GNS3
+
+You might see this: <br/> 
+
+**3) Virtualized Intel VT-x/EPT is not supported on this platform. Continue without virtualized Intel VT-x/EPT?
+**
+<img width="324" height="151" alt="not supported" src="https://github.com/user-attachments/assets/92980ddd-2a99-4683-8cb1-7fce2a7282d7" />
+
+Click yes it might not run or Click No (lets fix this)
+
+## Resolve it p1
+
+- Open control panel
+- Click on Programs
+- Click on Programs and Features
+- Turn on windows feature on or off
+
+<img width="590" height="188" alt="control pannel pt-1" src="https://github.com/user-attachments/assets/36730b25-ceb8-4316-8246-778fe595089e" />
+
+- Uncheck Virtual Machine Platform
+- Uncheck Windows Hypervisor Platform
+
+Before you restart your machine
+
+<img width="701" height="260" alt="powershell" src="https://github.com/user-attachments/assets/d6b75bbb-c847-4ead-b3cd-0eb80e694df8" />
+
+<img width="730" height="188" alt="turn off auto hyper-v launc" src="https://github.com/user-attachments/assets/1038ec79-eda9-4fc6-8ce3-2814b86dd01d" />
+
+- Run powershell as Administrator (right click on powershell)
+- type this command bcdedit /set hypervisorlaunchtype off   
+- This command disables the Hyper-V hypervisor from launching automatically when Windows boots.
+
+Restart your machine and run GNS3 again if problem not solved follow steps bellow ⬇️⬇️
+
+## Resolve it p2
