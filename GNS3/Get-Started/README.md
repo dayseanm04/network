@@ -1,1 +1,1 @@
-## Getting started with GNS#
+## Getting started with GNS3
