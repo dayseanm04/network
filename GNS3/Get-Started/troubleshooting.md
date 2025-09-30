@@ -43,7 +43,7 @@ virtual machine settings...**
 
 <img width="344" height="238" alt="side channel" src="https://github.com/user-attachments/assets/d4a91537-379e-4e31-9479-29895281f229" />
 
-Click on OK (We going to disable it)
+Click on OK (We are going to disable it)
 
 ## Resolve it
 
