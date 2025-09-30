@@ -21,7 +21,6 @@ Click on the Windows version (Feel free to download other version if you have a 
 
 Yo will see a popup: <br/>
 <img width="320" height="283" alt="Creat Acc or Sign in" src="https://github.com/user-attachments/assets/b77111b0-fe1f-4ac6-b6ae-5be7bf002de5" />
-
 <br/>
 - **Login or Create an Account**
 - After you Log In or Create an Account and Login the donload will begin
