@@ -9,7 +9,8 @@ First click you must: <br>
 
 <br/>
 
-**Open VMware Workstation Pro**
+Open VMware Workstation Pro
+
 
 You should see this: 
 <img width="945" height="367" alt="VMware UI" src="https://github.com/user-attachments/assets/4e6424bd-1c36-4fc6-9f22-663978d9a0f7" />
