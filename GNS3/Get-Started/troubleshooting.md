@@ -87,7 +87,7 @@ Click yes it might not run or Click No (lets fix this)
 Before you restart your machine
 
 <img width="701" height="260" alt="powershell" src="https://github.com/user-attachments/assets/d6b75bbb-c847-4ead-b3cd-0eb80e694df8" />
-
+<br/>
 <img width="730" height="188" alt="turn off auto hyper-v launc" src="https://github.com/user-attachments/assets/1038ec79-eda9-4fc6-8ce3-2814b86dd01d" />
 
 - Run powershell as Administrator (right click on powershell)
