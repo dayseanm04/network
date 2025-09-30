@@ -9,8 +9,8 @@ First go to GNS3 website click <a href="https://gns3.com/">HERE </a>
 You should see this:
 <img width="776" height="489" alt="GNS3 website" src="https://github.com/user-attachments/assets/5c327103-7f82-4b3a-b05c-b3f155fc5c90" />
 
-<br/>
-Click **Free Download**
+Click Free Download
+
 <br/>
 
 You should see this page: <br/>
