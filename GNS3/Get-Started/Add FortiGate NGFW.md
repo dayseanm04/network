@@ -53,7 +53,7 @@ Now wait
 <img width="686" height="126" alt="scroll to version 7.0.9" src="https://github.com/user-attachments/assets/4a132804-5929-4419-baf4-0d238df1b1f9" />
 
 - Scroll down
-- Click on FortiGate version 7.0.0
+- Click on FortiGate version 7.0.9
 
 <img width="804" height="515" alt="donwloads folder" src="https://github.com/user-attachments/assets/e7db98c6-99b8-4d8c-acf8-662064984ca1" />
 
