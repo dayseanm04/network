@@ -116,3 +116,23 @@ You might not see the same interface as mine
 <img width="494" height="266" alt="save BIOS changes" src="https://github.com/user-attachments/assets/9b49ecd2-f3f4-4e38-a418-fc79a9ae09f5" />
 
 Save the change
+
+Restart your machine and run GNS3 again if problem not solved follow steps bellow ⬇️⬇️
+
+## turn of Windows Memory Intergrity
+
+<img width="1005" height="188" alt="turn off memory intergrity" src="https://github.com/user-attachments/assets/3d8192a7-954e-4733-9036-d3a689f8ebe7" />
+
+- Turn off Memory Intergrity
+- Open Settings
+- Click on Privacy & Securiyt
+- Click on open windows security
+
+<img width="212" height="255" alt="turn off memory intergrity 2" src="https://github.com/user-attachments/assets/cba4aacc-fd90-4194-9fea-eeb815c0c9ed" />
+
+- Click on Go to settings under Device security
+- Turn off Memory Intergrity
+
+<img width="599" height="304" alt="turn off memory intergrity 3" src="https://github.com/user-attachments/assets/cdd5ee45-9719-4cb4-8e10-b8b663b92400" />
+
+Restart your machine and run GNS3 again
