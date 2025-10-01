@@ -29,4 +29,4 @@ Setup the local sever:
 
 click Next
 
-If you run into any problem Click <a href="https://github.com/dayseanm04/network/blob/main/GNS3/Get-Started/troubleshooting.md">HERE</a> to troubleshoot and resolve it
+If you run into any problem Click <a href="https://github.com/dayseanm04/network/blob/main/GNS3/Get-Started/troubleshooting.md">HERE</a> the doucumentation on how to resolve it
