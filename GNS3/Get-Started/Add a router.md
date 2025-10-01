@@ -71,6 +71,13 @@ Click on Next
 - Select WIC modules
 - Click Next
 
-<img width="647" height="187" alt="Screenshot 2025-09-30 205635" src="https://github.com/user-attachments/assets/d55fe1ec-de75-4339-9eae-2e013f0ce096" />
+<img width="647" height="187" alt="Idle-PC-finder" src="https://github.com/user-attachments/assets/d55fe1ec-de75-4339-9eae-2e013f0ce096" />
 
 If Idle-PC value is empty, click on Idle-PC finder, it will take some time. After its done click OK & finish
+
+<img width="610" height="216" alt="router has been added" src="https://github.com/user-attachments/assets/e7748168-317c-4290-aefa-fd3d46de0ef8" />
+
+The router has been added
+
+**Congrats you have finish adding a router in GNS3** 🎉🥳🎉🥳
+
