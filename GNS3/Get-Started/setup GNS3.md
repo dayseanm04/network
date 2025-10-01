@@ -28,3 +28,5 @@ Setup the local sever:
 <img width="457" height="369" alt="Screenshot 2025-09-30 184625" src="https://github.com/user-attachments/assets/15985080-931d-4911-9509-12cafd0eb744" />
 
 click Next
+
+If you run into any problem Click <a href="https://github.com/dayseanm04/network/blob/main/GNS3/Get-Started/troubleshooting.md">HERE</a> to troubleshoot and resolve it
