@@ -119,8 +119,9 @@ Save the change
 
 Restart your machine and run GNS3 again if problem not solved follow steps bellow ⬇️⬇️
 
-## 3) turn off Windows Memory Intergrity
-
+## Reslove it pt3
+**turn off Windows Memory Intergrity
+**
 <img width="1005" height="188" alt="turn off memory intergrity" src="https://github.com/user-attachments/assets/3d8192a7-954e-4733-9036-d3a689f8ebe7" />
 
 - Turn off Memory Intergrity
