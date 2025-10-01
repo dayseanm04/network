@@ -10,7 +10,8 @@ Open GNS3. You should see the setup wizard:
 
 Select Run appliances in a virtual machine: <br/>
 <img width="443" height="332" alt="run appliance in a VM" src="https://github.com/user-attachments/assets/a53929a9-bfd6-4853-8280-5c1ec380128e" />
-<br/> Click Next
+
+<br/> Click Next <br/>
 
 Setup the local sever:
 
