@@ -3,6 +3,7 @@
 ## steps
 
 First Download both Fortigate7.0.9 files from <a href="https://drive.google.com/drive/folders/1WxBi9DxKFGqrYIk22UN6zk3rsMVjB5l8](https://drive.google.com/drive/folders/1WxBi9DxKFGqrYIk22UN6zk3rsMVjB5l8">HERE</a>
+
 <img width="495" height="317" alt="download fortiGate OS" src="https://github.com/user-attachments/assets/84d33416-49e6-45a1-b210-620f028641af" />
 
 
