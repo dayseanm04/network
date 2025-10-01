@@ -43,7 +43,7 @@ Click on the download symbol on the right:
 
 <br/>
 
-After Downloading VMware navigate to your Downloads folder
+After Downloading VMware navigate to your Downloads folder <br/>
 
 <img width="778" height="103" alt="Workstation download" src="https://github.com/user-attachments/assets/f259dc59-9f85-46a6-b2f9-447957bc1f4a" />
 
