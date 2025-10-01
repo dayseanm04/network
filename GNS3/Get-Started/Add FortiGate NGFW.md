@@ -24,7 +24,9 @@ Click Install an appliance from the GNS3 server
 <img width="555" height="266" alt="install on gns3 srv" src="https://github.com/user-attachments/assets/d79986b7-95bf-473a-9a68-edd59054e71e" />
 
 Click Next
+
 <br/>
+
 Click on Firewalls
 
 <img width="893" height="622" alt="fortigate install" src="https://github.com/user-attachments/assets/48ee2a23-f63b-4ad9-bbc9-fb544b984c73" />
