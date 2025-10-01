@@ -28,6 +28,7 @@ Click Next
 <br/>
 
 Click on Firewalls
+<img width="738" height="227" alt="click on firewalls" src="https://github.com/user-attachments/assets/26d0510d-e57b-4dd6-9c79-9d9122600d05" />
 
 <img width="893" height="622" alt="fortigate install" src="https://github.com/user-attachments/assets/48ee2a23-f63b-4ad9-bbc9-fb544b984c73" />
 
