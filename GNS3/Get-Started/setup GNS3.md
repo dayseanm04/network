@@ -6,7 +6,7 @@ Open GNS3. You should see the setup wizard:
 <br/>
 
 <img width="507" height="248" alt="setup wizard" src="https://github.com/user-attachments/assets/ccd34ff6-64a4-429f-8b1a-358f450d5240" />
-<br/>If not click on Help and the Setup Wizard
+<br/>If not click on Help and the Setup Wizard <br/>
 
 Select Run appliances in a virtual machine:
 <img width="443" height="332" alt="run appliance in a VM" src="https://github.com/user-attachments/assets/a53929a9-bfd6-4853-8280-5c1ec380128e" />
