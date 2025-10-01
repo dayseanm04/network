@@ -100,7 +100,7 @@ Restart your machine and run GNS3 again if problem not solved follow steps bello
 ## Resolve it p2
 **Enable Virtualization in BIOS**
 
-You might not see the same interface as mine
+You might not see the same interface as mine (if you have AMD or differnt computer macnufacture: go to their website for help)
 
 <img width="546" height="356" alt="BIOS 1" src="https://github.com/user-attachments/assets/64714f39-f1bc-4fb9-b542-32e346425a95" />
 
