@@ -31,12 +31,12 @@ Click on download
 
 <br/>
 
-Select Run this IOS router on GNS3 VM
+Select Run this IOS router on GNS3 VM <br/>
 
 <img width="642" height="470" alt="run on vm" src="https://github.com/user-attachments/assets/d121cdfb-3adb-4e41-aa37-800a4b9bc18a" />
+
 Click Next
 
-<br/>
 
 <img width="650" height="233" alt="browse" src="https://github.com/user-attachments/assets/67c439f7-e9f7-4da3-8b64-989ddbbefb8c" />
 
