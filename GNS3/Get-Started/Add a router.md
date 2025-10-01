@@ -5,6 +5,7 @@
 First click <a href="https://upw.io/8RU/c3725-adventerprisek9-mz.124-15.T14.image">HERE</a> to Download C3725 router image
 
 You should see this:
+
 <img width="640" height="350" alt="download r image" src="https://github.com/user-attachments/assets/cdf01578-4b15-41dd-8213-e8f0a7674dec" />
 
 scroll down
