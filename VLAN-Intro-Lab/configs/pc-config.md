@@ -1,6 +1,6 @@
 # 🖥️ PC Configuration for VLAN Intro Lab
 
-This document outlines the static IP configurations for all PCs used in the **Intro to VLAN** lab.  
+This document outlines the static IP configurations for all PCs used in the **VLAN Intro** lab.  
 Each VLAN operates as a separate broadcast domain with its own subnet and default gateway.
 
 ---
