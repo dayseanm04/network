@@ -1,4 +1,4 @@
-# PC and Router Configuration – VLAN Lab
+# Router Configuration – VLAN Lab
 
 ## 📘 Overview
 This file provides the IP addressing details and router configuration for VLANs 10, 20, and 30 used in the VLAN Intro Lab.
