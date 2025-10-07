@@ -28,7 +28,7 @@ Each VLAN is configured with its own subnet, default gateway, and connected PCs,
 ---
 
 ### Router CLI — Step by step (use these exact commands on R1)
-> **Note:** commands shown with both full form and shortcut.
+> **Note:** commands shown with both full form and the shortcut version.
 
 1. Enter privileged EXEC and global configuration mode:
 ```bash
