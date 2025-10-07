@@ -70,6 +70,14 @@ R1(config-if)# no shutdown
 R1(config-if)# exit
 ```
 
+## Verfiy R1 interface configuration
+**Command Used:**
+```bash
+show ip interface brief
+```
+<img width="821" height="132" alt="show-r1-int" src="https://github.com/user-attachments/assets/0709f54e-52de-46de-9500-2072e8a75c0c" />
+
+
 ## Save the configuration
 ```bash
 R1(config)# end
