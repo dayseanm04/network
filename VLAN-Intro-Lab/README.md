@@ -58,7 +58,7 @@ Each VLAN has its own subnet and default gateway, configured on **Router R1**. I
 ## ⚙️ Files Included
 - `vlan-intro-lab.pkt` – Cisco Packet Tracer file for the lab.  
 - `configs/` – Contains router and switch configuration files.  
-- `topology.png` – Optional network diagram or screenshot.
+- `topology.png` – network diagram.
 
 ---
 
