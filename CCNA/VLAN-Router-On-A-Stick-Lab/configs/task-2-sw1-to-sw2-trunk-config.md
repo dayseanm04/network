@@ -121,7 +121,7 @@ But you should see the Gig0/1 interface
 - Native VLAN 100 matches on both ends
 
 ## 🧠 Notes
-- Always match native VLANs on both trunk ends. Native VLAN mismatch can cause VLAN leakage or connectivity issues.
+- Always make sure the native VLANs match both trunk ends. Native VLAN mismatch can connectivity issues.
 - Only allowed required VLANs on the trunk to maintain security and efficiency.
 - If you later connect the router (Task 3), ensure VLAN 10, 20, 30 are all trunked on SW2 ↔ Router link.
 - Because All of the VLANs need to able to reach the router for it to route traffic to other VLANs
