@@ -1,4 +1,4 @@
-# 🧩 Intro to VLAN Lab — CCNA Part 1
+# 🧩 Intro to VLAN Lab CCNA
 
 ## 📘 Overview
 This lab introduces the concept of **Virtual Local Area Networks (VLANs)** and demonstrates how to create VLANs, assign devices to them, and configure **inter-VLAN routing** using a router. The goal is to understand how VLANs improve network segmentation and reduce broadcast domains.
@@ -82,3 +82,16 @@ After completing the configuration:
 - Each VLAN requires a separate subnet and gateway.  
 - Inter-VLAN routing allows communication between VLANs.  
 - Proper VLAN configuration enhances performance and security.
+
+## 🗂️ Lab Navigation
+
+Use the links below to explore each part of the **VLAN Intro Lab**:
+
+| Section | Description |
+|----------|--------------|
+| 🧩 [**configs/**](./configs) | Contains switch and PC configuration files for VLAN setup. |
+| 💾 [**pkt-files/**](./pkt-files) | Packet Tracer project files includes both **blank** and **completed** lab versions. |
+| 🖼️ [**topology.png**](./topology.png) | NNetwork diagram showing the switch, router, and PC connections. |
+| 🧾 [**verification-results.md**](./verification-results.md) | Verification screenshots and results confirming VLAN creation and connectivity etc. |
+| 🧠 [**notes.md**](./notes.md) | Reflection and summary of what was learned during the VLAN Intro lab. |
+
