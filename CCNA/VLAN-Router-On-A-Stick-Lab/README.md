@@ -69,4 +69,16 @@ The lab emphasized key concepts in:
 
 ---
 
+Use the links below to explore each part of the VLAN Router-On-A-Stick Lab:
+
+| Section | Description |
+|----------|--------------|
+| 🧩 [**configs/**](./configs) | Contains all device configuration files for SW1, SW2, and R1 (VLANs, trunks, and Router-on-a-Stick setup). |
+| 💾 [**pkt-files/**](./pkt-files) | Packet Tracer project files — includes both the **blank** and **completed** versions of the lab. |
+| 🖼️ [**topology.png**](./topology.png) | Network diagram showing the switch, router, and PC connections. |
+| 🧾 [**verification-results.md**](./verification-results.md) | Contains screenshots and results verifying VLAN creation, trunk setup, and inter-VLAN connectivity. |
+| 🧠 [**reflection.md**](./reflection.md) | Personal notes and reflection on what was learned from completing the VLAN ROAS lab. |
+
+---
+
 🧑‍💻 *Created as part of my CCNA studies – documenting network fundamentals and lab practice.*
