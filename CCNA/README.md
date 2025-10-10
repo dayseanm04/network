@@ -7,7 +7,7 @@ Welcome to my **CCNA** repository! This repo is where I document my CCNA studies
 ## 🚀 About This Repo
 This repository contains:
 - Lab exercises and packet tracer configurations 🖥️
-- Networking projects and practical implementations ⚡
+- Networking projects ⚡
 
 ---
 
