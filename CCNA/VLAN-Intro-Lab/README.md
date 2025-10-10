@@ -93,5 +93,5 @@ Use the links below to explore each part of the **VLAN Intro Lab**:
 | 💾 [**pkt-files/**](./pkt-files) | Packet Tracer project files includes both **blank** and **completed** lab versions. |
 | 🖼️ [**topology.png**](./topology.png) | NNetwork diagram showing the switch, router, and PC connections. |
 | 🧾 [**verification-results.md**](./verification-results.md) | Verification screenshots and results confirming VLAN creation and connectivity etc. |
-| 🧠 [**notes.md**](./notes.md) | Reflection and summary of what was learned during the VLAN Intro lab. |
+| 🧠 [**reflection.md**](./reflection.md) | Reflection and summary of what was learned during the VLAN Intro lab. |
 
