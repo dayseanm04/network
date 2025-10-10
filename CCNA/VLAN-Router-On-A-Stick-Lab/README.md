@@ -50,7 +50,7 @@ It simulates inter-VLAN communication through a single physical router interface
 |--------|--------------|
 | `configs/` | Contains switch, router, and PC configuration markdown files |
 | `pkt-files/` | Packet Tracer files (blank and completed versions) |
-| `results/` | Verification results and screenshots |
+| `verification-results.md` | Verification results and screenshots |
 | `notes.md` | Reflection and final thoughts |
 
 ---
