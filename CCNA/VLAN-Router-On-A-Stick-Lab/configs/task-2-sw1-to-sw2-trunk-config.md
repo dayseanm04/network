@@ -1,8 +1,7 @@
 # Task 2 - SW1-to-SW2 Trunk Configuration
 
-> Step-by-step guide for configuring trunk links between SW1 and SW2.  
-
 ---
+
 ## Topology For Reference
 <img width="697" height="372" alt="reference-topology" src="https://github.com/user-attachments/assets/c64869de-2df8-4dec-b6bf-800a227522ee" />
 <br/>
