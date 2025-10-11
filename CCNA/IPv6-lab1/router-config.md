@@ -73,3 +73,13 @@ show ipv6 int brief
 - GigabitEthernet0/1 — 2001:DB8:0:2::1/64
 - GigabitEthernet0/2 — 2001:DB8:0:3::1/64
 
+## Troubleshooting tips
+<br/>
+If show ipv6 interface brief shows the wrong address or no address: Re-enter the interface configuration and reassign the IPv6 address.
+<br/>
+If interfaces are administratively down: Use no shutdown on the interface.
+<br/>
+If IPv6 traffic is not routed between subnets after configuration:
+- Confirm ipv6 unicast-routing is enabled.
+- Confirm each interface has the correct IPv6 gateway address and is up.
+- Check the PC default gateway config to match the router interface addresses.
