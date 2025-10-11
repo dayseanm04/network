@@ -58,7 +58,7 @@ int g0/2
 - int g0/1 is the shortcut version of the full command interface GigabitEthernet0/1
 - ipv6 addr 2001::1/64 is the shortcut version of the full command ipv6 address ...
 
-## Task 3 — Confirm / Verify IPv6 configuration on R1
+## Task 3: Verify IPv6 configuration on R1
 **Goal:** Verify that IPv6 routing is enabled and that each interface has the correct IPv6 address.
 
 ```bash
