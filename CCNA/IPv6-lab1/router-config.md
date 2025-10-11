@@ -1,4 +1,4 @@
-# Router Configuration IPv6 (Tasks 1 & 2)
+# Router Configuration IPv6 (Tasks 1 - 3)
 
 ### Purpose
 Step-by-step router configuration for enabling IPv6 and assigning IPv6 addresses on R1 to create a dual-stack (IPv4/IPv6) network. This covers **Task 1 (enable IPv6 routing)**, **Task 2 (assign IPv6 addresses to router interfaces)**.
