@@ -40,5 +40,6 @@ exit
 show ip route
 ```
 
-Expected output ✅
+### Expected output ✅
+
 <img width="713" height="413" alt="R1-route" src="https://github.com/user-attachments/assets/8247a172-7762-4d81-80c0-84e6aa7589c2" />
