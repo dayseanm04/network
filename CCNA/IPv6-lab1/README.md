@@ -22,3 +22,8 @@ The lab focuses on enabling IPv6 routing on the router, assigning IPv6 addresses
 3. Verified IPv6 configuration on the router and confirmed addresses on all interfaces.  
 4. Assigned IPv6 addresses and default gateways to all connected PCs.  
 5. Performed ping tests between PCs to verify IPv4 and IPv6 connectivity.  
+
+## ✍️ Author Information
+
+**Name:** *Daysean Mensah*  
+**Course/Program:** *Cisco CCNA Studies*  
