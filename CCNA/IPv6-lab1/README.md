@@ -9,7 +9,8 @@ The lab focuses on enabling IPv6 routing on the router, assigning IPv6 addresses
 
 ## Navigation 🗂️
 
-- [topology.png](./topology.png) – Network topology diagram  
+- [topology.png](./topology.png) – Network topology diagram
+- [pkt-files/](./pkt-files) – Packet Tracer files: blank and completed versions 🖱️  
 - [configs/](./configs) – Folder containing router and PC configuration files  
 - [verification-results.md](./verification-results.md) – Screenshots and results verifying connectivity  
 - [reflection.md](./reflection.md) – Personal reflection on the lab  
