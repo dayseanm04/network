@@ -9,6 +9,15 @@ The objective of this lab is to configure and verify **static routing** on Cisco
 
 ---
 
+## Navigation 🗂️
+
+- [topology.png](./topology.png) – Network topology diagram  
+- [configs/](./configs) – Folder containing router and PC configuration files  
+- [verification-results.md](./verification-results.md) – Screenshots and results verifying connectivity  
+- [reflection.md](./reflection.md) – Personal reflection on the lab
+
+---
+
 ## 🧩 Network Overview
 The topology consists of **three routers (R1, R2, R3)** and **two PCs (PC1, PC2)** connected through multiple subnets. Each router has interfaces configured with appropriate IP addresses to create point-to-point links, while PCs are assigned IP addresses and gateways within their respective subnets.
 
