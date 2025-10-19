@@ -1,6 +1,6 @@
 # Task2 Configuring static routes on the routers
 
-### Objective: Configure static routes for the routers
+### Objective: Configure static routes on the routers
 
 ## Topology For Reference
 <img width="695" height="280" alt="Topology" src="https://github.com/user-attachments/assets/aae3b0a8-1b51-4f82-8adc-49591e9dd093" />
