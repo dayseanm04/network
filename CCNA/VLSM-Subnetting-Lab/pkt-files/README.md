@@ -8,4 +8,4 @@ This folder contains the Packet Tracer files for VLSM Subnetting. It includes bo
 
 
 - **VLSM-Subnetting-Lab-Blank.pkt** – A blank Packet Tracer file to perform the lab exercises yourself ✏️  
-- **VLSM-Subnetting-Lab-Completed.pkt** – Completed Packet Tracer file with all configurations applied✅  
+- **VLSM-Subnetting-Lab-Completed.pkt** – Completed Packet Tracer file with all configurations applied. (Use it for verification) ✅  
