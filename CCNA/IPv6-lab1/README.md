@@ -7,6 +7,16 @@ The lab focuses on enabling IPv6 routing on the router, assigning IPv6 addresses
 
 ---
 
+## Navigation 🗂️
+
+- [topology.png](./topology.png) – Network topology diagram  
+- [configs/](./configs) – Folder containing router and PC configuration files  
+- [verification-results.md](./verification-results.md) – Screenshots and results verifying connectivity  
+- [reflection.md](./reflection.md) – Personal reflection on the lab  
+
+---
+
+
 ## 🧠 Objectives
 1. Enable IPv6 routing on the router (R1).  
 2. Configure appropriate IPv6 addresses on all router interfaces.  
