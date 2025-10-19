@@ -1,4 +1,4 @@
-# Task2 Configureing static routes on the routers
+# Task2 Configuring static routes on the routers
 
 ### Objective: Configure static routes for the routers
 
