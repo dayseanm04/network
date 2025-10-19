@@ -8,6 +8,18 @@ The goal is to efficiently allocate IP address ranges for multiple LANs and a po
 ## Topology for reference
 <img width="664" height="299" alt="topology" src="https://github.com/user-attachments/assets/3b11aff7-e314-474d-ab95-456735eacf7e" />
 
+---
+
+## Navigation 🗂️
+
+- [topology.png](./topology.png) – Network topology diagram  
+- [Task1-subnet.md](./Task1-subnet.md) – Subnetting diagram and calculations for Task 1  
+- [configs/](./configs) – Folder containing router and PC configuration files  
+- [verification-results.md](./verification-results.md) – Screenshots and results verifying connectivity  
+- [troubleshooting.md](./troubleshooting.md) – Notes on issues encountered and resolutions  
+- [reflection.md](./reflection.md) – Personal reflection on the lab  
+
+---
 
 ## 🧩 Objectives
 - Subnet the `192.168.5.0/24` network using VLSM to meet host requirements for each LAN.
