@@ -28,6 +28,8 @@
 en
 conf t
 ```
+**Note: en is the shortcut of enable and conf t is the shortcut for configure terninal**
+
 
 ### 🌐 Step 2: Configure static route to PC2's network(192.168.3.0/24) via R2
 **Commands:**
