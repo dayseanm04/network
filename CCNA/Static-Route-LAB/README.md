@@ -11,7 +11,7 @@ The objective of this lab is to configure and verify **static routing** on Cisco
 
 ## Navigation 🗂️
 
-- [topology.png](./topology.png) – Network topology diagram  
+- [topology.png](./Topology.png) – Network topology diagram  
 - [configs/](./configs) – Folder containing router and PC configuration files  
 - [verification-results.md](./verification-results.md) – Screenshots and results verifying connectivity  
 - [reflection.md](./reflection.md) – Personal reflection on the lab
