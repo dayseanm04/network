@@ -56,3 +56,10 @@ The goal is to efficiently allocate IP address ranges for multiple LANs and a po
 - Verified connectivity between all LANs using `ping`.
 - Fixed routing and IP misconfigurations to ensure successful communication across networks.
 - Confirmed the static routing using Cisco Packet Tracer simulation mode.
+
+---
+
+## ✍️ Author Information
+
+**Name:** *Daysean Mensah*  
+**Course/Program:** *Cisco CCNA Studies*  
