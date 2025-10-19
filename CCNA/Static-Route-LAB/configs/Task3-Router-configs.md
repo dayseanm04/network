@@ -19,7 +19,7 @@
 
 ---
 
-## R1 Static Route Configuration (R1)
+## R1 Static Route Configuration
 **Goal:** Configure static route on R1 so it can reach the 192.168.3.0/24 network (PC2).
 
 ### 🔓 Step 1: Enter Global Configuration Mode
@@ -46,7 +46,7 @@ show ip route
 
 ---
 
-## R2 Static Route Configuration (R2)
+## R2 Static Route Configuration
 **Goal:** Configure static route on R2 so it can reach the 192.168.3.0/24 and 192.168.1.0/24 networks.
 
 ### 🔓 Step 1: Enter Global Configuration Mode
@@ -77,7 +77,7 @@ show ip route
 
 ---
 
-## R3 Static Route Configuration (R3)
+## R3 Static Route Configuration
 **Goal:** Configure static route on R3 so it can reach PC1's 192.168.3.0/24 network.
 
 ### 🔓 Step 1: Enter Global Configuration Mode
