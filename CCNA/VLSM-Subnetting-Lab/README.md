@@ -12,7 +12,8 @@ The goal is to efficiently allocate IP address ranges for multiple LANs and a po
 
 ## Navigation 🗂️
 
-- [topology.png](./topology.png) – Network topology diagram  
+- [topology.png](./topology.png) – Network topology diagram
+- [pkt-files/](./pkt-files) – Packet Tracer files: blank and completed versions 🖱️  
 - [Task1-subnet.md](./Task1-subnet.md) – Subnetting diagram and calculations for Task 1  
 - [configs/](./configs) – Folder containing router and PC configuration files  
 - [verification-results.md](./verification-results.md) – Screenshots and results verifying connectivity  
