@@ -95,3 +95,9 @@ Use the links below to explore each part of the **VLAN Intro Lab**:
 | 🧾 [**verification-results.md**](./verification-results.md) | Verification screenshots and results confirming VLAN creation and connectivity etc. |
 | 🧠 [**reflection.md**](./reflection.md) | Reflection and summary of what was learned during the VLAN Intro lab. |
 
+---
+
+## ✍️ Author Information
+
+**Name:** *Daysean Mensah*  
+**Course/Program:** *Cisco CCNA Studies*  
