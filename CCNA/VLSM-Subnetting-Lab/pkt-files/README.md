@@ -7,5 +7,5 @@ This folder contains the Packet Tracer files for VLSM Subnetting. It includes bo
 ## Navigation 🗂️
 
 
-- **IPv6-Lab1-Blank.pkt** – A blank Packet Tracer file to perform the lab exercises yourself ✏️  
-- **IPv6-Lab1-Completed.pkt** – Completed Packet Tracer file with all configurations applied ✅  
+- **VLSM-Subnetting-Lab-Blank.pkt** – A blank Packet Tracer file to perform the lab exercises yourself ✏️  
+- **VLSM-Subnetting-Lab-Completed.pkt** – Completed Packet Tracer file with all configurations applied✅  
