@@ -63,3 +63,19 @@ show ip int brief
 - ✅ Both interfaces are correctly configured and active.
 
 ---
+
+### 🧩 Step 3: Check R2 Routing Table
+```bash
+show ip route
+```
+**Results**
+<img width="807" height="348" alt="R2-misconfiged-route" src="https://github.com/user-attachments/assets/a389c280-3826-4301-8a31-6c7dceb513be" />
+
+**Observation:**
+- Found incorrect static route: the exit interface for packet destined for 192.168.3.0/24 network is g0/0
+- ❌ This configuration causes packets destined for 192.168.3.0/24 to be sent via G0/0, sending them back toward R1 and creating a routing loop.
+- The correct exit interface for the 192.168.3.0/24 network is G0/1, which points toward R3.
+
+---
+
+
