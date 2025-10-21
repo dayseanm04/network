@@ -68,7 +68,7 @@ PC1 can ping its default gateway
 - **Command:** `show ip int brief`
 
 **Expected output✅:**
-<img width="814" height="128" alt="R1-Interfaces" src="https://github.com/user-attachments/assets/c5101978-ad25-44f0-b8ce-541735511972" />
+<img width="818" height="132" alt="R1-Interfaces" src="https://github.com/user-attachments/assets/2c978243-bdb3-41a5-a4d1-19eeae82eb88" />
 
 - **Observation:**  
   - G0/0 → `192.168.12.1` (up/up)  
