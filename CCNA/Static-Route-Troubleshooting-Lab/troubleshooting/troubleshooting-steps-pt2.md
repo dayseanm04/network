@@ -103,5 +103,11 @@ show ip route
 
 ---
 
-
 ### 🧩 Step 6: Test the Ping Again
+
+**Observation:**
+- Packet now travels PC1 → R1 → R2 and successfully continues toward the next router (R3).
+- ✅ Routing loop resolved.
+
+
+**Continue** [troubleshooting-steps-pt3.md](./troubleshooting-steps-pt3.md)
