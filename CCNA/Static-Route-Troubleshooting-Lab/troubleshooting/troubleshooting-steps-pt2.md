@@ -78,4 +78,30 @@ show ip route
 
 ---
 
+### 🧩 Step 4: Correct the Static Route on R2
 
+**Remove the old route and configure new route specify g0/1 as the exit iterfsace for 192.168.3.0/24 network** 
+
+```bash
+no ip route 192.168.3.0 255.255.255.0 g0/0
+ip route 192.168.3.0 255.255.255.0 g0/1
+```
+
+---
+
+### 🧩 Step 5: Verify the Fix
+
+```bash
+show ip route
+```
+
+**Expected output✅:**
+<img width="806" height="354" alt="R2-good-route" src="https://github.com/user-attachments/assets/dbb8c78e-446e-4828-ae31-5a0856259638" />
+
+- The route to 192.168.3.0/24 network point to g0/1
+- Routing loop should no longer occur.
+
+---
+
+
+### 🧩 Step 6: Test the Ping Again
