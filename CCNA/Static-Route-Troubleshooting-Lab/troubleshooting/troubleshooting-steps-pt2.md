@@ -50,3 +50,16 @@ The loop prevented packets from reaching R3, beacause the traffic was bouncing r
   - This means R2 is sending the packet back toward R1 instead of forwarding it to R3.
 
 ---
+
+### 🧩 Step 2: Verify R2 Interfaces IP Addresses
+- **Command:**  
+```bash
+show ip int brief
+```
+
+**Expected output✅:**
+<img width="818" height="159" alt="R2-interfsces" src="https://github.com/user-attachments/assets/e909da92-b7d8-4156-83c4-544c3bb49b47" />
+
+- ✅ Both interfaces are correctly configured and active.
+
+---
