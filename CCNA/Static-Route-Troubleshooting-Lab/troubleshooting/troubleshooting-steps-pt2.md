@@ -24,8 +24,6 @@ The loop prevented packets from reaching R3, beacause the traffic was bouncing r
 | **R3** | G0/0 | 192.168.13.3 | /24 | Link to R2 |
 | **R3** | G0/1 | 192.168.3.254 | /24 | LAN 2 Gateway |
 
----
-
 ## 🧠 Step-by-Step Troubleshooting
 
 ### 🧩 Step 1: Observe the Loop in Simulation Mode
