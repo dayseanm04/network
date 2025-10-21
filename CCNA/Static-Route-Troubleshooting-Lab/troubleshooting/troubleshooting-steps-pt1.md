@@ -111,3 +111,5 @@ ip route 192.168.3.0 255.255.255.0 192.168.12.2
 
 Observation: Packet now moves PC1 → SW1 → R1 → R2 → R1 → R2 repeatedly.
 🔁 A Routing loop occurs between R1 and R2.
+
+**Continue** [troubleshooting-steps-pt2.md](./troubleshooting-steps-pt2.md)
