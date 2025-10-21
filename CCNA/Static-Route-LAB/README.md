@@ -1,5 +1,11 @@
 # Configuring Static Route Lab
 
+##Topology For Reference
+<img width="687" height="278" alt="TFR" src="https://github.com/user-attachments/assets/6e4e7a7e-54ea-4bc5-bb6e-bf9769d1681e" />
+
+
+---
+
 ## 📘 Objective
 The objective of this lab is to configure and verify **static routing** on Cisco routers to enable communication between end devices on different networks. The lab focuses on:
 
