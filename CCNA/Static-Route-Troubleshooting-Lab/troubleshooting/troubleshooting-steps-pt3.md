@@ -33,3 +33,20 @@ After fixing R1 and R2, packets reached R3 but stopped there — indicating an I
 - **Observation:**  
   - Packet moves **PC1 → SW1 → R1 → R2 → R3** but stops at **R3**.  
   - ❌ ICMP request does not reach PC2.  
+
+--- 
+
+---
+
+### 🧩 Step 2: Verify R3 Interfaces
+- **Command:**  
+ ```bash
+  show ip int brief
+```
+
+**Results**
+<img width="813" height="114" alt="R3-interfaces-misconfig" src="https://github.com/user-attachments/assets/a4280293-f7f3-4e49-bbbe-3806d0f1112f" />
+
+- g0/0 ip address is incorrect
+- it should be 192.168.13.3/24, not 192.168.23.2/24.
+
