@@ -91,7 +91,7 @@ show ip route
 
 ### 🧩 Step 5: Final Ping Test
 
-Action: Ping PC2 (192.168.3.1) from PC1 once more in Simulation Mode.
+**Action:** Ping PC2 (192.168.3.1) from PC1 once more in Simulation Mode.
 
 **Simulation**
 
