@@ -37,3 +37,30 @@ By checking interface IPs, reviewing routing tables, and correcting next-hop val
 - Incorrect exit interfaces can cause **routing loops**.  
 - Use **simulation mode** to trace ICMP packets and identify issues.  
 - Systematic troubleshooting saves time and avoids reconfiguration errors.
+
+## 🧭 Navigation
+
+### 📂 Project Structure
+
+- [🧩 **topology.png**](topology.png): Network topology diagram used in the lab  
+- [🧾 **reflection.md**](reflection.md): Summary of observations and lessons learned  
+- [✅ **verification-results.md**](verification-results.md): Final test results showing successful connectivity  
+
+---
+
+### 🧰 Packet Tracer Files
+- [📁 **pkt-files/**](pkt-files)  
+  - [StaticRouteLab-Blank.pkt](pkt-files/StaticRouteLab-Blank.pkt): Starting lab file before troubleshooting  
+  - [StaticRouteLab-Completed.pkt](pkt-files/StaticRouteLab-Completed.pkt): Final completed and verified lab file  
+
+---
+
+### 🔧 Troubleshooting Steps
+- [📁 **troubleshooting/**](troubleshooting)  
+  - [troubleshooting-steps-pt1.md](troubleshooting/troubleshooting-steps-pt1.md): Initial ping test and R1 route correction  
+  - [troubleshooting-steps-pt2.md](troubleshooting/troubleshooting-steps-pt2.md): Routing loop fix between R1 and R2  
+  - [troubleshooting-steps-pt3.md](troubleshooting/troubleshooting-steps-pt3.md): R3 interface fix and final connectivity verification  
+
+---
+
+📌 **Tip:** Use this section to quickly navigate through the lab files, review troubleshooting documentation, or access verification screenshots.
