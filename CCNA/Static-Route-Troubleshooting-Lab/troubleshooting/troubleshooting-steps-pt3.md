@@ -69,3 +69,22 @@ show ip int brief
 <img width="807" height="108" alt="R3-interfaces-fixed" src="https://github.com/user-attachments/assets/26178789-ea6d-41a5-8bfb-4b591cda1117" />
 
 ---
+
+### 🧩 Step 4: Verify R3 Routing Table
+- **Commands:**
+
+```bash
+show ip route
+```
+
+**Results**
+
+<img width="743" height="362" alt="R3-RT" src="https://github.com/user-attachments/assets/99c2e7e7-7d7e-402b-ab7b-ef2f5caef886" />
+
+
+**Observation:**
+- 192.168.3.0/24 → directly connected
+- 192.168.1.0/24 → static route via R2
+- ✅ R3 outing table is  correct.
+
+---
