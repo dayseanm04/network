@@ -88,3 +88,26 @@ show ip route
 - ✅ R3 outing table is  correct.
 
 ---
+
+### 🧩 Step 5: Final Ping Test
+
+Action: Ping PC2 (192.168.3.1) from PC1 once more in Simulation Mode.
+
+**Simulation**
+
+<img width="684" height="280" alt="Sucess-PC1-R1" src="https://github.com/user-attachments/assets/3e8f03cb-975c-41e8-9dc3-f074864d5cf4" />
+
+
+- PC1 to SW1 to R1
+
+<img width="685" height="276" alt="Sucess-R1-R2" src="https://github.com/user-attachments/assets/510b26a5-9f3b-45dc-9fd1-f15a6d0a0954" />
+
+- R1 to R2
+
+<img width="685" height="277" alt="Sucess-R2-R3" src="https://github.com/user-attachments/assets/201a8d25-0eec-4c3c-bf06-eccea8f4e2cb" />
+
+- R2 to R3
+
+<img width="689" height="281" alt="Sucess-R3-PC2" src="https://github.com/user-attachments/assets/c002285b-a6fd-4697-be4e-d91a72252e7f" />
+
+- R3 to SW2 to P2
