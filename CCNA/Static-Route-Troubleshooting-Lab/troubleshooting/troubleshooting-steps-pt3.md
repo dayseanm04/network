@@ -157,6 +157,6 @@ PC2 Reply to PC1
 - R1 to SW1 to PC1
 
 **Observation:**
-- - PC2 → SW2 → R3 → R2 → R1 → SW1 → PC1
+- PC2 → SW2 → R3 → R2 → R1 → SW1 → PC1
 
 ✅ Ping successful in both directions.
