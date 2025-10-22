@@ -50,3 +50,22 @@ After fixing R1 and R2, packets reached R3 but stopped there — indicating an I
 - g0/0 ip address is incorrect
 - it should be 192.168.13.3/24, not 192.168.23.2/24.
 
+---
+
+### 🧩 Step 3: Fix the Interface IP on R3
+**On R3 enter interface g0/0 config mode**
+- **Commands:**
+```bash
+ip address 192.168.13.3 255.255.255.0
+```
+
+**Verify configuration:**
+
+```bash
+show ip int brief
+```
+
+**Expected output✅:**
+<img width="807" height="108" alt="R3-interfaces-fixed" src="https://github.com/user-attachments/assets/26178789-ea6d-41a5-8bfb-4b591cda1117" />
+
+---
