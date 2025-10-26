@@ -6,7 +6,7 @@ This hub is home to several specialized repositories, each focusing on a specifi
 
 Repository           Description	
 
-**GNS3**:	          Contains all GNS3 project files and personal projects and labs documented using the GNS3.
+**GNS3**:	          Contains all GNS3 project files and personal projects and labs documented using the GNS3. <br>
 **CCNA**            Contains all my CCNA labs documented using the Cisco Packet Tracer.
 
 ## 🛠️ Getting Started
