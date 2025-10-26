@@ -50,7 +50,7 @@ By checking interface IPs, reviewing routing tables, and correcting next-hop val
 
 ### 🧰 Packet Tracer Files
 - [📁 **pkt-files/**](pkt-files)  
-  - [StaticRouteLab-Blank.pkt](pkt-files/StaticRouteLab-Blank.pkt): Starting lab file before troubleshooting  
+- [Troubleshooting-Static-Route-Lab-Blank.pkt](pkt-files/Troubleshooting-Static-Route-Lab-Blank.pkt): Starting lab file before troubleshooting  
   - [StaticRouteLab-Completed.pkt](pkt-files/StaticRouteLab-Completed.pkt): Final completed and verified lab file  
 
 ---
