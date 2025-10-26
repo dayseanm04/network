@@ -1,6 +1,6 @@
 # 🚀 The Ultimate Networking Hub 🌐
 
-Welcome to the central repository for all my networking projects, labs, and configurations! This repository this is the primary loication for specialized sub-repositories dedicated to different networking technologies, tools etc.
+Welcome to the central repository for all my networking projects & labs.
 
 This hub is home to several specialized repositories, each focusing on a specific area of network engineering.
 
