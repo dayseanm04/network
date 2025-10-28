@@ -1,6 +1,6 @@
 # Packet Tracer Files 📂🖥️
 
-This folder contains the Packet Tracer files for Multilayer Switching-Lab Lab. It includes both a blank version for practice and a completed version for reference.
+This folder contains the Packet Tracer files for Multilayer Switching Lab. It includes both a blank version for practice and a completed version for reference.
 
 ---
 
