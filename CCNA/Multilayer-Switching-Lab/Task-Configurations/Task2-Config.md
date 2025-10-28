@@ -1,6 +1,6 @@
 # 🧩 Multilayer Switching Lab
 
-# Task2 Config ⚙️
+# Task 2 Config ⚙️
 Step-by-step configuration for **Task 2** -configuring SVIs on the multilayer switch (**SW2**) for inter-VLAN routing.
 
 ---
