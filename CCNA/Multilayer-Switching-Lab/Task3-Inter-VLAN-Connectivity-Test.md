@@ -1,6 +1,6 @@
 # 🧩 Multilayer Switching Lab
 
-## Task3 Inter-VLAN Connectivity Test 🌐
+## Task 3 Inter-VLAN Connectivity Test 🌐
 This document records the results of **inter-VLAN connectivity tests** conducted after configuring SVIs on the multilayer switch (SW2).
 
 ---
