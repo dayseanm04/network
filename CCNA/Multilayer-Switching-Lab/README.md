@@ -82,12 +82,16 @@ Pinged external IP `1.1.1.1` from multiple PCs:
 
 ---
 
-## 🧾 Summary
-In this lab, the network was successfully upgraded from a **Router-on-a-Stick** setup to a **Multilayer Switch design**.  
-Key accomplishments include:
-- Transitioning to **Layer 3 switching** for inter-VLAN routing.  
-- Implementing **SVIs** to simplify configuration and improve performance.  
-- Achieving **full inter-VLAN and Internet connectivity**.  
+## 🧭 Navigation
 
-This setup demonstrates the scalability and efficiency of multilayer switching in modern enterprise networks. ⚡
+📁 **Lab Structure**
+
+| Section | Description |
+|----------|--------------|
+| 🧩 [Task-Configurations](./Task-Configurations/) | Contains Task 1 and Task 2 configuration steps for the Multilayer Switching Lab. |
+| 🌐 [Task3-InterVLAN-Connectivity-Test.md](./Task3-InterVLAN-Connectivity-Test.md) | Verifies inter-VLAN communication between devices. |
+| 🌍 [Task4-Internet-Connectivity-Test.md](./Task4-Internet-Connectivity-Test.md) | Verify the Internet connectivity (pby inging 1.1.1.1). |
+| 🧠 [Reflection.md](./Reflection.md) | Personal reflection summarizing lessons learned from the lab. |
+| 🖼️ [topology.png](./topology.png) | Visual representation of the Multilayer Switching Lab topology. |
+| 💾 [pkt-files](./pkt-files/) | Contains blank and completed Packet Tracer files for this lab. |
 
