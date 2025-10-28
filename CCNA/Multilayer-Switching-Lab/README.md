@@ -38,3 +38,12 @@ By the end of this lab, the network will have **full inter-VLAN connectivity** a
 
 ---
 
+## 🧩 Tasks Completed
+
+### 🧱 Task 1 – Replace ROAS with Point-to-Point Layer 3 Connection
+- Removed all **subinterfaces** on R1.
+- Reset R1 g0/0 interface to derfault settings
+- Configured **R1 G0/0 interface** with IP `10.0.0.194/30`.  
+- Changed **SW2 G1/0/2 interface** to a Layer 3 port and assigned IP `10.0.0.193/30`.  
+- Enabled **IP routing** on SW2.  
+- Configured a **default route** on SW2 pointing to R1 G0/0.  
