@@ -1,6 +1,6 @@
 # 🧩 Multilayer Switching Lab
 
-# Task1-Config 🛠️
+# Task1 Config 🛠️
 Step-by-step configuration for **Task 1** replacing ROAS with a point-to-point Layer 3 connection between **R1** and **SW2**.
 
 ---
