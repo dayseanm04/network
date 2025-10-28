@@ -47,3 +47,47 @@ By the end of this lab, the network will have **full inter-VLAN connectivity** a
 - Changed **SW2 G1/0/2 interface** to a Layer 3 port and assigned IP `10.0.0.193/30`.  
 - Enabled **IP routing** on SW2.  
 - Configured a **default route** on SW2 pointing to R1 G0/0.  
+
+---
+
+Configured SVIs on the multilayer switch using the **last usable IP address** of each subnet:
+| VLAN | Subnet | SVI IP | Status |
+|------|---------|--------|--------|
+| 10 | 10.0.0.0/26 | 10.0.0.62 | ✅ Up |
+| 20 | 10.0.0.64/26 | 10.0.0.126 | ✅ Up |
+| 30 | 10.0.0.128/26 | 10.0.0.190 | ✅ Up |
+
+---
+
+### 🌐 Task 3 – Inter-VLAN Connectivity Test
+Ping tests between VLANs confirmed successful communication:
+
+| Source | Destination | Result |
+|---------|--------------|---------|
+| PC1 (VLAN 10) | PC3 (VLAN 30) | ✅ Success |
+| PC1 (VLAN 10) | PC5 (VLAN 20) | ✅ Success |
+| PC4 (VLAN 30) | PC6 (VLAN 10) | ✅ Success |
+| PC5 (VLAN 20) | PC2 (VLAN 10) | ✅ Success |
+
+---
+
+### 🌍 Task 4 – Internet Connectivity Test
+Pinged external IP `1.1.1.1` from multiple PCs:
+| Device | Result |
+|---------|---------|
+| PC1 | ✅ Success |
+| PC3 | ✅ Success |
+| PC5 | ✅ Success |
+| PC7 | ✅ Success |
+
+---
+
+## 🧾 Summary
+In this lab, the network was successfully upgraded from a **Router-on-a-Stick** setup to a **Multilayer Switch design**.  
+Key accomplishments include:
+- Transitioning to **Layer 3 switching** for inter-VLAN routing.  
+- Implementing **SVIs** to simplify configuration and improve performance.  
+- Achieving **full inter-VLAN and Internet connectivity**.  
+
+This setup demonstrates the scalability and efficiency of multilayer switching in modern enterprise networks. ⚡
+
