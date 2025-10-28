@@ -12,8 +12,8 @@
 
 ## 🧾 Next Steps
 Once both configuration tasks are completed:
-1. Proceed to **[Task3-InterVLAN-Connectivity-Test.md](../Task3-InterVLAN-Connectivity-Test.md)** to verify inter-VLAN routing.  
-2. Then complete **[Task4-Internet-Connectivity-Test.md](../Task4-Internet-Connectivity-Test.md)** to ensure external connectivity.  
+1. Proceed to **[Task3-InterVLAN-Connectivity-Test.md](.../Task3-InterVLAN-Connectivity-Test.md)** to verify inter-VLAN routing.  
+2. Then complete **[Task4-Internet-Connectivity-Test.md](.../Task4-Internet-Connectivity-Test.md)** to ensure external connectivity.  
 
 ---
 
