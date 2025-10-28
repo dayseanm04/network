@@ -9,3 +9,11 @@ By the end of this lab, the network will have **full inter-VLAN connectivity** a
 
 ## Topology For Reference
 <img width="672" height="333" alt="topology" src="https://github.com/user-attachments/assets/a184dcd7-a2a7-450e-b700-8637ccfe82b7" />
+
+---
+
+## 🧰 Devices Used
+- 1 Cisco 2911 Router (R1)  
+- 1 Cisco 3650-24PS (SW2)
+- 1 Cisco 2960-24TT (SW1)  
+- 7 PCs (PC1–PC6)  
