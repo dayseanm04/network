@@ -15,7 +15,7 @@ The repo will cover core CCNA topics including:
 - Network Fundamentals 🌐
 - IP Addressing & Subnetting 🧮
 - VLANs and Trunking 🔗
-- Routing Protocols (RIP, OSPF, EIGRP) 🛣️
+- Static and Dynamic Routing Protocols (RIP, OSPF, EIGRP) 🛣️
 - Switching Concepts 🖧
 - Access Control & Security 🔒
 - WAN Technologies 🌍
