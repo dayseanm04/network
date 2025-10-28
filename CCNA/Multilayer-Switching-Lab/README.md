@@ -27,3 +27,14 @@ By the end of this lab, the network will have **full inter-VLAN connectivity** a
 - Verify **inter-VLAN communication** and **Internet access**.
 
 ---
+
+## ⚙️ Network Setup
+- VLAN 10: `10.0.0.0/26` → Last usable IP: `10.0.0.62`  
+- VLAN 20: `10.0.0.64/26` → Last usable IP: `10.0.0.126`  
+- VLAN 30: `10.0.0.128/26` → Last usable IP: `10.0.0.190`  
+- Point-to-Point Link (R1–SW2): `10.0.0.192/30`  
+  - R1 G0/0 → `10.0.0.194/30`  
+  - SW2 G1/0/2 → `10.0.0.193/30`
+
+---
+
