@@ -16,4 +16,4 @@ By the end of this lab, the network will have **full inter-VLAN connectivity** a
 - 1 Cisco 2911 Router (R1)  
 - 1 Cisco 3650-24PS (SW2)
 - 1 Cisco 2960-24TT (SW1)  
-- 7 PCs (PC1–PC6)  
+- 7 PCs (PC1–PC7)  
