@@ -17,3 +17,13 @@ By the end of this lab, the network will have **full inter-VLAN connectivity** a
 - 1 Cisco 3650-24PS (SW2)
 - 1 Cisco 2960-24TT (SW1)  
 - 7 PCs (PC1–PC7)  
+
+---
+
+## 🧠 Objectives
+- Configure a **point-to-point Layer 3 connection** between R1 and SW2.  
+- Enable **IP routing** on the multilayer switch.  
+- Configure **Switch Virtual Interfaces (SVIs)** for VLANs.  
+- Verify **inter-VLAN communication** and **Internet access**.
+
+---
