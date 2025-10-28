@@ -64,7 +64,7 @@ ip address 10.0.0.190 255.255.255.192
 ## 3) Verify all SVIs
 In Privileged EXEC mode:
 ```bash
-show ip interface brief | include Vlan
+show ip int brief | include Vlan
 ```
 
 ### Expected Output✅
