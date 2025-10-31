@@ -7,6 +7,12 @@ Verify whether VLAN 50 is added to the VLAN database.
 
 ---
 
+## Topology For Reference
+<img width="642" height="304" alt="Topology" src="https://github.com/user-attachments/assets/2c7ec9fb-46be-43c9-9715-8c7ff7954117" />
+
+
+---
+
 # 🧩 SW3 Configuration (VTP Client Mode)
 
 ## 1️⃣ Enter privileged and global configuration mode:
