@@ -14,7 +14,7 @@ enable
 configure terminal
 ```
 
-## 2️⃣ do show vtp status
+## 2️⃣ View current VTP status
 ```bash
 do show vtp status
 ```
