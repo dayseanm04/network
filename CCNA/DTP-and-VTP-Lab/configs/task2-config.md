@@ -1,15 +1,15 @@
 # DTP & VTP Lab. Task 2
 
-
 ## 🎯 Objective
 Configure **SW1** as the **VTP Server** in domain `CCNA`, create VLANs **10**, **20**, and **30**, and verify if the VLANs propagate to **SW2** and **SW3**.
-
-# 🧩 SW1 Configuration (VTP Server)
 
 ## Topology For Reference
 <img width="642" height="304" alt="Topology" src="https://github.com/user-attachments/assets/2c7ec9fb-46be-43c9-9715-8c7ff7954117" />
 
 ---
+
+# 🧩 SW1 Configuration (VTP Server)
+
 
 ## 1️⃣ Enter global configuration mode:
 ```bash
