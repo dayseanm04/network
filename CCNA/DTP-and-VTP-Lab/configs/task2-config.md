@@ -4,8 +4,6 @@
 ## 🎯 Objective
 Configure **SW1** as the **VTP Server** in domain `CCNA`, create VLANs **10**, **20**, and **30**, and verify if the VLANs propagate to **SW2** and **SW3**.
 
----
-
 # 🧩 SW1 Configuration (VTP Server)
 
 ---
