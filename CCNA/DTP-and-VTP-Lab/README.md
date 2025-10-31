@@ -65,6 +65,15 @@ The lab demonstrates how VTP operates in **server**, **client**, and **transpare
 
 ---
 
+### 🔗 Quick Links
+
+- [🧠 Main Lab Overview](./README.md)
+- [🧩 Configurations Folder](./configs/README.md)
+- [💻 Packet Tracer Files](./pkt-files/README.md)
+- [🧾 Reflection](./reflection.md)
+
+---
+
 ## 🧩 Summary
 
 In this lab, I successfully applied key VLAN and trunking concepts, including:
