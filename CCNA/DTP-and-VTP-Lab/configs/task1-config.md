@@ -13,6 +13,11 @@ Configure the switchports that connect the switches as **trunk ports**, **disabl
 ## Topology For Reference
 <img width="642" height="304" alt="Topology" src="https://github.com/user-attachments/assets/2c7ec9fb-46be-43c9-9715-8c7ff7954117" />
 
+---
+
+## Topology For Reference
+<img width="642" height="304" alt="Topology" src="https://github.com/user-attachments/assets/2c7ec9fb-46be-43c9-9715-8c7ff7954117" />
+
 <br>
 <br>
 
