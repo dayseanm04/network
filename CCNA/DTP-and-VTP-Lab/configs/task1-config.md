@@ -1,4 +1,4 @@
-# Task1: DTP & VTP Lab (Task 1)
+# Task1: DTP & VTP Lab
 
 # 🎯 Objective
 
