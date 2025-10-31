@@ -68,8 +68,8 @@ The lab demonstrates how VTP operates in **server**, **client**, and **transpare
 ### 🔗 Quick Links
 
 - [🧠 Main Lab Overview](./README.md)
-- [🧩 Configurations Folder](./configs/README.md)
-- [💻 Packet Tracer Files](./pkt-files/README.md)
+- [🧩 Configurations Folder](./configs/)
+- [💻 Packet Tracer Files](./pkt-files/)
 - [🧾 Reflection](./reflection.md)
 
 ---
