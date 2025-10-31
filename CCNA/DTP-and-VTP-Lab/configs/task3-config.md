@@ -7,7 +7,8 @@ Configure **SW2** in **VTP Transparent Mode**, create **VLAN 40**, and verify wh
 ## Topology For Reference
 <img width="642" height="304" alt="Topology" src="https://github.com/user-attachments/assets/2c7ec9fb-46be-43c9-9715-8c7ff7954117" />
 
-
+<br>
+  
 # 🧩  SW2 Configuration (VTP Transparent Mode)
 
 ## 1️⃣ Enter global configuration mode:
