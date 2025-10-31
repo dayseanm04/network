@@ -14,8 +14,8 @@ By the end of this lab, the network will have **full inter-VLAN connectivity** a
 
 ## 🧰 Devices Used
 - 1 Cisco 2911 Router (R1)  
-- 1 Cisco 3650-24PS (SW2)
-- 1 Cisco 2960-24TT (SW1)  
+- 1 Cisco 3650-24PS switch (SW2)
+- 1 Cisco 2960-24TT switch (SW1)  
 - 7 PCs (PC1–PC7)  
 
 ---
