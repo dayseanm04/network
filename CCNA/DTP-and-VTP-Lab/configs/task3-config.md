@@ -1,4 +1,4 @@
-# DTP & VTP Lab. Task3
+# DTP & VTP Lab. Task 3
 
 ## 🎯 Objective
 Configure **SW2** in **VTP Transparent Mode**, create **VLAN 40**, and verify whether VLAN 40 is added to the VLAN database of **SW1** and **SW3**.
