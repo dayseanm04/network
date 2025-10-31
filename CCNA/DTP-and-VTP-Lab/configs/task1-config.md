@@ -1,6 +1,7 @@
 # Task1: DTP & VTP Lab (Task 1)
 
-# ✅ Goal
+# 🎯 Objective
+
 Configure the switchports that connect the switches as **trunk ports**, **disable DTP** on those ports, and **verify** the administrative & operational mode of each interface.
 
 **Switch connections**
