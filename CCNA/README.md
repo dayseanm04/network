@@ -1,4 +1,4 @@
-# 📚 CCNA Studies & Projects
+# 📚 CCNA Studies, Labs & Projects
 
 Welcome to my **CCNA** repository! This repo is where I document my CCNA studies and labs. It's a personal hub for learning, practicing, and tracking my progress in my CCNA studies. 🌐💻
 
