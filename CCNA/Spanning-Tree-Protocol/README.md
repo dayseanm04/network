@@ -37,6 +37,20 @@ Here’s the general process:
      - The **MAC address** of the switch  
      - If all switches have the same priority, the one with the lowest MAC address becomes the Root Bridge.
 
+### 🔹 How to Change Bridge Priority
+You can change a switch’s priority to influence the Root Bridge election.  
+A lower value means **higher priority**.
+
+To manually set the bridge priority:
+
+```bash
+Switch(config)# spanning-tree vlan 1 priority 24576
+```
+
+**Note:** ⚠️ The priority value must be in increments of 4096. So: 0, 4096, 8192, 12288, 16384, 20480, 24576, 28672, 32768, 36864, 40960, 45056, 49152, 53248, 57344, 61440
+
+<br/>
+
 2. **Port Roles**
    - **Root Ports (RP):**  Ports with the **lowest cost path** to the Root Bridge (forwarding state).
    - **Designated Ports (DP):**  Ports that forward traffic **away** from the Root Bridge (forwarding state).
