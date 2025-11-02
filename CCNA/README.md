@@ -27,7 +27,7 @@ I will upload various projects and lab exercises, including:
 - Router and switch configurations
 - VLAN setups
 - Inter-VLAN routing
-- Network verification and troubleshooting exercises
+- Network verification and troubleshooting labs
 
 ---
 
