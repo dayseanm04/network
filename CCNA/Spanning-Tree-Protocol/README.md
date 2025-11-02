@@ -24,6 +24,14 @@ If **Switch1** sends a broadcast frame, it gets forwarded to **Switch2** and **S
 
 **STP prevents this** by automatically placing one or more ports into a **blocking state**, breaking the loop while keeping backup links ready if the main path fails.
 
+
+### STP Loop free Topology For Reference:
+<img width="448" height="286" alt="Screenshot 2025-11-01 234623" src="https://github.com/user-attachments/assets/bf07445b-9e88-4131-8bb5-4195eddbc424" />
+
+
+In this topology STP puts one of the Switch3 port in a blocking state to prevent loops. So Switch 3 will not foward a broadcast frame to Switch2 via that port.
+
+
 ---
 
 ## 🌳 How STP Works
