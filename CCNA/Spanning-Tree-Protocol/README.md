@@ -52,4 +52,9 @@ Here’s the general process:
      | 1 Gbps | 4 |
      | 10 Gbps | 2 |
 
+You can manually change a port’s cost with:
+```bash
+spanning-tree cost VALUE
+```
+---
   
