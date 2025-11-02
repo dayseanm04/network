@@ -29,7 +29,7 @@ If **Switch1** sends a broadcast frame, it gets forwarded to **Switch2** and **S
 <img width="452" height="290" alt="Screenshot 2025-11-01 234623" src="https://github.com/user-attachments/assets/71d89191-7753-41dd-b4cc-e761e433929c" />
 
 
-**Note: In this topology STP puts one of the Switch3 port in a blocking state to prevent loops. So Switch 3 will not foward a broadcast frame to Switch2 via that port.**
+**Note: In this topology STP puts one of the Switch3 port in a blocking state to prevent loops. So Switch 3 will not foward a broadcast frame to Switch2 via that port. And Switch 2 will aslo not foward a broadcast from to Switch 3 via that port**
 
 ---
 
