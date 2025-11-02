@@ -88,3 +88,10 @@ Switch1(config)# spanning-tree vlan 1 root primary
 ```bash
 Switch2(config)# spanning-tree vlan 1 root secondary
 ```
+
+**Note:** 
+- The primary root has a lower priority (24576).
+- The secondary root has a slightly higher priority (28672).
+- If the primary fails, the secondary automatically takes over
+
+
