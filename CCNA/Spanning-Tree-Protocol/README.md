@@ -23,3 +23,10 @@ If **Switch1** sends a broadcast frame, it gets forwarded to **Switch2** and **S
 
 
 **STP prevents this** by automatically placing one or more ports into a **blocking state**, breaking the loop while keeping backup links ready if the main path fails.
+
+---
+
+## 🌳 How STP Works
+STP uses the **Spanning Tree Algorithm (STA)** to decide which ports will forward traffic and which will block. It relies on special messages called **Bridge Protocol Data Units (BPDU)** to share information between switches.
+
+Here’s the general process:
