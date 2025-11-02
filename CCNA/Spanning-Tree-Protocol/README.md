@@ -57,4 +57,16 @@ You can manually change a port’s cost with:
 spanning-tree cost VALUE
 ```
 ---
-  
+
+## ⚙️ Bridge Protocol Data Unit (BPDU)
+**BPDUs** messages used by switches send to share STP information with each other switches.  
+Each BPDU contains:
+- Root Bridge ID  
+- Sender’s Bridge ID  
+- Sender’s path cost to the root  
+
+BPDUs are used to:
+- Elect the **Root Bridge**
+- Detect loops
+
+
