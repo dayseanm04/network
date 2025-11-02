@@ -74,3 +74,6 @@ BPDUs are used to:
 ## 🏛️ Root Bridge Election and Optimization
 By default, every switch has a **Bridge Priority** of **32768**. If you don’t manually configure it, the switch with the **lowest MAC address** becomes the Root Bridge.
 
+This can lead to **poor performance because older switches often have lower MAC addresses and slower hardware**.  
+To avoid that, you can **manually set the root bridge** using these commands:
+
