@@ -37,5 +37,19 @@ Here’s the general process:
      - The **MAC address** of the switch  
      - If all switches have the same priority, the one with the lowest MAC address becomes the Root Bridge.
 
+2. **Port Roles**
+   - **Root Ports (RP):**  Ports with the **lowest cost path** to the Root Bridge (forwarding state).
+   - **Designated Ports (DP):**  Ports that forward traffic **away** from the Root Bridge (forwarding state).
+   - **Blocked Ports(BP):**  Ports that **do not forward frames**, preventing loops.
+
+3. **Path Cost Calculation**
+   - STP calculates the best path to the Root Bridge based on **path cost**, which depends on link speed:
+
+     | Speed | Cost |
+     |--------|------|
+     | 10 Mbps | 100 |
+     | 100 Mbps | 19 |
+     | 1 Gbps | 4 |
+     | 10 Gbps | 2 |
 
   
