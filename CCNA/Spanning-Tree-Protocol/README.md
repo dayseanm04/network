@@ -77,3 +77,14 @@ By default, every switch has a **Bridge Priority** of **32768**. If you don’t 
 This can lead to **poor performance because older switches often have lower MAC addresses and slower hardware**.  
 To avoid that, you can **manually set the root bridge** using these commands:
 
+## Set a switch as the primary root bridge
+
+```bash
+Switch1(config)# spanning-tree vlan 1 root primary
+```
+
+## Set another switch as the secondary root bridge (backup)
+
+```bash
+Switch2(config)# spanning-tree vlan 1 root secondary
+```
