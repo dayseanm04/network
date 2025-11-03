@@ -12,3 +12,10 @@ Through this lab, I determined which switch became the **Root Bridge**, identifi
 ---
 
 ## 🧩 Tasks Completed
+### 🧱 **Task 1: Identifed the Root Bridge**
+- Compared switch priorities and MAC addresses:  
+- ✅ **Result:** **SW3** is the **Root Bridge** because it has the lowest bridge priority value.  
+
+---
+
+### 🔍 **Task 2: Determined the Root Port, Designated and Non Designated ports** of each switch
