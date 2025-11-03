@@ -42,3 +42,7 @@ STP uses these costs to decide which path to the Root Bridge is the best (lowest
 Each switch calculates its **total cost** to reach the Root Bridge (SW3).  
 The Root Bridge itself has a cost of **0**.
 
+
+
+**📝 To caluclate the root cost to reach the Root bridge: (the total cost of the outgoing interface + the path to the root bridge = the total cost).**
+
