@@ -24,7 +24,7 @@ STP elects the **Root Bridge** by comparing the **Bridge ID** of all switches in
 
 The **Bridge ID (BID)** = **Bridge Priority** + **MAC Address**
 
-1. The switch with the **lowest Bridge Priority** is preferred.  
+1. The switch with the **lowest Bridge Priority** becomes the Root Bridge.  
 2. If there is a **tie in priority**, the switch with the **lowest MAC address** wins.  
 
 ---
