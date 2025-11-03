@@ -19,3 +19,7 @@ Through this lab, I determined which switch became the **Root Bridge**, identifi
 ---
 
 ### 🔍 **Task 2: Determined the Root Port, Designated and Non Designated ports** of each switch
+| **Speed** | **Port Cost** |
+|------------|---------------|
+| FastEthernet (100 Mbps) | 19 |
+| GigabitEthernet (1 Gbps) | 4 |
