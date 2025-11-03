@@ -35,4 +35,10 @@ I also have to identify which ports are **forwarding** and which are **blocking*
 
 STP uses these costs to decide which path to the Root Bridge is the best (lowest cost).
 
+---
+
+## 🧮 Step 1: Determine Root Path Costs
+
+Each switch calculates its **total cost** to reach the Root Bridge (SW3).  
+The Root Bridge itself has a cost of **0**.
 
