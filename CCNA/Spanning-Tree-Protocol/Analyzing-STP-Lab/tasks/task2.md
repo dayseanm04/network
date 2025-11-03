@@ -57,3 +57,22 @@ The Root Bridge itself has a cost of **0**.
 | **SW4 G0/2** | Connected to SW3 | 0 | 4 | **4** | Lowest cost path |
 | **SW2 G0/1** | Connected to SW4 | 4 | 4 | **8** | Via SW4 |
 
+---
+
+### More Details below
+
+**📝 Caluclate the Root cost to reach the Root bridge: the total cost of the outgoing interfaces + the path to the root bridge.**
+
+**Note:** Each switch can only have 1 root port
+
+Since **SW3** is the root bridge all of its interface will have a root cost of **0**. so it will advertise the root cost of **0** out of all its interfaces like this. See below: 
+
+<img width="530" height="361" alt="SW3-advertise" src="https://github.com/user-attachments/assets/dec438f3-bb35-4f8f-96e6-aad4f31ef763" />
+
+<br><br>
+
+**SW1 F0/3** and **F0/4** interface will advertise the root cost of 19 to **SW1 F0/1** and **F0/2** interface because its outgoing interfaces are FastEthernet ports with the cost of 19, so 19 + 0 (**SW3 F0/1** and **F0/2** interface cost) is 19. See below:
+
+<img width="510" height="326" alt="SW1-F12-cost" src="https://github.com/user-attachments/assets/788aac69-5a7d-4992-897f-40c86fc18c76" />
+
+<br><br>
