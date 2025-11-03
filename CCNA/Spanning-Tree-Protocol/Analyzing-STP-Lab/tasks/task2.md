@@ -5,7 +5,7 @@ This task, is determined the **role of each switch port** (Root Port, Designated
 
 I also have to identify which ports are **forwarding** and which are **blocking**, based on the STP rules.
 
-<img width="751" height="362" alt="SW-Connections" src="https://github.com/user-attachments/assets/8f9fe063-77cb-4690-a5a8-7ff22e73a4c5" />
+<img width="566" height="356" alt="SW-Connections" src="https://github.com/user-attachments/assets/2e2055bf-691e-4527-b2f2-cc545531bee4" />
 
 ---
 
