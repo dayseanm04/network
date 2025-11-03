@@ -26,3 +26,13 @@ I also have to identify which ports are **forwarding** and which are **blocking*
 
 ---
 
+## ⚡ STP Port Cost Reference
+
+| **Interface Speed** | **STP Cost** |
+|----------------------|--------------|
+| FastEthernet (100 Mbps) | 19 |
+| GigabitEthernet (1 Gbps) | 4 |
+
+STP uses these costs to decide which path to the Root Bridge is the best (lowest cost).
+
+
