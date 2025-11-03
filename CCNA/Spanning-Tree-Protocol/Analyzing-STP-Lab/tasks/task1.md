@@ -33,8 +33,7 @@ The **Bridge ID (BID)** = **Bridge Priority** + **MAC Address**
 - **SW3** has the **lowest Bridge Priority (24577)** among all switches.  
 - Therefore, **SW3** becomes the **Root Bridge**.  
 
-✅ **Result:**  
- **SW3 is the Root Bridge** because it has the lowest Bridge Priority value (**24577**).  
+✅ **Result: SW3 is the Root Bridge because it has the lowest Bridge Priority value (**24577**).**  
 
 ---
 
