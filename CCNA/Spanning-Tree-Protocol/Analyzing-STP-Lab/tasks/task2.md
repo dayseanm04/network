@@ -22,7 +22,7 @@ I also have to identify which ports are **forwarding** and which are **blocking*
 | SW3 G0/1 ↔ SW4 G0/2 | GigabitEthernet link |
 
 
-<img width="566" height="356" alt="SW-Connections" src="https://github.com/user-attachments/assets/2e2055bf-691e-4527-b2f2-cc545531bee4" />
+<img width="566" height="346" alt="SW-Connections" src="https://github.com/user-attachments/assets/2e2055bf-691e-4527-b2f2-cc545531bee4" />
 
 ---
 
