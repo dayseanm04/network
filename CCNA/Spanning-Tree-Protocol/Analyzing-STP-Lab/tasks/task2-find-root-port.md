@@ -117,4 +117,5 @@ show spanning-tree
 ```
 
 **Expected output: ✅**
+
 <img width="545" height="112" alt="SW4-show-stp" src="https://github.com/user-attachments/assets/720c28de-eae9-476e-b4e0-14e9768a0259" />
