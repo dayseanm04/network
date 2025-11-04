@@ -11,7 +11,7 @@ Identify Designated and Non-Designated Ports on each non root switch
 ## 🧩 Identify Designated Ports
 - The interface connected to a root port is a designated port
 
-See Below: <br><br>
+**See Below:** <br>
 <img width="632" height="347" alt="DP-topology" src="https://github.com/user-attachments/assets/06be4df2-508b-4394-9d07-a00f280ca1db" />
 
 
@@ -21,6 +21,7 @@ See Below: <br><br>
 - SW1 F0/3 is connected to the Root Bridge (SW3) so its a Non designated Port
 - SW2 F0/3 is connected to the Root Bridge (SW3) so its a Non designated Port
 
-See Below: <br><br>
+**See Below:**  <br><br>
 <img width="632" height="347" alt="NDP-topology - Copy" src="https://github.com/user-attachments/assets/c8dc12e0-d34f-46ef-8942-36ff7e20eb78" />
 
+## 🧩 Identify Designated & Non-Designated Ports between SW1 & SW2
