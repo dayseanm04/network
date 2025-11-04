@@ -57,6 +57,6 @@ The Root Bridge itself has a cost of **0**.
 | **SW4 G0/2** | Connected to SW3 | 0 | 4 | **4** | Lowest cost path |
 | **SW2 G0/1** | Connected to SW4 | 4 | 4 | **8** | Via SW4 |
 
-🔗 **[Click here to view detailed root cost calculations →](./calculate-root-cost.md)**
+🔗 **[Click here to view how to calculate the root cost →](./calculate-root-cost.md)**
 
 ---
