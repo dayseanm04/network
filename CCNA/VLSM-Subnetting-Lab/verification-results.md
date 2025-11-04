@@ -121,12 +121,14 @@ Insert your ping test screenshots here to visually confirm connectivity between 
 ### PC4 Ping Tests
 
 **PC4 → PC1 (192.168.5.129)**  
-<img width="746" height="364" alt="PC4-PC1" src="https://github.com/user-attachments/assets/8e335ce4-7e98-4e12-a5a1-3316671f2395" />
+<img width="743" height="364" alt="PC4-PC1" src="https://github.com/user-attachments/assets/90c32c0a-bf88-423e-af37-72233eb3875a" />
+
 
 
 **PC4 → PC2 (192.168.5.1)**  
-<img width="745" height="362" alt="PC4-PC2" src="https://github.com/user-attachments/assets/c24f1167-df2a-46f7-8a4c-a72c9abac9e5" />
+<img width="737" height="361" alt="PC4-PC2" src="https://github.com/user-attachments/assets/7d584880-b1f0-4379-a334-54fd8725b997" />
+
 
   
 **PC4 → PC3 (192.168.5.193)**  
-<img width="743" height="362" alt="PC4-PC3" src="https://github.com/user-attachments/assets/97b1568b-4b43-4013-bce2-4aaff0987f3c" />
+<img width="736" height="360" alt="PC4-PC3" src="https://github.com/user-attachments/assets/387d757e-adeb-4119-b0c2-d9aedc12ca12" />
