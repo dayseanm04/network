@@ -62,7 +62,7 @@ ip route 192.168.5.224 255.255.255.240 192.168.5.242
 show ip route
 ```
 
-<img width="899" height="386" alt="R1-route-fixed" src="https://github.com/user-attachments/assets/d820429f-1303-4730-b48a-7324fae3829b" />
+<img width="848" height="368" alt="R1-route-fixed" src="https://github.com/user-attachments/assets/78aeba74-92b7-4910-b877-ec1cb08b3d80" />
 
 
 ✅ After this fix **PC4 could ping PC1 and PC2**. 
