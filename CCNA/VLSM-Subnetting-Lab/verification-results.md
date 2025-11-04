@@ -72,20 +72,20 @@ Insert your ping test screenshots here to visually confirm connectivity between 
 
 ### PC1 Ping Tests
 - **PC1 → PC2 (192.168.5.1)**
-<img width="740" height="390" alt="PC1-PC2" src="https://github.com/user-attachments/assets/1dac8278-bb21-4a56-9173-25448f8637ae" />
 
+<img width="740" height="393" alt="PC1-PC2" src="https://github.com/user-attachments/assets/61dc9eb5-0791-4ef6-b4a7-eb988f9483e7" />
 
 
 - **PC1 → PC3 (192.168.5.193)**  
 
-<img width="744" height="359" alt="PC1-PC3" src="https://github.com/user-attachments/assets/0eaf8148-be06-42ea-95b0-ed48d625bcc0" />
+<img width="738" height="359" alt="PC1-PC3" src="https://github.com/user-attachments/assets/f53b9c5d-28f0-43e0-be16-b8f6bedd6d89" />
 
  
 - **PC1 → PC4 (192.168.5.225)**  
 
-<img width="743" height="356" alt="PC1-PC4" src="https://github.com/user-attachments/assets/4c29bad5-988f-47d8-a83e-d95ce1a10ee9" />
+<img width="740" height="359" alt="PC1-PC4" src="https://github.com/user-attachments/assets/e9fae396-f074-4f8a-b069-f9c87cbd7605" />
 
-  
+
 ---
 
 ### PC2 Ping Tests
