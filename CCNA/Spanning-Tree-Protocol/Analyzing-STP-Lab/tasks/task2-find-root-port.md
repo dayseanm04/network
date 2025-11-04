@@ -55,3 +55,7 @@ If multiple ports have the same root cost, STP uses **tie-breakers**:
 1. Lowest **Neighbor Bridge ID**
 2. Lowest **Neighbor Port ID**
 
+---
+
+### 🧱 SW1 (Non-Root)
+- Two possible paths to SW3 (via F0/3 and F0/4)
