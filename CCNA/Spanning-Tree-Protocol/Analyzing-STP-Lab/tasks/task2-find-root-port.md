@@ -46,3 +46,9 @@ The Root Bridge itself has a cost of **0**.
 🔗 **[Click here to view how to calculate the root cost →](./calculate-root-cost.md)**
 
 ---
+
+## 🧭 Step 2: Root Port Selection
+
+Each non-root switch must choose **one Root Port (RP)**, the port with the **lowest total cost** to reach the Root Bridge.
+
+If multiple ports have the same root cost, STP uses **tie-breakers**:
