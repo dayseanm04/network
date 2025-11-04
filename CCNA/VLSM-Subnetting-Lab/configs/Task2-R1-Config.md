@@ -4,7 +4,8 @@
 ---
 
 ### Topology for reference
-<img width="673" height="311" alt="TPR2" src="https://github.com/user-attachments/assets/b00cbd6a-311c-40de-a86e-3cf3f30005c0" />
+<img width="676" height="314" alt="TPR2" src="https://github.com/user-attachments/assets/623a4fdb-c78a-4821-bc35-66545e00aa68" />
+
 
 
 ---
