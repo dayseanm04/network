@@ -37,7 +37,8 @@ Identify Designated and Non-Designated Ports on each non root switch
 - SW2 F0/1 and F0/2 interfaces will be **designated ports.**
 - SW1 F0/1 and F0/2 interfaces will be **non-designated.**
 
-🔗 **[Click here to view root cost for the SW1 & 2 →](./calculate-root-cost.md)**
+🔗 **[Click here to view how to calculate the root cost →](./task2-calculate-root-cost.md)**
+
 
 **See Below:**  <br><br>
 <img width="632" height="347" alt="DP_NDP-topology - Copy - Copy" src="https://github.com/user-attachments/assets/c95dea79-4af4-4d6d-83b3-1a23f5b932d1" />
