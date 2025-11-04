@@ -1,4 +1,4 @@
-# Task 1 — SW1 VLAN Configuration
+# Task 1: SW1 VLAN Configuration
 
 ## Purpose
 Configure VLANs and assign access ports on **Switch SW1**:
