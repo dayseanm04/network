@@ -85,7 +85,15 @@ show spanning-tree
 
 ### 🧱 SW2 (Non-Root)
 - Receives advertisements:
-  - From SW1 F0/1 & F0/2 → Cost = 19 (this is + the path to reach SW3 F0/1 & F0/2 interfaces = 19 + 19 = 32)
+  - From SW1 F0/1 & F0/2 → Cost = 19 ( + the path to reach SW3 F0/1 & F0/2 interfaces = 19 + 19 = 32)
   - From SW3 F0/3 → Cost = 19
   - From SW4 G0/1 → Cost = 8
 - ✅ **SW2 Root Port = G0/1** (lowest total cost path to the Root = 8)
+
+### On SW3 in Priviliged EXEC mode:
+
+```bash
+show spanning-tree
+```
+
+**Expected output: ✅**<img width="534" height="148" alt="SW2-show-stp" src="https://github.com/user-attachments/assets/94dbc20a-0351-47e4-be94-4d4e6847d553" />
