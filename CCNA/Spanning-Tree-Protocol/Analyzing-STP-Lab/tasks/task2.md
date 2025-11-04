@@ -77,6 +77,12 @@ Since **SW3** is the root bridge all of its interface will have a root cost of *
 
 <br><br>
 
+**SW1 F0/1** and **F0/2** interfaces will adevertise the root cost of **27** to the Root Bridge **SW3 G0/1** interface because **SW1 F0/1** and **F0/2** outgoing interfaces are FastEthernet ports with the cost of **19**, and the cost of **SW2 G0/1** interface is **4**, and the cost of **SW4 G0/2** interface is also **4**, so **19 + 4 + 4 + 0** (**SW3 G0/1** interface cost) is **27.** See bellow:
+
+<img width="632" height="347" alt="SW1-F012-cost" src="https://github.com/user-attachments/assets/f8dde9b2-0548-42a9-b2f6-1455e2af0422" />
+
+<br><br>
+
 **SW2 F0/3** interface will adevertise the root cost of **19** to the Root Bridge **SW3 F0/3** interface, because its outgoing interface is a FastEthernet port with a cost of **19**, so **19 + 0** (**SW3 F0/3** interface cost) is **19**. See below:
 
 <img width="592" height="307" alt="SW2-F03-cost" src="https://github.com/user-attachments/assets/b90d83ee-5201-46e1-9d4e-76a0d831c110" />
