@@ -6,6 +6,10 @@ It simulates inter-VLAN communication through a single physical router interface
 
 ---
 
+## Topology For Reference
+<img width="673" height="368" alt="Topolgy" src="https://github.com/user-attachments/assets/0eb7b4ff-83ae-4b47-8c35-21649777a997" />
+
+
 ## 🎯 Objectives
 1. Create and assign VLANs on multiple switches.  
 2. Configure trunk links between switches.  
