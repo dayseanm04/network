@@ -72,4 +72,4 @@ Since **SW3** is the root bridge all of its interface will have a root cost of *
 
 **SW4 G0/1** interface will advertise the root cost of **23** to the Root Bridge **SW3 F0/3** interface because **SW4 G0/1** outgoing interface is a GigabitEthernet port with the cost of **4**, and the cost of **SW2 F0/3** interface is **19**, so **4 + 19  + 0** (**SW3 F0/3** interface cost) is **23.** See bellow:
 
-<img width="632" height="347" alt="SW4-G01-to-SW3-F03" src="https://github.com/user-attachments/assets/9feb31de-7fc9-4d1a-8011-4618d4d27a3f" />
+<img width="632" height="347" alt="SW4-G01-to-SW3-F03" src="https://github.com/user-attachments/assets/4a562fc1-a16c-41fe-bf71-fd15e5fb3b06" />
