@@ -47,8 +47,8 @@ show ip route
 ```
 
 #### Expected Output ✅
+<img width="722" height="422" alt="R1-route" src="https://github.com/user-attachments/assets/963bae68-34d8-4ade-b0bf-5437530d0a2a" />
 
-<img width="717" height="417" alt="R1-route" src="https://github.com/user-attachments/assets/fb0fdde4-b5c6-4dca-aebe-3d1e27343095" />
 
 
 ### 4️⃣ R2 Route Verification
@@ -57,8 +57,8 @@ show ip route
 ```
 
 #### Expected Output ✅
+<img width="714" height="417" alt="R2-route" src="https://github.com/user-attachments/assets/3f43dcb7-0c44-4df7-9bf5-4ef2cd274271" />
 
-<img width="711" height="413" alt="R2-route" src="https://github.com/user-attachments/assets/64e8a44e-fffd-494e-8d16-92df66ffdf1d" />
 
 ---
 
