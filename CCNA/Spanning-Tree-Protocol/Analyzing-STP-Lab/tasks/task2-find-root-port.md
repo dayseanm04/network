@@ -57,7 +57,7 @@ If multiple ports have the same root cost, STP uses **tie-breakers**:
 
 ---
 
-### 🧱 SW1 (Non-Root)
+## 🧱 SW1 (Non-Root)
 
 <img width="510" height="326" alt="SW1-F12-cost" src="https://github.com/user-attachments/assets/740bd238-20c5-4163-9fed-294ae0a2293f" />
 
