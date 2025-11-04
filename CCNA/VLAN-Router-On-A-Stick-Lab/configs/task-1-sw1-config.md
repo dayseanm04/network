@@ -1,5 +1,4 @@
 # Task 1 — SW1 VLAN Configuration
-> Step-by-step switch config for Task 1 (SW1) — VLAN 10 and VLAN 30
 
 ## Purpose
 Configure VLANs and assign access ports on **Switch SW1**:
