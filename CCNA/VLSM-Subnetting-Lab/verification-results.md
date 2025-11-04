@@ -9,8 +9,9 @@ Verify that each router interface has the **correct IP address** (last usable of
 show ip interface brief
 ```
 
-Expected Output ✅
-<img width="815" height="145" alt="R1-show-int" src="https://github.com/user-attachments/assets/d739d6bc-afdd-4ae0-88de-1b65da244695" />
+**Expected Output ✅**
+<img width="813" height="146" alt="R1-show-int" src="https://github.com/user-attachments/assets/25989618-796e-41ac-b7ae-50355cd47579" />
+
 
 
 ### 2️⃣ R2 Interface Verification
@@ -18,9 +19,9 @@ Expected Output ✅
 show ip interface brief
 ```
 
-#### Expected Output ✅
+**Expected Output ✅**
+<img width="790" height="163" alt="R2-ip-int" src="https://github.com/user-attachments/assets/94badb4a-0d6f-4331-b37b-686a8d54ef39" />
 
-<img width="790" height="165" alt="R2-ip-int" src="https://github.com/user-attachments/assets/afab655a-4fda-4caa-b3c6-682f1114fdb6" />
 
 ---
 
