@@ -34,8 +34,8 @@ Identify Designated and Non-Designated Ports on each non root switch
 ### The interfaces on the switch with the lower root cost will be designated the other side will be non designated.
 - SW1 root cost is 19 via F0/4
 - SW2 root cost is 8 via G0/1 (**Lowest Root Cost ✅**)
-- SW2 F0/1 and F0/2 interfaces will be Designated ports
-- SW1 F0/1 and F0/2 interfaces will be non-designated.
+- SW2 F0/1 and F0/2 interfaces will be **designated ports.**
+- SW1 F0/1 and F0/2 interfaces will be **non-designated.**
 
 **See Below:**  <br><br>
 <img width="632" height="347" alt="DP_NDP-topology - Copy - Copy" src="https://github.com/user-attachments/assets/c95dea79-4af4-4d6d-83b3-1a23f5b932d1" />
