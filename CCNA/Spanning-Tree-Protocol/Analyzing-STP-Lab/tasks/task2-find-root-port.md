@@ -1,7 +1,7 @@
 # ⚙️ Task 2: Identify the Root Port
 
 ## 🎯 Objective
-This task, is to determined the **root port** on each non-root switch.
+This task, is to determined the **root port** on each non-root switch. **Note:** Each switch can only have 1 root port
 
 ---
 
