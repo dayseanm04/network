@@ -1,6 +1,6 @@
 ### More Details below
 
-**📝 Caluclate the Root cost to reach the Root bridge: the total cost of the outgoing interfaces + the path to the root bridge.**
+**📝 Caluclate the Root: the total cost of the outgoing interfaces + the path to the root bridge.**
 
 **Note:** Each switch can only have 1 root port
 
