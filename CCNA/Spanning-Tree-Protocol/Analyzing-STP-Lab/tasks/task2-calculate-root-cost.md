@@ -33,42 +33,42 @@ The root cost from  **SW1 F0/1** and **F0/2** to **SW3 F0/3** interface will be 
 
 <br><br>
 
-The root cost from  **SW1 F0/1** and **F0/2** to **SW3 G0/1** interface will be 27 because **SW1 F0/1** and **F0/2** outgoing interfaces are FastEthernet ports with the cost of **19**, and the cost of **SW2 G0/1** interface is **4**, and the cost of **SW4 G0/2** interface is also **4**, so **19 + 4 + 4 + 0** (**SW3 G0/1** interface cost) is **27.** See bellow:
+The root cost from **SW1 F0/1** and **F0/2** to **SW3 G0/1** interface will be 27, because **SW1 F0/1** and **F0/2** outgoing interfaces are FastEthernet ports with the cost of **19**, and the cost of **SW2 G0/1** interface is **4**, and the cost of **SW4 G0/2** interface is also **4**, so **19 + 4 + 4 + 0** (**SW3 G0/1** interface cost) is **27.** See bellow:
 
 <img width="632" height="347" alt="SW1-F012-cost" src="https://github.com/user-attachments/assets/a2c58808-5827-4abe-bffb-beb56fa79ecc" />
 
 <br><br>
 
-**SW2 F0/3** interface will adevertise the root cost of **19** to the Root Bridge **SW3 F0/3** interface, because its outgoing interface is a FastEthernet port with a cost of **19**, so **19 + 0** (**SW3 F0/3** interface cost) is **19**. See below:
+The root cost from  **SW2 F0/3** to **SW3 F0/3** interface will be 19, because its outgoing interface is a FastEthernet port with a cost of **19**, so **19 + 0** (**SW3 F0/3** interface cost) is **19**. See below:
 
 <img width="592" height="307" alt="SW2-F03-cost" src="https://github.com/user-attachments/assets/b90d83ee-5201-46e1-9d4e-76a0d831c110" />
 
 <br><br>
 
-**SW2 G0/1** interface will adevertise the root cost of **8** to the Root Bridge **SW3 G0/1** interface, because its outgoing interface is a GigabitEthernet port with a cost of **4**, and the cost of **SW4 G0/2** interface is also **4**, so **4 + 4 + 0** (**SW3 G0/1** interface cost) is **8**. See below:
+The root cost from  **SW2 G0/1** to **SW3 G0/1** interface will be 8, because its outgoing interface is a GigabitEthernet port with a cost of **4**, and the cost of **SW4 G0/2** interface is also **4**, so **4 + 4 + 0** (**SW3 G0/1** interface cost) is **8**. See below:
 
 <img width="636" height="351" alt="SW2-G01-cost" src="https://github.com/user-attachments/assets/0035bcfd-d000-4c7b-8a75-7a8bc6824a2b" />
 
 <br><br>
 
-**SW2 F0/1 & F0/2** interfaces will advertise the root cost of **38** to the Root Bridge **SW3 F0/1 & F0/2** interfaces because **SW2 F0/1 & F0/2** outgoing interfaces are FastEthernet ports with the cost of **19**, and the cost of **SW1 F0/3 & F0/4** interfaces are also **19**, so **19 + 19 + 0** (**SW3 F0/1 & F0/2** interfaces cost) is **38.** See bellow:
+The root cost from  **SW2 F0/1 & F0/2** to **SW3 F0/1 & F0/2** interfaces will be 38, because **SW2 F0/1 & F0/2** outgoing interfaces are FastEthernet ports with the cost of **19**, and the cost of **SW1 F0/3 & F0/4** interfaces are also **19**, so **19 + 19 + 0** (**SW3 F0/1 & F0/2** interfaces cost) is **38.** See bellow:
 
 <img width="632" height="347" alt="SW2-F012-cost" src="https://github.com/user-attachments/assets/e2a94e95-438b-4be1-bf90-51e6ea231798" />
 
 <br><br>
 
-**SW4 G0/2** interface will adevertise the root cost of **4** to the Root Bridge **SW3 G0/1** interface, because its outgoing interface is a GigabitEthernet port with a cost of **4**, so **4 + 0** (**SW3 G0/1** interface cost) is **4**. See below:
+The root cost from  **SW4 G0/2** interface to **SW3 G0/1** interface will be 4, because its outgoing interface is a GigabitEthernet port with a cost of **4**, so **4 + 0** (**SW3 G0/1** interface cost) is **4**. See below:
 
 <img width="632" height="347" alt="SW4-advertise-G02" src="https://github.com/user-attachments/assets/f80acbcd-8572-4dfb-b8c3-45d6688286f2" />
 
 <br><br>
 
-**SW4 G0/1** interface will advertise the root cost of **42** to the Root Bridge **SW3 F0/1 & F0/2** interfaces because **SW4 G0/1** outgoing interface is a GigabitEthernet port with the cost of **4**, and the cost of **SW2 F0/1 & F0/2** interfaces are **19**, and the cost of **SW1 F0/3 & F0/4** interfaces are also **19**, so **4 + 19 + 19 + 0** (**SW3 F0/1 & F0/2** interfaces cost) is **42.** See bellow:
+The root cost from  **SW4 G0/1** to **SW3 F0/1 & F0/2** interfaces will be 42, because **SW4 G0/1** outgoing interface is a GigabitEthernet port with the cost of **4**, and the cost of **SW2 F0/1 & F0/2** interfaces are **19**, and the cost of **SW1 F0/3 & F0/4** interfaces are also **19**, so **4 + 19 + 19 + 0** (**SW3 F0/1 & F0/2** interfaces cost) is **42.** See bellow:
 
 <img width="632" height="347" alt="SW4-G01-SW3-012" src="https://github.com/user-attachments/assets/69c51878-2838-4d59-9adf-fdd5bee94ced" />
 
 <br><br>
 
-**SW4 G0/1** interface will advertise the root cost of **23** to the Root Bridge **SW3 F0/3** interface because **SW4 G0/1** outgoing interface is a GigabitEthernet port with the cost of **4**, and the cost of **SW2 F0/3** interface is **19**, so **4 + 19  + 0** (**SW3 F0/3** interface cost) is **23.** See bellow:
+The root cost from  **SW4 G0/1** to **SW3 F0/3** interface will be 23, because **SW4 G0/1** outgoing interface is a GigabitEthernet port with the cost of **4**, and the cost of **SW2 F0/3** interface is **19**, so **4 + 19  + 0** (**SW3 F0/3** interface cost) is **23.** See bellow:
 
 <img width="632" height="347" alt="SW4-G01-to-SW3-F03" src="https://github.com/user-attachments/assets/4a562fc1-a16c-41fe-bf71-fd15e5fb3b06" />
