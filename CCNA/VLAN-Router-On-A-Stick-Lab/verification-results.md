@@ -133,7 +133,8 @@ Verify that PCs in different VLANs can communicate through the router using the 
 - Ping PC3 in VLAN 30 `10.0.0.129`
 
 **PC1 VLAN10 ping test:**
->  <img width="748" height="911" alt="PC1-ping-tests" src="https://github.com/user-attachments/assets/531ae0b7-c2b0-4417-a564-7da9293d7fd4" />
+
+<img width="674" height="822" alt="PC1-ping-tests" src="https://github.com/user-attachments/assets/b2c13808-fb0f-41be-a258-add81e581460" />
 
 ---
 
@@ -144,7 +145,8 @@ Verify that PCs in different VLANs can communicate through the router using the 
 - Ping PC6 in VLAN 10 `10.0.0.4`  
 
 **PC5 VLAN20 ping test:**
-> <img width="819" height="913" alt="PC5-ping-tests" src="https://github.com/user-attachments/assets/949efb74-a00d-4b89-9f91-91fb99816f7b" />
+
+<img width="738" height="818" alt="PC5-ping-tests" src="https://github.com/user-attachments/assets/a6ca3e37-5138-4313-8151-0efa848d65ac" />
 
 ---
 
@@ -155,7 +157,8 @@ Verify that PCs in different VLANs can communicate through the router using the 
 - Ping PC5 in VLAN 20 `10.0.0.65`  
 
 **PC4 VLAN30 ping test:**
-> <img width="953" height="910" alt="PC4-ping-tests" src="https://github.com/user-attachments/assets/37e1d91d-3af5-4fdc-91a3-f1fd659aad3b" />
+
+<img width="823" height="784" alt="PC4-ping-tests" src="https://github.com/user-attachments/assets/9409e7c7-1e6f-49ef-a2c4-950d1032a940" />
 
 ### ✅ Expected Results
 - Each PC can successfully ping its **own VLAN gateway**.  
@@ -164,4 +167,4 @@ Verify that PCs in different VLANs can communicate through the router using the 
 
 ---
 
-🧑‍💻 *Inter-VLAN connectivity confirmed — All VLANs communicate successfully via Router-on-a-Stick!*
+🧑‍💻 *Inter-VLAN connectivity confirmed: All VLANs communicate successfully via Router-on-a-Stick!*
