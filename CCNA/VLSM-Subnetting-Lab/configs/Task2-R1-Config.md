@@ -67,5 +67,5 @@ show ip int brief
 ```
 
 ### Expected output ✅
-<img width="815" height="145" alt="R!-show-int" src="https://github.com/user-attachments/assets/f27e093b-e261-4d5c-b539-81ffd1de8803" />
+<img width="816" height="148" alt="R1-show-int" src="https://github.com/user-attachments/assets/604fd4c3-329e-4fa6-99f3-4e60f91e3cd5" />
 
