@@ -35,8 +35,6 @@ exit
 do show vlan brief
 ```
 
-> Note: Access-port assignment will auto-create VLAN entries on many switches, but explicitly creating & naming is good practice.
-
 ## 5) Assign ports to VLAN 10 (PCs on VLAN10)
 ```bash
 interface range f0/1 , f0/2
