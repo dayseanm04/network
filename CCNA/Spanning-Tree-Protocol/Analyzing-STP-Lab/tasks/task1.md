@@ -41,3 +41,7 @@ The **Bridge ID (BID)** = **Bridge Priority** + **MAC Address**
 - All ports on the **Root Bridge** automatically become **Designated Ports (DP)**.  
 - These ports will remain in the **Forwarding state**.  
 - The **Root Bridge** has a **Root Path Cost of 0** because it is the root of the STP topology.  
+
+
+## Topology For Reference
+<img width="632" height="347" alt="SW3-DP" src="https://github.com/user-attachments/assets/355561bf-33bf-4368-9fd8-911e27e46537" />
