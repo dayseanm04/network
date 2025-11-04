@@ -91,7 +91,7 @@ show spanning-tree
 
  ### ✅ **SW2 Root Port = G0/1** (lowest total cost path to the Root = 8)
 
-### On SW3 in Priviliged EXEC mode:
+### On SW2 in Priviliged EXEC mode:
 
 ```bash
 show spanning-tree
