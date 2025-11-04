@@ -1,7 +1,10 @@
 # ✅ VLAN Router On A Stick Lab Verification Results
 
 ## Topology For Reference
-<img width="691" height="379" alt="reference-topology-1" src="https://github.com/user-attachments/assets/0288ad15-63ac-4b87-a075-3a2214a79c53" />
+<img width="677" height="372" alt="Topolgy" src="https://github.com/user-attachments/assets/23709f4e-4dde-49c4-8ce1-47559e75f163" />
+
+
+
 <br/>
 
 ## 🧩 Lab Overview
