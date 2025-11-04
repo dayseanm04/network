@@ -75,3 +75,8 @@ show spanning-tree
 
 <img width="529" height="153" alt="SW3-show-stp" src="https://github.com/user-attachments/assets/c806d59f-4e38-4f8d-9e78-581d283338c8" />
 
+### STP port ID = the port priority + the port number
+- SW3 F0/1 → Port ID = 128 + 1 = 129
+- SW3 F0/2 → Port ID = 128 + 2 = 130
+
+### ✅ SW1 Root Port = F0/4 (connected to the lowest Port ID on SW3)
