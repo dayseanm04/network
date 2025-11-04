@@ -1,9 +1,7 @@
-# ⚙️ Task 2: Identify the Role of Each Switch Port
+# ⚙️ Task 2: Identify the Root Port
 
 ## 🎯 Objective
-This task, is determined the **role of each switch port** (Root Port, Designated Port, or Non-Designated Port) and calculate the **root path cost** to reach the **Root Bridge (SW3)**.
-
-I also have to identify which ports are **forwarding** and which are **blocking**, based on the STP rules.
+This task, is todetermined the **root port** on each non-root switch.
 
 ---
 
