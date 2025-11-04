@@ -1,7 +1,6 @@
 # 🚀 R1 Task2 Configuration
 
 ## Objective: Configure LAN Interfaces on R1 and Point-to-Point Connection to R2
----
 
 ### Topology for reference
 <img width="676" height="314" alt="TPR2" src="https://github.com/user-attachments/assets/623a4fdb-c78a-4821-bc35-66545e00aa68" />
