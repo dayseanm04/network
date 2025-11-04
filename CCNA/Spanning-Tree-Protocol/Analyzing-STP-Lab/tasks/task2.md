@@ -52,7 +52,7 @@ The Root Bridge itself has a cost of **0**.
 | **Switch** | **Interface** | **Advertised Cost** | **Interface Cost** | **Total Root Cost** | **Notes** |
 |-------------|----------------|--------------------|--------------------|--------------------|-----------|
 | **SW3** | All Ports | 0 | 0 | 0 | Root Bridge |
-| **SW1 F0/3 & F0/4** | Connected to SW3 | 0 | 19 | **19** | Two equal-cost paths |
+| **SW1 F0/3 & F0/4** | Connected to SW3 | 0 | 19 | **19** | Two equal path cost |
 | **SW2 F0/3** | Connected to SW3 | 0 | 19 | **19** | Direct link |
 | **SW4 G0/2** | Connected to SW3 | 0 | 4 | **4** | Lowest cost path |
 | **SW2 G0/1** | Connected to SW4 | 4 | 4 | **8** | Via SW4 |
