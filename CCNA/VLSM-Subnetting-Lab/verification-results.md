@@ -103,30 +103,30 @@ Insert your ping test screenshots here to visually confirm connectivity between 
 ---
 
 ### PC3 Ping Tests
-- **PC3 → PC1 (192.168.5.129)**  
-<img width="735" height="366" alt="PC3-PC1" src="https://github.com/user-attachments/assets/55c919f4-ba20-4a7a-a6e4-5fc535b6c518" />
+
+**PC3 → PC1 (192.168.5.129)**  
+<img width="735" height="367" alt="PC3-PC1" src="https://github.com/user-attachments/assets/8fb7ce7b-91f7-4818-b1ba-7d16e0735f89" />
 
 
+**PC3 → PC2 (192.168.5.1)**  
+<img width="731" height="373" alt="PC3-PC2" src="https://github.com/user-attachments/assets/0e5c1347-cae5-41d9-8545-81cef4763047" />
 
-- **PC3 → PC2 (192.168.5.1)**  
-<img width="744" height="376" alt="PC3-PC2" src="https://github.com/user-attachments/assets/01863470-bac3-4423-a0b2-ee7191486278" />
 
- 
-
-- **PC3 → PC4 (192.168.5.225)**  
-<img width="739" height="364" alt="PC3-PC4" src="https://github.com/user-attachments/assets/691fdfbc-f68e-474a-8ab3-100cb55dc1f4" />
+**PC3 → PC4 (192.168.5.225)**  
+<img width="735" height="359" alt="PC3-PC4" src="https://github.com/user-attachments/assets/ead1b3fb-835a-4a7c-83b2-173558fc1323" />
 
 
 ---
 
 ### PC4 Ping Tests
-- **PC4 → PC1 (192.168.5.129)**  
+
+**PC4 → PC1 (192.168.5.129)**  
 <img width="746" height="364" alt="PC4-PC1" src="https://github.com/user-attachments/assets/8e335ce4-7e98-4e12-a5a1-3316671f2395" />
 
 
-- **PC4 → PC2 (192.168.5.1)**  
+**PC4 → PC2 (192.168.5.1)**  
 <img width="745" height="362" alt="PC4-PC2" src="https://github.com/user-attachments/assets/c24f1167-df2a-46f7-8a4c-a72c9abac9e5" />
 
   
-- **PC4 → PC3 (192.168.5.193)**  
+**PC4 → PC3 (192.168.5.193)**  
 <img width="743" height="362" alt="PC4-PC3" src="https://github.com/user-attachments/assets/97b1568b-4b43-4013-bce2-4aaff0987f3c" />
