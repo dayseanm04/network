@@ -32,10 +32,10 @@ Identify Designated and Non-Designated Ports on each non root switch
 
 
 ### The interfaces on the switch with the lower root cost will be designated the other side will be non designated.
-- SW1 root cost is 19 via F0/4 (SW3)
-- SW2 root cost is 8 via G0/1 (**Lowest Root Cost ✅**)
-- SW2 F0/1 and F0/2 interfaces will be **designated ports.**
-- SW1 F0/1 and F0/2 interfaces will be **non-designated.**
+- SW1 root cost is 19 via **F0/4** (SW3)
+- SW2 root cost is 8 via **SW4 G0/1** (**Lowest Root Cost ✅**)
+- **SW2 F0/1** and **F0/2** interfaces will be **designated ports.**
+- S**W1 F0/1** and **F0/2** interfaces will be **non-designated.**
 
 🔗 **[Click here to view the root cost for SW1 & 2 →](./task2-calculate-root-cost.md)**
 
