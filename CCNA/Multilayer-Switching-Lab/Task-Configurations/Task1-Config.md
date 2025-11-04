@@ -18,14 +18,14 @@ do show ip interface brief
 ```
 
 ### Expected Output ✅
-<img width="813" height="192" alt="R1-sub-int" src="https://github.com/user-attachments/assets/c4bd555f-8d1d-4de9-9a63-30d7f81c9b64" />
+<img width="822" height="192" alt="R1-ip-int" src="https://github.com/user-attachments/assets/aa03ea67-b455-456a-884d-8ef253db0d86" />
 
 
 ## 2️⃣ Remove the ROAS subinterfaces:
 ```bash
-no interface G0/0.10
-no interface G0/0.20
-no interface G0/0.30
+no interface GigabitEthernet0/0.10
+no interface GigabitEthernet0/0.20
+no interface GigabitEthernet0/0.30
 ```
 
 ## 3️⃣ Verify subinterfaces are removed:
@@ -34,7 +34,8 @@ do show ip interface brief
 ```
 
 ### Expected Output ✅:
-<img width="817" height="142" alt="R1-sub-int-rmvd" src="https://github.com/user-attachments/assets/80079071-eee0-47a4-867f-debe03293427" />
+<img width="842" height="140" alt="R1-sub-int-rmvd" src="https://github.com/user-attachments/assets/44b82e10-98f6-4105-baea-c1f8b2bb8ac4" />
+
 
 ---
 
