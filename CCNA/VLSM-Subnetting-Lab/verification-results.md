@@ -71,36 +71,33 @@ Verify connectivity between PCs in different LANs.
 Insert your ping test screenshots here to visually confirm connectivity between all PCs.
 
 ### PC1 Ping Tests
-- **PC1 → PC2 (192.168.5.1)**
-
+**PC1 → PC2 (192.168.5.1)**
 <img width="740" height="393" alt="PC1-PC2" src="https://github.com/user-attachments/assets/61dc9eb5-0791-4ef6-b4a7-eb988f9483e7" />
 
 
-- **PC1 → PC3 (192.168.5.193)**  
-
+**PC1 → PC3 (192.168.5.193)**  
 <img width="738" height="359" alt="PC1-PC3" src="https://github.com/user-attachments/assets/f53b9c5d-28f0-43e0-be16-b8f6bedd6d89" />
 
- 
-- **PC1 → PC4 (192.168.5.225)**  
-
+ **PC1 → PC4 (192.168.5.225)**  
 <img width="740" height="359" alt="PC1-PC4" src="https://github.com/user-attachments/assets/e9fae396-f074-4f8a-b069-f9c87cbd7605" />
 
 
 ---
 
 ### PC2 Ping Tests
-- **PC2 → PC1 (192.168.5.129)**
-<img width="749" height="328" alt="PC2-PC1" src="https://github.com/user-attachments/assets/e0f4e8b9-1c2c-4b28-a8c8-afbf30447ebd" />
 
- 
-- **PC2 → PC3 (192.168.5.193)**  
-<img width="743" height="362" alt="PC2-PC3" src="https://github.com/user-attachments/assets/d639e897-4b0f-4e41-b91e-88e5c50171eb" />
+**PC2 → PC1 (192.168.5.129)**
+<img width="749" height="329" alt="PC2-PC1" src="https://github.com/user-attachments/assets/ef271d23-aa83-4911-83c5-aaeff7052b8f" />
 
 
+**PC2 → PC3 (192.168.5.193)**  
+<img width="730" height="361" alt="PC2-PC3" src="https://github.com/user-attachments/assets/ddb098ce-c63a-4a90-a853-68cae224f299" />
 
-- **PC2 → PC4 (192.168.5.225)**  
-<img width="743" height="365" alt="PC2-PC4" src="https://github.com/user-attachments/assets/78eaac02-5f1e-4906-95c8-dcf019198db2" />
 
+
+
+**PC2 → PC4 (192.168.5.225)**  
+<img width="730" height="363" alt="PC2-PC4" src="https://github.com/user-attachments/assets/c690b799-872d-43b6-b9a3-6219e79932de" />
 
 
 ---
