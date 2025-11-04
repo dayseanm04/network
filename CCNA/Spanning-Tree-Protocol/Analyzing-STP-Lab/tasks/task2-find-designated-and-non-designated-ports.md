@@ -26,6 +26,11 @@ Identify Designated and Non-Designated Ports on each non root switch
 
 ## 🧩 Identify Designated & Non-Designated Ports between SW1 & SW2
 
+### Refence topology
+<img width="636" height="351" alt="DP-topology" src="https://github.com/user-attachments/assets/29fee29c-7d5c-4368-8192-a08e4f4ec3e7" />
+
+
+
 ### The interfaces on the switch with the lower root cost will be designated the other side will be non designated.
 - SW1 root cost is 19 via F0/4
 - SW2 root cost is 8 via G0/1
