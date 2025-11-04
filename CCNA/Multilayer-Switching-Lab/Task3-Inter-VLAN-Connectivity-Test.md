@@ -5,7 +5,8 @@ This document records the results of **inter-VLAN connectivity tests** conducted
 
 ---
 ## Topology For Reference
-<img width="672" height="333" alt="topology" src="https://github.com/user-attachments/assets/f269aa76-a65d-409d-a42e-8e9da18e6c7b" />
+<img width="675" height="337" alt="Topology" src="https://github.com/user-attachments/assets/8fe195ed-f8f0-4bbb-8e33-8be947c5463a" />
+
 
 ---
 
