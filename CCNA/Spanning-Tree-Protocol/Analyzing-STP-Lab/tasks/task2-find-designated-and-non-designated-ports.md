@@ -45,9 +45,9 @@ Identify Designated and Non-Designated Ports on each non root switch
 
 ### 🧩 Summary of Port Roles
 
-| **Switch** | **Interface** | **Port Role** | **State** |
-|-------------|----------------|----------------|------------|
-| **SW3** | All Ports | Designated | Forwarding |
+| **Switch** | **Interface** | **Port Role** |
+|-------------|----------------|----------------|
+| **SW3** | All Ports | Designated |
 | **SW1 F0/4** | Root Port | Forwarding |
 | **SW1 F0/3** | Non-Designated | Blocking |
 | **SW1 F0/1, F0/2** | Non-Designated | Blocking |
