@@ -10,3 +10,11 @@ Identify Designated and Non-Designated Ports on each non root switch
 
 ## 🧩 Identify Designated Ports
 - The interface connected to a root port is a designated port
+
+See Below:
+<img width="632" height="347" alt="DP-topology" src="https://github.com/user-attachments/assets/06be4df2-508b-4394-9d07-a00f280ca1db" />
+
+
+
+
+
