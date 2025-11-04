@@ -104,14 +104,17 @@ Fix:
 ## 🔍 Step 3: Troubleshoot PC1
 
 **Misconfiguration:**
-<img width="737" height="327" alt="PC1-misconfig" src="https://github.com/user-attachments/assets/69a3c314-872d-4383-bd49-cd760ed14251" />
-<br/>
+
+<img width="740" height="321" alt="PC1-misconfig" src="https://github.com/user-attachments/assets/2ba6138c-5af7-4a6e-bce6-a081bd7ab214" />
+
+
 Note: 192.168.5.126 is the default gateway for LAN2, PC1 is in LAN1
 
 
 **Fix applied:**
-<br/>
-<img width="747" height="318" alt="PC1-fix" src="https://github.com/user-attachments/assets/79ded6e7-5c63-4c21-bbd0-f1d3e8b8ecc0" />
+
+<img width="735" height="314" alt="PC1-fix" src="https://github.com/user-attachments/assets/d1e6b893-d163-4d4a-a011-ab7fe2e616d6" />
+
 
 I changed PC1 default gateway to 192.168.5.190 LAN1 default gateway 
 
