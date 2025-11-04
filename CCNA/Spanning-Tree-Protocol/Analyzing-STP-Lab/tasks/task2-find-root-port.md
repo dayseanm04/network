@@ -85,7 +85,7 @@ show spanning-tree
 
 ### 🧱 SW2 (Non-Root)
 - Receives advertisements:
-  - From SW1 F0/1 & F0/2 → Cost = 38
+  - From SW1 F0/1 & F0/2 → Cost = 19 (this is + the path to reach SW3 F0/1 & F0/2 interfaces = 19 + 19 = 32)
   - From SW3 F0/3 → Cost = 19
   - From SW4 G0/1 → Cost = 8
 - ✅ **SW2 Root Port = G0/1** (lowest total cost path to the Root = 8)
