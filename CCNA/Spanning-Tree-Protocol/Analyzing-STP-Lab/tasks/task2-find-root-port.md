@@ -119,3 +119,8 @@ show spanning-tree
 **Expected output: ✅**
 
 <img width="545" height="112" alt="SW4-show-stp" src="https://github.com/user-attachments/assets/720c28de-eae9-476e-b4e0-14e9768a0259" />
+
+## Topology For Rerference
+<img width="632" height="347" alt="RootPorts" src="https://github.com/user-attachments/assets/b15d6e65-e503-411e-863f-d6b6a7944560" />
+
+
