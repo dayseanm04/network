@@ -69,7 +69,8 @@ show ip interface brief | include GigabitEthernet0/0
 ```
 
 ### Expected Output ✅:
-<img width="767" height="84" alt="Verifiy-p2p-r1" src="https://github.com/user-attachments/assets/ffa66e7c-e1b6-4696-889d-6912231928f8" />
+<img width="764" height="83" alt="Verify-p2p" src="https://github.com/user-attachments/assets/e2b15bdf-c885-497f-a4c6-79a8e39a86fc" />
+
 
 
 ## 3️⃣ Save the router config:
