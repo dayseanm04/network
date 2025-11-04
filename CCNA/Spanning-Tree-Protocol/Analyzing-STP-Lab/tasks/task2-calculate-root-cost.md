@@ -72,3 +72,13 @@ The root cost from  **SW4 G0/1** to **SW3 F0/1 & F0/2** interfaces will be **42*
 The root cost from  **SW4 G0/1** to **SW3 F0/3** interface will be **2**3, because **SW4 G0/1** outgoing interface is a GigabitEthernet port with the cost of **4**, and the cost of **SW2 F0/3** interface is **19**, so **4 + 19  + 0** (**SW3 F0/3** interface cost) is **23.** See bellow:
 
 <img width="632" height="347" alt="SW4-G01-to-SW3-F03" src="https://github.com/user-attachments/assets/4a562fc1-a16c-41fe-bf71-fd15e5fb3b06" />
+
+### There are multiple root path cost to reach the root bride but the lowest path is the best ✅
+
+### Below is the summary of the lowest cost
+
+| **Switch** | **Interface** | **Advertised Cost** | **Interface Cost** | **Total Root Cost** |
+|-------------|----------------|--------------------|--------------------|--------------------|
+| **SW1 F0/3 & F0/4** | Connected to SW3 | 0 | 19 | **19** |
+| **SW4 G0/2** | Connected to SW3 | 0 | 4 | **4** |
+| **SW2 G0/1** | Connected to SW4 | 4 | 4 | **8** |
