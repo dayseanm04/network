@@ -43,3 +43,18 @@ Identify Designated and Non-Designated Ports on each non root switch
 **See Below:**  <br><br>
 <img width="632" height="347" alt="DP_NDP-topology - Copy - Copy" src="https://github.com/user-attachments/assets/c95dea79-4af4-4d6d-83b3-1a23f5b932d1" />
 
+### 🧩 Summary of Port Roles
+
+| **Switch** | **Interface** | **Port Role** | **State** |
+|-------------|----------------|----------------|------------|
+| **SW3** | All Ports | Designated | Forwarding |
+| **SW1 F0/4** | Root Port | Forwarding |
+| **SW1 F0/3** | Non-Designated | Blocking |
+| **SW1 F0/1, F0/2** | Non-Designated | Blocking |
+| **SW2 G0/1** | Root Port | Forwarding |
+| **SW2 F0/3** | Non-Designated | Blocking |
+| **SW2 F0/1, F0/2** | Designated | Forwarding |
+| **SW4 G0/2** | Root Port | Forwarding |
+| **SW4 G0/1** | Designated | Forwarding |
+
+
