@@ -18,7 +18,8 @@ STP uses these costs to decide which path to the Root Bridge is the best (lowest
 
 Since **SW3** is the root bridge all of its interface will have a root cost of **0**. so it will advertise the root cost of **0** out of all its interfaces like this. See below: 
 
-<img width="530" height="361" alt="SW3-advertise" src="https://github.com/user-attachments/assets/dec438f3-bb35-4f8f-96e6-aad4f31ef763" />
+<img width="530" height="361" alt="SW3-advertise" src="https://github.com/user-attachments/assets/935b4b0f-280b-4662-8501-73a217f1330b" />
+
 
 <br><br>
 
