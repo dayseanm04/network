@@ -7,7 +7,8 @@ The configurations in this folder are based on the following tasks:
 3. **Task 4:** Configure static routes on each router so that all PCs can communicate with each other across all LANs.
 
 ## Topology for reference
-<img width="684" height="316" alt="TFR" src="https://github.com/user-attachments/assets/517e5045-e9d9-41da-84fa-f7a4da491b3c" />
+<img width="672" height="311" alt="TPR" src="https://github.com/user-attachments/assets/5f2484d6-7d9d-4f1a-bc03-d1438483cd88" />
+
 
 
 ## 📂 Folder Contents
