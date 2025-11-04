@@ -58,12 +58,14 @@ show interfaces trunk
 ```
 
 #### SW1 show interfaces trunk: 
-<img width="693" height="227" alt="sw1-expectedd-trunk-output" src="https://github.com/user-attachments/assets/89d7ed25-4a0d-4d5e-b801-4baa9b524df5" />
+<img width="699" height="231" alt="sw1-trunk-int" src="https://github.com/user-attachments/assets/91473c9a-7cf1-4168-85a8-c11120768bb6" />
+
 
 <br/>
 
 #### SW2 show interfaces trunk: 
-<img width="694" height="300" alt="sw2-trunk-int" src="https://github.com/user-attachments/assets/ffa38c5a-ee29-423a-913f-d4239daf7506" />
+<img width="699" height="303" alt="sw2-trunk-int" src="https://github.com/user-attachments/assets/e0fc20da-86c4-42fd-be0d-4635d1fc42e1" />
+
 
 <br/>
 
