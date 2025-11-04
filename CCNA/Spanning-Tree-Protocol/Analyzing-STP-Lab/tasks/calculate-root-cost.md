@@ -4,6 +4,16 @@
 
 **Note:** Each switch can only have 1 root port
 
+## ⚡ STP Port Cost Reference
+
+| **Interface Speed** | **STP Cost** |
+|----------------------|--------------|
+| FastEthernet (100 Mbps) | 19 |
+| GigabitEthernet (1 Gbps) | 4 |
+
+
+STP uses these costs to decide which path to the Root Bridge is the best (lowest cost).
+
 Since **SW3** is the root bridge all of its interface will have a root cost of **0**. so it will advertise the root cost of **0** out of all its interfaces like this. See below: 
 
 <img width="530" height="361" alt="SW3-advertise" src="https://github.com/user-attachments/assets/dec438f3-bb35-4f8f-96e6-aad4f31ef763" />
