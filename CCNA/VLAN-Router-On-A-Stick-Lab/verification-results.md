@@ -85,10 +85,12 @@ show ip route
 ```
 
 #### show ip interface brief on R1:
-<img width="834" height="184" alt="R1-ip-int" src="https://github.com/user-attachments/assets/8f23501a-3840-4527-8d0e-04ac28d5b937" />
+<img width="835" height="184" alt="R1-ip-int" src="https://github.com/user-attachments/assets/d82f167f-5b60-46e1-abb7-b7c3c6ad73fd" />
+
 
 #### show ip route on R1:
-<img width="818" height="345" alt="r1-ip-route" src="https://github.com/user-attachments/assets/3440046a-38d3-4821-a311-f79e51414789" />
+<img width="822" height="349" alt="r1-ip-route" src="https://github.com/user-attachments/assets/aa53a2d3-1957-4c07-b934-710b7eba2bd0" />
+
 
 <br/>
 
