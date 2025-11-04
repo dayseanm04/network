@@ -1,5 +1,4 @@
-# Task 1 — SW2 VLAN Configuration
-> Step-by-step switch config for Task 1 (SW2) — VLAN 10 and VLAN 20
+# Task 1: SW2 VLAN Configuration
 
 ## Purpose
 Configure VLANs and assign access ports on **Switch SW2**:
