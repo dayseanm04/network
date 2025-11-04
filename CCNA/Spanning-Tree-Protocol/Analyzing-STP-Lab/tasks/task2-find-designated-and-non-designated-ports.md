@@ -16,5 +16,7 @@ See Below: <br>
 
 
 
+## 🧩 Identify Non-Designated Ports
 
-
+- SW1 F0/3 is connected to the Root Bridge (SW3) so its a Non designated Port
+- SW2 F0/3 is connected to the Root Bridge (SW3) so its a Non designated Port
