@@ -80,3 +80,8 @@ show spanning-tree
 - SW3 F0/2 → Port ID = 128 + 2 = 130
 
 ### ✅ SW1 Root Port = F0/4 (connected to the lowest Port ID on SW3)
+
+---
+
+### 🧱 SW2 (Non-Root)
+
