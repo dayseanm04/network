@@ -7,18 +7,6 @@ This task, is to determined the **root port** on each non-root switch.
 
 ## 🌐 Network Connection Overview
 
-### 🔌 Switch Interconnections
-
-| **Connection** | **Description** |
-|-----------------|----------------|
-| SW1 F0/1 ↔ SW2 F0/1 | FastEthernet link |
-| SW1 F0/2 ↔ SW2 F0/2 | FastEthernet link |
-| SW1 F0/3 ↔ SW3 F0/2 | FastEthernet link |
-| SW1 F0/4 ↔ SW3 F0/1 | FastEthernet link |
-| SW2 F0/3 ↔ SW3 F0/3 | FastEthernet link |
-| SW2 G0/1 ↔ SW4 G0/1 | GigabitEthernet link |
-| SW3 G0/1 ↔ SW4 G0/2 | GigabitEthernet link |
-
 
 <img width="566" height="336" alt="SW-Connections" src="https://github.com/user-attachments/assets/2e2055bf-691e-4527-b2f2-cc545531bee4" />
 
