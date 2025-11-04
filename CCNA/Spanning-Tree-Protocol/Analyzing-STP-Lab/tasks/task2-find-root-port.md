@@ -96,4 +96,6 @@ show spanning-tree
 show spanning-tree
 ```
 
-**Expected output: ✅**<img width="534" height="148" alt="SW2-show-stp" src="https://github.com/user-attachments/assets/94dbc20a-0351-47e4-be94-4d4e6847d553" />
+**Expected output: ✅**
+
+<img width="534" height="148" alt="SW2-show-stp" src="https://github.com/user-attachments/assets/94dbc20a-0351-47e4-be94-4d4e6847d553" />
