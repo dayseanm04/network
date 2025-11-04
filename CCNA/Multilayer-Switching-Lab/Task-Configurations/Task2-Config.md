@@ -26,7 +26,8 @@ show vlan brief
 ```
 
 ### Expected Output✅
-<img width="911" height="315" alt="sw-vlan-sw2" src="https://github.com/user-attachments/assets/c9c42afb-a0dc-4af2-9eef-ebc50b55feea" />
+<img width="845" height="294" alt="sw-vlan-sw2" src="https://github.com/user-attachments/assets/f6e305fa-ee97-41a9-8dcf-9dd3888895e8" />
+
 
 ---
 
@@ -68,7 +69,7 @@ show ip int brief | include Vlan
 ```
 
 ### Expected Output✅
-<img width="797" height="115" alt="verify-SVI" src="https://github.com/user-attachments/assets/7e9788a3-7b23-4493-aebb-7c0e9ac02c84" />
+<img width="796" height="115" alt="verify-SVI" src="https://github.com/user-attachments/assets/986b8548-c18d-4a22-8c6c-441dca9cc4cc" />
 
 ---
 
