@@ -83,14 +83,17 @@ show ip route
 
 ---
 
-**Misconfiguration:**
-<img width="729" height="313" alt="PC2-micongi" src="https://github.com/user-attachments/assets/2d56bc2d-3cb6-4558-8c04-d4a819bd1300" />
+**PC2 misconfiguration:**
+
+<img width="724" height="313" alt="PC2-misconfig" src="https://github.com/user-attachments/assets/70570e28-34ae-4589-b6da-670d5350f01c" />
+
 
 Note: 192.168.5.190 is the default gateway for LAN1, PC2 is in LAN2. And also 255.255.255.192 is LAN1 subnet mask.
 
 **Fix applied:**
-<br/>
-<img width="751" height="317" alt="PC2-fixed" src="https://github.com/user-attachments/assets/bd781731-f785-4e18-87aa-bd1a0a3fce26" />
+
+<img width="734" height="314" alt="PC2-fixed" src="https://github.com/user-attachments/assets/9cfa0c25-f7b8-42ef-bb87-47cbb6846d16" />
+
 
 Fix: 
 - I changed PC2 default gateway to LAN2 gateway (192.168.5.126)
