@@ -6,7 +6,8 @@ The goal is to efficiently allocate IP address ranges for multiple LANs and a po
 ---
 
 ## Topology for reference
-<img width="664" height="299" alt="topology" src="https://github.com/user-attachments/assets/3b11aff7-e314-474d-ab95-456735eacf7e" />
+<img width="672" height="311" alt="TPR" src="https://github.com/user-attachments/assets/1cbb686c-a322-4f13-8e26-3581faa62d17" />
+
 
 ---
 
