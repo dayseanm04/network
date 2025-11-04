@@ -27,7 +27,7 @@ Identify Designated and Non-Designated Ports on each non root switch
 ## 🧩 Identify Designated & Non-Designated Ports between SW1 & SW2
 
 ### Topology For reference
-<img width="636" height="351" alt="DP-topology" src="https://github.com/user-attachments/assets/29fee29c-7d5c-4368-8192-a08e4f4ec3e7" />
+<img width="636" height="351" alt="SW1-SW2" src="https://github.com/user-attachments/assets/d20244c3-ac89-4057-8882-c74d3643a768" />
 
 
 
