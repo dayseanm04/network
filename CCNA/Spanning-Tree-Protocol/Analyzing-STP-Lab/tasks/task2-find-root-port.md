@@ -52,3 +52,6 @@ The Root Bridge itself has a cost of **0**.
 Each non-root switch must choose **one Root Port (RP)**, the port with the **lowest total cost** to reach the Root Bridge.
 
 If multiple ports have the same root cost, STP uses **tie-breakers**:
+1. Lowest **Neighbor Bridge ID**
+2. Lowest **Neighbor Port ID**
+
