@@ -18,7 +18,8 @@ Confirm that all PCs across VLANs can reach the Internet by successfully pinging
 **PC1 IP Address:** 10.0.0.1  
 **Test:** Ping 1.1.1.1  
 **Result:** ✅ Successful  
-<img width="748" height="379" alt="PC1-internet" src="https://github.com/user-attachments/assets/cc39caf6-eea0-4607-91d1-5b4200038da3" />
+
+<img width="748" height="378" alt="PC1-internet" src="https://github.com/user-attachments/assets/4dee0a65-d4cb-47e3-a84a-6e92c376ba25" />
 
 
 ---
@@ -28,7 +29,8 @@ Confirm that all PCs across VLANs can reach the Internet by successfully pinging
 **Test:** Ping 1.1.1.1  
 **Result:** ✅ Successful  
 
-<img width="736" height="364" alt="PC3-internet" src="https://github.com/user-attachments/assets/e4b225d3-a846-43f3-821a-220456c866a1" />
+<img width="735" height="365" alt="PC3-internet" src="https://github.com/user-attachments/assets/deb41d28-79a0-412f-9b81-f27af504719d" />
+
 
 ---
 
@@ -38,7 +40,7 @@ Confirm that all PCs across VLANs can reach the Internet by successfully pinging
 **Test:** Ping 1.1.1.1  
 **Result:** ✅ Successful  
 
-<img width="740" height="384" alt="PC5-internet" src="https://github.com/user-attachments/assets/ea3b9b3b-4ac3-440a-8002-09a458d88d46" />
+<img width="741" height="383" alt="PC5-internet" src="https://github.com/user-attachments/assets/484d008d-0e9d-4d95-84ca-68519de0ba7b" />
 
 
 ---
@@ -48,7 +50,7 @@ Confirm that all PCs across VLANs can reach the Internet by successfully pinging
 **Test:** Ping 1.1.1.1  
 **Result:** ✅ Successful  
 
-<img width="746" height="372" alt="PC7-internet" src="https://github.com/user-attachments/assets/88e2e75f-484a-4f4a-a0ce-2e0632e52ab6" />
+<img width="748" height="374" alt="PC7-internet" src="https://github.com/user-attachments/assets/049b4b1c-8820-42c7-a440-380faaf3b9f3" />
 
 ---
 
