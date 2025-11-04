@@ -61,7 +61,7 @@ If multiple ports have the same root cost, STP uses **tie-breakers**:
 
 <img width="510" height="326" alt="SW1-F12-cost" src="https://github.com/user-attachments/assets/740bd238-20c5-4163-9fed-294ae0a2293f" />
 
-- Two possible paths to SW3 (via F0/3 and F0/4)
+- There are two possible paths to SW3 (via F0/3 and F0/4)
 - Both have **equal root cost = 19**
 - **SW3** is the neighbor in this case so to break the tie, Check **SW3 port ID**
 
@@ -72,5 +72,6 @@ show spanning-tree
 ```
 
 **Expected output: ✅**
+
 <img width="529" height="153" alt="SW3-show-stp" src="https://github.com/user-attachments/assets/c806d59f-4e38-4f8d-9e78-581d283338c8" />
 
