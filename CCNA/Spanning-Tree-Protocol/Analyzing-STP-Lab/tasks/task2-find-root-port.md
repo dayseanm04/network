@@ -89,7 +89,7 @@ show spanning-tree
   - From SW3 F0/3 → Cost = 19
   - From SW4 G0/1 → Cost = 8
 
- ### ✅ **SW2 Root Port = G0/1** (lowest total cost path to the Root = 8)
+### ✅ **SW2 Root Port = G0/1** (lowest total cost path to the Root = 8)
 
 ### On SW2 in Priviliged EXEC mode:
 
@@ -100,3 +100,21 @@ show spanning-tree
 **Expected output: ✅**
 
 <img width="534" height="148" alt="SW2-show-stp" src="https://github.com/user-attachments/assets/94dbc20a-0351-47e4-be94-4d4e6847d553" />
+
+---
+
+### 🧱 SW4 (Non-Root)
+- Advertised cost = 0 on G0/2
+- Interface cost (G0/2) = 4
+- Total = **4**
+
+### ✅ **SW4 Root Port = G0/2**
+
+### On SW4 in Priviliged EXEC mode:
+
+```bash
+show spanning-tree
+```
+
+**Expected output: ✅**
+<img width="545" height="112" alt="SW4-show-stp" src="https://github.com/user-attachments/assets/720c28de-eae9-476e-b4e0-14e9768a0259" />
