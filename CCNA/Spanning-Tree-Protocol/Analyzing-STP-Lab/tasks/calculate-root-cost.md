@@ -1,4 +1,4 @@
-### More Details below
+# Root Cost Calculations below
 
 **📝 Caluclate the Root: the total cost of the outgoing interfaces + the path to the root bridge.**
 
