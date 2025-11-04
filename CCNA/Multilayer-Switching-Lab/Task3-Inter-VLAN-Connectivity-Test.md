@@ -35,7 +35,7 @@ Verify that hosts in different VLANs can communicate with each other through the
 **Test:** PC1 (VLAN10) → PC3 (VLAN30)  
 **Expected Result:** ✅ Success
 
-<img width="742" height="404" alt="PC1-PC3" src="https://github.com/user-attachments/assets/c391c5a7-5fff-4b5c-ba2a-91dd026f2a54" />
+<img width="741" height="403" alt="PC1-PC3" src="https://github.com/user-attachments/assets/50642b8d-58d1-4766-a844-d867fdfc1966" />
 
 ---
 
@@ -43,7 +43,8 @@ Verify that hosts in different VLANs can communicate with each other through the
 **Test:** PC1 (VLAN10) → PC5 (VLAN20)  
 **Expected Result:** ✅ Success
 
-<img width="752" height="366" alt="PC1-PC5" src="https://github.com/user-attachments/assets/bbba47f1-ee48-444e-981d-3e8b4a4532fb" />
+<img width="746" height="362" alt="PC1-PC5" src="https://github.com/user-attachments/assets/c4152efc-c9dd-495d-b155-f4bdef16fd6f" />
+
 
 ---
 
@@ -51,7 +52,8 @@ Verify that hosts in different VLANs can communicate with each other through the
 **Test:** PC4 (VLAN30) → PC6 (VLAN10)  
 **Expected Result:** ✅ Success 
 
-<img width="756" height="372" alt="PC4-PC6" src="https://github.com/user-attachments/assets/d783b4d8-79e6-4e9a-998a-c4c1d2e54ea1" />
+<img width="749" height="369" alt="PC4-PC6" src="https://github.com/user-attachments/assets/f0991344-0165-4d47-8862-1abf2b374faf" />
+
 
 --
 
@@ -59,7 +61,8 @@ Verify that hosts in different VLANs can communicate with each other through the
 **Test:** PC5 (VLAN20) → PC2 (VLAN10)  
 **Expected Result:** ✅ Success
 
-<img width="757" height="384" alt="PC5-PC2" src="https://github.com/user-attachments/assets/98d64982-eb68-4424-93aa-d507c0fbeedd" />
+<img width="753" height="380" alt="PC5-PC2" src="https://github.com/user-attachments/assets/7c4339f5-2fa4-4e5e-b5bc-86d439f6fab4" />
+
 
 ---
 
@@ -67,7 +70,7 @@ Verify that hosts in different VLANs can communicate with each other through the
 **Test:** PC6 (VLAN10) → PC5 (VLAN20)  
 **Expected Result:** ✅ Success
 
-<img width="747" height="414" alt="PC6-PC5" src="https://github.com/user-attachments/assets/5b9f7ded-c43a-4f4c-a391-2dee28809633" />
+<img width="741" height="409" alt="PC6-PC5" src="https://github.com/user-attachments/assets/0fd3dd4a-ccbb-45d2-b256-446c4ba7cf2d" />
 
 ---
 
