@@ -28,12 +28,14 @@ show vlan brief
 ```
 
 #### SW1 show vlan brief output:
-<img width="815" height="228" alt="sw1-show-vlans" src="https://github.com/user-attachments/assets/05fbd6df-7f29-4f2f-9997-d269a396fbff" />
+<img width="817" height="232" alt="sw1-show-vlans" src="https://github.com/user-attachments/assets/ebd9f189-3bfa-408b-85b8-b2c07c936571" />
+
 
 <br/>
 
 #### SW2 show vlan brief output:
-<img width="813" height="241" alt="sw2-show-vlans" src="https://github.com/user-attachments/assets/c13e9f39-04ae-40b3-9cf8-5f602ccd3e6a" />
+<img width="817" height="246" alt="sw2-show-vlans" src="https://github.com/user-attachments/assets/7ee3a17f-2ec7-4241-a4d8-b9ea5bfb1e4c" />
+
 
 <br/>
 
