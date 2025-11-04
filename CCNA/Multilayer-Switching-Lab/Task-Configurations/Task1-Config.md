@@ -104,14 +104,15 @@ do show ip interface brief
 ```
 
 ### Expected Output ✅:
-<img width="819" height="155" alt="verify-sw-ip-int-p2p" src="https://github.com/user-attachments/assets/4116edb9-ba34-4790-af35-7468d3cdafb8" />
+<img width="817" height="152" alt="verify-sw-ip-int-p2p" src="https://github.com/user-attachments/assets/c9f62b15-7036-4d21-bf4b-590b6194ba58" />
 
 ```bash
 do show interface status
 ```
 
 ### Expected Output ✅:
-<img width="818" height="154" alt="SW2-int-status" src="https://github.com/user-attachments/assets/b7bba67a-5c7e-4163-9063-747656417ac9" />
+<img width="815" height="153" alt="SW2-int-status" src="https://github.com/user-attachments/assets/84bb9226-12ac-4b7c-bccc-4ac7e8c3bcb4" />
+
 
 ---
 
@@ -129,7 +130,8 @@ do show ip route
 ```
 
 ### Expected Output ✅:
-<img width="809" height="277" alt="SW2-verify-route" src="https://github.com/user-attachments/assets/28c71843-13df-4018-8321-d2c94a6432c3" />
+
+<img width="806" height="274" alt="SW2-verify-route" src="https://github.com/user-attachments/assets/38426740-b13c-44ac-838a-8fd11b443c5b" />
 
 ## 3️⃣ Save config
 ```bash
