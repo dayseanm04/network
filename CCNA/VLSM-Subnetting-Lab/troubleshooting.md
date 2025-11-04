@@ -33,8 +33,9 @@ show ip route
 ```
 
 **Problem found:**
+<img width="845" height="418" alt="misconfigured-route" src="https://github.com/user-attachments/assets/637a35e2-90cd-4e30-839b-b3502ee84d63" />
 
-<img width="844" height="416" alt="misconfigured-route" src="https://github.com/user-attachments/assets/add397dd-e3bd-4886-8c94-a2058e8efa00" />
+
 
 | Misconfiguration | Incorrect Value                  | Notes |
 |-----------------|---------------------------------|-------|
