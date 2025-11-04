@@ -8,7 +8,8 @@ By the end of this lab, the network will have **full inter-VLAN connectivity** a
 ---
 
 ## Topology For Reference
-<img width="672" height="333" alt="topology" src="https://github.com/user-attachments/assets/a184dcd7-a2a7-450e-b700-8637ccfe82b7" />
+<img width="675" height="337" alt="Topology" src="https://github.com/user-attachments/assets/20970732-a28b-4980-bfb2-deac0ded16dd" />
+
 
 ---
 
