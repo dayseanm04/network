@@ -48,7 +48,7 @@ do show interfaces G0/1 switchport
 
 **Expected output ✅:**
 
-<img width="567" height="172" alt="T1-show-sp-g01-again" src="https://github.com/user-attachments/assets/b4fd391b-91f8-4b0a-a817-56a7e5040a68" />
+<img width="571" height="176" alt="T1-show-sp-g01-again" src="https://github.com/user-attachments/assets/9b3a5a5f-8111-4d62-a06a-44210b27b368" />
 
 
 ## 5️⃣ Check running-config
