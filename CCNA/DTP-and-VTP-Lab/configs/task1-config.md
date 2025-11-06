@@ -59,7 +59,8 @@ show run
 
 **Expected output ✅:**
 
-<img width="332" height="102" alt="T1-RC " src="https://github.com/user-attachments/assets/165d5413-3c5e-4c0b-8682-f41b220725ef" />
+<img width="332" height="103" alt="T1-RC" src="https://github.com/user-attachments/assets/5d08c9f9-07fc-4d82-b78d-0e8f48b60e5d" />
+
 
 ## 6️⃣ save config 
 ```bash
