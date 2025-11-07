@@ -33,7 +33,8 @@ We start from the first ping attempt and continue until the next round of testin
 - **Command:** `ipconfig`
 
 **Expected output✅:**
-<img width="739" height="370" alt="PC1-ipc" src="https://github.com/user-attachments/assets/ff18a3b3-8ffc-413f-bc35-6459a98646f3" />
+<img width="734" height="371" alt="PC1-ipc" src="https://github.com/user-attachments/assets/c52d735f-5464-40a7-999a-7815730e2ef8" />
+
 
 **Observation:**  
   - IPv4: `192.168.1.1/24`  
@@ -46,7 +47,8 @@ We start from the first ping attempt and continue until the next round of testin
 **Command:** `ping 192.168.1.254`
 
 **Expected output✅:**
-<img width="737" height="376" alt="PC1-gateway-ping" src="https://github.com/user-attachments/assets/edee99c1-c304-465c-b1a7-ea5645ba23ae" />
+
+<img width="731" height="373" alt="PC1-gateway-ping" src="https://github.com/user-attachments/assets/07e6237e-ed46-4e01-8e6f-0cfb5ef10f9e" />
 
 
 PC1 can ping its default gateway
