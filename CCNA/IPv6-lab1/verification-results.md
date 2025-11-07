@@ -106,15 +106,18 @@ show running-config | section interface
 **Objective:** Confirm successful IPv6 connectivity between PCs using the configured IPv6 addresses.
 **Verification Method:** Ping between PCs using their IPv6 addresses.
 
-**PC1 ipv6 ping test:** <br/>
-<img width="735" height="615" alt="PC1-ipv6-ping" src="https://github.com/user-attachments/assets/f37cfe8f-ab9c-47f9-adcd-6a5049d97174" />
-<br/>
+**PC1 ipv6 ping test:** 
 
-**PC2 ipv6 ping test:** <br/>
-<img width="745" height="623" alt="PC2-ipv6-ping" src="https://github.com/user-attachments/assets/bfd37cee-f2c8-4ebf-8d7c-1f25a08146d2" /> <br/>
+<img width="732" height="618" alt="PC1-ipv6-ping" src="https://github.com/user-attachments/assets/e174d158-c667-4a5f-8c7a-044620d33bf9" />
 
-**PC3 ipv6 ping test:** <br/>
-<img width="738" height="656" alt="PC3-ipv6-ping" src="https://github.com/user-attachments/assets/978fc383-9bfb-4a13-9bb1-b267021c6483" /> <br/>
+
+**PC2 ipv6 ping test:** 
+
+<img width="732" height="621" alt="PC2-ipv6-ping" src="https://github.com/user-attachments/assets/141052bb-2e78-486d-a35f-ce8dcfe1b518" />
+
+**PC3 ipv6 ping test:** 
+
+<img width="738" height="650" alt="PC3-ipv6-ping" src="https://github.com/user-attachments/assets/264a2245-b3bc-4772-8d3c-273d9c56f8c7" />
 
 
 ✅ **Expected results:**  
