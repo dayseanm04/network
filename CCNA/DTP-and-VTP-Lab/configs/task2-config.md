@@ -93,7 +93,8 @@ show vlan brief
 
 **Expected output ✅:**
 
-<img width="813" height="318" alt="T2-SW2-check-VLAN" src="https://github.com/user-attachments/assets/9b4ec6fe-68de-4a25-943f-0d99b2445ff4" />
+<img width="817" height="321" alt="T2-SW2-check-VLAN" src="https://github.com/user-attachments/assets/dcce196f-cccf-4800-95e3-c496784aa653" />
+
 
 <br>
 <br>
@@ -113,4 +114,4 @@ show vlan brief
 
 **Expected output ✅:**
 
-<img width="805" height="332" alt="T2-SW3-check-VLAN" src="https://github.com/user-attachments/assets/0ffa6a0f-1ae3-4319-be83-f89d9362461b" />
+<img width="809" height="338" alt="T2-SW3-check-VLAN" src="https://github.com/user-attachments/assets/3fd2b7ce-7f08-4c88-b45d-6221b99cf485" />
