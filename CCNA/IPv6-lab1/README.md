@@ -10,7 +10,9 @@ The lab focuses on enabling IPv6 routing on the router, assigning IPv6 addresses
 ## Topology Fore Reference
 <img width="440" height="341" alt="TFR" src="https://github.com/user-attachments/assets/f9c9d31d-cba4-4536-8c97-b08b7a5551c1" />
 
-🧰 Devices Used
+---
+
+## 🧰 Devices Used
 - 1 Cisco 2911 Router (R1)
 - 3 Cisco 2960-24TT switch (SW1-3)
 - 3 PCs
