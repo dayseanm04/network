@@ -109,7 +109,7 @@ show interfaces G0/1 switchport
 
 **Expected output ✅:**
 
-<img width="542" height="173" alt="T1-show-SW2-sp-g01" src="https://github.com/user-attachments/assets/bf1e182a-7d8f-4b96-8c18-a4ff4b0433c4" />
+<img width="550" height="181" alt="T1-show-SW2-sp-g01" src="https://github.com/user-attachments/assets/7d3c6e30-fae4-4269-80cb-647633ca3c30" />
 
 <br>
 <br>
@@ -120,7 +120,8 @@ show interfaces G0/2 switchport
 
 **Expected output ✅:**
 
-<img width="527" height="174" alt="T1-show-SW2-sp-g02" src="https://github.com/user-attachments/assets/1d000caa-ec91-4c94-a62f-7f39e2af142c" />
+<img width="528" height="174" alt="T1-show-SW2-sp-g02" src="https://github.com/user-attachments/assets/221da824-8b5d-4e21-a523-5c063827f9be" />
+
 
 ## 5️⃣ Check running-config
 ```bash
@@ -129,7 +130,8 @@ show run
 
 **Expected output ✅:**
 
-<img width="463" height="169" alt="T1-RC-SW2" src="https://github.com/user-attachments/assets/d2da235f-c9c7-416e-b137-9345aa3e1661" />
+<img width="467" height="171" alt="T1-RC-SW2" src="https://github.com/user-attachments/assets/f391b422-307b-4ff4-bfbe-b65a99bd2fce" />
+
 
 ## 6️⃣ save config 
 ```bash
