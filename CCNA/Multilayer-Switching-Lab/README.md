@@ -96,3 +96,6 @@ Pinged external IP `1.1.1.1` from multiple PCs:
 | 🖼️ [topology.png](./topology.png) | Visual representation of the Multilayer Switching Lab topology. |
 | 💾 [pkt-files](./pkt-files/) | Contains blank and completed Packet Tracer files for this lab. |
 
+**Name:** *Daysean Mensah*  
+**Course/Program:** *Cisco CCNA Studies*  
+**Lab completion date:** October 25 2025.
