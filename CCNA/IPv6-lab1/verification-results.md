@@ -34,9 +34,13 @@ show ipv6 interface brief
 **Objective:** Confirm the correct IPv6 addresses are configured on each interface.
 
 **Verification Command Used:**  
-`show running-config | section interface`
+```bash
+show running-config | section interface
+```
 
-<img width="485" height="347" alt="R1-running-config" src="https://github.com/user-attachments/assets/ee1b8a7f-6eed-47fa-8f53-e1ccc2ab62e1" />
+**Expected output ✅:**
+
+<img width="484" height="348" alt="R1-running-config" src="https://github.com/user-attachments/assets/f42f5a8e-2b43-4a7a-8c5c-270fd048c5d4" />
 
 ---
 
