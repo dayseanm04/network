@@ -33,15 +33,18 @@ The loop prevented packets from reaching R3, beacause the traffic was bouncing r
 
 **Simulation Mode**
 
-<img width="789" height="291" alt="PC1-R1-sim" src="https://github.com/user-attachments/assets/c0177363-cacf-43bb-9b6c-7d1536eaedb5" />
+<img width="794" height="296" alt="PC1-R1-sim" src="https://github.com/user-attachments/assets/da6a8882-7397-417e-a4b6-eb7c0e4143e6" />
+
 
 - **The ICMP ping packet it sent to R1**
 
-<img width="739" height="285" alt="R1-R2-Loop" src="https://github.com/user-attachments/assets/10d8ac9e-f9ed-48fa-85e1-36532fd7410e" />
+<img width="743" height="289" alt="R1-R2-Loop" src="https://github.com/user-attachments/assets/d5d17862-9787-420a-b049-9b36345c8d6a" />
+
 
 - **R1 forwards the packet to R2**
 
-<img width="693" height="285" alt="R2-R1-Loop" src="https://github.com/user-attachments/assets/8b7391f4-b90b-4a22-b990-db0e4be54ac7" />
+<img width="696" height="291" alt="R2-R1-Loop" src="https://github.com/user-attachments/assets/b9a43cc7-e347-43e5-ac28-2ce77bb4f7df" />
+
 
 - **R2 sends the packet back to 1**
 - **And the cycle repeats (LOOP**)
