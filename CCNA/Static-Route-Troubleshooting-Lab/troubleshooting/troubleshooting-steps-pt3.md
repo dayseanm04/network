@@ -121,11 +121,11 @@ show ip route
 
 ---
 
-PC2 Reply to PC1
+## PC2 Reply to PC1
 
 **Simulation:**
 
-<img width="683" height="280" alt="PC2-reply1" src="https://github.com/user-attachments/assets/96037aab-7331-4485-b766-ef04b7d9f395" />
+<img width="690" height="285" alt="PC2-reply1" src="https://github.com/user-attachments/assets/61a53d8d-c3df-4321-ad6c-59403c4e7a01" />
 
 - PC2 to SW2 to R3
 
