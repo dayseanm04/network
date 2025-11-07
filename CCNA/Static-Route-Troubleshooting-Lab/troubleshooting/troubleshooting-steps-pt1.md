@@ -89,8 +89,8 @@ show ip route
 ```
 
 **Expected output✅:**
-<img width="805" height="332" alt="R1-misconfiged-route" src="https://github.com/user-attachments/assets/49a654d9-fb4d-461b-98dd-f1db76a40289" />
 
+<img width="808" height="336" alt="R1-misconfiged-route" src="https://github.com/user-attachments/assets/5f5248f9-1bb3-46a9-b6cf-4fab84d9d1f2" />
 
 - **Observation:**  
 - **Found the incorrect route**: The next hop to 192.168.3.0/24 network should be **192.168.12.2** not **192.168.12.3**.
@@ -108,7 +108,8 @@ ip route 192.168.3.0 255.255.255.0 192.168.12.2
 
 **Verify with show ip route:**
 **Expected output✅:**
-<img width="810" height="333" alt="R1-good-route" src="https://github.com/user-attachments/assets/a7844f1f-439d-485b-b653-13417d02d86c" />
+
+<img width="812" height="336" alt="R1-good-route" src="https://github.com/user-attachments/assets/143dee1d-1a0b-4c76-b09e-3f5e844f6527" />
 
 ---
 
