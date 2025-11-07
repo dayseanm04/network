@@ -3,7 +3,8 @@
 Step-by-step guide to configure the PCs in each LAN with the correct IP address and default gateway.
 
 ## Topology for reference
-<img width="684" height="316" alt="TFR" src="https://github.com/user-attachments/assets/a09bbb30-53e6-43ff-b718-b30ce526d1b1" />
+
+<img width="704" height="340" alt="TFR" src="https://github.com/user-attachments/assets/8e5bf592-4f7e-42a6-b4bb-7a6e5418ce20" />
 
 
 ## 📋 PCs IP Address Table
