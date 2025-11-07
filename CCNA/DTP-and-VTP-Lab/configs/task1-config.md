@@ -170,7 +170,7 @@ do show interfaces G0/1 switchport
 
 **Expected output ✅:**
 
-<img width="529" height="169" alt="T1-show-SW3-sp-g01" src="https://github.com/user-attachments/assets/76ffb50b-1a76-4283-8c62-2021196fdeab" />
+<img width="534" height="174" alt="T1-show-SW3-sp-g01" src="https://github.com/user-attachments/assets/a01101fd-713e-47e3-a7ca-62a7c8a7f006" />
 
 
 ## 5️⃣ Check running-config
@@ -181,10 +181,10 @@ show run
 
 **Expected output ✅:**
 
-<img width="369" height="99" alt="T1-RC-SW3" src="https://github.com/user-attachments/assets/105ad70f-f401-40e7-98cd-5a7df44e80e6" />
+<img width="372" height="102" alt="T1-RC-SW3" src="https://github.com/user-attachments/assets/a37b43de-af76-422a-aae9-e74586a24f27" />
+
 
 ## 6️⃣ save config 
 ```bash
 write memory
 ```
-
