@@ -44,7 +44,8 @@ show ip route
 ```
 
 **Expected Output ✅**
-<img width="809" height="338" alt="R1 RT" src="https://github.com/user-attachments/assets/a05e58f2-674a-4c77-8874-eb1e1e4e15b6" />
+
+<img width="813" height="341" alt="R1 RT" src="https://github.com/user-attachments/assets/c85d2fd5-0849-44ab-98a7-882f997d25cc" />
 
 
 ---
@@ -76,7 +77,8 @@ ip route 192.168.1.0 255.255.255.0 192.168.12.1
 show ip route
 ```
 **Expected Output ✅**
-<img width="809" height="361" alt="R2-RT" src="https://github.com/user-attachments/assets/8be2c06c-4ea0-469f-a5d2-493b72e11425" />
+
+<img width="814" height="365" alt="R2-RT" src="https://github.com/user-attachments/assets/6da5d123-d5c8-4652-bd8c-c747a92e89a5" />
 
 ---
 
@@ -101,4 +103,5 @@ ip route 192.168.3.0 255.255.255.0 192.168.13.2
 show ip route
 ```
 **Expected Output ✅**
-<img width="729" height="374" alt="R3-RT" src="https://github.com/user-attachments/assets/dda9deaf-9f81-45c9-9b86-f32a728643fa" />
+
+<img width="733" height="377" alt="R3-RT" src="https://github.com/user-attachments/assets/c799ced3-0b74-48b0-bdad-b5371870221b" />
