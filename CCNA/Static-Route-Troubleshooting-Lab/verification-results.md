@@ -10,7 +10,7 @@ To verify that **all routing misconfigurations have been corrected** and that **
 ### 🖥️ PC1 → PC2 Ping Test
 - **Action:** Ping **PC2 (192.168.3.1)** from **PC1 (192.168.1.1)**.
 
-<img width="742" height="373" alt="PC1-PC2-Ping" src="https://github.com/user-attachments/assets/04d96448-18df-494d-8f8f-ad8d46244648" />
+<img width="737" height="376" alt="PC1-PC2-Ping" src="https://github.com/user-attachments/assets/fa59486e-1379-4453-a6de-d7c34dca57b7" />
 
 - **Expected Result:** Successful ICMP echo replies.
 - **Result:** ✅ PC1 successfully pinged PC2.
@@ -20,8 +20,7 @@ To verify that **all routing misconfigurations have been corrected** and that **
 ### 🖥️ PC2 → PC1 Ping Test
 - **Action:** Ping **PC1 (192.168.1.1)** from **PC2 (192.168.3.1)**.
 
-
-<img width="733" height="411" alt="PC2-PC1-Ping" src="https://github.com/user-attachments/assets/0e8ebd50-4169-42cb-94b1-70adf479266f" />
+<img width="737" height="398" alt="PC2-PC1-Ping" src="https://github.com/user-attachments/assets/07edd3af-fecf-44d2-89a2-a1e92409c45c" />
 
 - **Expected Result:** Successful ICMP echo replies.
 - **Result:** ✅ PC2 successfully pinged PC1.
