@@ -41,4 +41,5 @@ show ip route
 
 ### Expected output ✅
 
-<img width="711" height="413" alt="R2-route" src="https://github.com/user-attachments/assets/2cf1400f-2e69-4bc7-a0eb-1d6549482da5" />
+<img width="716" height="420" alt="R2-route" src="https://github.com/user-attachments/assets/2085c01e-5352-4785-b537-0417b3300423" />
+
