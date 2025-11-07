@@ -7,7 +7,8 @@ The loop prevented packets from reaching R3, beacause the traffic was bouncing r
 ---
 
 ## Topology For Reference
-<img width="682" height="275" alt="TFR" src="https://github.com/user-attachments/assets/3cc35f18-e8d9-4713-ae2b-0accfc407b19" />
+<img width="683" height="296" alt="TFR" src="https://github.com/user-attachments/assets/6dd5a050-a56b-45ce-99c1-091a04d44750" />
+
 
 ---
 
