@@ -7,7 +7,8 @@ After fixing R1 and R2, packets reached R3 but stopped there — indicating an I
 ---
 
 ## Topology For Reference
-<img width="682" height="275" alt="TFR" src="https://github.com/user-attachments/assets/3cc35f18-e8d9-4713-ae2b-0accfc407b19" />
+<img width="683" height="296" alt="TFR" src="https://github.com/user-attachments/assets/110f3bf2-ac22-41dc-9cf9-e90d33c2c55e" />
+
 
 ---
 
