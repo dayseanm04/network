@@ -62,7 +62,9 @@ PC1 can ping its default gateway
   - Indicates a **routing issue** on R1.  
 
 **Simultation Mode:** <br>
-<img width="695" height="279" alt="PC1-PC2-Sim" src="https://github.com/user-attachments/assets/c968a3a7-202e-4940-8678-c3180a6f2414" />
+
+<img width="700" height="284" alt="PC1-PC2-Sim" src="https://github.com/user-attachments/assets/06f04827-f433-4895-9d9b-c98b779bd480" />
+
 - The ICMP ping packet was sent from PC1 to SW1 and then to R1, but the packet doesn't get forwarded to R2
 
 ---
