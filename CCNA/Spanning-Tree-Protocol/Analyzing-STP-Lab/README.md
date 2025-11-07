@@ -23,3 +23,9 @@ Through this lab, I determined which switch became the **Root Bridge**, identifi
 |------------|---------------|
 | FastEthernet (100 Mbps) | 19 |
 | GigabitEthernet (1 Gbps) | 4 |
+
+## ✍️ Author Information
+
+**Name:** *Daysean Mensah*  
+**Course/Program:** *Cisco CCNA Studies*  
+**Lab completion date:** Novemebr 1 2025.
