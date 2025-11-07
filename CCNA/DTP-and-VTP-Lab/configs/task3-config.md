@@ -24,7 +24,8 @@ vtp mode transparent
 
 **Expected Output ✅:**
 
-<img width="467" height="61" alt="T3-SW3-transparent" src="https://github.com/user-attachments/assets/575acad4-45a3-4da6-9850-3b0039bbe672" />
+<img width="470" height="64" alt="T3-SW3-transparent" src="https://github.com/user-attachments/assets/da0c86f8-b1d1-4242-91e0-c51f2e6b2bf7" />
+
 
 Verify the current VTP status:
 
