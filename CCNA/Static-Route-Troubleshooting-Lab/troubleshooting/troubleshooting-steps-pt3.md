@@ -137,7 +137,8 @@ show ip route
 
 - R2 to R1
 
-<img width="706" height="316" alt="PC2-reply4" src="https://github.com/user-attachments/assets/1e8195f8-9af4-4ff4-9a64-53f9d9c8d67f" />
+<img width="708" height="318" alt="PC2-reply4" src="https://github.com/user-attachments/assets/4074ea47-8d8c-4a9a-9590-578fdd500d76" />
+
 
 - R1 to SW1 to PC1
 
