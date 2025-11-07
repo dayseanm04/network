@@ -77,3 +77,4 @@ The goal is to efficiently allocate IP address ranges for multiple LANs and a po
 
 **Name:** *Daysean Mensah*  
 **Course/Program:** *Cisco CCNA Studies*  
+**Lab completion date:** October 17 2025.
