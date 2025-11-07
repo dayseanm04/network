@@ -84,14 +84,18 @@ show running-config | section interface
 
 ---
 
-**PC1 ipv4 ping test:** <br/>
-<img width="734" height="612" alt="pc1-ipv4-pt" src="https://github.com/user-attachments/assets/61833cf0-fe0e-41db-be4f-e50847fcd71b" /> <br/>
+**PC1 ipv4 ping test:**
 
-**PC2 ipv4 ping test:** <br/>
-<img width="735" height="622" alt="pc2-ipv4-pt" src="https://github.com/user-attachments/assets/3750e285-6056-41c6-8daf-1242cfc13941" /> <br/>
+<img width="739" height="620" alt="pc1-ipv4-pt" src="https://github.com/user-attachments/assets/03e92199-bfbb-44db-a383-16d2049f0fb8" />
 
-**PC3 ipv4 ping test:** <br/>
-<img width="741" height="616" alt="pc3-ipv4-pt" src="https://github.com/user-attachments/assets/a49d2c33-9435-49da-a488-abdb89f5a560" /> <br/>
+
+**PC2 ipv4 ping test:**
+
+<img width="740" height="624" alt="pc2-ipv4-pt" src="https://github.com/user-attachments/assets/e293a285-66f1-43c7-9dc0-85f9812d7546" />
+
+**PC3 ipv4 ping test:**
+
+<img width="737" height="615" alt="pc3-ipv4-pt" src="https://github.com/user-attachments/assets/93f57249-1de9-445b-820d-af84109cdc4a" />
 
 
 ✅ **Expected results:** All pings succeed using IPv4.
