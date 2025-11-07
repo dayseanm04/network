@@ -1,11 +1,9 @@
 # 🚀 R2 Task2 Configuration
 
----
 
-### Topology for reference
+## Topology for reference
 
 <img width="677" height="314" alt="TPR2" src="https://github.com/user-attachments/assets/a80c2c94-2d50-4653-ac54-dcde0a05c778" />
-
 
 ---
 
