@@ -28,7 +28,8 @@ vtp mode client
 
 **Expected Output ✅:**
 
-<img width="475" height="63" alt="T4-vtp-client" src="https://github.com/user-attachments/assets/04107175-e6c7-4832-83ae-887908b5ebfe" />
+<img width="473" height="61" alt="T4-vtp-client" src="https://github.com/user-attachments/assets/1f1479c6-270a-4ece-9134-baa14a25f5f6" />
+
 
 ## 3️⃣ Attempt to create VLAN 50:
 ```bash
@@ -37,6 +38,6 @@ vlan 50
 
 **Expected Output ✅:**
 
-<img width="661" height="61" alt="T4-vlan50" src="https://github.com/user-attachments/assets/6a406ad6-949b-4263-b305-d4ac8442981b" />
+<img width="666" height="65" alt="T4-vlan50" src="https://github.com/user-attachments/assets/ac22ce1a-d775-4aa9-aa71-ac01d00699a8" />
 
 **Note:** Cannot configure vlan 50 because SW3 is in client mode, so to configure VLAN 50 on SW3, you have too configure it on SW1, which will then sync the VLAN database.
