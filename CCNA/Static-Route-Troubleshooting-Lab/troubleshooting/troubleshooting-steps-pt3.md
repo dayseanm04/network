@@ -139,29 +139,4 @@ show ip route
 
 <img width="708" height="318" alt="PC2-reply4" src="https://github.com/user-attachments/assets/4074ea47-8d8c-4a9a-9590-578fdd500d76" />
 
-
 - R1 to SW1 to PC1
-
-
-**PC2 reply to PC1**
-
-<img width="683" height="280" alt="PC2-reply1" src="https://github.com/user-attachments/assets/96037aab-7331-4485-b766-ef04b7d9f395" />
-
-- PC2 to SW2 to R3
-
-<img width="679" height="280" alt="PC2-reply2" src="https://github.com/user-attachments/assets/c3f5260d-9a8d-44b5-a1d3-d71d8723a7fd" />
-
-- R3 to R2
-
-<img width="688" height="283" alt="PC2-reply3" src="https://github.com/user-attachments/assets/786524c5-1522-44f7-b486-f84da085eee4" />
-
-- R2 to R1
-
-<img width="706" height="316" alt="PC2-reply4" src="https://github.com/user-attachments/assets/1e8195f8-9af4-4ff4-9a64-53f9d9c8d67f" />
-
-- R1 to SW1 to PC1
-
-**Observation:**
-- PC2 → SW2 → R3 → R2 → R1 → SW1 → PC1
-
-✅ Ping successful in both directions.
