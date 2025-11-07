@@ -35,7 +35,6 @@ After fixing R1 and R2, packets reached R3 but stopped there — indicating an I
   - Packet moves **PC1 → SW1 → R1 → R2 → R3** but stops at **R3**.  
   - ❌ ICMP request does not reach PC2.  
 
---- 
 
 ---
 
@@ -46,7 +45,9 @@ After fixing R1 and R2, packets reached R3 but stopped there — indicating an I
 ```
 
 **Results**
-<img width="813" height="114" alt="R3-interfaces-misconfig" src="https://github.com/user-attachments/assets/a4280293-f7f3-4e49-bbbe-3806d0f1112f" />
+
+<img width="813" height="113" alt="R3-interfaces-misconfig" src="https://github.com/user-attachments/assets/c93e40da-e27f-46cc-b685-66c442f8463b" />
+
 
 - g0/0 ip address is incorrect
 - it should be 192.168.13.3/24, not 192.168.23.2/24.
@@ -67,7 +68,9 @@ show ip int brief
 ```
 
 **Expected output✅:**
-<img width="807" height="108" alt="R3-interfaces-fixed" src="https://github.com/user-attachments/assets/26178789-ea6d-41a5-8bfb-4b591cda1117" />
+
+<img width="817" height="117" alt="R3-interfaces-misconfig" src="https://github.com/user-attachments/assets/a40dcef4-2430-4abb-9462-255d211bce13" />
+
 
 ---
 
@@ -80,7 +83,8 @@ show ip route
 
 **Results**
 
-<img width="743" height="362" alt="R3-RT" src="https://github.com/user-attachments/assets/99c2e7e7-7d7e-402b-ab7b-ef2f5caef886" />
+<img width="746" height="365" alt="R3-RT" src="https://github.com/user-attachments/assets/4777baaf-9172-4be6-835e-5de8232351df" />
+
 
 
 **Observation:**
