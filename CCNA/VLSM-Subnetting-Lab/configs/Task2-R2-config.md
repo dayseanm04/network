@@ -3,7 +3,8 @@
 ---
 
 ### Topology for reference
-<img width="673" height="311" alt="TPR2" src="https://github.com/user-attachments/assets/b00cbd6a-311c-40de-a86e-3cf3f30005c0" />
+
+<img width="677" height="314" alt="TPR2" src="https://github.com/user-attachments/assets/a80c2c94-2d50-4653-ac54-dcde0a05c778" />
 
 
 ---
