@@ -1,7 +1,8 @@
 # 🧭 Static Route Troubleshooting Lab
 
 ## Topology For Reference
-<img width="682" height="275" alt="TFR" src="https://github.com/user-attachments/assets/b06669f8-b20c-4d9d-98e8-f4abeefac4a9" />
+<img width="791" height="324" alt="topology" src="https://github.com/user-attachments/assets/a2a2578e-c7f6-4788-b517-82f8787f227d" />
+
 
 ---
 
