@@ -62,7 +62,8 @@ show ip int brief
 ```
 
 **Expected output✅:**
-<img width="818" height="159" alt="R2-interfsces" src="https://github.com/user-attachments/assets/e909da92-b7d8-4156-83c4-544c3bb49b47" />
+<img width="820" height="163" alt="R2-int" src="https://github.com/user-attachments/assets/6b1e4781-d306-49a5-84d3-d50d9d7f569c" />
+
 
 - ✅ Both interfaces are correctly configured and active.
 
@@ -72,8 +73,11 @@ show ip int brief
 ```bash
 show ip route
 ```
+
 **Results**
-<img width="807" height="348" alt="R2-misconfiged-route" src="https://github.com/user-attachments/assets/a389c280-3826-4301-8a31-6c7dceb513be" />
+
+<img width="810" height="353" alt="R2-misconfiged-route" src="https://github.com/user-attachments/assets/818573be-24c3-416c-9278-79c97c68b780" />
+
 
 **Observation:**
 - Found incorrect static route: the exit interface for packet destined for 192.168.3.0/24 network is g0/0
@@ -100,7 +104,8 @@ show ip route
 ```
 
 **Expected output✅:**
-<img width="806" height="354" alt="R2-good-route" src="https://github.com/user-attachments/assets/dbb8c78e-446e-4828-ae31-5a0856259638" />
+
+<img width="810" height="361" alt="R2-good-route" src="https://github.com/user-attachments/assets/6491fe0e-b55d-404a-bd93-348304906ba6" />
 
 - The route to 192.168.3.0/24 network point to g0/1
 - Routing loop should no longer occur.
