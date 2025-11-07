@@ -136,7 +136,8 @@ do show vlan brief
 
 **Expected output ✅:**
 
-<img width="807" height="245" alt="T5-SW3-vlan" src="https://github.com/user-attachments/assets/f8006531-0c56-4242-9a70-bddfadae3a3d" />
+<img width="806" height="249" alt="T5-SW3-vlan" src="https://github.com/user-attachments/assets/e1cb8485-2a60-4fc7-88cf-c72556b630cd" />
+
 
 # Verification DTP status
 
@@ -147,7 +148,8 @@ show dtp status
 
 **Expected output ✅:**
 
-<img width="507" height="117" alt="T5-SW1-dtp-verify" src="https://github.com/user-attachments/assets/311ef93b-3a7a-436d-afdb-77c6bb94e1ce" />
+<img width="511" height="121" alt="T5-SW1-dtp-verify" src="https://github.com/user-attachments/assets/3c214827-b1a8-4404-af9d-9d24370f4731" />
+
 
 ## 2️⃣ Check SW2 DTP status in global config mode:
 ```bash
@@ -156,7 +158,8 @@ show dtp status
 
 **Expected output ✅:**
 
-<img width="504" height="115" alt="T5-SW2-dtp-verify" src="https://github.com/user-attachments/assets/34ca1058-5a51-41a9-9c94-454ba79505aa" />
+<img width="507" height="118" alt="T5-SW2-dtp-verify" src="https://github.com/user-attachments/assets/414b34f3-9996-48b8-a52c-3239d057bd0b" />
+
 
 ## 3️⃣ Check SW3 DTP status in global config mode:
 
@@ -166,4 +169,5 @@ show dtp status
 
 **Expected output ✅:**
 
-<img width="549" height="115" alt="T5-SW3-dtp-verify" src="https://github.com/user-attachments/assets/ab6a017c-5525-4445-9927-d83223cea03f" />
+<img width="553" height="118" alt="T5-SW3-dtp-verify" src="https://github.com/user-attachments/assets/dd6b665b-fbef-47a2-9415-22bff2d84a35" />
+
