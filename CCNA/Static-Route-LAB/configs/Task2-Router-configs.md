@@ -3,7 +3,8 @@
 ### Objective: Configure static routes on the routers
 
 ## Topology For Reference
-<img width="695" height="280" alt="Topology" src="https://github.com/user-attachments/assets/aae3b0a8-1b51-4f82-8adc-49591e9dd093" />
+
+<img width="787" height="320" alt="topology" src="https://github.com/user-attachments/assets/3d2ff2ca-f7af-4da0-a089-917e6760307b" />
 
 ---
 ## 🧭 Static Route Table
