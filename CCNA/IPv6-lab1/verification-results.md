@@ -10,7 +10,9 @@ It includes evidence of IPv6 routing, interface addressing, and end-to-end conne
 **Objective:** Verify that all router interfaces have the correct IPv6 addresses and are operational.
 
 **Verification Command Used:**  
-`show ipv6 interface brief`
+```bash
+show ipv6 interface brief
+```
 
 **Expected output ✅:**
 <img width="635" height="233" alt="R1-show-ipv6-int" src="https://github.com/user-attachments/assets/9d0ab0bc-c0cf-43a4-b668-8a377c39ebc4" />
