@@ -69,9 +69,10 @@ exit
 ```
 
 ## 🔎 Verification: After completing the configuration, verify VLAN creation and port assignments.
-### Check VLANs
+### Check VLANs:
 
-<img width="788" height="237" alt="vefify VLAN config" src="https://github.com/user-attachments/assets/14eec748-b538-48ca-8bdf-41603372d10c" />
+<img width="777" height="237" alt="vefify VLAN config" src="https://github.com/user-attachments/assets/b3a02915-c187-46c5-bd16-95f9fb373a68" />
+
 <br/>
 
 **Expected Output**
