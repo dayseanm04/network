@@ -7,7 +7,8 @@ We start from the first ping attempt and continue until the next round of testin
 ---
 
 ## Topology For Reference
-<img width="682" height="275" alt="TFR" src="https://github.com/user-attachments/assets/3cc35f18-e8d9-4713-ae2b-0accfc407b19" />
+
+<img width="683" height="296" alt="TFR" src="https://github.com/user-attachments/assets/203c5307-ab6e-4d08-be2e-ed496e23eae7" />
 
 ---
 
