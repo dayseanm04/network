@@ -15,6 +15,7 @@ show ipv6 interface brief
 ```
 
 **Expected output ✅:**
+
 <img width="635" height="233" alt="R1-show-ipv6-int" src="https://github.com/user-attachments/assets/9d0ab0bc-c0cf-43a4-b668-8a377c39ebc4" />
 
 
