@@ -47,15 +47,19 @@ show running-config | section interface
 ## 🔹 PC IPv6 Configuration Verification
 **Objective:** Verify that all PCs have the correct IPv6 address and default gateway settings.
 
-**PC1 IP config:** <br/>
-<img width="744" height="418" alt="pc1-ipc" src="https://github.com/user-attachments/assets/0946f346-5687-4bb5-99e9-bdfb606c149b" /> <br/>
+**PC1 IP config:** 
+
+<img width="745" height="420" alt="PC1-IPC" src="https://github.com/user-attachments/assets/42d70971-cd3c-4989-840d-cb3d8bc20ae9" />
+
 
 **PC2 IP config:**
-<img width="745" height="340" alt="pc2-ipc" src="https://github.com/user-attachments/assets/126a1ebd-7f2e-42dd-8e20-14830441d8ab" /> <br/>
+
+<img width="746" height="343" alt="PC2-IPC" src="https://github.com/user-attachments/assets/4f32e37c-c116-4c17-8017-5134762230dd" />
 
 
 **PC3 IP config:** <br/>
-<img width="745" height="347" alt="pc3-ipc" src="https://github.com/user-attachments/assets/2084c00c-bae6-4d87-b587-f264e786ad42" /> <br/>
+
+<img width="749" height="350" alt="PC3-IPC" src="https://github.com/user-attachments/assets/73ea93bf-4b6e-48e3-9af5-815000e3b571" />
 
 **Expected results:**
 | PC | IPv6 Address | Default Gateway |
