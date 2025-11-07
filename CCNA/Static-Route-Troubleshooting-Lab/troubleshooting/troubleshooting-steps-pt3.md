@@ -129,11 +129,11 @@ show ip route
 
 - PC2 to SW2 to R3
 
-<img width="679" height="280" alt="PC2-reply2" src="https://github.com/user-attachments/assets/c3f5260d-9a8d-44b5-a1d3-d71d8723a7fd" />
+<img width="681" height="282" alt="PC2-reply2" src="https://github.com/user-attachments/assets/a7d6060d-bd65-4178-9677-b43c6fb19d8f" />
 
 - R3 to R2
 
-<img width="688" height="283" alt="PC2-reply3" src="https://github.com/user-attachments/assets/786524c5-1522-44f7-b486-f84da085eee4" />
+<img width="690" height="285" alt="PC2-reply3" src="https://github.com/user-attachments/assets/31db6eca-a32d-4c5f-b116-bb0d1d85e520" />
 
 - R2 to R1
 
