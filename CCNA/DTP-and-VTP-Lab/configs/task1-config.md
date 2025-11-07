@@ -89,7 +89,8 @@ switchport mode trunk
 
 **Expected output ✅:**
 
-<img width="928" height="158" alt="T2-int-down-up" src="https://github.com/user-attachments/assets/291cd7e7-b479-4c70-b24c-d30742faabfb" />
+<img width="848" height="145" alt="T2-int-down-up" src="https://github.com/user-attachments/assets/1971f58b-497a-4514-9391-a167483b4b7b" />
+
 
 **Note**: it changes the interfaces state to down and it brings it back up
 
