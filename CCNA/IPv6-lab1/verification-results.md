@@ -11,7 +11,10 @@ It includes evidence of IPv6 routing, interface addressing, and end-to-end conne
 
 **Verification Command Used:**  
 `show ipv6 interface brief`
-<img width="643" height="236" alt="show-ipv6-int" src="https://github.com/user-attachments/assets/4a97c42e-0441-4c2a-96f9-d84f666dc441" />
+
+**Expected output ✅:**
+<img width="635" height="233" alt="R1-show-ipv6-int" src="https://github.com/user-attachments/assets/9d0ab0bc-c0cf-43a4-b668-8a377c39ebc4" />
+
 
 
 **Expected Results:**
