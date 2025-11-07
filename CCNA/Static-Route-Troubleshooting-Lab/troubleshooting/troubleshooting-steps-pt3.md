@@ -100,20 +100,19 @@ show ip route
 
 **Simulation**
 
-<img width="684" height="280" alt="Sucess-PC1-R1" src="https://github.com/user-attachments/assets/3e8f03cb-975c-41e8-9dc3-f074864d5cf4" />
-
+<img width="690" height="286" alt="Sucess-PC1-R1" src="https://github.com/user-attachments/assets/ea744b2e-f4fd-47ef-aa66-45c528b73521" />
 
 - PC1 to SW1 to R1
 
-<img width="685" height="276" alt="Sucess-R1-R2" src="https://github.com/user-attachments/assets/510b26a5-9f3b-45dc-9fd1-f15a6d0a0954" />
+<img width="692" height="281" alt="Sucess-R1-R2" src="https://github.com/user-attachments/assets/5c917270-64d0-4820-b22a-f47e3eb88fee" />
 
 - R1 to R2
 
-<img width="685" height="277" alt="Sucess-R2-R3" src="https://github.com/user-attachments/assets/201a8d25-0eec-4c3c-bf06-eccea8f4e2cb" />
+<img width="688" height="281" alt="Sucess-R2-R3" src="https://github.com/user-attachments/assets/2a8d2eac-04f8-4b08-ba60-6a552cc0510b" />
 
 - R2 to R3
 
-<img width="689" height="281" alt="Sucess-R3-PC2" src="https://github.com/user-attachments/assets/c002285b-a6fd-4697-be4e-d91a72252e7f" />
+<img width="691" height="284" alt="Sucess-R3-PC2" src="https://github.com/user-attachments/assets/3743683c-9ad4-42a9-ae35-38db8b681e40" />
 
 - R3 to SW2 to P2
 
