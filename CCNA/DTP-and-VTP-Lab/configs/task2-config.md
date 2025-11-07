@@ -22,7 +22,8 @@ do show vtp status
 
 **Expected output ✅:**
 
-<img width="665" height="239" alt="T2-SW1-vtp-stat" src="https://github.com/user-attachments/assets/e72af45b-8c84-41e8-989a-be76e9b3ebce" />
+<img width="669" height="244" alt="T2-SW1-vtp-stat" src="https://github.com/user-attachments/assets/c0a87773-c2d5-43bc-8664-28b3e99c0fff" />
+
 
 ## 3️⃣ Configure the switch in VTP domain CCNA:
 ```bash
@@ -31,7 +32,7 @@ vtp domain CCNA
 
 **Expected output ✅:**
 
-<img width="505" height="68" alt="T2-SW1-vtp-domain" src="https://github.com/user-attachments/assets/e3f44622-b28c-4d4f-bd65-ba214fc5d008" />
+<img width="508" height="71" alt="T2-SW1-vtp-domain" src="https://github.com/user-attachments/assets/ae7120fe-734e-4368-b493-51041a2cdee2" />
 
 
 ## 4️⃣ Create VLANs and assign names:
@@ -55,7 +56,8 @@ do show vlan brief
 ```
 
 **Expected output ✅:**
-<img width="816" height="329" alt="T2-SW1-vlan-verify" src="https://github.com/user-attachments/assets/8105af77-0a89-4946-ba61-080bb2b09036" />
+
+<img width="818" height="333" alt="T2-SW1-vlan-verify" src="https://github.com/user-attachments/assets/6fbf5771-ab0e-4257-bd96-a43245b9e542" />
 
 ## 6️⃣ Verify updated VTP status:
 ```bash
@@ -64,7 +66,7 @@ do show vtp status
 
 **Expected output ✅:**
 
-<img width="745" height="223" alt="T2-SW1-vtp-stat-again" src="https://github.com/user-attachments/assets/6d7101de-7ae1-4735-a419-d0232e689d3e" />
+<img width="749" height="226" alt="T2-SW1-vtp-stat-again" src="https://github.com/user-attachments/assets/1ad461cd-1700-4f12-b61b-f2844bc2270f" />
 
 
 ## 7️⃣ Save the configuration:
