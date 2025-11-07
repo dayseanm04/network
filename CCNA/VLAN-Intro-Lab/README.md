@@ -5,6 +5,10 @@ This lab introduces the concept of **Virtual Local Area Networks (VLANs)** and d
 
 ---
 
+## Tpology For Reference
+<img width="677" height="318" alt="topology" src="https://github.com/user-attachments/assets/fc118fe0-91ea-4514-801f-d8330bc05f0a" />
+
+
 ## 🧠 Learning Objectives
 - Understand how VLANs separate traffic within a LAN.
 - Configure VLANs on a switch.
@@ -101,3 +105,4 @@ Use the links below to explore each part of the **VLAN Intro Lab**:
 
 **Name:** *Daysean Mensah*  
 **Course/Program:** *Cisco CCNA Studies*  
+**Lab completion date:** October 6 2025.
