@@ -57,7 +57,9 @@ show vlan brief
 ```
 
 **Expected Output ✅:**
-<img width="810" height="345" alt="T3-SW1-check-VLAN" src="https://github.com/user-attachments/assets/bc61fb7d-bd2c-45eb-a1c4-00979d238048" />
+
+<img width="812" height="346" alt="T3-SW1-check-VLAN" src="https://github.com/user-attachments/assets/5d2a667c-4687-423d-86f0-728b247f6f06" />
+
 
 **Note:** VLAN 40 should not appear on SW1, since VTP Transparent mode does not propagate VLAN changes
 
@@ -78,7 +80,8 @@ show vlan brief
 ```
 
 **Expected Output ✅:**
-<img width="803" height="334" alt="T3-SW3-check-VLAN" src="https://github.com/user-attachments/assets/d54683f7-d848-4142-b3d4-d790c44d12e2" />
+
+<img width="807" height="338" alt="T3-SW3-check-VLAN" src="https://github.com/user-attachments/assets/047ef2cb-a124-4391-9dc0-96e0e5227126" />
 
 **Note:** VLAN 40 should not appear on SW3, since VTP Transparent mode does not propagate VLAN changes
 
