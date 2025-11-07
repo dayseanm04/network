@@ -88,3 +88,11 @@ By completing this lab, I learned how to:
 - Managing VLANs efficiently using VTP.
 - Controlling trunk negotiation with DTP.
 - Properly assigning access ports to their respective VLANs.
+
+---
+
+## ✍️ Author Information
+
+**Name:** *Daysean Mensah*  
+**Course/Program:** *Cisco CCNA Studies*  
+**Lab completion date:** October 30 2025.
