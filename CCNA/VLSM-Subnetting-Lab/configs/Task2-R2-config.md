@@ -66,6 +66,6 @@ show ip int brief
 ```
 
 ### Expected output ✅
-<img width="790" height="165" alt="R2-ip-int" src="https://github.com/user-attachments/assets/19a14728-d2f2-45ef-a1e0-a7e9fe9f9752" />
 
+<img width="789" height="165" alt="R2-ip-int" src="https://github.com/user-attachments/assets/40903491-d30a-4446-8e77-ee2cb2588998" />
 
