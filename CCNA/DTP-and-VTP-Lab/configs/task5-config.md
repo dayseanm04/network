@@ -54,7 +54,8 @@ do show vlan brief
 ```
 
 **Expected output ✅:**
-<img width="804" height="238" alt="T5-SW1-vlan" src="https://github.com/user-attachments/assets/7d53fce1-2d18-4269-8f84-228b8a7c5d3f" />
+
+<img width="809" height="240" alt="T5-SW1-vlan" src="https://github.com/user-attachments/assets/d5891c09-180c-4292-a864-0219699e69fb" />
 
 
 ## 5️⃣ Save configuration:
@@ -86,7 +87,8 @@ show vlan brief
 
 **Expected output✅:**
 
-<img width="803" height="265" alt="T5-SW2-vlan" src="https://github.com/user-attachments/assets/8212d28f-6c53-4621-b898-22beea5c4a62" />
+<img width="807" height="268" alt="T5-SW2-vlan" src="https://github.com/user-attachments/assets/fdc35336-d87f-4f24-b75f-955138f1a43e" />
+
 
 
 ## 4️⃣ Save configuration:
