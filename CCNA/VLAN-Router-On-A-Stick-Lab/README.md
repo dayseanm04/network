@@ -85,8 +85,9 @@ Use the links below to explore each part of the VLAN Router-On-A-Stick Lab:
 | 🧠 [**reflection.md**](./reflection.md) | Personal notes and reflection on what was learned from completing the VLAN ROAS lab. |
 
 ---
+
 ## ✍️ Author Information
 
 **Name:** *Daysean Mensah*  
 **Course/Program:** *Cisco CCNA Studies*  
-🧑‍💻 *Created as part of my CCNA studies – documenting network fundamentals.*
+**Lab completion date:** October 8 2025.
