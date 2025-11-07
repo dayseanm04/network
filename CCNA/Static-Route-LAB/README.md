@@ -72,3 +72,4 @@ The configuration achieved **two-way reachability**, confirming that static rout
 
 **Name:** *Daysean Mensah*  
 **Course/Program:** *Cisco CCNA Studies*  
+**Lab completion date:** October 18 2025.
