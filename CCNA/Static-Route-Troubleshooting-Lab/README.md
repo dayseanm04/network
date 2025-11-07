@@ -64,4 +64,8 @@ By checking interface IPs, reviewing routing tables, and correcting next-hop val
 
 📌 **Tip:** Use this section to quickly navigate through the lab files, review troubleshooting documentation, or access verification screenshots.
 
+## ✍️ Author Information
+
+**Name:** *Daysean Mensah*  
+**Course/Program:** *Cisco CCNA Studies*  
 **Lab completion date:** October 20 2025.
