@@ -50,3 +50,4 @@ The lab focuses on enabling IPv6 routing on the router, assigning IPv6 addresses
 
 **Name:** *Daysean Mensah*  
 **Course/Program:** *Cisco CCNA Studies*  
+**Lab completion date:** October 10 2025.
