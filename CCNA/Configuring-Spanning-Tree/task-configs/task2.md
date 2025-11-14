@@ -105,12 +105,15 @@ You should see:
 ## VLAN Diagrams with STP ports bellow:
 
 **VLAN 1 diagram with STP ports:**
+<img width="589" height="353" alt="T2-VLAN1-stp-ports" src="https://github.com/user-attachments/assets/90d4af2e-79a0-4ae5-90e8-4af90f9fbc96" />
 
-<img width="585" height="349" alt="T2-VLAN1-stp-ports" src="https://github.com/user-attachments/assets/fe963c6e-56d1-45db-9dcb-0b8fb32bc3e1" />
+Traffic from vlan 1 will go to the root bridge SW1
 
 **VLAN 2 diagram with STP ports:**
 
-<img width="585" height="349" alt="T2-VLAN2-stp-ports" src="https://github.com/user-attachments/assets/e10da881-4715-4576-b53e-fd46fe94bfdd" />
+<img width="589" height="353" alt="T2-VLAN2-stp-ports" src="https://github.com/user-attachments/assets/435234b0-342a-4ce6-9a49-bcc184315250" />
+
+Traffic from vlan 2 will go to the root bridge SW2
 
 ---
 
