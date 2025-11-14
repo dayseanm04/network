@@ -8,7 +8,7 @@
 
 This allows traffic for different VLANs to take different paths. 🔀
 
----
+
 
 ## 🛠️ Step 1: Configure SW1
 
