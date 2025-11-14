@@ -100,6 +100,15 @@ You should see:
 
 ---
 
+**VLAN 1 diagram with STP ports:**
+
+<img width="585" height="349" alt="T2-VLAN1-stp-ports" src="https://github.com/user-attachments/assets/fe963c6e-56d1-45db-9dcb-0b8fb32bc3e1" />
+
+**VLAN 2 diagram with STP ports:**
+<img width="585" height="349" alt="T2-VLAN2-stp-ports" src="https://github.com/user-attachments/assets/e10da881-4715-4576-b53e-fd46fe94bfdd" />
+
+---
+
 ✅ Summary of Task 2
 - Load balanced for each VLAN: VLAN 1 uses SW1 as the root bridge; VLAN 2 uses SW2 as the bridge.
 - Different priorities assigned by Cisco's automatic root primary/secondary commands.
