@@ -105,6 +105,7 @@ You should see:
 <img width="585" height="349" alt="T2-VLAN1-stp-ports" src="https://github.com/user-attachments/assets/fe963c6e-56d1-45db-9dcb-0b8fb32bc3e1" />
 
 **VLAN 2 diagram with STP ports:**
+
 <img width="585" height="349" alt="T2-VLAN2-stp-ports" src="https://github.com/user-attachments/assets/e10da881-4715-4576-b53e-fd46fe94bfdd" />
 
 ---
