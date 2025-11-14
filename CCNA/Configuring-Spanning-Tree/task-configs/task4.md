@@ -47,13 +47,8 @@ show spanning-tree
 
 <img width="749" height="360" alt="T4-show-stp-SW3" src="https://github.com/user-attachments/assets/61e20aee-c7b8-4372-9d4b-0546c9dd53e7" />
 
-**Root cost to SW1**
-
-<img width="589" height="353" alt="T4-VLAN1-cost" src="https://github.com/user-attachments/assets/bbd74990-0f6e-441c-9876-76b9ba6158af" />
-
 
 ### 🧠 Why Didn’t the Root Port Change?
 - STP only uses port priority as a tie-breaker if the root path cost are equal.
 - In this case, the root path cost did NOT change, so:
   - The port priority configuration had no effect on root port selection.
-  - F0/1 still had the lowest overall cost to reach the root bridge.
