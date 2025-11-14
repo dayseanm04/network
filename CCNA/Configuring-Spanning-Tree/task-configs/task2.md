@@ -74,4 +74,8 @@ You should see:
 - SW1 is the secondary root bridge for VLAN 2
 - Bridge ID priority around 28674 (higher than the primary bridge ID priority for VLAN 1)
 
+---
 
+✅ Summary of Task 2
+- Load balanced for each VLAN: VLAN 1 uses SW1 as the root bridge; VLAN 2 uses SW2 as the bridge.
+- Different priorities assigned by Cisco's automatic root primary/secondary commands.
