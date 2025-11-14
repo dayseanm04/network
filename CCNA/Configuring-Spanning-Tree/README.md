@@ -47,6 +47,9 @@ This lab focuses on understanding and configuring **Spanning Tree Protocol (STP)
 - Enabled PortFast and BPDU Guard on access ports.
 - Verified BPDU Guard interface shutdown behavior.
 
+## 📝 Summary
+
+This lab improved my understanding of how PVST+ allows VLAN-specific control, and how modifying STP parameters affects the network topology. I also learned how features like PortFast and BPDU Guard protect the network from misconfigurations and accidental loops.
 
 ---
 
