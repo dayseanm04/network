@@ -118,6 +118,7 @@ show spanning-tree
 - 🔄 Separate STP topologies per VLAN because Per-VLAN Spanning Tree Plus (PVST+) runs one instance per VLAN.
 - 🌐 The Root ports indicate the switch’s best path to the root bridge.
 
+---
 
 **VLAN 1 diagram with STP ports:**
 
