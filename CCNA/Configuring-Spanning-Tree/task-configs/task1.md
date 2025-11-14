@@ -113,7 +113,7 @@ show spanning-tree
 
 ---
 
-## 🧾6. Summary of Findings:
+## 🧾6. Summary:
 - 👑 SW2 is Root Bridge
 - 🔄 Separate STP topologies per VLAN because Per-VLAN Spanning Tree Plus (PVST+) runs one instance per VLAN.
 - 🌐 The Root ports indicate the switch’s best path to the root bridge.
