@@ -25,3 +25,25 @@ This lab focuses on understanding and configuring **Spanning Tree Protocol (STP)
 - SW4 F0/2 → SW1 F0/2
 
 ---
+
+## ✅ Tasks Completed
+
+### **🔎 Task 1: Check STP Topology**
+- Verified the **current root bridge**.
+- Identified **STP port roles and states** for VLANs 1 and 2.
+
+### **🏛️ Task 2: Configure Primary & Secondary Root Bridges**
+- I sed SW1 as as the **primary root for VLAN 1** and **secondary for VLAN 2**.  
+- I sed SW2 as as the as **primary root for VLAN 2** and **secondary for VLAN 1**.  
+- Load balanced for each VLAN
+
+### **⚖️ Task 3: Modify STP Cost**
+- Increased cost on SW4 to observe root port selection changes.
+
+### **🔧 Task 4: Change Port Priority**
+- Adjusted port priority on SW1 to test tie-breaker behavior.
+
+### **🛡️ Task 5: Enable PortFast & BPDU Guard**
+- Enabled PortFast and BPDU Guard on access ports.
+- Verified BPDU Guard interface shutdown behavior.
+
