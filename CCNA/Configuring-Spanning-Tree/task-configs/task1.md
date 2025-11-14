@@ -113,6 +113,8 @@ show spanning-tree
 
 ---
 
+## VLAN Diagrams with STP ports bellow:
+
 **VLAN 1 diagram with STP ports:**
 
 <img width="585" height="349" alt="T1-VLAN1-stp-ports" src="https://github.com/user-attachments/assets/0984c7f2-990c-4a14-8bbe-687273a128ad" />
