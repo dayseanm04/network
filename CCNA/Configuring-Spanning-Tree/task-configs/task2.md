@@ -96,7 +96,7 @@ You should see:
 
 You should see:
 - SW2 is now the Root Bridge for VLAN 2
-- Bridge ID Priority around 24578
+- Bridge ID Priority around 24578 (lower than the primary bridge ID priority for VLAN 1)
 
 ---
 
