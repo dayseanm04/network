@@ -31,7 +31,7 @@ show spanning-tree
 |Port|role / state|
 |----|------------|
 |F0/1|❌ Non-designated, Blocking|
-|F0/2|❌ ✅ Designated, Forwarding|
+|F0/2|✅ Designated, Forwarding|
 |F0/3| ⭐ Root Port, Forwarding|
 
 ---
@@ -43,3 +43,16 @@ show spanning-tree
 ```
 
 ### ✅ Expexted output for VLAN 1:
+
+<img width="782" height="351" alt="SW2-show-stp-1" src="https://github.com/user-attachments/assets/2d62919a-1ac4-43f6-9d5c-3a072df333d6" />
+
+### ✅ Expexted output for VLAN 2:
+
+<img width="750" height="329" alt="SW2-show-stp-2" src="https://github.com/user-attachments/assets/7216b997-3393-4823-b9a6-adf16464d6d4" />
+
+### Summanry output for VLAN1 & 2
+|Port|role / state|
+|----|------------|
+|F0/1|✅ Designated, Forwarding|
+|F0/2|✅ Designated, Forwarding|
+|F0/3|✅ Designated, Forwarding|
