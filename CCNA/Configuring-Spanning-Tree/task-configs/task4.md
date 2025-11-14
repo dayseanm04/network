@@ -38,4 +38,9 @@ show spanning-tree
 
 <img width="749" height="360" alt="T4-show-stp-SW3" src="https://github.com/user-attachments/assets/61e20aee-c7b8-4372-9d4b-0546c9dd53e7" />
 
+## 🔍 Step 4: Verify the STP Topology on SW1:
+```bash
+show spanning-tree
+```
+<img width="787" height="343" alt="T4-sh-SW1-stp" src="https://github.com/user-attachments/assets/7048d56b-ba04-4631-89d2-c92b53d86fe7" />
 
