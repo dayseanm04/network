@@ -82,8 +82,10 @@ You should see:
 show spanning-tree
 ```
 
-### Expected output For VLAN 1 ✅
+### Expected output For VLAN 1 ✅:
 
+
+---
 
 ✅ Summary of Task 2
 - Load balanced for each VLAN: VLAN 1 uses SW1 as the root bridge; VLAN 2 uses SW2 as the bridge.
