@@ -68,7 +68,7 @@ You should see:
 
 ### Expected output For VLAN 2 ✅
 
-<img width="713" height="345" alt="T2-SW1-V2" src="https://github.com/user-attachments/assets/ec6e9646-bb9f-4837-bcd2-6a9bb4b7e7e7" />
+<img width="717" height="349" alt="T2-SW1-V2" src="https://github.com/user-attachments/assets/86ef75e0-2ae9-43a2-b6f3-826e4abbd110" />
 
 You should see:
 - SW1 is the secondary root bridge for VLAN 2
