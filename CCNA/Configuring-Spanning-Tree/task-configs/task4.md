@@ -52,3 +52,7 @@ show spanning-tree
 - STP only uses port priority as a tie-breaker if the root path cost are equal.
 - In this case, the root path cost did NOT change, so:
   - The port priority configuration had no effect on root port selection.
+
+## 📘 Key Takeaway
+- Port priority only matters when multiple paths have the same root cost.
+- If the costs differ, STP chooses the path with the lowest root cost, ignoring port priority.
