@@ -11,6 +11,7 @@ enable
 ```
 
 ## 🖥️ 1. Check STP on SW1
+**Command:**
 ```bash
 show spanning-tree
 ```
@@ -36,6 +37,9 @@ show spanning-tree
 ---
 
 ## 🖥️ 2. Check STP on SW2
+**Command:**
 ```bash
 show spanning-tree
 ```
+
+### ✅ Expexted output for VLAN 1:
