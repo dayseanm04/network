@@ -11,6 +11,7 @@ enable
 ```
 
 ## 🖥️ 1. Check STP on SW1
+
 **Command:**
 ```bash
 show spanning-tree
@@ -27,7 +28,7 @@ show spanning-tree
 
 **Note:** I used the shortcut version of the command `show spanning-tree`
 
-### Summanry output for VLAN1 & 2
+### Summary output for VLAN1 & 2
 |Port|role / state|
 |----|------------|
 |F0/1|❌ Non-designated, Blocking|
@@ -37,6 +38,7 @@ show spanning-tree
 ---
 
 ## 🖥️ 2. Check STP on SW2
+
 **Command:**
 ```bash
 show spanning-tree
@@ -50,9 +52,28 @@ show spanning-tree
 
 <img width="750" height="329" alt="SW2-show-stp-2" src="https://github.com/user-attachments/assets/7216b997-3393-4823-b9a6-adf16464d6d4" />
 
-### Summanry output for VLAN1 & 2
+### Summary output for VLAN1 & 2
 |Port|role / state|
 |----|------------|
 |F0/1|✅ Designated, Forwarding|
 |F0/2|✅ Designated, Forwarding|
 |F0/3|✅ Designated, Forwarding|
+
+---
+
+## 🖥️ 3. Check STP on SW3
+
+**Command:**
+```bash
+show spanning-tree
+```
+
+### ✅ Expexted output for VLAN 1:
+
+<img width="783" height="358" alt="SW3-show-stp-1" src="https://github.com/user-attachments/assets/2b400d3e-69e7-41fe-8f4d-a4531b7049f1" />
+
+### ✅ Expexted output for VLAN 2:
+
+<img width="801" height="333" alt="SW3-show-stp-2" src="https://github.com/user-attachments/assets/5d72589d-e51f-4ed4-b9e1-e342605f42b7" />
+
+
