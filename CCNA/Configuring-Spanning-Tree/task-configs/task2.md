@@ -50,3 +50,19 @@ spanning-tree vlan 2 root primary
 spanning-tree vlan 1 root secondary
 ```
 
+## 🔍 Step 3: Verify STP Changes
+
+### On SW1 
+
+```bash
+show spanning-tree
+```
+
+### Expected output For VLAN 1 ✅
+
+<img width="792" height="347" alt="T2-SW1-V1" src="https://github.com/user-attachments/assets/c30e5776-d2dd-4e51-88ff-43e641c68e2e" />
+
+### Expected output For VLAN 2 ✅
+
+<img width="713" height="345" alt="T2-SW1-V2" src="https://github.com/user-attachments/assets/ec6e9646-bb9f-4837-bcd2-6a9bb4b7e7e7" />
+
