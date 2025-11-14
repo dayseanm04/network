@@ -2,6 +2,10 @@
 
 **Objective:** Use the CLI to check the current STP topology, identify the **root bridge** and the **STP port roles/states** for VLANs 1 and 2.
 
+## Topology For Reference
+
+<img width="454" height="294" alt="Topology" src="https://github.com/user-attachments/assets/72f4a007-e83a-43ed-bb0c-6e4cae158fe3" />
+
 ## 🔌 Enter Privileged EXEC Mode
 Do this on **each switch** (SW1, SW2, SW3, SW4):
 
