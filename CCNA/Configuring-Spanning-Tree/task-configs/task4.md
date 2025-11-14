@@ -10,7 +10,7 @@
 
 ---
 
-## 🛠️ Step 1: Enter Interface Configuration Mode on SW1
+## 🛠️ Step 1: Enter Interface Configuration Mode on SW1:
 
 Enter global configuration mode:
 
@@ -19,17 +19,17 @@ enable
 configure terminal
 ```
 
-**Select interface f0/1**
+**Select interface f0/1:**
 ```bash
 int f0/1
 ```
 
-## 🧩 Step 2: Change the Port Priority for VLAN 1
+## 🧩 Step 2: Change the Port Priority for VLAN 1:
 ```bash
 spanning-tree vlan 1 port-priority 240
 ```
 
-## 🔍 Step 3: Verify the STP Topology on SW3
+## 🔍 Step 3: Verify the STP Topology on SW3:
 ```bash
 show spanning-tree
 ```
