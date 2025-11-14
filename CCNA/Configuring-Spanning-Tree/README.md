@@ -47,3 +47,11 @@ This lab focuses on understanding and configuring **Spanning Tree Protocol (STP)
 - Enabled PortFast and BPDU Guard on access ports.
 - Verified BPDU Guard interface shutdown behavior.
 
+
+---
+
+## ✍️ Author Information
+
+**Name:** *Daysean Mensah*  
+**Course/Program:** *Cisco CCNA Studies*  
+**Lab completion date:** October 17 2025.
