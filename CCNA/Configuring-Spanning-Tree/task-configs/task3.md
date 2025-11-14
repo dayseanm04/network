@@ -46,8 +46,8 @@ show spanning-tree
 
 <img width="585" height="349" alt="T3-VLAN1-stp-port" src="https://github.com/user-attachments/assets/305538c0-5021-45ff-b434-50a71c050080" />
 
-SW4 selected its F0/1 interface as the new root port, because it has the lowest root cost of 38. A lower root cost is the best path to the root bridge. In case the root cost of SW4 F0/2 interface root cost is 100, which is higher that 19.
+SW4 selected its F0/1 interface as the new root port, because it has the lowest root cost of 38 (SW4 f0/1 interface cost: **19** + SW2 F0/3 interface cost **19** + **0** SW1 F0/3 interface cost, equals **28**). A lower root cost is the best path to the root bridge. In case the root cost of SW4 F0/2 interface root cost is 100, which is higher that **19**.
 
-**Root cost:**
+**Root cost to SW1:**
 
 <img width="589" height="353" alt="T3-VLAN1-stp-rp-cost" src="https://github.com/user-attachments/assets/55eb461f-e97a-4196-9931-a2e9d3650670" />
