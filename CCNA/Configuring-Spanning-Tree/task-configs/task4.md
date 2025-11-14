@@ -34,3 +34,8 @@ spanning-tree vlan 1 port-priority 240
 show spanning-tree
 ```
 
+**Expected output For VLAN 1 ✅:**
+
+<img width="749" height="360" alt="T4-show-stp-SW3" src="https://github.com/user-attachments/assets/61e20aee-c7b8-4372-9d4b-0546c9dd53e7" />
+
+
