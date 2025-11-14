@@ -11,3 +11,42 @@
 This allows traffic for different VLANs to take different paths. 🔀
 
 ---
+
+## 🛠️ Step 1: Configure SW1
+
+Enter global configuration mode:
+
+```bash
+enable
+configure terminal
+```
+
+## 📌 Configure SW1 as the Primary Root for VLAN 1:
+```bash
+spanning-tree vlan 1 root primary
+```
+
+## 📌 Configure SW1 as the Secondary Root for VLAN 2:
+```bash
+spanning-tree vlan 2 root secondary
+```
+
+## 🛠️ Step 2: Configure SW2
+
+Enter global configuration mode:
+
+```bash
+enable
+configure terminal
+```
+
+## 📌 Configure SW2 as the Primary Root for VLAN 1:
+```bash
+spanning-tree vlan 2 root primary
+```
+
+## 📌 Configure SW2 as the Secondary Root for VLAN 2:
+```bash
+spanning-tree vlan 1 root secondary
+```
+
