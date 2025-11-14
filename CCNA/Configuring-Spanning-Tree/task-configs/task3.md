@@ -2,6 +2,9 @@
 
 **Objective:** Increase the **STP cost** on SW4’s F0/2 interface for **VLAN 1** and observe whether SW4 selects a different root port.
 
+## Topology For Reference
+
+<img width="454" height="294" alt="Topology" src="https://github.com/user-attachments/assets/72f4a007-e83a-43ed-bb0c-6e4cae158fe3" />
 
 ## 🛠️ Step 1: Enter Interface Configuration Mode on SW4 for F0/2
 
@@ -38,5 +41,9 @@ show spanning-tree
 ```
 
 <img width="787" height="339" alt="T3-SW4-verify" src="https://github.com/user-attachments/assets/b863e67a-5c64-481a-8b22-e93e88ddfa13" />
+
+## VLAN 1 Diagram with STP ports bellow:
+
+<img width="585" height="349" alt="T3-VLAN1-stp-port" src="https://github.com/user-attachments/assets/305538c0-5021-45ff-b434-50a71c050080" />
 
 SW4 selected its F0/1 interface as the new root port, because it has the lowest root cost of 19. A lower root cost is the best path to the root bridge. In case the root cost of SW4 F0/2 interface root cost is 100, which is higher that 19.
