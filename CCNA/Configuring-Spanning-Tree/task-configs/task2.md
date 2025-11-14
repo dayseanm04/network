@@ -76,6 +76,17 @@ You should see:
 
 ---
 
+### On SW1 
+
+```bash
+show spanning-tree
+```
+
+### Expected output For VLAN 1 ✅
+
+
 ✅ Summary of Task 2
 - Load balanced for each VLAN: VLAN 1 uses SW1 as the root bridge; VLAN 2 uses SW2 as the bridge.
 - Different priorities assigned by Cisco's automatic root primary/secondary commands.
+- The switch with the lowest priority becomes the root bridge
+- Note in the output of VLAN 2
