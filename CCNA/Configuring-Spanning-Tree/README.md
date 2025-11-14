@@ -57,4 +57,4 @@ This lab improved my understanding of how PVST+ allows VLAN-specific control, an
 
 **Name:** *Daysean Mensah*  
 **Course/Program:** *Cisco CCNA Studies*  
-**Lab completion date:** October 17 2025.
+**Lab completion date:** November 10 2025.
