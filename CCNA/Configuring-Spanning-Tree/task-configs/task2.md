@@ -64,7 +64,7 @@ show spanning-tree
 
 You should see:
 - SW1 is now the Root Bridge for VLAN 1
-- Bridge ID Priority around 24577
+- Bridge ID Priority is 24577
 
 ### Expected output For VLAN 2 ✅
 
@@ -72,7 +72,7 @@ You should see:
 
 You should see:
 - SW1 is the secondary root bridge for VLAN 2
-- Bridge ID priority around 28674 (higher than the primary bridge ID priority for VLAN 1)
+- Bridge ID priority is 28674 (higher than the primary bridge ID priority for VLAN 1)
 
 ---
 
@@ -88,7 +88,7 @@ show spanning-tree
 
 You should see:
 - SW2 is now the Secondary Root Bridge for VLAN 1
-- Bridge ID Priority around 28673
+- Bridge ID Priority is 28673
 
 ### Expected output For VLAN 2 ✅:
 
@@ -96,7 +96,7 @@ You should see:
 
 You should see:
 - SW2 is now the Root Bridge for VLAN 2
-- Bridge ID Priority around 24578 (lower than the primary bridge ID priority for VLAN 1)
+- Bridge ID Priority is 24578 (lower than the primary bridge ID priority for VLAN 1)
 
 ---
 
