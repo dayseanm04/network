@@ -22,3 +22,4 @@ show spanning-tree
 
 <img width="731" height="350" alt="SW1-show-stp-2" src="https://github.com/user-attachments/assets/55953dc4-580e-4d04-868c-bb372bac32c1" />
 
+**Note:** I used the shortcut version of the command `show spanning-tree`
