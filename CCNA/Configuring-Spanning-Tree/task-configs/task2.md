@@ -84,6 +84,19 @@ show spanning-tree
 
 ### Expected output For VLAN 1 ✅:
 
+<img width="714" height="358" alt="T2-SW2-V1" src="https://github.com/user-attachments/assets/b518ae68-748e-4e5b-b701-506cbd1f3e4e" />
+
+You should see:
+- SW2 is now the Secondary Root Bridge for VLAN 1
+- Bridge ID Priority around 28673
+
+### Expected output For VLAN 2 ✅:
+
+<img width="717" height="344" alt="T2-SW2-V2" src="https://github.com/user-attachments/assets/65c6af4e-2c69-445d-b365-8279930e260b" />
+
+You should see:
+- SW2 is now the Root Bridge for VLAN 2
+- Bridge ID Priority around 24578
 
 ---
 
