@@ -118,7 +118,7 @@ Traffic from vlan 2 will go to the root bridge SW2
 
 ---
 
-✅ Summary of Task 2
+**✅ Summary of Task 2**
 - Load balanced between each VLAN: VLAN 1 uses SW1 as the root bridge; VLAN 2 uses SW2 as the bridge.
 - Different priorities assigned by Cisco's automatic root primary/secondary commands.
 - The switch with the lowest priority becomes the root bridge
