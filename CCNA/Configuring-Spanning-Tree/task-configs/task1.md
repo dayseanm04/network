@@ -81,6 +81,9 @@ show spanning-tree
 |----|------------|
 |F0/1|✅ Designated, Forwarding|
 |F0/2|⭐ Root, Forwarding|
+|F0/3|✅ Designated, Forwarding|
+
+**Note:** F0/3 is only for VLAN1
 
 ---
 
@@ -105,6 +108,8 @@ show spanning-tree
 |F0/1|⭐ Root Port, Forwarding|
 |F0/2|❌ Non-designated, Blocking|
 |F0/3|✅ Designated, Forwarding|
+
+**Note:** F0/3 is only for VLAN2
 
 ---
 
