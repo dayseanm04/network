@@ -7,6 +7,10 @@ This lab focuses on understanding and configuring **Spanning Tree Protocol (STP)
 
 <img width="454" height="294" alt="Topology" src="https://github.com/user-attachments/assets/72f4a007-e83a-43ed-bb0c-6e4cae158fe3" />
 
+## 🧰 Devices Used
+- 4 Cisco 2960-24TT switches
+- 2 PCs (PC1 & PC2)  
+
 ---
 
 ## 🌐 Network Overview
