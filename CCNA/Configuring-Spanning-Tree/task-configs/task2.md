@@ -52,7 +52,7 @@ spanning-tree vlan 1 root secondary
 
 ## 🔍 Step 3: Verify STP Changes
 
-### On SW1 
+### On SW1 in Priviliged EXEC mode
 
 ```bash
 show spanning-tree
@@ -76,7 +76,7 @@ You should see:
 
 ---
 
-### On SW2 
+### On SW2 in Priviliged EXEC mode
 
 ```bash
 show spanning-tree
