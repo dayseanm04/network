@@ -14,4 +14,11 @@ enable
 show spanning-tree
 ```
 
-### ✅ Expexted output for VLAN 1 & 2
+### ✅ Expexted output for VLAN 1 
+
+<img width="789" height="363" alt="SW1-show-stp-1" src="https://github.com/user-attachments/assets/2867b92b-4652-4130-8457-a57f21608e18" />
+
+### ✅ Expexted output for VLAN 2
+
+<img width="731" height="350" alt="SW1-show-stp-2" src="https://github.com/user-attachments/assets/55953dc4-580e-4d04-868c-bb372bac32c1" />
+
