@@ -28,6 +28,8 @@ spanning-tree vlan 1 cost 100
 
 ## 🔍 Step 3: Verify the New STP Topology
 
+**Command:**
+
 ```bash
 show spanning-tree detail
 ```
@@ -35,6 +37,8 @@ show spanning-tree detail
 **Expected output For VLAN 1 ✅:**
 
 <img width="641" height="110" alt="T3-show-stp-detail" src="https://github.com/user-attachments/assets/fb407658-11d1-45ad-80e7-4349057a4e0a" />
+
+**Command:**
 
 ```bash
 show spanning-tree
