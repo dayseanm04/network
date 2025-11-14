@@ -37,6 +37,7 @@ show spanning-tree detail
 **Expected output For VLAN 1 ✅:**
 
 <img width="641" height="110" alt="T3-show-stp-detail" src="https://github.com/user-attachments/assets/fb407658-11d1-45ad-80e7-4349057a4e0a" />
+<br/>
 
 **Command:**
 
