@@ -48,6 +48,8 @@ spanning-tree vlan 2 root primary
 spanning-tree vlan 1 root secondary
 ```
 
+---
+
 ## 🔍 Step 3: Verify STP Changes
 
 ### On SW1 in Priviliged EXEC mode
