@@ -51,4 +51,4 @@ show spanning-tree
 - STP only uses port priority as a tie-breaker if the root path cost are equal.
 - In this case, the root path cost did NOT change, so:
   - The port priority configuration had no effect on root port selection.
-  - F0/2 still had the lowest overall cost to reach the root bridge.
+  - F0/1 still had the lowest overall cost to reach the root bridge.
