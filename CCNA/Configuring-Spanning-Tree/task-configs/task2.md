@@ -76,7 +76,7 @@ You should see:
 
 ---
 
-### On SW1 
+### On SW2 
 
 ```bash
 show spanning-tree
