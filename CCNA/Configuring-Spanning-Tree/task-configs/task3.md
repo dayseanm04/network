@@ -26,6 +26,6 @@ spanning-tree vlan 1 cost 100
 ## 🔍 Step 3: Verify the New STP Topology
 
 ```bash
-show spanning-tree detail
+show spanning-tree
 ```
 
