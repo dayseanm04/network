@@ -119,11 +119,11 @@ show spanning-tree
 - 🌐 The Root ports indicate the switch’s best path to the root bridge.
 
 
-## VLAN 1 diagram with STP ports:
+### VLAN 1 diagram with STP ports:
 
 <img width="585" height="349" alt="T1-VLAN1-stp-ports" src="https://github.com/user-attachments/assets/0984c7f2-990c-4a14-8bbe-687273a128ad" />
 
-## VLAN 2 diagram with STP ports:
+### VLAN 2 diagram with STP ports:
 
 <img width="585" height="349" alt="T1-VLAN2-stp-ports" src="https://github.com/user-attachments/assets/2edfbcb5-b997-47de-8888-3e4b3c85ae00" />
 
