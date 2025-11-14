@@ -28,7 +28,7 @@ show spanning-tree
 
 **Note:** I used the shortcut version of the command `show spanning-tree`
 
-### Summary output for VLAN 1 & 2
+### Summary output for VLAN 1 & 2:
 |Port|role / state|
 |----|------------|
 |F0/1|❌ Non-designated, Blocking|
@@ -52,7 +52,7 @@ show spanning-tree
 
 <img width="750" height="329" alt="SW2-show-stp-2" src="https://github.com/user-attachments/assets/7216b997-3393-4823-b9a6-adf16464d6d4" />
 
-### Summary output for VLAN 1 & 2
+### Summary output for VLAN 1 & 2:
 |Port|role / state|
 |----|------------|
 |F0/1|✅ Designated, Forwarding|
@@ -76,7 +76,7 @@ show spanning-tree
 
 <img width="801" height="333" alt="SW3-show-stp-2" src="https://github.com/user-attachments/assets/5d72589d-e51f-4ed4-b9e1-e342605f42b7" />
 
-### Summary output for VLAN 1 & 2
+### Summary output for VLAN 1 & 2:
 |Port|role / state|
 |----|------------|
 |F0/1|✅ Designated, Forwarding|
@@ -92,3 +92,23 @@ show spanning-tree
 ```
 
 ### ✅ Expexted output for VLAN 1:
+
+<img width="783" height="348" alt="SW4-show-stp-1" src="https://github.com/user-attachments/assets/64110439-59eb-466d-92b0-ecfa528f902e" />
+
+### ✅ Expexted output for VLAN 2:
+
+<img width="751" height="340" alt="SW4-show-stp-2" src="https://github.com/user-attachments/assets/75f9bd48-ca66-41cb-88b4-f19c037c0f1c" />
+
+### Summary output for VLAN 1 & 2:
+|Port|role / state|
+|----|------------|
+|F0/1|⭐ Root Port, Forwarding|
+|F0/2|❌ Non-designated, Blocking|
+|F0/3|✅ Designated, Forwarding|
+
+---
+
+## 🧾6. Summary of Findings:
+- 👑 SW2 is Root Bridge
+- 🔄 Separate STP topologies per VLAN because Per-VLAN Spanning Tree Plus (PVST+) runs one instance per VLAN.
+- 🌐 The Root ports indicate the switch’s best path to the root bridge.
