@@ -105,6 +105,7 @@ You should see:
 ## VLAN Diagrams with STP ports bellow:
 
 **VLAN 1 diagram with STP ports:**
+
 <img width="589" height="353" alt="T2-VLAN1-stp-ports" src="https://github.com/user-attachments/assets/90d4af2e-79a0-4ae5-90e8-4af90f9fbc96" />
 
 Traffic from vlan 1 will go to the root bridge SW1
@@ -118,7 +119,7 @@ Traffic from vlan 2 will go to the root bridge SW2
 ---
 
 ✅ Summary of Task 2
-- Load balanced for each VLAN: VLAN 1 uses SW1 as the root bridge; VLAN 2 uses SW2 as the bridge.
+- Load balanced between each VLAN: VLAN 1 uses SW1 as the root bridge; VLAN 2 uses SW2 as the bridge.
 - Different priorities assigned by Cisco's automatic root primary/secondary commands.
 - The switch with the lowest priority becomes the root bridge
 - Note in the output sys-id-ext is the VLAN ID
