@@ -38,9 +38,15 @@ show spanning-tree
 
 <img width="749" height="360" alt="T4-show-stp-SW3" src="https://github.com/user-attachments/assets/61e20aee-c7b8-4372-9d4b-0546c9dd53e7" />
 
-## 🔍 Step 4: Verify the STP Topology on SW1:
+## 🔍 Step 4: Verify the SW1 F0/1 root cost:
 ```bash
 show spanning-tree
 ```
+
 <img width="787" height="343" alt="T4-sh-SW1-stp" src="https://github.com/user-attachments/assets/7048d56b-ba04-4631-89d2-c92b53d86fe7" />
 
+### 🧠 Why Didn’t the Root Port Change?
+- STP only uses port priority as a tie-breaker if the root path cost are equal.
+- In this case, the root path cost did NOT change, so:
+  - Port priority configuration had no effect on root port selection.
+  - F0/2 still had the lowest overall cost to reach the root bridge.
