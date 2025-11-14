@@ -5,6 +5,7 @@
 ## 🔌 Enter Privileged EXEC Mode
 Do this on **each switch** (SW1, SW2, SW3, SW4):
 
+**Command:**
 ```bash
 enable
 ```
