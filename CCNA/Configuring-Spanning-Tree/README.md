@@ -9,3 +9,15 @@ This lab focuses on understanding and configuring **Spanning Tree Protocol (STP)
 
 ---
 
+## 🌐 Network Overview
+
+**Switch Connections:**
+
+- SW2 is the **root bridge**.
+- SW2 F0/1 → SW4 F0/1  
+- SW2 F0/2 → SW3 F0/2  
+- SW2 F0/3 → SW1 F0/3  
+- SW1 F0/1 → SW3 F0/1  
+- SW4 F0/2 → SW1 F0/2
+
+---
