@@ -63,7 +63,7 @@ All task configuration files are stored in the **task-configs** folder:
 
 ### 📁 Cisco Packet Tracer files
 
-- 📂 [pkt-file/](./pkt-files) - contains the pkt files for the blank and completed version of the lab
+- 📂 [pkt-files/](./pkt-files) - contains the pkt files for the blank and completed version of the lab
 
 ## 📝 Summary
 
