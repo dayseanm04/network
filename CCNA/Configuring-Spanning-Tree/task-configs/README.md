@@ -15,8 +15,6 @@ Each file breaks down the steps, commands, and results for its assigned task so 
 | 🔹 [task5.md](./task5.md) | Enabling PortFast and BPDU Guard on access ports |
 | 🔹 [test-BPDUGuard-and-PortFast.md](./test-BPDUGuard-and-PortFast.md) | Testing BPDU Guard shutdown and verifying port recovery |
 
----
-
 ## 📘 Purpose of This Folder
 
 - Allows quick access to specific configurations  
