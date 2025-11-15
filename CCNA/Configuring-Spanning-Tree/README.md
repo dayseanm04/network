@@ -47,6 +47,21 @@ This lab focuses on understanding and configuring **Spanning Tree Protocol (STP)
 - Enabled PortFast and BPDU Guard on access ports.
 - Verified BPDU Guard interface shutdown behavior.
 
+## 🧭 Navigation
+
+Use this section to quickly access all major parts of the **Configuring STP (PVST+)** lab:
+
+### 📂 Main Files
+- 📘 [README.md](./README.md) — Overview of the entire PVST+ lab  
+- 🖼️ [Topology.png](./Topology.png) — Network topology diagram  
+- 📝 [reflection.md](./reflection.md) — Summary, lessons learned, and observations  
+
+### 📁 Task Configurations
+All task configuration files are stored in the **task-configs** folder:
+
+- 📂 [task-configs/](./task-configs) - Task configuration files
+
+
 ## 📝 Summary
 
 This lab improved my understanding of how PVST+ allows VLAN-specific control, and how modifying STP parameters affects the network topology. I also learned how features like PortFast and BPDU Guard protect the network from misconfigurations and accidental loops.
