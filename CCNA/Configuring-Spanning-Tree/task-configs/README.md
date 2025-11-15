@@ -21,8 +21,6 @@ Each file breaks down the steps, commands, and results for its assigned task so 
 
 - Allows quick access to specific configurations  
  
----
-
 ## 🏁 Summary
 
 This folder serves as the technical breakdown of the entire configuring PVST+ lab.  
