@@ -11,7 +11,7 @@
 <img width="502" height="297" alt="BPDU-Gaurd-test" src="https://github.com/user-attachments/assets/49694d67-065f-4c7a-8f12-2bd7fdf8f678" />
 
 Use a crossover cable to connect:
-- SW3 F0/3 → SW4 F0/4
+- **SW3 F0/3** → **SW4 F0/4**
 
 ## 🔍 What happened?
 - **SW3’s F0/3** port immediately went down (err-disabled).
