@@ -25,7 +25,7 @@ int f0/3
 spanning-tree portfast
 ```
 
-### Expected output:
+### Expected output ✅:
 <img width="735" height="171" alt="T5-portfast-msg" src="https://github.com/user-attachments/assets/36ceacfd-b599-4834-a29d-1378c3308c5d" />
 
 
@@ -56,6 +56,11 @@ int f0/3
 ```bash
 spanning-tree portfast
 ```
+
+### Expected output ✅:
+
+<img width="744" height="159" alt="SW4-Portfast-output" src="https://github.com/user-attachments/assets/a644409f-c523-4e5f-82f5-e9716b2ca642" />
+
 
 ## 🛡️ Enable BPDU Guard:
 **Command:**
