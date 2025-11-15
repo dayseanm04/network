@@ -16,6 +16,11 @@
 Use a crossover cable to connect:
 - **SW3 F0/3** → **SW4 F0/4**
 
+### Expected output in SW3 CLI✅:
+
+<img width="877" height="235" alt="SW3-BPDUGuard-err" src="https://github.com/user-attachments/assets/e977f941-c925-4538-944c-7f55b320dc65" />
+
+
 ## 🔍 What happened?
 - **SW3’s F0/3** port immediately went down (err-disabled).
 - This occurred because the interface received a BPDU while BPDU Guard was enabled.
