@@ -27,3 +27,15 @@ Use a crossover cable to connect:
 
 - Now remove that connection and connect **SW3 f0/3** interface to **PC1** again
 - Link light is still red
+
+### In interface config mode for SW3's F0/3 interface:
+```bash
+en
+conf t
+int f0/3
+shutdown
+no shutdown
+```
+
+### Expeced output ✅:
+<img width="443" height="285" alt="BPDU-Gaurd-test3" src="https://github.com/user-attachments/assets/50d1013b-e32c-4a2e-a6c3-774c4d876fa6" />
