@@ -53,3 +53,8 @@ no shutdown
 ### Remove the connection between SW4 F0/3 interface & PC2:
 <img width="570" height="379" alt="SW3-portfast-test" src="https://github.com/user-attachments/assets/f6e38e5d-aa62-44bf-9eae-64e708bd70be" />
 
+
+### Now connect SW4 F0/3 interface & PC2:
+<img width="454" height="294" alt="SW3-portfast-test-2" src="https://github.com/user-attachments/assets/ccb1ffdd-115e-4106-b5b3-32fcccdef730" />
+
+- Notice how fast the link lights turn green.
