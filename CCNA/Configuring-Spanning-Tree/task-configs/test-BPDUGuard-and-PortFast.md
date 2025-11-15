@@ -18,3 +18,5 @@ Use a crossover cable to connect:
 - This occurred because the interface received a BPDU while BPDU Guard was enabled.
 - BPDU Guard shuts down the port to protect the network from loops.
 - You should see the link light turn red.
+
+**Note**
