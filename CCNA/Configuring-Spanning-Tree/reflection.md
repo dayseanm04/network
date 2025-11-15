@@ -25,7 +25,7 @@ Enabling PortFast and BPDU Guard on access ports taught me how important these f
 
 ## 📘 Overall Summary
 
-This lab strengthened my understanding of:
+This lab helped me understand:
 
 - How **PVST+ runs separate spanning tree instances** per VLAN  
 - How **costs, priorities, and root bridge settings** influence the network topology  
@@ -37,4 +37,4 @@ Overall, the lab improved my confidence in configuring and verifying STP behavio
 
 ## 🚀 Final Thoughts
 
-STP can seem complex at first, but as I kept reading my notes and doing labs I finally understand the concept. With the right configurations, STP becomes a powerful tool for controlling how traffic flow and keeping the network stable, efficient, and loop-free.
+STP can seem complex at first, but as I kept reading my notes and doing practice labs, I finally understand the concept. With the right configurations, STP becomes a powerful tool for controlling how traffic flow and keeping the network stable, efficient, and loop-free.
