@@ -33,9 +33,6 @@ Use a crossover cable to connect:
 
 ### In interface config mode for SW3's F0/3 interface:
 ```bash
-en
-conf t
-int f0/3
 shutdown
 no shutdown
 ```
