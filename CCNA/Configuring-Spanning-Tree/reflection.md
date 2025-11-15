@@ -10,7 +10,7 @@ This lab gave me hands-on experience on how Cisco **Per VLAN Spanning Tree Plus 
 I learned how STP uses **priority + MAC address** to elect the root bridge. By adjusting the priority using the `root primary` and `root secondary` commands, I saw how easy it is to choose the root switch for specific VLANs.
 
 ### 🔀 Load Balancing with PVST+  
-Because PVST+ builds a separate spanning tree for each VLAN, I was able to create **load balancing** by setting SW1 as the root for VLAN 1 and SW2 as the root for VLAN 2. This showed how to control traffic paths and improve performance.
+Because PVST+ builds a separate spanning tree for each VLAN, I was able to create **load balancing** by configuring SW1 as the root for VLAN 1 and SW2 as the root for VLAN 2. This showed me how to control traffic paths and improve performance.
 
 ### ⚖️ How STP Chooses the Root Port  
 When I increased the STP cost on SW4, I observed that the switch immediately selected a different root port. This helped me understand how **root path cost** is the main factor in STP port role decisions.
