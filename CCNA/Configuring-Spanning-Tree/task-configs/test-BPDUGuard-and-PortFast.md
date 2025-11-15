@@ -44,3 +44,12 @@ no shutdown
 
 ### Expeced output ✅:
 <img width="443" height="285" alt="BPDU-Gaurd-test3" src="https://github.com/user-attachments/assets/50d1013b-e32c-4a2e-a6c3-774c4d876fa6" />
+
+
+# 🧪 Test PortFast Behavior
+
+## 🔌 Test Scenario:
+
+### Remove the connection between SW4 F0/3 interface & PC2:
+<img width="570" height="379" alt="SW3-portfast-test" src="https://github.com/user-attachments/assets/f6e38e5d-aa62-44bf-9eae-64e708bd70be" />
+
