@@ -4,8 +4,8 @@
 
 <img width="459" height="279" alt="BPDU-Gaurd-test1" src="https://github.com/user-attachments/assets/24ea8fe0-097c-4058-96d1-982783d379e7" />
 
-- PortFast and BPDUGuard is enabled on SW3 & SW4 F0/3 interface
-- Disconnect SW3 F0/3 from PC1.
+- PortFast and BPDUGuard is enabled on **SW3** & **SW4 F0/3** interface
+- Disconnect **SW3 F0/3** from **PC1**.
 
 
 <img width="502" height="297" alt="BPDU-Gaurd-test" src="https://github.com/user-attachments/assets/49694d67-065f-4c7a-8f12-2bd7fdf8f678" />
