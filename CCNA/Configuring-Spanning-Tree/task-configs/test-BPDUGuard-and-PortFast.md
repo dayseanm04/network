@@ -14,7 +14,7 @@ Use a crossover cable to connect:
 - SW3 F0/3 → SW4 F0/4
 
 ## 🔍 What happened?
-- SW3’s F0/3 port immediately went down (err-disabled).
+- **SW3’s F0/3** port immediately went down (err-disabled).
 - This occurred because the interface received a BPDU while BPDU Guard was enabled.
 - BPDU Guard shuts down the port to protect the network from loops.
 - You should see the link light turn red.
@@ -23,6 +23,7 @@ Use a crossover cable to connect:
 
 ## Fix: 🔧Re-enable the Port After Testing
 
-<img width="465" height="293" alt="BPDU-Gaurd-test2" src="https://github.com/user-attachments/assets/7cd068e9-3494-4b22-9676-ccff767b5fa3" />
-- Now remove that connection and connect SW3 f0/3 interface to PC1 again
+<img width="469" height="297" alt="BPDU-Gaurd-test2" src="https://github.com/user-attachments/assets/a9678d9e-bea8-42fe-9037-47e0e20ce16e" />
+
+- Now remove that connection and connect **SW3 f0/3** interface to **PC1** again
 - Link light is still red
