@@ -19,4 +19,4 @@ Use a crossover cable to connect:
 - BPDU Guard shuts down the port to protect the network from loops.
 - You should see the link light turn red.
 
-**Note**
+**Note: in order to renable the interface you have to fix the problem first then re-enable the interface**
