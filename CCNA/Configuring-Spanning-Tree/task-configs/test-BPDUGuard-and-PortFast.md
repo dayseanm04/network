@@ -58,3 +58,4 @@ no shutdown
 <img width="454" height="294" alt="SW3-portfast-test-2" src="https://github.com/user-attachments/assets/ccb1ffdd-115e-4106-b5b3-32fcccdef730" />
 
 - Notice how fast the link lights turn green.
+- Why? PortFast allows switch ports connected to end hosts to immediately enter the STP forwarding state, bypassing listening and learning states.
