@@ -20,3 +20,9 @@ Use a crossover cable to connect:
 - You should see the link light turn red.
 
 **Note: in order to renable the interface you have to fix the problem first then re-enable the interface**
+
+## Fix: 🔧Re-enable the Port After Testing
+
+<img width="465" height="293" alt="BPDU-Gaurd-test2" src="https://github.com/user-attachments/assets/7cd068e9-3494-4b22-9676-ccff767b5fa3" />
+- Now remove that connection and connect SW3 f0/3 interface to PC1 again
+- Link light is still red
