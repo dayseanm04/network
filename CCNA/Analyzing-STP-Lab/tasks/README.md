@@ -13,7 +13,6 @@ This lab focuses on learning how STP makes decisions based on **Bridge ID**, **p
 Use this section to quickly access each part of the lab:
 
 ### 📂 Main Files
-- 📘 [README.md](./README.md) — Overview of the STP analysis lab  
 - 📝 [task1.md](./task1.md) — Determine which switch is the root bridge  
 - 🔍 [task2-calculate-root-cost.md](./task2-calculate-root-cost.md) — Calculate STP root path cost  
 - 🔌 [task2-find-root-port.md](./task2-find-root-port.md) — Identify each switch’s root port  
