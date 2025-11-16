@@ -8,8 +8,6 @@ The purpose of this lab is to observe and analyze how STP determines:
 
 This lab focuses on learning how STP makes decisions based on **Bridge ID**, **path cost**, and **port roles** to ensure a loop-free Layer 2 topology.
 
----
-
 ## 🧭 Navigation
 
 Use this section to quickly access each part of the lab:
@@ -21,7 +19,6 @@ Use this section to quickly access each part of the lab:
 - 🔌 [task2-find-root-port.md](./task2-find-root-port.md) — Identify each switch’s root port  
 - 🔄 [task2-find-designated-and-non-designated-ports.md](./task2-find-designated-and-non-designated-ports.md) — Determine designated & non-designated ports  
 
----
 
 ## 📘 Lab Overview
 
