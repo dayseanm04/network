@@ -3,8 +3,6 @@
 ## 🎯 Objective
 This task, is to determined the **root port** on each non-root switch. **Note:** Each switch can only have 1 root port
 
----
-
 ## 🌐 Network Connection Overview
 
 
@@ -21,13 +19,11 @@ This task, is to determined the **root port** on each non-root switch. **Note:**
 
 STP uses these costs to decide which path to the Root Bridge is the best (lowest cost).
 
----
 
 ## 🧮 Step 1: Determine Root Path Costs
 
 Each switch calculates its **total cost** to reach the Root Bridge (SW3).  
 The Root Bridge itself has a cost of **0**.
-
 
 
 **📝 Caluclate the root cost: (the total cost of the outgoing interface + the path to the root bridge = the total cost).**
