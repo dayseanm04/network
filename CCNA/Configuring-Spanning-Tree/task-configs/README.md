@@ -2,8 +2,6 @@
 
 Each file breaks down the steps, commands, and results for its assigned task so the entire configuration process is easy to follow and reference.
 
----
-
 ## 🧭 Navigation
 
 | File | Description |
