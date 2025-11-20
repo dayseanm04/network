@@ -11,7 +11,6 @@ This lab focuses on understanding and configuring **Spanning Tree Protocol (STP)
 - 4 Cisco 2960-24TT switches
 - 2 PCs (PC1 & PC2)  
 
----
 
 ## 🌐 Network Overview
 
@@ -24,7 +23,6 @@ This lab focuses on understanding and configuring **Spanning Tree Protocol (STP)
 - SW1 F0/1 → SW3 F0/1  
 - SW4 F0/2 → SW1 F0/2
 
----
 
 ## ✅ Tasks Completed
 
@@ -69,7 +67,6 @@ All task configuration files are stored in the **task-configs** folder:
 
 This lab improved my understanding of how PVST+ allows VLAN-specific control, and how modifying STP parameters affects the network topology. I also learned how features like PortFast and BPDU Guard protect the network from misconfigurations and accidental loops.
 
----
 
 ## ✍️ Author Information
 
