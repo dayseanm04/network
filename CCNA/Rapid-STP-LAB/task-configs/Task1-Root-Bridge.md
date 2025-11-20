@@ -38,7 +38,13 @@ show spanning-tree
 - SW1 has 2 interfaces connected into the **same collision domain**. **F0/2** and **F0/3** are both connect to a hub.
 - RSTP allows **only one Designated Port per collision domain**. So RSTP must choose one with the lowest PortID
 - STP port ID = the port priority + the port number.
-- **SW1 F0/2** has the port id (128+2). - SW1 F0/3 has the port id (128+3).
+- **SW1 F0/2** has the port id (128+2). SW1 F0/3 has the port id (128+3).
 - **SW1 F0/2** will become the degsnated port and F0/3 will be backup
 
+**Decision:**
+- F0/2 → Designated
+- F0/3 → Backup (Discarding)  
 
+## Difference from Classic STP 📘
+- Classic STP would make F0/3 a **Non-Designated Port**.
+- RSTP uses the **Backup Port** role for itnerfaces connected to the a collision domain.
