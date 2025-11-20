@@ -18,8 +18,12 @@
 
 ## verify with the CLI
 
-In priviliged EXEC mode:
+**In priviliged EXEC mode:**
 ```bash
 show spanning-tree
 ```
+
+**Expected Output ✅:**
+
+<img width="788" height="362" alt="T1-SW1-root" src="https://github.com/user-attachments/assets/37eb5acd-e8ff-472f-b3f0-08c2205bd612" />
 
