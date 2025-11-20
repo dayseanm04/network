@@ -14,3 +14,12 @@
 ### SW1 is the Root Bridge because it has rthe lowest MAC address
 - All switches shared have the same priority (32769).  
 - SW1 had the lowest MAC address so it becomes the Root Bridge.  
+
+
+## verify with the CLI
+
+In priviliged EXEC mode:
+```bash
+show spanning-tree
+```
+
