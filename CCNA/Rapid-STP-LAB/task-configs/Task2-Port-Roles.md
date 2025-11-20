@@ -20,3 +20,10 @@
 ## Topology with STP ports:
 <img width="679" height="427" alt="T2-rstp-ports1" src="https://github.com/user-attachments/assets/49b3bb28-23d7-4065-a2b7-2ac11118ca03" />
 
+**SW4:** has two equal-cost paths (400,000) via SW2 and SW3
+
+<img width="667" height="406" alt="T2-SW4-RC1" src="https://github.com/user-attachments/assets/774d1589-b710-4fb1-8b45-2de646bf1627" />
+
+- Tie-breaker → lowest Bridge ID of the neighbor
+- SW3 has the lowest MAC address
+
