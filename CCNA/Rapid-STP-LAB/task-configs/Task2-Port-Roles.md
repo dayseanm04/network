@@ -41,3 +41,12 @@
 
 - SW2 has the lower root cost (200k) →  SW2 F0/2 becomes the Designated Port
 - SW4  root cost is 400k so its F0/2 becomes Alternate (Discarding)
+
+
+**SW3 ↔ SW2 segment:**
+
+<img width="679" height="427" alt="SW3-SW2-RC" src="https://github.com/user-attachments/assets/adb5c411-973d-462c-81d5-2f55da727cd1" />
+
+- SW3 and SW2 both have equal root cost → tie-breaker = lower MAC address
+- Since all the switches have the same priority. SW3 has the lower MAC address so SW3 G0/1 becomes the Designated Port
+- SW2 G0/1 becomes Alternate (Discarding)
