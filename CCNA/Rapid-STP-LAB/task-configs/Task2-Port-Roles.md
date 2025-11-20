@@ -71,7 +71,7 @@ show spanning-tree
 
 <img width="785" height="366" alt="T2-show-stp-SW3" src="https://github.com/user-attachments/assets/a5964a71-ed8b-4ab9-868d-f15e932c448b" />
 
-<br/>
+<br/><br/>
 
 **On SW4 in Priviliged EXEC mode:**
 ```bash
