@@ -30,3 +30,11 @@ The lab focuses on identifying the root bridge, analyzing port roles, calculatin
 - Use tie-breakers (lowest bridge ID).
 - Confirm using CLI outputs.
 - Full details in: Task2-Port-Roles.md
+
+
+### Task 3: Configure RSTP Link Types
+- Configure point-to-point, shared, and edge ports.
+- Understand how hubs affect link type selection.
+- Verify link type using "show spanning-tree".
+
+
