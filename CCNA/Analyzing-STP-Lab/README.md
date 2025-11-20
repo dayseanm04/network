@@ -28,4 +28,4 @@ Through this lab, I determined which switch became the **Root Bridge**, identifi
 
 **Name:** *Daysean Mensah*  
 **Course/Program:** *Cisco CCNA Studies*  
-**Lab completion date:** Novemebr 1 2025.
+**Lab completion date:** Novemeber 1 2025.
