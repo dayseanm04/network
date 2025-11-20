@@ -39,7 +39,6 @@ show spanning-tree
 |F0/2|✅ Designated, Forwarding|
 |F0/3| ⭐ Root Port, Forwarding|
 
----
 
 ## 🖥️ 2. Check STP on SW2
 
@@ -63,7 +62,6 @@ show spanning-tree
 |F0/2|✅ Designated, Forwarding|
 |F0/3|✅ Designated, Forwarding|
 
----
 
 ## 🖥️ 3. Check STP on SW3
 
@@ -89,8 +87,6 @@ show spanning-tree
 
 **Note:** F0/3 is only for VLAN1
 
----
-
 ## 🖥️ 4. Check STP on SW4
 
 **Command:**
@@ -114,8 +110,6 @@ show spanning-tree
 |F0/3|✅ Designated, Forwarding|
 
 **Note:** F0/3 is only for VLAN2
-
----
 
 ## VLAN Diagrams with STP ports bellow:
 
