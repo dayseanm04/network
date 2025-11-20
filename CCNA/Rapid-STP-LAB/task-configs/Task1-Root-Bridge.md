@@ -27,3 +27,9 @@ show spanning-tree
 
 <img width="788" height="362" alt="T1-SW1-root" src="https://github.com/user-attachments/assets/37eb5acd-e8ff-472f-b3f0-08c2205bd612" />
 
+## Port Roles and States on SW1 (Root Bridge) 🔌
+- F0/1  → Designated (Forwarding)  
+- F0/2  → Designated (Forwarding)
+- F0/24 → Designated (Forwarding)
+- F0/3  → Backup (Discarding)
+
