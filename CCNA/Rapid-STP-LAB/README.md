@@ -49,3 +49,9 @@ The lab focuses on identifying the root bridge, analyzing port roles, calculatin
 - How collision domains and hubs affect spanning tree decisions.
 - Difference between link types: shared, point-to-point, and edge.
 - How to configure and verify all RSTP settings in cisco IOS.
+
+---
+
+**Name:** *Daysean Mensah*  
+**Course/Program:** *Cisco CCNA Studies*  
+**Lab completion date:** Novemeber 17 2025.
