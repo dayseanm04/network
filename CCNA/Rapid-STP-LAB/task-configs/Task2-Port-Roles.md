@@ -58,3 +58,24 @@
 show spanning-tree
 ```
 
+**Expected output ✅**
+
+<img width="787" height="395" alt="T2-show-stp-SW2" src="https://github.com/user-attachments/assets/abb4ae92-9339-45ad-b773-4987b854b032" />
+
+**On SW3 in Priviliged EXEC mode**
+```bash
+show spanning-tree
+```
+
+**Expected output ✅**
+
+<img width="785" height="366" alt="T2-show-stp-SW3" src="https://github.com/user-attachments/assets/a5964a71-ed8b-4ab9-868d-f15e932c448b" />
+
+**On SW4 in Priviliged EXEC mode**
+```bash
+show spanning-tree
+```
+
+**Expected output ✅**
+
+<img width="785" height="352" alt="T2-show-stp-SW4" src="https://github.com/user-attachments/assets/714de731-895a-433b-9996-be68f3a909d4" />
