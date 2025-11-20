@@ -27,3 +27,9 @@
 - Tie-breaker → lowest Bridge ID of the neighbor
 - SW3 has the lowest MAC address
 
+### Topology with STP ports:
+<img width="679" height="427" alt="T2-rstp-ports2" src="https://github.com/user-attachments/assets/686fd7b4-f7ba-4fc1-a34a-e01a58fb55a1" />
+
+- **SW4 F0/1** will be the root port  
+- **SW4 F0/2** will be Alternate (Discarding)
+
