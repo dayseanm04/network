@@ -33,3 +33,12 @@ show spanning-tree
 - F0/24 → Designated (Forwarding)
 - F0/3  → Backup (Discarding)
 
+## Why Does SW2 have a backup port ⚠️
+
+- SW1 has 2 interfaces connected into the **same collision domain**. **F0/2** and **F0/3** are both connect to a hub.
+- RSTP allows **only one Designated Port per collision domain**. So RSTP must choose one with the lowest PortID
+- STP port ID = the port priority + the port number.
+- **SW1 F0/2** has the port id (128+2). - SW1 F0/3 has the port id (128+3).
+- **SW1 F0/2** will become the degsnated port and F0/3 will be backup
+
+
