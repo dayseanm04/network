@@ -36,5 +36,13 @@ The lab focuses on identifying the root bridge, analyzing port roles, calculatin
 - Configure point-to-point, shared, and edge ports.
 - Understand how hubs affect link type selection.
 - Verify link type using "show spanning-tree".
+- Full details in: Task3-RSTP-Link-Types.md
 
+# 🧠 Summary
 
+### This lab help me understand :
+- How RSTP converges quickly after topology changes.
+- How root, designated, alternate, and backup ports are selected.
+- How collision domains and hubs affect spanning tree decisions.
+- Difference between link types: shared, point-to-point, and edge.
+- How to configure and verify all RSTP settings in cisco IOS.
