@@ -2,6 +2,9 @@
 
 The lab focuses on identifying the root bridge, analyzing port roles, calculating root costs, and configuring RSTP link types across a multi-switch topology.
 
+## ## Topology For Reference:
+<img width="679" height="427" alt="Topology" src="https://github.com/user-attachments/assets/27ae675a-95d0-4369-9a98-b1d2222f65ec" />
+
 # 📘 Overview
 
 - Understand how RSTP selects the root bridge.
