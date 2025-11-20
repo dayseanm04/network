@@ -24,3 +24,9 @@ The lab focuses on identifying the root bridge, analyzing port roles, calculatin
 - Examine port roles/states on the root switch.
 - Full details in: Task1-Root-Bridge.md
 
+### Task 2: Determine Port Roles & States for each Switch
+- Determine RSTP roles/states without using the CLI.
+- Calculate RSTP path costs.
+- Use tie-breakers (lowest bridge ID).
+- Confirm using CLI outputs.
+- Full details in: Task2-Port-Roles.md
