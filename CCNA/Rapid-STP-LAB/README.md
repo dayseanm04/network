@@ -18,7 +18,7 @@ The lab focuses on identifying the root bridge, analyzing port roles, calculatin
 
 # 🧪 Tasks (Summary)
 
-## Task 1: Identify the Root Bridge:
+### Task 1: Identify the Root Bridge:
 
 - Determine which switch becomes the root bridge.
 - Examine port roles/states on the root switch.
