@@ -62,6 +62,8 @@ show spanning-tree
 
 <img width="787" height="395" alt="T2-show-stp-SW2" src="https://github.com/user-attachments/assets/abb4ae92-9339-45ad-b773-4987b854b032" />
 
+<br/><br/>
+
 **On SW3 in Priviliged EXEC mode:**
 ```bash
 show spanning-tree
