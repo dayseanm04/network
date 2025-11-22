@@ -52,3 +52,5 @@ show spaning-tree
 
 <img width="685" height="416" alt="v-sw1" src="https://github.com/user-attachments/assets/3fab6e56-b169-4c18-bb17-0e9dfdb1203c" />
 
+**Note on SW1 F0/24 📌**
+- F0/24 is connected to a hub, On a real cisco switch it will display both edge and shared in the type section
