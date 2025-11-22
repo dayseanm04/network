@@ -45,8 +45,10 @@ exit
 
 **command:**
 ```bash
-show spaning-tree
+show spanning-tree
 ```
+
+
 
 **Expected output:✅**
 
