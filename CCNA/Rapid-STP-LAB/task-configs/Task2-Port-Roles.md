@@ -36,8 +36,7 @@
 ## Designated Port and Alternate ports decisions 🏆
 
 **SW4 ↔ SW2 segment:**
-
-<img width="679" height="425" alt="SW4-SW2-RC" src="https://github.com/user-attachments/assets/45da9272-43ff-480b-88e5-8e61993acd56" />
+<img width="679" height="425" alt="SW4-SW2-RC" src="https://github.com/user-attachments/assets/81f2c2f2-dc3c-417a-bd7e-8587eb10b267" />
 
 - SW2 has the lower root cost (200k) →  SW2 F0/2 becomes the Designated Port
 - SW4  root cost is 400k so its F0/2 becomes Alternate (Discarding)
