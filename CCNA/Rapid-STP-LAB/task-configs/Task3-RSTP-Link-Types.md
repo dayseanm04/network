@@ -23,6 +23,7 @@ conf t
 ```bash
 interface f0/1
 spanning-tree link-type point-to-point
+exit
 ```
 
 **2️⃣ Configure F0/2 and F0/3 as shared (both connect to a hub)**
@@ -30,11 +31,13 @@ spanning-tree link-type point-to-point
 ```bash
 interface range f0/2, f0/3
 spanning-tree link-type shared
+exit
 ```
 
 **3️⃣Configure F0/24 as an edge port (PortFast)**
 ```bash
 int f0/24
 spanning-tree portfast
+exit
 ```
 
