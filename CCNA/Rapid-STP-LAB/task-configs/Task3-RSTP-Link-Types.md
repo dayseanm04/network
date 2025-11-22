@@ -9,7 +9,7 @@
 ## Topology For Reference:
 <img width="679" height="427" alt="Topology" src="https://github.com/user-attachments/assets/eec8b2e8-5a63-4614-8f58-e55a9f4b7c18" />
 
-### 🛠️ Step 1: Configure SW1
+## 🛠️ Step 1: Configure SW1
 
 **Enter global configuration mode:**
 
@@ -48,10 +48,51 @@ exit
 show spanning-tree
 ```
 
-
+<br/>
 
 **Expected output:✅**
 
 <img width="685" height="416" alt="v-sw1" src="https://github.com/user-attachments/assets/3fab6e56-b169-4c18-bb17-0e9dfdb1203c" />
 
 **Note SW1 F0/24 is connected to a hub, On a real cisco switch it will display both edge and shared in the type section**
+
+
+## 🛠️ Step 2: Configure SW2
+
+**Enter global configuration mode:**
+
+```bash
+enable
+conf t
+```
+
+**1️⃣ Configure F0/1, F0/2, G0/1 as point-to-point**
+
+```bash
+interface range f0/1, f0/2, g0/1
+spanning-tree link-type point-to-point
+exit
+```
+
+**2️⃣ Configure F0/23 and F0/24 as edge ports**
+
+```bash
+interface range f0/23, f0/24
+spanning-tree portfast
+exit
+```
+
+### 4️⃣ Verify
+
+**command:**
+```bash
+show spanning-tree
+```
+
+**Expected output:✅**
+
+<img width="687" height="458" alt="v-sw2" src="https://github.com/user-attachments/assets/db0ca6b5-9875-4202-8888-d3a16514fe73" />
+
+
+
+
