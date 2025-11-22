@@ -41,6 +41,24 @@ The lab focuses on identifying the root bridge, analyzing port roles, calculatin
 - Verify link type using "show spanning-tree".
 - Full details in: Task3-RSTP-Link-Types.md
 
+## Navigation
+
+pkt-files 📁
+----------------------------------------------------
+- Packet Tracer blank lab: [Rapid-STP-LAB-Blank.pkt](pkt-files/Rapid-STP-LAB-Blank.pkt)
+- Packet Tracer completed lab: [Rapid-STP-LAB-Completed.pkt](pkt-files/Rapid-STP-LAB-Completed.pkt)
+
+
+task-configs 📁
+----------------------------------------------------
+- Task 1: Root Bridge: [Task1-Root-Bridge.md](task-configs/Task1-Root-Bridge.md)
+- Task 2: Port Roles & States: [Task2-Port-Roles.md](task-configs/Task2-Port-Roles.md)
+- Task 3:RSTP Link Types: [Task3-RSTP-Link-Types.md](task-configs/Task3-RSTP-Link-Types.md)
+
+- Reflection: [reflection.md](reflection.md)
+ - Personal reflection summarizing lessons learned from the lab.
+
+
 # 🧠 Summary
 
 ### This lab help me understand :
@@ -51,6 +69,7 @@ The lab focuses on identifying the root bridge, analyzing port roles, calculatin
 - How to configure and verify all RSTP settings in cisco IOS.
 
 ---
+
 
 **Name:** *Daysean Mensah*  
 **Course/Program:** *Cisco CCNA Studies*  
