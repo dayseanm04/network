@@ -59,14 +59,14 @@ show spanning-tree
 
 ## 🛠️ Step 2: Configure SW2
 
-**Enter global configuration mode:**
+### Enter global configuration mode:
 
 ```bash
 enable
 conf t
 ```
 
-**1️⃣ Configure F0/1, F0/2, G0/1 as point-to-point**
+### 1️⃣ Configure F0/1, F0/2, G0/1 as point-to-point
 
 ```bash
 interface range f0/1, f0/2, g0/1
@@ -74,7 +74,7 @@ spanning-tree link-type point-to-point
 exit
 ```
 
-**2️⃣ Configure F0/23 and F0/24 as edge ports**
+### 2️⃣ Configure F0/23 and F0/24 as edge ports
 
 ```bash
 interface range f0/23, f0/24
@@ -82,7 +82,7 @@ spanning-tree portfast
 exit
 ```
 
-### 4️⃣ Verify
+### 3️⃣ Verify
 
 **command:**
 ```bash
