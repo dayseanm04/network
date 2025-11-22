@@ -177,3 +177,17 @@ show spanning-tree
 
 <img width="673" height="420" alt="v-sw4" src="https://github.com/user-attachments/assets/b088140f-3352-4488-b1f6-ad8925d5f549" />
 
+
+## RSTP Link Types Explained 📘
+
+- Point-to-Point → Full-duplex connection between two switches  
+- Shared → Half-duplex connection (usually involving hubs)  
+- Edge Port → Connected to an end device; enable PortFast  
+
+
+## Important Notes ⚠️
+
+- Edge + Point-to-Point can both exist on the same interface (real switches will show both when PortFast is enabled).
+- Packet Tracer does not display both but real cisco IOS switches do.
+- Shared = half-duplex (hub involved)
+- Point-to-Point = full-duplex (switch-to-switch)  
