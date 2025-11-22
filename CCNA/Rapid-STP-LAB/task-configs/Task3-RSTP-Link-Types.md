@@ -96,3 +96,46 @@ show spanning-tree
 **Note: Edge ports connected to end hosts will be point to point links if they are using full duplex, thats why f0/23 and f0/24 shows p2p under the type column**
 
 
+## 🛠️ Step 3: Configure SW3
+
+### Enter global configuration mode:
+
+```bash
+enable
+conf t
+```
+
+### 1️⃣ Configure F0/2 as shared (connected to Hub1)
+
+```bash
+interface range f0/2
+spanning-tree link-type shared
+exit
+```
+
+### 2️⃣ Configure F0/1 and G0/1 as point-to-point
+
+```bash
+interface range f0/1, g0/1
+spanning-tree link-type point-to-point
+exit
+```
+
+### 3️⃣ Configure F0/24 as an edge port (PortFast)
+```bash
+interface f0/24
+spanning-tree portfast
+exit
+```
+
+4️⃣ Verify
+
+**command:**
+```bash
+show spanning-tree
+```
+
+**Expected output:✅**
+
+<img width="668" height="436" alt="v-sw3" src="https://github.com/user-attachments/assets/0016f296-b2fd-41cd-abc0-55677947943a" />
+
