@@ -108,7 +108,7 @@ conf t
 ### 1️⃣ Configure F0/2 as shared (connected to Hub1)
 
 ```bash
-interface range f0/2
+interface f0/2
 spanning-tree link-type shared
 exit
 ```
