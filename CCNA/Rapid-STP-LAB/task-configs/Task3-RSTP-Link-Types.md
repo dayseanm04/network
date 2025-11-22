@@ -34,10 +34,17 @@ spanning-tree link-type shared
 exit
 ```
 
-**3️⃣Configure F0/24 as an edge port (PortFast)**
+**3️⃣ Configure F0/24 as an edge port (PortFast)**
 ```bash
 int f0/24
 spanning-tree portfast
 exit
+```
+
+**4️⃣ Verify**
+
+**command:**
+```bash
+show spaning-tree
 ```
 
