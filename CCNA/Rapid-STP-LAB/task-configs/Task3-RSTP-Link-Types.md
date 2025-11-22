@@ -122,6 +122,7 @@ exit
 ```
 
 ### 3️⃣ Configure F0/24 as an edge port (PortFast)
+
 ```bash
 interface f0/24
 spanning-tree portfast
@@ -138,4 +139,41 @@ show spanning-tree
 **Expected output:✅**
 
 <img width="668" height="436" alt="v-sw3" src="https://github.com/user-attachments/assets/0016f296-b2fd-41cd-abc0-55677947943a" />
+
+
+## 🛠️ Step 4: Configure SW4
+
+### Enter global configuration mode:
+
+```bash
+enable
+conf t
+```
+
+### 1️⃣ Configure F0/1 and F0/2 as point-to-point 
+
+```bash
+interface range f0/1, f0/2
+spanning-tree link-type shared
+exit
+```
+
+### 2️⃣ Configure F0/24 as an edge port (PortFast)
+
+```bash
+interface f0/24
+spanning-tree portfast
+exit
+```
+
+### 3️⃣ Verify
+
+**command:**
+```bash
+show spanning-tree
+```
+
+**Expected output:✅**
+
+<img width="673" height="420" alt="v-sw4" src="https://github.com/user-attachments/assets/b088140f-3352-4488-b1f6-ad8925d5f549" />
 
