@@ -48,3 +48,7 @@ exit
 show spaning-tree
 ```
 
+**Expected output:✅**
+
+<img width="685" height="416" alt="v-sw1" src="https://github.com/user-attachments/assets/3fab6e56-b169-4c18-bb17-0e9dfdb1203c" />
+
