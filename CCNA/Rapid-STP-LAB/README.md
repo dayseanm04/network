@@ -41,6 +41,14 @@ The lab focuses on identifying the root bridge, analyzing port roles, calculatin
 - Verify link type using "show spanning-tree".
 - Full details in: Task3-RSTP-Link-Types.md
 
+## Navigation – Rapid STP Lab 📂
+
+| Section | Description |
+|-------- | ------------|
+| 💾 [pkt-files](./pkt-files/) | Contains blank and completed Packet Tracer files for this lab. |
+| 🧩[task-configs](./task-configs/) | Contains Task 1, 2 and 3 for the Rapid STP Lab. |
+| 🧠 [reflection.md](reflection.md) | Personal reflection summarizing lessons learned from the lab.|
+| 🖼️ [topology.png](./topology.png) | Visual representation of the Multilayer Switching Lab topology. |
 
 
 # 🧠 Summary
