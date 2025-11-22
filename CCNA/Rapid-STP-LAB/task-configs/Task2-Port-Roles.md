@@ -18,9 +18,9 @@
 - **SW3:** F0/2 is the root port. (Connected through the hub segment to SW1)
 
 ## Topology with STP ports:
-<img width="679" height="427" alt="T2-rstp-ports1" src="https://github.com/user-attachments/assets/49b3bb28-23d7-4065-a2b7-2ac11118ca03" />
 
 **SW4:** has two equal-cost paths (400,000) via SW2 and SW3
+<img width="679" height="427" alt="T2-rstp-ports1" src="https://github.com/user-attachments/assets/4e525465-9cdb-4f83-b5ca-a028b67535d0" />
 
 <img width="667" height="406" alt="T2-SW4-RC1" src="https://github.com/user-attachments/assets/774d1589-b710-4fb1-8b45-2de646bf1627" />
 
