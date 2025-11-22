@@ -18,7 +18,7 @@ enable
 conf t
 ```
 
-**1️⃣ Configure F0/1 as point-to-point (connected to SW2)**
+### 1️⃣ Configure F0/1 as point-to-point (connected to SW2)
 
 ```bash
 interface f0/1
@@ -26,7 +26,7 @@ spanning-tree link-type point-to-point
 exit
 ```
 
-**2️⃣ Configure F0/2 and F0/3 as shared (both connect to a hub)**
+### 2️⃣ Configure F0/2 and F0/3 as shared (both connect to a hub)
 
 ```bash
 interface range f0/2, f0/3
@@ -34,14 +34,14 @@ spanning-tree link-type shared
 exit
 ```
 
-**3️⃣ Configure F0/24 as an edge port (PortFast)**
+### 3️⃣ Configure F0/24 as an edge port (PortFast)
 ```bash
 int f0/24
 spanning-tree portfast
 exit
 ```
 
-**4️⃣ Verify**
+### 4️⃣ Verify
 
 **command:**
 ```bash
