@@ -93,6 +93,6 @@ show spanning-tree
 
 <img width="687" height="458" alt="v-sw2" src="https://github.com/user-attachments/assets/db0ca6b5-9875-4202-8888-d3a16514fe73" />
 
-
+**Note: Edge ports connected to end hosts will be point to point links if they are using full duplex, thats why f0/23 and f0/24 shows p2p under the type column**
 
 
