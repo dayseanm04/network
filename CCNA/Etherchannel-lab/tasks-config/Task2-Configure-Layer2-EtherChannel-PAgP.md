@@ -46,7 +46,7 @@ interface port-channel 1
 exit
 ```
 
-#### 🔷Set the Port-Channel as a trunk:
+#### 🔷Configure the Port-Channel as a trunk:
 ```bash
 switchport mode trunk
 end
@@ -60,4 +60,52 @@ show etherchannel summary
 **Expected Output ✅:**
 
 <img width="823" height="347" alt="T2-ASW2-v-etherchannel" src="https://github.com/user-attachments/assets/c0d91f22-9386-4aea-921e-6d2ac60b1c31" />
+
+**Note: Port-channel 1 is Down and the G0/1 and G0/2 interface has the I flag because DSW2 is not configured yet.**
+
+## Step 2️⃣ Configure PAgP EtherChannel on DSW2
+
+#### 🔷 On ASW2 Enter global configuration mode:
+
+```bash
+enable
+configure terminal
+```
+
+#### 🔷 Enter interface range for DSW2 G0/1 and G0/2:
+```bash
+interface range g1/0/3 - 4
+```
+
+#### 🔷 Enable PAgP and assign to channel-group 1 in desirable mode:
+```bash
+channel-group 1 mode desirable
+```
+
+**Expected Output ✅:**
+
+<img width="907" height="322" alt="T2-DSW2-etherchannel-created" src="https://github.com/user-attachments/assets/fa909850-ba9e-4900-a7a8-bba9b2b41313" />
+
+#### 🔷 Go into the new Port-Channel interface:
+
+```bash
+interface port-channel 1
+exit
+```
+
+#### 🔷 Configure the Port-Channel as a trunk:
+```bash
+switchport mode trunk
+end
+```
+
+### 🔶 Verify DSW2 PAgP EtherChannel & Trunk 
+```bash
+show etherchannel summary
+```
+
+**Expected Output ✅:**
+
+<img width="907" height="322" alt="T2-DSW2-etherchannel-created" src="https://github.com/user-attachments/assets/92e0c6ad-65b7-47c8-b430-6427097e1e94" />
+
 
