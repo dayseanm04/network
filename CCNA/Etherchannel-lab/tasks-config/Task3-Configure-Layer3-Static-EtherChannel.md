@@ -38,4 +38,18 @@ channel-group 2 mode on
 
 <img width="759" height="162" alt="T3-DSW2-L3-PC-created" src="https://github.com/user-attachments/assets/7be2f598-a6ba-4c91-956b-b43ce5798f1c" />
 
+```bash
+exit
+```
 
+#### 🔷 Go into the new Port-Channel 2 interface:
+
+```bash
+interface port-channel 2
+```
+
+#### Make it a layer 3 port:
+
+```bash
+no switchport
+```
