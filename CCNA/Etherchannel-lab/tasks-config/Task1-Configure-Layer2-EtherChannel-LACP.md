@@ -158,6 +158,8 @@ show run
 show etherchannel summary
 ```
 
+**Expected Output ✅:**
+
 <img width="832" height="337" alt="T1-ASW1-v-etherchannel" src="https://github.com/user-attachments/assets/7538adb6-86f2-41af-b7cb-cd1d4fc56e58" />
 
 **Note: Port-channel 1 is Down and the G0/1 and G0/2 interface has the I flag because DSW1 is not configured yet.**
@@ -207,5 +209,16 @@ switchport trunk encapsulation dot1q
 show interfaces status
 ```
 
+**Expected Output ✅:**
 
+<img width="826" height="172" alt="T1-DSW1-show-int-stat" src="https://github.com/user-attachments/assets/9458832a-f38f-4f7f-a14b-a2802be75fbb" />
 
+### 🔶 Verify etherchannel
+
+```bash
+show etherchannel summary
+```
+
+**Expected Output ✅:**
+
+<img width="820" height="351" alt="T1-verify-DSW1-etherchannel" src="https://github.com/user-attachments/assets/0de5d7a9-5317-4ce2-bb8f-bdd48f1c6f6f" />
