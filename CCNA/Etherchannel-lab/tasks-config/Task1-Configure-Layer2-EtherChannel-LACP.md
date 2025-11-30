@@ -10,3 +10,9 @@ In this task, I:
 <img width="663" height="393" alt="TFR" src="https://github.com/user-attachments/assets/9ded89c2-e858-4d02-940e-6d17f357178d" />
 
 These two links will be bundled into **Port-Channel 1** on both switches.
+
+<br/>
+
+**Note**: To configure EtherChannel the switches must have the same speed, duplex, switchport (access or trunk), If they are a trunk, they must have the same allowed VLANs and native VLANs.
+
+## Step 1️⃣ Verify Interfaces on ASW1
