@@ -34,3 +34,16 @@ show interfaces status
 
 **Note: ASW1 G0/1 and G0/2 have the same speed and duplex.**
 
+#### 🔷 Check the VLANs on ASW1:
+
+```enable
+show vlan brief
+```
+
+**Expected Output ✅:**
+<img width="810" height="273" alt="T1-ASW1-show-vlan-brief" src="https://github.com/user-attachments/assets/5b4ae2e7-d040-4c42-a08f-066b7913ea78" />
+
+**Note: There is only the default VLAN on ASW1 (VLAN 1)**
+
+
+
