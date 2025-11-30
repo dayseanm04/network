@@ -59,4 +59,23 @@ no switchport
 <img width="840" height="151" alt="T3-DSW2-pc2-up" src="https://github.com/user-attachments/assets/8ef03b0b-92d3-4854-a476-3d80fd04ebeb" />
 
 
+#### 🔷 Assign the IP address to Port-Channel 2:
+```bash
+ip address 10.0.0.2 255.255.255.252
+```
+
+**Exit to privileged EXEC mode:**
+```bash
+end
+```
+
+#### 🔍 Verify on DSW2:
+
+```bash
+show ip interface brief
+```
+
+**Expected Output ✅:**
+
+<img width="815" height="170" alt="T3-DSW2-show-ip-int-brief" src="https://github.com/user-attachments/assets/f82fccfa-a96d-4de8-9178-f70219b9bea1" />
 
