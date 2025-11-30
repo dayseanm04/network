@@ -76,3 +76,12 @@ show interfaces status
 
 <img width="812" height="555" alt="T1-DSW1-show-int-status" src="https://github.com/user-attachments/assets/a9a2ba9a-f9c5-43b6-86da-8125a80d131d" />
 
+#### 🔷 Check the VLANs on DSW1:
+
+```enable
+show vlan brief
+```
+
+**Expected Output ✅:**
+<img width="929" height="230" alt="T1-DSW1-show-vlan-brief" src="https://github.com/user-attachments/assets/bd995166-8c55-413b-b3de-d9357a65c220" />
+
