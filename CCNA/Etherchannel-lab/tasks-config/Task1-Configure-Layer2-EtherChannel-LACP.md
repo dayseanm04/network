@@ -16,3 +16,15 @@ These two links will be bundled into **Port-Channel 1** on both switches.
 **Note**: To configure EtherChannel the switches must have the same speed, duplex, switchport (access or trunk), If they are a trunk, they must have the same allowed VLANs and native VLANs.
 
 ## Step 1️⃣ Verify Interfaces on ASW1
+
+#### 🔷 On **ASW1** and enter privileged EXEC mode:
+
+```bash
+enable
+```
+
+#### 🔷 Check speed and duplex of G0/1 and G0/2::
+
+```bash
+show interfaces status
+```
