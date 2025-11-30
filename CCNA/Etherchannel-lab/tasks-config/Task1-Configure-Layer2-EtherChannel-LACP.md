@@ -17,7 +17,7 @@ These two links will be bundled into **Port-Channel 1** on both switches.
 
 ## Step 1️⃣ Verify Interfaces and VLANs on ASW1
 
-#### 🔷 On **ASW1** and enter privileged EXEC mode:
+#### 🔷 On **ASW1** enter privileged EXEC mode:
 
 ```bash
 enable
@@ -60,7 +60,7 @@ show interface trunk
 
 ## 2️⃣ Verify Interfaces and VLANs on DSW1
 
-#### 🔷 On **DSW1** and enter privileged EXEC mode:
+#### 🔷 On **DSW1** enter privileged EXEC mode:
 
 ```bash
 enable
