@@ -113,6 +113,9 @@ channel-group 1 mode active
 
 <img width="906" height="222" alt="T1-ASW1-port-channel-created" src="https://github.com/user-attachments/assets/37113864-8435-414f-8bd0-69250aa6f5ac" />
 
+```bash
+exit
+```
 
 #### 🔷 Go into the new Port-Channel interface:
 
