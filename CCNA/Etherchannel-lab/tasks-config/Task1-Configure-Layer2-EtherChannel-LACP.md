@@ -93,3 +93,33 @@ show interface trunk
 
 <img width="445" height="58" alt="T1-DSW1-show-int-trunk" src="https://github.com/user-attachments/assets/8feeaba3-3d25-41ae-a427-936adf7fe140" />
 
+## 3️⃣ Configure LACP EtherChannel on ASW1
+
+Now I will bundle G0/1 and G0/2 into Port-Channel 1 using LACP and configure it as trunk.
+
+#### 🔷 Enter interface range for ASW1 G0/1 and G0/2:
+```bash
+interface range 0/1 - 2
+```
+
+#### 🔷 Enable LACP and assign them to channel-group 1 in active mode:
+
+```bash
+channel-group 1 mode active
+exit
+```
+
+#### 🔷 Go into the new Port-Channel interface:
+
+```bash
+interface port-channel 1
+exit
+```
+
+#### 🔷Set the Port-Channel as a trunk:
+```bash
+switchport mode trunk
+end
+```
+
+
