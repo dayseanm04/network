@@ -224,7 +224,8 @@ show etherchannel summary
 <img width="820" height="351" alt="T1-verify-DSW1-etherchannel" src="https://github.com/user-attachments/assets/0de5d7a9-5317-4ce2-bb8f-bdd48f1c6f6f" />
 
 
-<br/>
+<br/><br/>
+
 
 
 #### 🔷 show spanning-tree on ASW1 and DSW1: shows the port channel not the individual ports because the ports are treated as 1 single port.
@@ -232,6 +233,8 @@ show etherchannel summary
 **ASW1 Expected Output ✅:**
 
 <img width="821" height="362" alt="T1-ASW1-show-stp" src="https://github.com/user-attachments/assets/04dacecf-673d-413e-a8e0-b76169e1997e" />
+
+<br/><br/>
 
 **DSW1 Expected Output ✅:**
 <img width="791" height="360" alt="T1-DSW1-show-stp" src="https://github.com/user-attachments/assets/99fde5ce-483b-425e-8c75-ede718bd2199" />
