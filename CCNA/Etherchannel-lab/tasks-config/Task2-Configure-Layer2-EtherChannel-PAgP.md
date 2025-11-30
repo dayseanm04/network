@@ -35,4 +35,29 @@ channel-group 1 mode desirable
 
 <img width="906" height="213" alt="T2-ASW2-portchannel-created" src="https://github.com/user-attachments/assets/99917979-906c-4e51-a398-cc435502825c" />
 
+```bash
+exit
+```
+
+#### 🔷 Go into the new Port-Channel interface:
+
+```bash
+interface port-channel 1
+exit
+```
+
+#### 🔷Set the Port-Channel as a trunk:
+```bash
+switchport mode trunk
+end
+```
+
+### 🔶 Verify ASW2 PAgP EtherChannel 
+```bash
+show etherchannel summary
+```
+
+**Expected Output ✅:**
+
+<img width="823" height="347" alt="T2-ASW2-v-etherchannel" src="https://github.com/user-attachments/assets/c0d91f22-9386-4aea-921e-6d2ac60b1c31" />
 
