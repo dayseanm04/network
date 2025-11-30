@@ -53,3 +53,9 @@ interface port-channel 2
 ```bash
 no switchport
 ```
+
+**Expected Output ✅:**
+
+<img width="836" height="147" alt="T3-DSW2-pc2-up" src="https://github.com/user-attachments/assets/8f040211-1c04-4ad6-be71-f72ac038a6fd" />
+
+
