@@ -79,3 +79,11 @@ show ip interface brief
 
 <img width="815" height="170" alt="T3-DSW2-show-ip-int-brief" src="https://github.com/user-attachments/assets/f82fccfa-a96d-4de8-9178-f70219b9bea1" />
 
+```bash
+show etherchannel summary
+```
+
+**Expected Output ✅:**
+
+<img width="644" height="369" alt="T3-DSW2-verify-etherchannel" src="https://github.com/user-attachments/assets/4da14ffd-6103-4dfa-acc6-a2edb34136d9" />
+
