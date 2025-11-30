@@ -83,6 +83,7 @@ show vlan brief
 ```
 
 **Expected Output ✅:**
+
 <img width="929" height="230" alt="T1-DSW1-show-vlan-brief" src="https://github.com/user-attachments/assets/bd995166-8c55-413b-b3de-d9357a65c220" />
 
 #### 🔷 Check trunk status (there should be no trunk yet):
@@ -106,8 +107,12 @@ interface range 0/1 - 2
 
 ```bash
 channel-group 1 mode active
-exit
 ```
+
+**Expected Output ✅:**
+
+<img width="906" height="222" alt="T1-ASW1-port-channel-created" src="https://github.com/user-attachments/assets/37113864-8435-414f-8bd0-69250aa6f5ac" />
+
 
 #### 🔷 Go into the new Port-Channel interface:
 
