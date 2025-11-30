@@ -15,7 +15,7 @@ These two links will be bundled into **Port-Channel 1** on both switches.
 
 **Note**: To configure EtherChannel the switches must have the same speed, duplex, switchport (access or trunk), If they are a trunk, they must have the same allowed VLANs and native VLANs.
 
-## Step 1️⃣ Verify Interfaces on ASW1
+## Step 1️⃣ Verify Interfaces and VLANs on ASW1
 
 #### 🔷 On **ASW1** and enter privileged EXEC mode:
 
@@ -58,7 +58,7 @@ show interface trunk
 <img width="567" height="56" alt="T1-ASW1-trunk-dont-show" src="https://github.com/user-attachments/assets/4115d1fc-6bcf-4b05-b925-adae525ec7cc" />
 
 
-## 2️⃣ Verify Interfaces on DSW1
+## 2️⃣ Verify Interfaces and VLANs on DSW1
 
 #### 🔷 On **DSW1** and enter privileged EXEC mode:
 
