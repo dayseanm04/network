@@ -140,4 +140,14 @@ show interfaces status
 
 <img width="823" height="151" alt="T1-ASW1-verify-Port-channel" src="https://github.com/user-attachments/assets/bdd9c223-3975-4bcf-ae8a-e86d16955629" />
 
+```bash
+show run
+```
+
+**Expected Output ✅:**
+
+<img width="485" height="77" alt="T1-ASW1-show-run1" src="https://github.com/user-attachments/assets/0653b040-cd37-4e9b-a7df-104c75b1a3e9" />
+
+<img width="507" height="173" alt="T1-ASW1-show-run2" src="https://github.com/user-attachments/assets/f3fd2802-3ec6-4a7d-ab35-e5cbf8e1183a" />
+
 
