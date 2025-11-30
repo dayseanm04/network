@@ -23,8 +23,14 @@ These two links will be bundled into **Port-Channel 1** on both switches.
 enable
 ```
 
-#### 🔷 Check speed and duplex of G0/1 and G0/2::
+#### 🔷 Check speed and duplex of G0/1 and G0/2:
 
 ```bash
 show interfaces status
 ```
+
+**Expected Output ✅:**
+<img width="826" height="522" alt="T1-ASW1-show-int-status" src="https://github.com/user-attachments/assets/6732e6bc-3b7a-4a19-abe8-282731c09464" />
+
+**Note: ASW1 G0/1 and G0/2 have the same speed and duplex.**
+
