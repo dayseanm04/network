@@ -56,6 +56,7 @@ no switchport
 
 **Expected Output ✅:**
 
-<img width="836" height="147" alt="T3-DSW2-pc2-up" src="https://github.com/user-attachments/assets/8f040211-1c04-4ad6-be71-f72ac038a6fd" />
+<img width="840" height="151" alt="T3-DSW2-pc2-up" src="https://github.com/user-attachments/assets/8ef03b0b-92d3-4854-a476-3d80fd04ebeb" />
+
 
 
