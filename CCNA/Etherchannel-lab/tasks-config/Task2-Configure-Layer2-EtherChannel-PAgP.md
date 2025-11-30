@@ -99,7 +99,7 @@ switchport mode trunk
 end
 ```
 
-### 🔶 Verify DSW2 PAgP EtherChannel & Trunk 
+### 🔶 Verify DSW2 PAgP EtherChannel
 ```bash
 show etherchannel summary
 ```
