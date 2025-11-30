@@ -130,4 +130,14 @@ switchport mode trunk
 end
 ```
 
+### 🔶 Verify
+
+```bash
+show interfaces status
+```
+
+**Expected Output ✅:**
+
+<img width="823" height="151" alt="T1-ASW1-verify-Port-channel" src="https://github.com/user-attachments/assets/bdd9c223-3975-4bcf-ae8a-e86d16955629" />
+
 
