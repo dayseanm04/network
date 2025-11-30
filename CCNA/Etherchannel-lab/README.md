@@ -43,6 +43,8 @@ In this lab I:
 ### ✅ Task 6: Configure the switches EtherChannel to load balance based on Source and Destination IP
 - with this command: `show etherchannel load-balance`
 
+**Note: ASW means Access Switch and DSW means Distribution Switch**
+
 ---
 
 ## ✍️ Author Information
