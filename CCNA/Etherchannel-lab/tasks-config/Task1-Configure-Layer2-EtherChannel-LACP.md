@@ -124,7 +124,7 @@ interface port-channel 1
 exit
 ```
 
-#### 🔷Set the Port-Channel as a trunk:
+#### 🔷 Configure the Port-Channel as a trunk:
 ```bash
 switchport mode trunk
 end
@@ -192,7 +192,7 @@ interface port-channel 1
 exit
 ```
 
-#### 🔷Set the Port-Channel as a trunk:
+#### 🔷 Configure the Port-Channel as a trunk:
 ```bash
 switchport mode trunk
 end
