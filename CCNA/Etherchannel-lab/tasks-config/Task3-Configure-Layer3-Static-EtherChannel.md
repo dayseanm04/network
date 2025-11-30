@@ -90,7 +90,7 @@ show etherchannel summary
 <img width="644" height="369" alt="T3-DSW2-verify-etherchannel" src="https://github.com/user-attachments/assets/4da14ffd-6103-4dfa-acc6-a2edb34136d9" />
 
 
-2️⃣ Configure Static EtherChannel on DSW1
+## 2️⃣ Configure Static EtherChannel on DSW1
 
 #### 🔷 Enter global configuration mode:
 
