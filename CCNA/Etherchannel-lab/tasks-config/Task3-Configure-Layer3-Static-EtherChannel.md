@@ -48,7 +48,7 @@ exit
 interface port-channel 2
 ```
 
-#### Make it a layer 3 port:
+#### 🔷 Make it a layer 3 port:
 
 ```bash
 no switchport
