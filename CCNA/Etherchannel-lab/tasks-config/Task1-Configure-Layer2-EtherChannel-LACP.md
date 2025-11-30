@@ -45,5 +45,13 @@ show vlan brief
 
 **Note: There is only the default VLAN on ASW1 (VLAN 1)**
 
+#### 🔷 Check trunk status (there should be no trunk yet):
+
+```bash
+show interface trunk
+```
+
+**Expected Output ✅:**
+<img width="567" height="56" alt="T1-ASW1-trunk-dont-show" src="https://github.com/user-attachments/assets/4115d1fc-6bcf-4b05-b925-adae525ec7cc" />
 
 
