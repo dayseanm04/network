@@ -227,8 +227,9 @@ show etherchannel summary
 <br/><br/>
 
 
-
 #### 🔷 show spanning-tree on ASW1 and DSW1: shows the port channel not the individual ports because the ports are treated as 1 single port.
+
+<br/><br/>
 
 **ASW1 Expected Output ✅:**
 
