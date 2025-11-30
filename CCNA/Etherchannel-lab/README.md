@@ -29,4 +29,11 @@ In this lab I:
 - Configured **Port-Channel 1** as a trunk  
 
 ### ✅ Task 3: Static Layer 3 EtherChannel (DSW1 ↔ DSW2)
+- Configured **Static EtherChannel (mode on)**
+- Assigned IP addresses to **port-channel 2**
+
+### ✅ Task 4: Routing to Reach SRV1
+- Enabled `ip routing`
+- Configured static routes on both DSW1 and DSW2
+- Verified PC1 → SRV1 connectivity with ping tests
 
