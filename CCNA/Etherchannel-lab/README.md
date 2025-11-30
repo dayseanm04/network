@@ -43,3 +43,10 @@ In this lab I:
 ### ✅ Task 6: Configure the switches EtherChannel to load balance based on Source and Destination IP
 - with this command: `show etherchannel load-balance`
 
+---
+
+## ✍️ Author Information
+
+**Name:** *Daysean Mensah*  
+**Course/Program:** *Cisco CCNA Studies*  
+**Lab completion date:** November 29 2025.
