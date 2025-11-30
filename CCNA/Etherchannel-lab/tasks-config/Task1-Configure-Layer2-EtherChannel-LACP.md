@@ -130,7 +130,7 @@ switchport mode trunk
 end
 ```
 
-### 🔶 Verify
+### 🔶 Verify the LACP EtherChannel & Trunk on ASW1
 
 ```bash
 show interfaces status
@@ -161,3 +161,51 @@ show etherchannel summary
 <img width="832" height="337" alt="T1-ASW1-v-etherchannel" src="https://github.com/user-attachments/assets/7538adb6-86f2-41af-b7cb-cd1d4fc56e58" />
 
 **Note: Port-channel 1 is Down and the G0/1 and G0/2 interface has the I flag because DSW1 is not configured yet.**
+
+## 4️⃣ Configure LACP EtherChannel on DSW1
+
+#### 🔷 Enter interface range for G1/0/3 and G1/0/4:
+```bash
+interface range g/0/3 - 4
+```
+
+#### 🔷 Enable LACP and assign them to channel-group 1 in active mode:
+```bash
+channel-group 1 mode active
+```
+
+**Expected Output ✅:**
+
+<img width="925" height="292" alt="T1-DSW1-Port-channel-created" src="https://github.com/user-attachments/assets/9253c235-dfa5-4485-925d-409c32f76afa" />
+
+
+```bash
+exit
+```
+
+#### 🔷 Go into the new Port-Channel interface:
+
+```bash
+interface port-channel 1
+exit
+```
+
+#### 🔷Set the Port-Channel as a trunk:
+```bash
+switchport mode trunk
+end
+```
+
+**Note: On some switches they might be multiple trunk encapsulations you may need:**
+```bash
+switchport trunk encapsulation dot1q
+```
+
+### 🔶 Verify the LACP EtherChannel & Trunk on ASW1
+
+```bash
+show interfaces status
+```
+
+
+
