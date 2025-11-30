@@ -20,3 +20,8 @@ In this lab I:
 - Configured Static routing to allow end-to-end connectivity
 - Configured the Switches etherchannel load-balancing method to **source-and-destination IP**
 
+### ✅ Task 1 — LACP EtherChannel (ASW1 ↔ DSW1)
+- Configured Layer 2 EtherChannel using **LACP (mode active)**
+- Configured **Port-Channel 1** as a trunk
+
+  
