@@ -85,3 +85,11 @@ show vlan brief
 **Expected Output ✅:**
 <img width="929" height="230" alt="T1-DSW1-show-vlan-brief" src="https://github.com/user-attachments/assets/bd995166-8c55-413b-b3de-d9357a65c220" />
 
+#### 🔷 Check trunk status (there should be no trunk yet):
+
+```bash
+show interface trunk
+```
+
+<img width="445" height="58" alt="T1-DSW1-show-int-trunk" src="https://github.com/user-attachments/assets/8feeaba3-3d25-41ae-a427-936adf7fe140" />
+
