@@ -30,6 +30,7 @@ show interfaces status
 ```
 
 **Expected Output ✅:**
+
 <img width="826" height="522" alt="T1-ASW1-show-int-status" src="https://github.com/user-attachments/assets/6732e6bc-3b7a-4a19-abe8-282731c09464" />
 
 **Note: ASW1 G0/1 and G0/2 have the same speed and duplex.**
@@ -41,6 +42,7 @@ show vlan brief
 ```
 
 **Expected Output ✅:**
+
 <img width="810" height="273" alt="T1-ASW1-show-vlan-brief" src="https://github.com/user-attachments/assets/5b4ae2e7-d040-4c42-a08f-066b7913ea78" />
 
 **Note: There is only the default VLAN on ASW1 (VLAN 1)**
@@ -52,6 +54,25 @@ show interface trunk
 ```
 
 **Expected Output ✅:**
+
 <img width="567" height="56" alt="T1-ASW1-trunk-dont-show" src="https://github.com/user-attachments/assets/4115d1fc-6bcf-4b05-b925-adae525ec7cc" />
 
+
+## 2️⃣ Verify Interfaces on DSW1
+
+#### 🔷 On **DSW1** and enter privileged EXEC mode:
+
+```bash
+enable
+```
+
+#### 🔷 Check speed and duplex of G1/0/3 and G1/0/4:
+
+```bash
+show interfaces status
+```
+
+**Expected Output ✅:**
+
+<img width="812" height="555" alt="T1-DSW1-show-int-status" src="https://github.com/user-attachments/assets/a9a2ba9a-f9c5-43b6-86da-8125a80d131d" />
 
