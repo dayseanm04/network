@@ -223,8 +223,7 @@ show etherchannel summary
 
 <img width="820" height="351" alt="T1-verify-DSW1-etherchannel" src="https://github.com/user-attachments/assets/0de5d7a9-5317-4ce2-bb8f-bdd48f1c6f6f" />
 
-
-<br/><br/>
+<br/>
 
 
 #### 🔷 show spanning-tree on ASW1 and DSW1: shows the port channel not the individual ports because the ports are treated as 1 single port.
