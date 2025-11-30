@@ -141,15 +141,10 @@ no switchport
 ip address 10.0.0.1 255.255.255.252
 ```
 
-**Exit to privileged EXEC mode:**
-```bash
-end
-```
-
 #### 🔍 Verify on DSW1:
 
 ```bash
-show ip interface brief
+do show ip interface brief
 ```
 
 **Expected Output ✅:**
