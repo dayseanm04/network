@@ -37,3 +37,9 @@ In this lab I:
 - Configured static routes on both DSW1 and DSW2
 - Verified PC1 → SRV1 connectivity with ping tests
 
+### ✅ Task 5: Determine the default EtherChannel Load-Balancing method for the switches
+- All switches use: **src-mac (Source MAC Address)**
+
+### ✅ Task 6: Configure the switches EtherChannel to load balance based on Source and Destination IP
+- with this command: `show etherchannel load-balance`
+
