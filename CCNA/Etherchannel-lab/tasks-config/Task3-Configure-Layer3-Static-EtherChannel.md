@@ -136,3 +136,31 @@ no switchport
 
 **Note:** Port channel 2 on DSW1 interface state is now up
 
+#### 🔷 Assign the IP address to Port-Channel 2:
+```bash
+ip address 10.0.0.1 255.255.255.252
+```
+
+**Exit to privileged EXEC mode:**
+```bash
+end
+```
+
+#### 🔍 Verify on DSW1:
+
+```bash
+show ip interface brief
+```
+
+**Expected Output ✅:**
+
+<img width="828" height="151" alt="T3-DSW1-show-ip-int-brief" src="https://github.com/user-attachments/assets/188a94d0-f0ef-448b-88ed-e0406d5950dd" />
+
+```bash
+show etherchannel summary
+```
+
+**Expected Output ✅:**
+
+<img width="748" height="370" alt="T3-DSW1-verify-etherchannel" src="https://github.com/user-attachments/assets/5bf45522-3892-4a9a-8709-2c51d2c23808" />
+
