@@ -106,6 +106,6 @@ show etherchannel summary
 
 **Expected Output ✅:**
 
-<img width="907" height="322" alt="T2-DSW2-etherchannel-created" src="https://github.com/user-attachments/assets/92e0c6ad-65b7-47c8-b430-6427097e1e94" />
+<img width="812" height="338" alt="T2-DSW2-show-etherchannel-summary" src="https://github.com/user-attachments/assets/ed62be2e-e5a0-4884-8af5-e845746aea59" />
 
 
