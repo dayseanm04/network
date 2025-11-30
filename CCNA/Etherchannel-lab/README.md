@@ -5,6 +5,11 @@
 
 This lab focuses on building **Layer 2 and Layer 3 EtherChannels** using LACP, PAgP, and Static mode. I also configure routing and adjusted the load-balancing methods across the switches. This helped me understand real-world skills in link aggregation, redundancy, and multi-path efficiency. 🌐🔗
 
+## 🧰 Devices Used
+- 2 Cisco 2960-24TT switches
+- 2 Cisco 3650-24PS switches
+- 2 PCs (PC1 & PC2)
+- 1 Server (SRV1) 
 
 ## 📘 Summary
 
