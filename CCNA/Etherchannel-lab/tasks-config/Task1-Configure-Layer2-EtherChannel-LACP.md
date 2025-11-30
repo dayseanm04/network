@@ -153,3 +153,11 @@ show run
 <img width="507" height="173" alt="T1-ASW1-show-run2" src="https://github.com/user-attachments/assets/f3fd2802-3ec6-4a7d-ab35-e5cbf8e1183a" />
 
 
+### 🔶 Verify etherchannel
+```bash
+show etherchannel summary
+```
+
+<img width="832" height="337" alt="T1-ASW1-v-etherchannel" src="https://github.com/user-attachments/assets/7538adb6-86f2-41af-b7cb-cd1d4fc56e58" />
+
+**Note: Port-channel 1 is Down and the G0/1 and G0/2 interface has the I flag because DSW1 is not configured yet.**
