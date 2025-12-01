@@ -54,9 +54,9 @@ show ip route
 
 <img width="807" height="301" alt="T4-DSW1-route" src="https://github.com/user-attachments/assets/8a3719a1-7130-4c4a-a0e3-8a543d563b37" />
 
-**You should see a static route entry for 172.16.2.0/24 pointing to 10.0.0.2.**
+**Note: You should see a static route entry for 172.16.2.0/24 pointing to 10.0.0.2.**
 
-## 1️⃣ Enable IP Routing and Configure Static Route on DSW2
+## 2️⃣ Enable IP Routing and Configure Static Route on DSW2
 
 #### 🔷 Enter Global config mode on **DSW1**:
 
@@ -80,6 +80,26 @@ end
 ```bash
 show ip route
 ```
+
+**Expected Output ✅:**
+
+<img width="812" height="299" alt="T4-DSW2-route" src="https://github.com/user-attachments/assets/3f5c054d-3582-4b38-9215-b05976c5a4fa" />
+
+**Note: You should see a static route entry for 172.16.1.0/24 pointing to 10.0.0.1.**
+
+## 3️⃣ Test Connectivity from PC1 to SRV1
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
