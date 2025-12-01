@@ -21,3 +21,6 @@ show etherchannel load-balance
 **Expected Output ✅:**
 
 <img width="625" height="112" alt="T5-ASW1-lb" src="https://github.com/user-attachments/assets/63cd3ddf-9890-4935-b6f3-62fbda53b8f7" />
+
+**Note: all of the Switches uses Source MAC address as ther Etherchannel load balancing method**
+
