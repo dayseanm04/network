@@ -5,6 +5,9 @@ In this task, I will:
 - Check the **current EtherChannel load-balancing method** on each switch  
 - Confirm whether all switches use the **same default method** ✅
 
+## Topology For reference
+<img width="576" height="295" alt="topology" src="https://github.com/user-attachments/assets/8197f895-46ff-43a6-9edd-6209fdf9ee68" />
+
 ## 1️⃣ Check Load-Balancing on ASW1
 
 #### ♦️ Enter privileged EXEC mode on **ASW1**:
