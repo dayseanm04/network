@@ -25,3 +25,31 @@ I will configure routes so that:
 - DSW2 knows how to reach **172.16.1.0/24** via DSW1  
 
 
+## 1️⃣ Enable IP Routing and Add Static Route on DSW1
+
+#### 🔷 Enter Global config mode on **DSW1**:
+
+```bash
+enable
+conf t
+```
+
+#### 🔷 Enable IP routing (so the switch can act like a router):
+```
+ip routing
+```
+
+#### 🔷 Configure a static route to the SRV1 network
+```bash
+ip route 172.16.2.0 255.255.255.0 10.0.0.2
+end
+```
+
+
+
+
+
+
+
+
+
