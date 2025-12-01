@@ -89,19 +89,15 @@ show ip route
 
 ## 3️⃣ Test Connectivity from PC1 to SRV1
 
+#### 🔷 On PC1 (172.16.1.1) ping SRV1 (172.16.2.1)
+```bash
+ping 172.16.2.1
+```
 
+**Expected Output ✅:**
 
+<img width="744" height="364" alt="T4-PC1-pings-SRV1" src="https://github.com/user-attachments/assets/9ca2e9ec-2414-4d2f-9589-5528a903bdc2" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+### I was able to successfuly ping SRV1 because:
+- The static routes on DSW1 and DSW2 are correct
+- Traffic can go from PC1 → DSW1 → DSW2 → SRV1 and back
