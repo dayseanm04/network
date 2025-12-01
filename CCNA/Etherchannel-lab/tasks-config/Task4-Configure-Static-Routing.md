@@ -45,7 +45,16 @@ ip route 172.16.2.0 255.255.255.0 10.0.0.2
 end
 ```
 
+#### ♦️ Verify the route is in the routing table:
+```bash
+show ip route
+```
 
+**Expected Output ✅:**
+
+<img width="807" height="301" alt="T4-DSW1-route" src="https://github.com/user-attachments/assets/8a3719a1-7130-4c4a-a0e3-8a543d563b37" />
+
+**You should see a static route entry for 172.16.2.0/24 pointing to 10.0.0.2.**
 
 
 
