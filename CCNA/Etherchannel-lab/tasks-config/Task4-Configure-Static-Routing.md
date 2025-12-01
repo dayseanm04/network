@@ -2,7 +2,7 @@
 
 In this task, I will:
 
-- Enable **IP routing** on both distribution switches  
+- Enable **IP routing** on both distribution switches (DSW1 & DSW2) 
 - configure **static routes** so the PCs can reach **SRV1**
 
 ## Topology For reference
