@@ -5,11 +5,6 @@
 
 This lab focuses on building **Layer 2 and Layer 3 EtherChannels** using LACP, PAgP, and Static mode. I also configure routing and adjusted the load-balancing methods across the switches. This helped me understand real-world skills in link aggregation, redundancy, and multi-path efficiency. 🌐🔗
 
-## 🧰 Devices Used
-- 2 Cisco 2960-24TT switches
-- 2 Cisco 3650-24PS switches
-- 2 PCs (PC1 & PC2)
-- 1 Server (SRV1) 
 
 ## 📘 Summary
 
@@ -46,6 +41,31 @@ In this lab I:
 **Note: ASW means Access Switch and DSW means Distribution Switch**
 
 ---
+
+## 🧰 Devices Used
+- 2 Cisco 2960-24TT switches
+- 2 Cisco 3650-24PS switches
+- 2 PCs (PC1 & PC2)
+- 1 Server (SRV1) 
+
+---
+
+# 📚 Navigation – EtherChannel Lab
+
+Use the table below to quickly access all parts of the EtherChannel lab, including Packet Tracer files, task-by-task configs, and the lab reflection.
+
+---
+
+## 📂 Repository Navigation Table
+
+| Section | Description | Link |
+|--------|-------------|------|
+| 🧪 **Pkt-files Folder** | contains the packet tracer file for this lab | [pkt-files/](pkt-files/) |
+| 📁 **tasks-config Folder** | Step-by-step configuration guides for each task | [tasks-config](tasks-config/) |
+| ✍️ **Reflection** | Summary of what I learned and key takeaways | [reflection.md](reflection.md) |
+
+---
+
 
 ## ✍️ Author Information
 
