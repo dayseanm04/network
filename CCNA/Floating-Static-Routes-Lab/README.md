@@ -38,3 +38,10 @@ This lab focuses on how floating static routes provide backup connectivity when 
 - A floating static route (with higher administrative distance) is added on both R1 and R2 so it only activates if OSPF fails.
 - When the R1 or R2 link is shut down, the floating static route automatically enters the routing table.
 - PC1 continues to reach SRV1 using the backup path through the ISP.
+
+## 🧰 Devices Used
+- 6 Cisco 2911 routers
+- 2 Cisco 2960 switches
+- 1 PC (PC1)
+- 1 Server (SRV1)
+
