@@ -31,3 +31,10 @@ This lab focuses on how floating static routes provide backup connectivity when 
 - Observed floating static routes entering the routing table.
 - Verified PC1 can still ping SRV1 through the backup path.
 
+## 📝 Lab Summary
+
+- Enterprise A is using **OSPF** as its dynamic routing protocol.
+- Under normal conditions, PC1 reaches SRV1 through the primary OSPF path.
+- A floating static route (with higher administrative distance) is added on both R1 and R2 so it only activates if OSPF fails.
+- When the R1 or R2 link is shut down, the floating static route automatically enters the routing table.
+- PC1 continues to reach SRV1 using the backup path through the ISP.
