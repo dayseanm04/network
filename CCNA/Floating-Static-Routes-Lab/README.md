@@ -48,6 +48,6 @@ This lab focuses on how floating static routes provide backup connectivity when 
 ---
 
 **✍️ Author Information**
-Name: Daysean Mensah
-Course/Program: Cisco CCNA Studies
-Lab completion date: December 1 2025.
+Name: Daysean Mensah <br/>
+Course/Program: Cisco CCNA Studies <br/>
+Lab completion date: December 1 2025. <br/>
