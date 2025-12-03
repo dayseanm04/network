@@ -45,3 +45,9 @@ This lab focuses on how floating static routes provide backup connectivity when 
 - 1 PC (PC1)
 - 1 Server (SRV1)
 
+---
+
+**✍️ Author Information**
+Name: Daysean Mensah
+Course/Program: Cisco CCNA Studies
+Lab completion date: December 1 2025.
