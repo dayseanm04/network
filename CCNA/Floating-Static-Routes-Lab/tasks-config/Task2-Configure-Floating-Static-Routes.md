@@ -3,6 +3,9 @@
 ## 🎯 Goal
 In this task I will configure **floating static routes** on **R1** and **R2** so that PC1 can still reach SRV1 if the direct link between R1 and R2 goes down.
 
+## Topology For Reference:
+<img width="653" height="383" alt="topology" src="https://github.com/user-attachments/assets/ecf85e25-687b-419f-aaad-b4d11e150906" />
+
 <br/>
 
 A floating static route is just a normal static route with a **higher administrative distance (AD)** than the dynamic protocol (OSPF).  
