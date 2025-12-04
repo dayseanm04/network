@@ -44,7 +44,7 @@ show ip route
 
 **Note: The route with the O flag is using OSPF as its dynamic routing protocol**
 
-**Which dynamic routing protocol is Enterprise A using?  Answer: Enterprise A is using OSFP**
+**Which dynamic routing protocol is Enterprise A using?  Answer: Enterprise A is using OSPF**
 
 ## 🖥️ Step 3: Test Connectivity PC1 to SRV1
 
@@ -82,7 +82,7 @@ ping 10.0.2.1
 ## ✅ Task 1: Quick Summary
 
 - Which dynamic routing protocol is Enterprise A using?
-  - Answer: **Enterprise A is using OSF**P
+  - Answer: **Enterprise A is using OSPF**
 - Which route will be used if PC1 tries to access SRV1?
   - Answer: **It will use the route VIA R2**
 - Which route will be used if PC1 tries to access remote server 1.1.1.1 over the Internet?
