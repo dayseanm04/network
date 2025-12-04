@@ -37,7 +37,7 @@ shutdown
 
 <img width="971" height="190" alt="T3-R1-int-down" src="https://github.com/user-attachments/assets/9472ace1-4b44-45df-b489-3765948dfb6a" />
 
-#### 🔷 View the R1 routing table
+#### 🔷 View R1 routing table
 
 ```bash
 do show ip route
@@ -52,7 +52,7 @@ do show ip route
 
 <img width="971" height="139" alt="T3-R2-log-msg" src="https://github.com/user-attachments/assets/a6b729cb-c65f-4deb-b1be-582f43b5af9c" />
 
-#### 🔷 View the R2 routing table
+#### 🔷 View R2 routing table
 
 ```bash
 do show ip route
@@ -85,3 +85,27 @@ enable
 conf t
 int g0/2/0
 ```
+
+**Expected Output ✅:**
+
+<img width="880" height="207" alt="R1-G020-int-up" src="https://github.com/user-attachments/assets/7b1df5c0-fd3b-4864-a103-e763120c6341" />
+
+**Note: after about a minute this log will be displayed**
+
+#### 🔷 View R` routing table
+
+```
+do show ip route
+```
+
+**Expected Output ✅:**
+<img width="827" height="420" alt="T3-R1-OSPF-route-back" src="https://github.com/user-attachments/assets/3b274e7a-1ab9-449b-89d3-238a8e3723e3" />
+
+## ✅ Task 3: Quick Summary
+
+- I shut down the R1–R2 link on G0/2/0.
+- OSPF routes were removed, and the floating static routes entered the routing tables.
+- PC1 could still ping SRV1, proving that the backup static routes work.
+- When the link is restored, OSPF becomes the preferred path again and the static routes return to backup status.
+
+**Floating static routes = 🔁 automatic failover when the main path fails.**
