@@ -62,3 +62,9 @@ do show ip route
 **View Diagram below:**
 
 <img width="697" height="418" alt="if-R2-R1-link-is-down" src="https://github.com/user-attachments/assets/d02b639a-e21e-4b4a-b6e3-908147f685f9" />
+
+## 3️⃣ Task 2: Quick Summary
+- Configured floating static route on R1 to reach 10.0.2.0/24 through the ISP with AD 115.
+- Configured floating static route on R2 to reach 10.0.1.0/24 through the ISP with AD 115.
+- Do the routes enter the routing tables of R1 and R2?
+  - Answer: **No I didn't show in R1 And R2 routing table yet I set the administrative distance to 115, which is higher than OSPF Administrative distance (110) meaning it will be the least preferred route to SRV1, thats why i didnt show up in ther routing table**
