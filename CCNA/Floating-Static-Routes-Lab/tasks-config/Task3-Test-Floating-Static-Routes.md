@@ -33,3 +33,7 @@ interface G0/2/0
 shutdown
 ```
 
+**Expected Output:**
+
+<img width="971" height="190" alt="T3-R1-int-down" src="https://github.com/user-attachments/assets/9472ace1-4b44-45df-b489-3765948dfb6a" />
+
