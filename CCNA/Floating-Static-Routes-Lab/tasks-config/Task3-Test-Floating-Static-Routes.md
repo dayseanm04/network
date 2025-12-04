@@ -33,7 +33,20 @@ interface G0/2/0
 shutdown
 ```
 
-**Expected Output:**
+**Expected Output ✅:**
 
 <img width="971" height="190" alt="T3-R1-int-down" src="https://github.com/user-attachments/assets/9472ace1-4b44-45df-b489-3765948dfb6a" />
+
+#### 🔷 View the routing table
+
+```bash
+do show ip route
+```
+
+**Expected Output ✅:**
+
+<img width="808" height="392" alt="T3-R1-show-IP-route" src="https://github.com/user-attachments/assets/442f8a9d-d702-4c60-a89c-c4be52071af2" />
+
+
+
 
