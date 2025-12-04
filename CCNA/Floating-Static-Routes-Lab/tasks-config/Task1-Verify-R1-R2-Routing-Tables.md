@@ -8,7 +8,7 @@
 2️⃣) Check PC1 to SRV1 route
 3️⃣) Check PC1 to Internet SRV(1.1.1.1) route
 
-## 🔍 Step 1: Check the R1 Routing Table
+## 🔍 Step 1: Check R1 Routing Table
 
 #### 🔷 Enter privileged EXEC mode
 ```bash
@@ -21,12 +21,13 @@ show ip route
 ```
 
 **Exppected Output✅:**
+
 <img width="838" height="427" alt="T1-R1-show-route" src="https://github.com/user-attachments/assets/1736f820-2add-46ed-b2ba-f03a369d5d8a" />
 
 **Note: The route with the O flag is uings OSPF as its dynamic routing protocol**
 
 
-## 🔍 Step 2: Check the R2 Routing Table
+## 🔍 Step 2: Check R2 Routing Table
 #### 🔷 Enter privileged EXEC mode
 ```bash
 enable
@@ -38,6 +39,7 @@ show ip route
 ```
 
 **Exppected Output✅:**
+
 <img width="848" height="417" alt="T1-R2-show-route" src="https://github.com/user-attachments/assets/1b6e19c5-6de1-47e2-85d4-84fe1a054933" />
 
 **Note: The route with the O flag is uings OSPF as its dynamic routing protocol**
@@ -50,4 +52,10 @@ show ip route
 ```bash
 ping 10.0.2.1
 ```
+
+**Exppected Output✅:**
+
+<img width="746" height="368" alt="PC1-SRV1-ping" src="https://github.com/user-attachments/assets/4b215866-8da1-49ee-a4df-8b0b52d7572b" />
+
+<img width="652" height="404" alt="T1-PC1-SRV1-route" src="https://github.com/user-attachments/assets/19aabf4a-3a79-4dd0-81ee-50705af4a0c3" />
 
