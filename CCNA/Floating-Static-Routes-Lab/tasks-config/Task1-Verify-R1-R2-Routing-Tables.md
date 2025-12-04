@@ -24,7 +24,7 @@ show ip route
 
 <img width="838" height="427" alt="T1-R1-show-route" src="https://github.com/user-attachments/assets/1736f820-2add-46ed-b2ba-f03a369d5d8a" />
 
-**Note: The route with the O flag is uings OSPF as its dynamic routing protocol**
+**Note: The route with the O flag is using OSPF as its dynamic routing protocol**
 
 
 ## 🔍 Step 2: Check R2 Routing Table
@@ -42,7 +42,7 @@ show ip route
 
 <img width="848" height="417" alt="T1-R2-show-route" src="https://github.com/user-attachments/assets/1b6e19c5-6de1-47e2-85d4-84fe1a054933" />
 
-**Note: The route with the O flag is uings OSPF as its dynamic routing protocol**
+**Note: The route with the O flag is using OSPF as its dynamic routing protocol**
 
 **Which dynamic routing protocol is Enterprise A using?  Answer: Enterprise A is using OSFP**
 
@@ -76,3 +76,16 @@ ping 10.0.2.1
 **PC1 Remote Server path**
 
 <img width="665" height="410" alt="T1-PC1-Int-SRV" src="https://github.com/user-attachments/assets/a464d67f-4d21-4f13-8a7d-3688c9b036d2" />
+
+---
+
+## ✅ Task 1: Quick Summary
+
+- Which dynamic routing protocol is Enterprise A using?
+- - Answer: **Enterprise A is using OSF**P
+- Which route will be used if PC1 tries to access SRV1?
+- - Answer: **It will use the route VIA R2**
+- Which route will be used if PC1 tries to access remote server 1.1.1.1 over the Internet?
+- - Answer: **The Route Via ISPBR1**
+
+
