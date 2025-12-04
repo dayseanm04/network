@@ -22,4 +22,14 @@ PC1 was still able to reach SRV1, showing that the backup routes were working co
 - **How failover happens in real time:** When the main R1–R2 link went down, the routers immediately switched to the backup static routes without manual intervention.
 - **The importance of redundancy:** Having a backup route ensures network stability and keeps traffic flowing, even when part of the network fails.
 - **How to verify routing behavior:** I practiced using `show ip route`, checking interface states, and testing connectivity using ping and tracert.
+
 ---
+
+## 🧠 Overall Reflection
+
+This lab helped me understand real-world concepts such as redundancy, failover, administrative distance, and backup routing strategies. Floating static routes may seem simple, but they play a crucial role in keeping networks stable when primary connections fail.
+
+I now feel more comfortable configuring backup routes, verifying OSPF behavior, and interpreting routing tables. This lab strengthened my foundation in both static and dynamic routing, and it showed me how important it is to design networks with **reliability, redundancy and resiliency** in mind.
+
+
+🚀 **Great learning experience—this lab improved my understanding of routing and network redundancy.**
