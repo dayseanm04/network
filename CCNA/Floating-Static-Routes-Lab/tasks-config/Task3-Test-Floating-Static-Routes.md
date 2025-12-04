@@ -1,0 +1,35 @@
+# 🚦 Task 3: Test Floating Static Routes (Failover)
+
+## 🎯 Goal
+
+In this task, I will:
+- Shut down the link between **R1** and **R2**
+- Watch the **floating static routes** enter the routing tables
+- Test that **PC1 can still reach SRV1** using the backup path
+
+## Topology For Reference:
+<img width="653" height="383" alt="topology" src="https://github.com/user-attachments/assets/ecf85e25-687b-419f-aaad-b4d11e150906" />
+
+This proves the floating static routes are working as a **backup** when OSPF fails.
+
+---
+
+## 🔌 1️⃣ Shut Down the R1–R2 Link
+
+
+#### 🔷 Enter Global Config mode on R1:
+```bash
+enable
+configure terminal
+```
+
+#### 🔷 Go to interface G0/2/0
+```bash
+interface G0/2/0
+```
+
+#### 🔷 Shut down the interface
+```bash
+shutdown
+```
+
