@@ -37,7 +37,7 @@ shutdown
 
 <img width="971" height="190" alt="T3-R1-int-down" src="https://github.com/user-attachments/assets/9472ace1-4b44-45df-b489-3765948dfb6a" />
 
-#### 🔷 View the routing table
+#### 🔷 View the R1 routing table
 
 ```bash
 do show ip route
@@ -48,5 +48,40 @@ do show ip route
 <img width="808" height="392" alt="T3-R1-show-IP-route" src="https://github.com/user-attachments/assets/442f8a9d-d702-4c60-a89c-c4be52071af2" />
 
 
+#### ♦️ Log messsage displayed on R2:
 
+<img width="971" height="139" alt="T3-R2-log-msg" src="https://github.com/user-attachments/assets/a6b729cb-c65f-4deb-b1be-582f43b5af9c" />
 
+#### 🔷 View the R2 routing table
+
+```bash
+do show ip route
+```
+<img width="868" height="395" alt="T3-R2-show-ip-route" src="https://github.com/user-attachments/assets/582641cd-9629-4266-b5e7-0503ff5bb0a2" />
+
+## 🖥️ 2️⃣ Test Connectivity from PC1 to SRV1
+
+#### Ping SRV1
+
+```bash
+ping 10.0.2.1
+```
+
+**Expected Output ✅:**
+
+<img width="746" height="368" alt="PC1-SRV1-ping" src="https://github.com/user-attachments/assets/18873e5d-8c57-4fce-87c0-d5e91e370e5f" />
+
+**PC1-SRV1 path**
+
+<img width="683" height="416" alt="T3-PC1-SRV1" src="https://github.com/user-attachments/assets/f301c892-b7cb-4523-a3ee-af47b088fc99" />
+
+<br/>
+
+## 3️⃣ Bring the R1 Link Back Up
+
+#### 🔷 Enter interface configuration mode
+```
+enable
+conf t
+int g0/2/0
+```
