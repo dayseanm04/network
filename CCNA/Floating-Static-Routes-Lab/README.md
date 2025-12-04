@@ -5,6 +5,16 @@ This lab focuses on how floating static routes provide backup connectivity when 
 ## Topology For Reference:
 <img width="653" height="383" alt="topology" src="https://github.com/user-attachments/assets/ecf85e25-687b-419f-aaad-b4d11e150906" />
 
+## 📚 Navigation
+
+Use the links below to move through the lab quickly:
+
+| Section | Link |
+|--------|------|
+| 🧪 **Task Configurations (Step-by-Step Guides)** | [tasks-config/](tasks-config/) |
+| 🖼️ Network Topology Diagram | [topology.png](topology.png) |
+| 📁 Packet Tracer Files (Blank & Completed) | [pkt-files/](pkt-files/) |
+| 💭 Reflection | [reflection.md](reflection.md) |
 
 ## 📝 Lab Summary
 
