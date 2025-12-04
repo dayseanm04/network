@@ -57,5 +57,22 @@ ping 10.0.2.1
 
 <img width="746" height="368" alt="PC1-SRV1-ping" src="https://github.com/user-attachments/assets/4b215866-8da1-49ee-a4df-8b0b52d7572b" />
 
+**PC1 SRV1 path**
+
 <img width="652" height="404" alt="T1-PC1-SRV1-route" src="https://github.com/user-attachments/assets/19aabf4a-3a79-4dd0-81ee-50705af4a0c3" />
 
+<br/>
+
+#### 🔷 Ping the remote server 1.1.1.1
+
+```bash
+ping 10.0.2.1
+```
+
+**Exppected Output✅:**
+
+<img width="743" height="369" alt="T1-PC1-RMT-SRV-pinh" src="https://github.com/user-attachments/assets/a5d9903f-d1b7-400d-8ba4-22aaa0bf80b8" />
+
+**PC1 Remote Server path**
+
+<img width="665" height="410" alt="T1-PC1-Int-SRV" src="https://github.com/user-attachments/assets/a464d67f-4d21-4f13-8a7d-3688c9b036d2" />
