@@ -92,7 +92,7 @@ int g0/2/0
 
 **Note: after about a minute this log will be displayed**
 
-#### 🔷 View R` routing table
+#### 🔷 View R1 routing table
 
 ```
 do show ip route
