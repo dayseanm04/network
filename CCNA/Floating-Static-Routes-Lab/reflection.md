@@ -16,4 +16,10 @@ PC1 was still able to reach SRV1, showing that the backup routes were working co
 
 ---
 
+## 📚 What I Learned
 
+- **How floating static routes work:** A floating static route is simply a static route with a higher AD that activates only when the preferred dynamic route is unsubale due to for example interfawce shutdown etc.
+- **How failover happens in real time:** When the main R1–R2 link went down, the routers immediately switched to the backup static routes without manual intervention.
+- **The importance of redundancy:** Having a backup route ensures network stability and keeps traffic flowing, even when part of the network fails.
+- **How to verify routing behavior:** I practiced using `show ip route`, checking interface states, and testing connectivity using ping and tracert.
+---
