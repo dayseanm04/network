@@ -26,7 +26,7 @@ show ip route
 **Note: The route with the O flag is uings OSPF as its dynamic routing protocol**
 
 
-## 🔍 Step 2: Check the R1 Routing Table
+## 🔍 Step 2: Check the R2 Routing Table
 #### 🔷 Enter privileged EXEC mode
 ```bash
 enable
