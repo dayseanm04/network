@@ -77,7 +77,7 @@ ping 10.0.2.1
 
 <img width="683" height="416" alt="T3-PC1-SRV1" src="https://github.com/user-attachments/assets/f301c892-b7cb-4523-a3ee-af47b088fc99" />
 
-**SRV2 traceroute Output ✅:**
+**SRV1 traceroute Output ✅:**
 
 <img width="742" height="337" alt="PC1-SRV1-TRACERT" src="https://github.com/user-attachments/assets/911cbe51-2e94-447d-a08f-8a7fe5fc698f" />
 
