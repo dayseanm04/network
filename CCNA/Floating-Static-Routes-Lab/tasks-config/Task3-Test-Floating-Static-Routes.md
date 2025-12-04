@@ -72,11 +72,13 @@ ping 10.0.2.1
 <img width="746" height="368" alt="PC1-SRV1-ping" src="https://github.com/user-attachments/assets/18873e5d-8c57-4fce-87c0-d5e91e370e5f" />
 
 <br/>
+
 **PC1-SRV1 path**
 
 <img width="683" height="416" alt="T3-PC1-SRV1" src="https://github.com/user-attachments/assets/f301c892-b7cb-4523-a3ee-af47b088fc99" />
 
 **SRV2 traceroute Output ✅:**
+
 <img width="742" height="337" alt="PC1-SRV1-TRACERT" src="https://github.com/user-attachments/assets/911cbe51-2e94-447d-a08f-8a7fe5fc698f" />
 
 <br/>
