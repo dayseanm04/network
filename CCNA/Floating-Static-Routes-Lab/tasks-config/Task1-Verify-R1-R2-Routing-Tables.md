@@ -82,10 +82,10 @@ ping 10.0.2.1
 ## ✅ Task 1: Quick Summary
 
 - Which dynamic routing protocol is Enterprise A using?
-- - Answer: **Enterprise A is using OSF**P
+  - Answer: **Enterprise A is using OSF**P
 - Which route will be used if PC1 tries to access SRV1?
-- - Answer: **It will use the route VIA R2**
+  - Answer: **It will use the route VIA R2**
 - Which route will be used if PC1 tries to access remote server 1.1.1.1 over the Internet?
-- - Answer: **The Route Via ISPBR1**
+  - Answer: **The Route Via ISPBR1**
 
 
