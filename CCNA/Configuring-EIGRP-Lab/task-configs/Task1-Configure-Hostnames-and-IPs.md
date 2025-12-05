@@ -50,7 +50,8 @@ show ip int brief
 ```
 
 **Expected Output ✅:**
-<img width="821" height="100" alt="T1-show-ip-int" src="https://github.com/user-attachments/assets/2901c679-94c1-4d6d-8e15-44becd780180" />
+
+<img width="821" height="100" alt="T1-R1-show-ip-int" src="https://github.com/user-attachments/assets/2901c679-94c1-4d6d-8e15-44becd780180" />
 
 
 ### 6️⃣ Exit back to privileged EXEC mode and save
@@ -93,7 +94,18 @@ ip address 10.0.12.2 255.255.255.252
 no shutdown
 ```
 
-### 5️⃣ Exit back to privileged EXEC mode and save
+### 5️⃣ Verify
+
+```bash
+show ip int brief
+```
+
+**Expected Output ✅:**
+
+<img width="809" height="95" alt="T1-R2-show-ip-int" src="https://github.com/user-attachments/assets/f772a82a-398e-48d0-b7af-371aa660aaca" />
+
+
+### 6️⃣ Exit back to privileged EXEC mode and save
 
 ```bash
 end
