@@ -15,3 +15,10 @@ In this lab, each router is configured with correct interface IPs and a unique l
 I will observe EIGRP neighbors and routing tables.  
 
 ---
+
+## ✅ Tasks Completed
+
+### **📝 Task 1: Configure Hostnames & Interfaces for each router**
+- Assigned hostnames for R1 to R4.  
+- Configured IP addresses on all router interfaces.  
+- Enabled interfaces using `no shutdown`.
