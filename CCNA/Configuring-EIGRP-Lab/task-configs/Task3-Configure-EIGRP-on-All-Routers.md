@@ -41,6 +41,8 @@ network 10.0.13.0 0.0.0.3   ! R1–R3 link
 network 1.1.1.1 0.0.0.0     ! Loopback0
 ```
 
+**Note: 0.0.0.3 and 0.0.0.0 are wildcard masks**
+
 ### 4️⃣ Configure loopback as a passive interface
 
 ```bash
@@ -57,5 +59,45 @@ do show ip protocols
 
 <img width="663" height="447" alt="T3-R1-EIGRP" src="https://github.com/user-attachments/assets/3a14d4c5-159b-492e-b55a-928443c1f8cf" />
 
+
+## 🖥️ R2: EIGRP Configuration
+
+### 1️⃣ Enter global configuration mode
+
+```bash
+enable
+configure terminal
+```
+
+### 2️⃣ Configure EIGRP on R2 and disable auto-summary
+
+```bash
+router eigrp 100
+no auto-summary
+```
+
+### 3️⃣ Enable EIGRP on R2 interfaces
+
+```bash
+network 10.0.12.0 0.0.0.3   ! R2–R1 link
+network 10.0.24.0 0.0.0.3   ! R2–R4 link
+network 2.2.2.2 0.0.0.0     ! Loopback0
+```
+
+### 4️⃣ Configure loopback as a passive interface
+
+```bash
+passive-interface loopback0
+```
+
+### 5️⃣ Verify EIGRP on R2
+
+```bash
+do show ip protocols
+```
+
+**Expected output ✅:**
+
+<img width="674" height="441" alt="T3-R2-EIGRP" src="https://github.com/user-attachments/assets/151afd57-7b3c-4b8b-b6ca-1712a3fc442b" />
 
 
