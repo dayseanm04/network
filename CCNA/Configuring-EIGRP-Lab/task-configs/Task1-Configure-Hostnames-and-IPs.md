@@ -11,7 +11,9 @@ In this task I will:
 - Use `no shutdown` command to **enable all router interfaces**.
 
 ## 🖥️ R1: Hostname and Interfaces
+
 <br/>
+
 ### 1️⃣ Enter global configuration mode
 
 ```bash
