@@ -32,3 +32,19 @@ interface f1/0
 ip address 10.0.13.1 255.255.255.252
 no shutdown
 ```
+
+### 4️⃣ Configure GigabitEthernet0/0 (to R2)
+
+```bash
+interface g0/0
+ip address 10.0.12.1 255.255.255.252
+no shutdown
+```
+
+### 5️⃣ Exit back to privileged EXEC mode (optional)
+
+```bash
+end
+write memory
+```
+
