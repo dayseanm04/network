@@ -51,9 +51,9 @@ show ip in brief
 
 <img width="845" height="122" alt="T2-R1-show-ip-int" src="https://github.com/user-attachments/assets/4503aeea-2d94-4ce6-89f1-c50c7c9ff152" />
 
-### 5️⃣ Exit / save (optional)
+### 5️⃣ Save
+
 ```bash
-end
 write memory
 ```
 
@@ -69,14 +69,27 @@ configure terminal
 ```
 
 ### 2️⃣ Configure R2 Loopback0 and assign the IP
+
 ```bash
 interface loopback0
 ip address 2.2.2.2 255.255.255.255
+end
 ```
 
-### 3️⃣ Exit / save (optional)
+### 3️⃣ Verify
+
 ```bash
-end
-write memory
+show ip int brief
+```
+
+**Expected Output ✅:**
+
+<img width="818" height="118" alt="T2-R2-show-ip-int" src="https://github.com/user-attachments/assets/9dec7ab7-bde8-4712-b23f-1c88b2ad9e78" />
+
+
+### 4️⃣ Save
+
+```bash
+show ip in brief
 ```
 
