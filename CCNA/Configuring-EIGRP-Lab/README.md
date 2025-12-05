@@ -40,6 +40,18 @@ I will observe EIGRP neighbors and routing tables.
 
 ---
 
+## 📚 Navigation
+
+Use the table below to explore all parts of the EIGRP Lab:
+
+| Section | Link |
+|--------|------|
+| 🧪 **Task Configurations (Step-by-Step Files)** | [task-configs/](task-configs/) |
+| 🧠 **Reflection** | [reflection.md](reflection.md) |
+| 🖼️ **Network Topology Diagram** | [topology.png](topology.png) |
+| 📁 **Packet Tracer Files (Blank & Completed versions)** | [pkt-files/](pkt-files/) |
+
+
 ## ✍️ Author Information
 
 **Name:** *Daysean Mensah*  
