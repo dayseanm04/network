@@ -33,7 +33,7 @@ no auto-summary
 
 **Note: 100 is the autonomous System number**
 
-### 3️⃣ Advertise R1 networks
+### 3️⃣ Enable EIGRP on R1 interfaces
 
 ```bash
 network 10.0.12.0 0.0.0.3   ! R1–R2 link
