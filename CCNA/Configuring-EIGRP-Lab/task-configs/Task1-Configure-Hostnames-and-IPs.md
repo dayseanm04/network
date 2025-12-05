@@ -204,7 +204,17 @@ ip address 192.168.4.254 255.255.255.0
 no shutdown
 ```
 
-### 6️⃣ Exit back to privileged EXEC mode and save
+### 6️⃣ Verify
+
+```bash
+show ip int brief
+```
+
+**Expected Output ✅:**
+
+<img width="833" height="102" alt="T1-R4-show-ip-int" src="https://github.com/user-attachments/assets/93a0b708-7350-4b82-9e15-3d6f048e5ffb" />
+
+### 7️⃣ Exit back to privileged EXEC mode and save
 
 ```bash
 end
