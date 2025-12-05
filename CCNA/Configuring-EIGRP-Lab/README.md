@@ -14,11 +14,10 @@ In this lab, each router is configured with correct interface IPs and a unique l
 <br/>
 I will observe EIGRP neighbors and routing tables.  
 
----
 
 ## ✅ Tasks Completed
 
-### **📝 Task 1: Configure Hostnames & Interfaces for each router**
+### 📝 Task 1: Configure Hostnames & Interfaces for each router
 - Assigned hostnames for R1 to R4.  
 - Configured IP addresses on all router interfaces.  
 - Enabled interfaces using `no shutdown`.
@@ -30,7 +29,7 @@ I will observe EIGRP neighbors and routing tables.
   - R3 → 3.3.3.3/32  
   - R4 → 4.4.4.4/32
 
-### **🔁 Task 3: Configure EIGRP**
+### 🔁 Task 3: Configure EIGRP
 - Enabled EIGRP AS 100 on all routers.  
 - Disabled auto-summary.  
 - Enabled passive interfaces (loopbacks included).  
@@ -39,4 +38,10 @@ I will observe EIGRP neighbors and routing tables.
   - `show ip eigrp neighbors`  
   - `show ip route eigrp`
 
-  
+---
+
+## ✍️ Author Information
+
+**Name:** *Daysean Mensah*  
+**Course/Program:** *Cisco CCNA Studies*  
+**Lab completion date:** December 4 2025.
