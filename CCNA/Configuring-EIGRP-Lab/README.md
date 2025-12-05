@@ -4,5 +4,14 @@ This lab focuses on configuring Enhanced Interior Gateway Routing Protocol [EIGR
 I will configure hostnames, interfaces, loopbacks, routing, passive interfaces, and unequal-cost load balancing. 
 The goal is to understand how EIGRP forms adjacencies, advertises networks, and selects routes based on metrics.
 
+## Topology For reference
 
+<img width="599" height="320" alt="topology" src="https://github.com/user-attachments/assets/e146f7b8-7977-42ce-8984-0c92d4d92d0d" />
 
+## 📘 Lab Summary
+
+In this lab, each router is configured with correct interface IPs and a unique loopback address. EIGRP Autonomous System 100 is enabled on all routers, with auto-summary disabled and passive interfaces applied where appropriate. After full adjacency is formed, R1 is configured to perform **unequal-cost load balancing** toward the 192.168.4.0/24 network using EIGRP’s *variance* feature.
+<br/>
+I will observe EIGRP neighbors and routing tables.  
+
+---
