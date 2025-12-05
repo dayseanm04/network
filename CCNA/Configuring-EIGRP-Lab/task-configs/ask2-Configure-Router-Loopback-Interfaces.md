@@ -14,3 +14,29 @@ Each router gets a unique /32 IP address:
 - R3 → `3.3.3.3/32`
 - R4 → `4.4.4.4/32`
 
+These loopbacks will later be advertised in EIGRP and used for testing reachability.
+
+## 🖥️ R1: Configure Loopback Interface
+
+<br/>
+
+### 1️⃣ Enter global configuration mode
+
+```bash
+enable
+configure terminal
+```
+
+### 2️⃣ Configure Loopback0 and assign the IP
+```bash
+interface loopback0
+ip address 1.1.1.1 255.255.255.255
+```
+
+### 3️⃣ Exit / save (optional)
+```bash
+end
+write memory
+```
+
+
