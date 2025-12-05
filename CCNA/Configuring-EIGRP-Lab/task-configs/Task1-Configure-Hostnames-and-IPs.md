@@ -21,7 +21,7 @@ enable
 configure terminal
 ```
 
-### 2️⃣ Configure the hostname
+### 2️⃣ Configure R1 hostname
 
 ```bash
 hostname R1
@@ -72,7 +72,7 @@ enable
 configure terminal
 ```
 
-### 2️⃣ Configure the hostname
+### 2️⃣ Configure R2 hostname
 
 ```bash
 hostname R2
@@ -123,7 +123,7 @@ enable
 configure terminal
 ```
 
-### 2️⃣ Configure the hostname
+### 2️⃣ Configure R3 hostname
 
 ```bash
 hostname R3
@@ -174,7 +174,7 @@ enable
 configure terminal
 ```
 
-### 2️⃣ Configure the hostname
+### 2️⃣ Configure R4 hostname
 
 ```bash
 hostname R4
