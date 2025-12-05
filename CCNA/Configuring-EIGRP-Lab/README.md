@@ -23,10 +23,20 @@ I will observe EIGRP neighbors and routing tables.
 - Configured IP addresses on all router interfaces.  
 - Enabled interfaces using `no shutdown`.
 
-### **🎯 Task 2 – Configure Loopback Interfaces**
+### **🎯 Task : Configure Loopback Interfaces**
 - Added loopback interfaces on each router:  
   - R1 → 1.1.1.1/32  
   - R2 → 2.2.2.2/32  
   - R3 → 3.3.3.3/32  
   - R4 → 4.4.4.4/32
 
+### **🔁 Task 3: Configure EIGRP**
+- Enabled EIGRP AS 100 on all routers.  
+- Disabled auto-summary.  
+- Enabled passive interfaces (loopbacks included).  
+- Verified routes and neighbors using:  
+  - `show ip protocols`  
+  - `show ip eigrp neighbors`  
+  - `show ip route eigrp`
+
+  
