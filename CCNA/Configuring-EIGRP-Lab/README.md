@@ -1,6 +1,6 @@
 # 🚀 Configuring EIGRP Lab
 
-This lab focuses on configuring Enhanced Interior Gateway Routing Protocol [EIGRP] across four routers.
+This lab focuses on configuring Enhanced Interior Gateway Routing Protocol (EIGRP) across four routers.
 I will configure hostnames, interfaces, loopbacks, routing, passive interfaces, and unequal-cost load balancing. 
 The goal is to understand how EIGRP forms adjacencies, advertises networks, and selects routes based on metrics.
 
@@ -22,3 +22,11 @@ I will observe EIGRP neighbors and routing tables.
 - Assigned hostnames for R1 to R4.  
 - Configured IP addresses on all router interfaces.  
 - Enabled interfaces using `no shutdown`.
+
+### **🎯 Task 2 – Configure Loopback Interfaces**
+- Added loopback interfaces on each router:  
+  - R1 → 1.1.1.1/32  
+  - R2 → 2.2.2.2/32  
+  - R3 → 3.3.3.3/32  
+  - R4 → 4.4.4.4/32
+
