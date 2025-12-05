@@ -22,10 +22,13 @@ enable
 
 ### 2️⃣ Check the current route to 192.168.4.0/24
 ```bash
-show ip route 192.168.4.0
+show ip route eigrp
 ```
 
 **Expected output ✅:**
 
 <img width="956" height="325" alt="T4-R1-show-route" src="https://github.com/user-attachments/assets/17dfb1d6-a8c8-44d3-a298-0db375ae6706" />
+
+- You should see one EIGRP route (D) to 192.168.4.0/24 using the best metric.
+- Right now, R1 is not doing unequal-cost load balancing.
 
