@@ -54,7 +54,8 @@ do show ip protocols
 
 **Expected output ✅:**
 
-<img width="837" height="564" alt="T3-R4-EIGRP" src="https://github.com/user-attachments/assets/43e85106-b218-4b7d-938e-1c3019ed5dec" />
+<img width="759" height="483" alt="T3-R4-EIGRP" src="https://github.com/user-attachments/assets/932f1676-44e7-45f3-ad66-10f0974cdec5" />
+
 
 </br>
 
