@@ -57,7 +57,7 @@ end
 **Note: The value 2 tells EIGRP to consider any feasible path with a metric up to 2× the successor’s metric as a candidate for load balancing.**
 
 
-## 📊 3️⃣ Verify Unequal-Cost Load Balancing
+## 📊 Verify Unequal-Cost Load Balancing
 
 ```bash
 show ip route eigrp
