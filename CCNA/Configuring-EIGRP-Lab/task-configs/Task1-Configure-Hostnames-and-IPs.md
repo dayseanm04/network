@@ -86,4 +86,42 @@ end
 write memory
 ```
 
+## 🖥️ R3: Hostname and Interfaces
+
+### 1️⃣ Enter global configuration mode
+
+```bash
+enable
+configure terminal
+```
+
+### 2️⃣ Set the hostname
+
+```bash
+hostname R3
+```
+
+### 3️⃣ Configure FastEthernet1/0 (to R1)
+
+```bash
+interface f1/0
+ip address 10.0.13.2 255.255.255.252
+no shutdown
+```
+
+
+### 4️⃣ Configure FastEthernet2/0 (to R4)
+
+```bash
+interface f2/0
+ip address 10.0.34.1 255.255.255.252
+no shutdown
+```
+
+### 5️⃣ Exit back to privileged EXEC mode and save
+
+```bash
+end
+write memory
+```
 
