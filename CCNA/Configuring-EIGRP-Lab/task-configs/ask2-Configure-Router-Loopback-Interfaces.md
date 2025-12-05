@@ -90,6 +90,42 @@ show ip int brief
 ### 4️⃣ Save
 
 ```bash
-show ip in brief
+show ip int brief
+```
+
+## 🖥️ R3: Configure Loopback Interface
+
+<br/>
+
+### 1️⃣ Enter global configuration mode
+
+```bash
+enable
+configure terminal
+```
+
+### 2️⃣ Configure R2 Loopback0 and assign the IP
+
+```bash
+interface loopback0
+ip address 3.3.3.3 255.255.255.255
+end
+```
+
+### 3️⃣ Verify
+
+```bash
+show ip int brief
+```
+
+**Expected Output ✅:**
+
+<img width="810" height="116" alt="T2-R3-show-ip-int" src="https://github.com/user-attachments/assets/a8a77e96-3a89-4987-bb1a-3ffe6f3815d1" />
+
+
+### 4️⃣ Save
+
+```bash
+show ip int brief
 ```
 
