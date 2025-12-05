@@ -40,3 +40,22 @@ network 10.0.12.0 0.0.0.3   ! R1–R2 link
 network 10.0.13.0 0.0.0.3   ! R1–R3 link
 network 1.1.1.1 0.0.0.0     ! Loopback0
 ```
+
+### 4️⃣ Configure loopback as a passive interface
+
+```bash
+passive-interface loopback0
+```
+
+### 5️⃣ Verify EIGRP on R1
+
+```bash
+do show ip protocols
+```
+
+**Expected output ✅:**
+
+<img width="663" height="447" alt="T3-R1-EIGRP" src="https://github.com/user-attachments/assets/3a14d4c5-159b-492e-b55a-928443c1f8cf" />
+
+
+
