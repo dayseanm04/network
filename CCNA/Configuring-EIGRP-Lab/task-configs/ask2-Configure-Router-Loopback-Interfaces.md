@@ -90,7 +90,7 @@ show ip int brief
 ### 4️⃣ Save
 
 ```bash
-show ip int brief
+write memory
 ```
 
 ## 🖥️ R3: Configure Loopback Interface
@@ -104,7 +104,7 @@ enable
 configure terminal
 ```
 
-### 2️⃣ Configure R2 Loopback0 and assign the IP
+### 2️⃣ Configure R3 Loopback0 and assign the IP
 
 ```bash
 interface loopback0
@@ -126,6 +126,42 @@ show ip int brief
 ### 4️⃣ Save
 
 ```bash
+write memory
+```
+
+## 🖥️ R4: Configure Loopback Interface
+
+<br/>
+
+### 1️⃣ Enter global configuration mode
+
+```bash
+enable
+configure terminal
+```
+
+### 2️⃣ Configure R4 Loopback0 and assign the IP
+
+```bash
+interface loopback0
+ip address 4.4.4.4 255.255.255.255
+end
+```
+
+### 3️⃣ Verify
+
+```bash
 show ip int brief
+```
+
+**Expected Output ✅:**
+
+<img width="820" height="120" alt="T2-R4-show-ip-int" src="https://github.com/user-attachments/assets/d49f325f-c0b0-4b23-9278-a76e52fa34a1" />
+
+
+### 4️⃣ Save
+
+```bash
+write memory
 ```
 
