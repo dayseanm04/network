@@ -179,4 +179,15 @@ do show ip protocols
 
 **Expected output ✅:**
 
-<img width="833" height="560" alt="T3-R4-EIGRP" src="https://github.com/user-attachments/assets/c0a42910-2ae0-4c98-9047-9f652c652cfc" />
+<img width="837" height="564" alt="T3-R4-EIGRP" src="https://github.com/user-attachments/assets/43e85106-b218-4b7d-938e-1c3019ed5dec" />
+
+### 5️⃣ Verify EIGRP on R4
+
+```bash
+show ip eigrp neighbors
+```
+
+**Expected output ✅:**
+
+<img width="766" height="127" alt="T3-R4-show-ip-EIGRP-neighours" src="https://github.com/user-attachments/assets/b9f52bc5-26af-4b03-a342-546685d5516f" />
+
