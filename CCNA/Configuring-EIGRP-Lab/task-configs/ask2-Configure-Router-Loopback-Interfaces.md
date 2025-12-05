@@ -27,7 +27,7 @@ enable
 configure terminal
 ```
 
-### 2️⃣ Configure R1 Loopback0 and assign the IP
+### 2️⃣ Configure R1 Loopback0
 ```bash
 interface loopback0
 ```
@@ -36,18 +36,22 @@ interface loopback0
 
 <img width="830" height="134" alt="T2-R1-loopback-log-msg" src="https://github.com/user-attachments/assets/89017537-8c5e-40ef-a5b7-c3a5e1f98434" />
 
+### 3️⃣ Configure R1 Loopback0 IP
 
 ```bash
 ip address 1.1.1.1 255.255.255.255
+end
 ```
 
-### 3️⃣ Verify
+### 4️⃣ Verify
 
 ```bash
 show ip in brief
 ```
 
-### 4️⃣ Exit / save (optional)
+<img width="845" height="122" alt="T2-R1-show-ip-int" src="https://github.com/user-attachments/assets/4503aeea-2d94-4ce6-89f1-c50c7c9ff152" />
+
+### 5️⃣ Exit / save (optional)
 ```bash
 end
 write memory
