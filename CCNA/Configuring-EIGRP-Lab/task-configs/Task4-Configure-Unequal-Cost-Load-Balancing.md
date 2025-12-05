@@ -51,8 +51,12 @@ router eigrp 100
 
 ```bash
 variance 2
-end
 ```
+
+**Expected output ✅:**
+
+<img width="955" height="137" alt="T4-R1-varriance-output" src="https://github.com/user-attachments/assets/b1fc908c-713a-4b63-9a4d-1d6f066e2137" />
+
 
 **Note: The value 2 tells EIGRP to consider any feasible path with a metric up to 2× the successor’s metric as a candidate for load balancing.**
 
