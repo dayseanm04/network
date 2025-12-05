@@ -32,3 +32,38 @@ show ip route eigrp
 - You should see one EIGRP route (D) to 192.168.4.0/24 using the best metric.
 - Right now, R1 is not doing unequal-cost load balancing.
 
+## ⚙️ 2️⃣ Configure Variance on R1
+
+
+### 1️⃣ Enter global configuration mode
+
+```bash
+conf t
+```
+
+### 2️⃣ Enter router eigrp 100
+
+```bash
+router eigrp 100
+```
+
+### 3️⃣ Configure variance
+
+```bash
+variance 2
+end
+```
+
+**Note: The value 2 tells EIGRP to consider any feasible path with a metric up to 2× the successor’s metric as a candidate for load balancing.**
+
+
+## 📊 3️⃣ Verify Unequal-Cost Load Balancing
+
+```bash
+show ip route eigrp
+```
+
+**Expected output ✅:**
+
+<img width="793" height="252" alt="T4-show-eigrp-route-variance" src="https://github.com/user-attachments/assets/378433ac-af25-45fe-b7d5-00302a710f86" />
+
