@@ -41,7 +41,7 @@ ip address 10.0.12.1 255.255.255.252
 no shutdown
 ```
 
-### 5️⃣ Exit back to privileged EXEC mode (optional)
+### 5️⃣ Exit back to privileged EXEC mode and save
 
 ```bash
 end
@@ -62,3 +62,28 @@ configure terminal
 ```bash
 hostname R2
 ```
+
+### 3️⃣ Configure FastEthernet1/0 (to R4)
+
+```bash
+interface f1/0
+ip address 10.0.24.1 255.255.255.252
+no shutdown
+```
+
+### 4️⃣ Configure GigabitEthernet0/0 (to R1)
+
+```bash
+interface g0/0
+ip address 10.0.12.2 255.255.255.252
+no shutdown
+```
+
+### 5️⃣ Exit back to privileged EXEC mode and save
+
+```bash
+end
+write memory
+```
+
+
