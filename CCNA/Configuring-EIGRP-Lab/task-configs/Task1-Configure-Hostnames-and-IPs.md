@@ -10,3 +10,25 @@ In this task I will:
 - Configure the **IP address** on each interface.
 - Use `no shutdown` command to **enable all router interfaces**.
 
+## 🖥️ R1: Hostname and Interfaces
+
+### 1️⃣ Enter global configuration mode
+
+```bash
+enable
+configure terminal
+```
+
+### 2️⃣ Set the hostname
+
+```bash
+hostname R1
+```
+
+### 3️⃣ Configure FastEthernet1/0 (to R3)
+
+```bash
+interface f1/0
+ip address 10.0.13.1 255.255.255.252
+no shutdown
+```
