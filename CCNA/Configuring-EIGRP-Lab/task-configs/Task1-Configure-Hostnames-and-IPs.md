@@ -41,6 +41,7 @@ no shutdown
 interface g0/0
 ip address 10.0.12.1 255.255.255.252
 no shutdown
+end
 ```
 
 ### 5️⃣ Verify
@@ -54,10 +55,9 @@ show ip int brief
 <img width="821" height="100" alt="T1-R1-show-ip-int" src="https://github.com/user-attachments/assets/2901c679-94c1-4d6d-8e15-44becd780180" />
 
 
-### 6️⃣ Exit back to privileged EXEC mode and save
+### 6️⃣ Save
 
 ```bash
-end
 write memory
 ```
 
@@ -92,6 +92,7 @@ no shutdown
 interface g0/0
 ip address 10.0.12.2 255.255.255.252
 no shutdown
+end
 ```
 
 ### 5️⃣ Verify
@@ -105,10 +106,9 @@ show ip int brief
 <img width="813" height="99" alt="T1-R2-show-ip-int" src="https://github.com/user-attachments/assets/ee34abf5-5bd7-42c8-9788-49137e072e17" />
 
 
-### 6️⃣ Exit back to privileged EXEC mode and save
+### 6️⃣ Save
 
 ```bash
-end
 write memory
 ```
 
@@ -143,6 +143,7 @@ no shutdown
 interface f2/0
 ip address 10.0.34.1 255.255.255.252
 no shutdown
+end
 ```
 
 ### 5️⃣ Verify
@@ -156,10 +157,9 @@ show ip int brief
 <img width="812" height="98" alt="T1-R3-show-ip-int" src="https://github.com/user-attachments/assets/670b9a04-731d-43f6-a809-10379b117d0b" />
 
 
-### 6️⃣ Exit back to privileged EXEC mode and save
+### 6️⃣ Save
 
 ```bash
-end
 write memory
 ```
 
@@ -202,6 +202,7 @@ no shutdown
 interface g0/0
 ip address 192.168.4.254 255.255.255.0
 no shutdown
+end
 ```
 
 ### 6️⃣ Verify
@@ -214,10 +215,9 @@ show ip int brief
 
 <img width="833" height="102" alt="T1-R4-show-ip-int" src="https://github.com/user-attachments/assets/93a0b708-7350-4b82-9e15-3d6f048e5ffb" />
 
-### 7️⃣ Exit back to privileged EXEC mode and save
+### 7️⃣ Save
 
 ```bash
-end
 write memory
 ```
 
