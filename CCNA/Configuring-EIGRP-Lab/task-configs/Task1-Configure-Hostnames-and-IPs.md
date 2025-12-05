@@ -48,3 +48,17 @@ end
 write memory
 ```
 
+## 🖥️ R2: Hostname and Interfaces
+
+### 1️⃣ Enter global configuration mode
+
+```bash
+enable
+configure terminal
+```
+
+### 2️⃣ Set the hostname
+
+```bash
+hostname R2
+```
