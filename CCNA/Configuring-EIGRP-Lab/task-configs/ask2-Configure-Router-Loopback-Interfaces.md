@@ -27,7 +27,7 @@ enable
 configure terminal
 ```
 
-### 2️⃣ Configure Loopback0 and assign the IP
+### 2️⃣ Configure R1 Loopback0 and assign the IP
 ```bash
 interface loopback0
 ip address 1.1.1.1 255.255.255.255
@@ -39,4 +39,26 @@ end
 write memory
 ```
 
+## 🖥️ R2: Configure Loopback Interface
+
+<br/>
+
+### 1️⃣ Enter global configuration mode
+
+```bash
+enable
+configure terminal
+```
+
+### 2️⃣ Configure R2 Loopback0 and assign the IP
+```bash
+interface loopback0
+ip address 2.2.2.2 255.255.255.255
+```
+
+### 3️⃣ Exit / save (optional)
+```bash
+end
+write memory
+```
 
