@@ -23,7 +23,7 @@ I will observe EIGRP neighbors and routing tables.
 - Configured IP addresses on all router interfaces.  
 - Enabled interfaces using `no shutdown`.
 
-### **🎯 Task : Configure Loopback Interfaces**
+### 🎯 Task : Configure Loopback Interfaces
 - Added loopback interfaces on each router:  
   - R1 → 1.1.1.1/32  
   - R2 → 2.2.2.2/32  
