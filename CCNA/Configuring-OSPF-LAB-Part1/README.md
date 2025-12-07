@@ -35,5 +35,18 @@ This lab focuses on building an OSPF network using four routers. I will configur
 - Enabled OSPF on loopbacks.  
 - Configured loopback interfaces as **passive**.  
 - configured passive interfaces where appropriate (including R4's LAN).
+
 ---
 
+### **🚦 Task 4 – Configure R1 as an ASBR**
+- R1 was configured as an **Autonomous System Boundary Router**.
+- Used `default-information originate` to inject a default route into OSPF.
+- Added a static default route on R1 pointing toward the ISP (`ip route 0.0.0.0 0.0.0.0 203.0.113.2`).  
+- Verified that R1 now shows a default route and is identified as an ASBR.
+
+---
+
+### **🔍 Task 5: Verify Default Route Propagation**
+- Checked routing tables on R2, R3, and R4 using `show ip route`.
+- Confirmed that each router received an **O*E2** default route.
+- Verified that the default route appears only after I configured R1 default route.
