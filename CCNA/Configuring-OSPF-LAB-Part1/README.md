@@ -27,3 +27,13 @@ This lab focuses on building an OSPF network using four routers. I will configur
   - R4 → 4.4.4.4/32  
 - Verified using `show ip interface brief`.
 
+---
+
+### **🌐 Task 3: Configure OSPF on All Routers**
+- Enabled OSPF **process 1**.
+- Enabled OSPF on the required interfaces with the network command (excluding R1’s Internet-facing interface).  
+- Enabled OSPF on loopbacks.  
+- Configured loopback interfaces as **passive**.  
+- configured passive interfaces where appropriate (including R4's LAN).
+---
+
