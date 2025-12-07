@@ -1,6 +1,6 @@
 # 🛰️ Configuring OSPF Lab – Part 1
 
-This lab focuses on building an OSPF network using four routers. I will configure OSPF on the routers, loopback interfaces, passive interfaces, configure a default route on R1. The goal is to understand how OSPF neighbors form, how networks are advertised, and how default routes propagate through the OSPF domain. 
+This lab focuses on building an OSPF network using four routers. I will configure OSPF on the routers, loopback interfaces, passive interfaces, I also configure a default route on R1. The goal is to understand how OSPF neighbors form, how networks are advertised, and how default routes propagate through the OSPF domain. 
 
 ---
 
@@ -15,4 +15,15 @@ This lab focuses on building an OSPF network using four routers. I will configur
 - Configured interface IP addresses.
 - Enabled router interfaces using `no shutdown`.
 - (ISPR1 not required for this lab).
+- Verified using `show ip interface brief`.
+
+---
+
+### **🔁 Task 2: Configure Loopback Interfaces**
+- Added Loopback0 to each router:
+  - R1 → 1.1.1.1/32  
+  - R2 → 2.2.2.2/32  
+  - R3 → 3.3.3.3/32  
+  - R4 → 4.4.4.4/32  
+- Verified using `show ip interface brief`.
 
