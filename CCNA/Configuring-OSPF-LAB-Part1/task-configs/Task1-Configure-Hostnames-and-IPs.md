@@ -116,6 +116,64 @@ do show ip interface brief
 
 <img width="814" height="104" alt="T1-R2-ip-int" src="https://github.com/user-attachments/assets/1dbbf980-a30f-4d87-8be2-801fcf427dd9" />
 
+### 6️⃣ Save
+
+```bash
+end
+write memory
+```
+
 ---
+
+## 🖥️ R3: Hostname and Interfaces
+
+### 1️⃣ Enter global configuration mode
+
+```bash
+enable
+configure terminal
+```
+
+### 2️⃣ Set the hostname
+
+```bash
+hostname R3
+```
+
+### 3️⃣ Configure FastEthernet1/0 (link to R1)
+
+```bash
+interface f1/0
+ip address 10.0.13.2 255.255.255.252
+no shutdown
+```
+
+### 4️⃣ Configure FastEthernet2/0 (link to R4)
+
+```bash
+interface f2/0
+ip address 10.0.34.1 255.255.255.252
+no shutdown
+```
+
+### 5️⃣ Verify interfaces
+
+```bash
+do show ip interface brief
+```
+
+**Expected Output ✅:**
+
+<img width="839" height="100" alt="T1-R3-ip-int" src="https://github.com/user-attachments/assets/630dc2fd-73bc-45af-b2ec-da176a5c3ef7" />
+
+### 6️⃣ Save
+
+```bash
+end
+write memory
+```
+
+---
+
 
 
