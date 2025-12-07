@@ -98,3 +98,31 @@ do show ip int brief
 **Expected Output✅:**
 
 <img width="869" height="120" alt="T2-R3-ip-int" src="https://github.com/user-attachments/assets/a994a739-8865-49b1-b6c4-674f56883b1c" />
+
+---
+
+## 🖥️ R4: Configure Loopback0
+
+### 1️⃣ **Enter global configuration mode:**
+
+```bash
+enable
+configure terminal
+```
+
+### 2️⃣ Create Loopback0 and assign the IP
+
+```bash
+interface loopback0
+ip address 4.4.4.4 255.255.255.255
+```
+
+### 3️⃣ Verify the interface
+
+```bash
+do show ip int brief
+```
+
+**Expected Output✅:**
+
+<img width="816" height="119" alt="T2-R4-ip-int" src="https://github.com/user-attachments/assets/fbb276a4-b952-4c8b-becd-eb8b2109d930" />
