@@ -15,7 +15,7 @@ In this task I will configure a **Loopback0 interface** on each router and assig
 
 Loopback interfaces are always up (as long as they are configured), so they are useful as a router IDs and test IPs in OSPF.
 
---
+---
 
 ## 🖥️ R1: Configure Loopback0
 
@@ -43,4 +43,31 @@ do show ip int brief
 
 <img width="874" height="140" alt="T2-R1-ip-int" src="https://github.com/user-attachments/assets/371f7479-29b5-4833-9cbd-53f3edd57595" />
 
+---
+
+## 🖥️ R2: Configure Loopback0
+
+### 1️⃣ **Enter global configuration mode:**
+
+```bash
+enable
+configure terminal
+```
+
+### 2️⃣ Create Loopback0 and assign the IP
+
+```bash
+interface loopback0
+ip address 2.2.2.2 255.255.255.255
+```
+
+### 3️⃣ Verify the interface
+
+```bash
+do show ip int brief
+```
+
+**Expected Output✅:**
+
+<img width="823" height="119" alt="T2-R2-ip-int" src="https://github.com/user-attachments/assets/63533b49-9caa-4667-8545-a1c4743a5267" />
 
