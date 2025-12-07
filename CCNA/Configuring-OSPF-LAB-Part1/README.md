@@ -38,7 +38,7 @@ This lab focuses on building an OSPF network using four routers. I will configur
 
 ---
 
-### **🚦 Task 4 – Configure R1 as an ASBR**
+### **🚦 Task 4: Configure R1 as an ASBR**
 - R1 was configured as an **Autonomous System Boundary Router**.
 - Used `default-information originate` to inject a default route into OSPF.
 - Added a static default route on R1 pointing toward the ISP (`ip route 0.0.0.0 0.0.0.0 203.0.113.2`).  
