@@ -51,6 +51,16 @@ This lab focuses on building an OSPF network using four routers. I will configur
 - Confirmed that each router received an **O*E2** default route.
 - Verified that the default route appears only after I configured R1 default route.
 
+## 📚 Navigation
+
+Use this section to navigate through the OSPF Lab Part 1 files:
+
+| Section | Link |
+|--------|------|
+| 🧪 **Task Configurations (Step-by-Step Guides)** | [task-configs/](task-configs/) |
+| 🖼️ **Topology Diagram** | [Topology.png](Topology.png) |
+| 📁 **Packet Tracer Files (Blank & Completed)** | [pkt-files/](pkt-files/) |
+| 💭 **Reflection** | [reflection.md](reflection.md) |
 
 ---
 
