@@ -50,3 +50,11 @@ This lab focuses on building an OSPF network using four routers. I will configur
 - Checked routing tables on R2, R3, and R4 using `show ip route`.
 - Confirmed that each router received an **O*E2** default route.
 - Verified that the default route appears only after I configured R1 default route.
+
+
+---
+
+### ✍️ Author Information
+Name: Daysean Mensah
+Course/Program: Cisco CCNA Studies
+Lab completion date: Dec 07 2025.
