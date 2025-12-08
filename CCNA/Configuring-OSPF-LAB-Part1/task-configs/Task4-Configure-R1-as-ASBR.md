@@ -44,7 +44,17 @@ configure terminal
 
 ```bash
 ip route 0.0.0.0 0.0.0.0 203.0.113.2
-end
 ```
+
+### 3️⃣ Check the default route on R1
+
+```bash
+do show ip route
+```
+
+**Expected Ouput ✅:**
+
+<img width="892" height="564" alt="T5-R1-show-route-after" src="https://github.com/user-attachments/assets/3e5c5386-1671-4e9b-bd7d-d01a847b2d6b" />
+
 
 
