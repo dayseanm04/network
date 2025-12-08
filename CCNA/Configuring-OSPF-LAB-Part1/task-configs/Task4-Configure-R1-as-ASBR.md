@@ -117,6 +117,7 @@ This means:
 - It is an external (E2) route originated by R1 (the ASBR).
 - Now, all routers R2, R3, and R4 know how to send traffic to networks outside the OSPF domain using R1 as their gateway.
 
+**The default route were added to all of the routers**
 
 ### Other OSPF Verification commands
 
