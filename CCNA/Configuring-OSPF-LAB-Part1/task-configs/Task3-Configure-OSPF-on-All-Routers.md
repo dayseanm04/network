@@ -108,7 +108,16 @@ network 2.2.2.2 0.0.0.0 area 0
 passive-interface loopback 0
 ```
 
-### 7️⃣ Verify OSPF on R2
+### 7️⃣ Verify OSPF on R1
+
+```bash
+do show ip protocols
+```
+
+**Expected Output✅:**
+
+<img width="682" height="358" alt="T3-R2-show-ip-protocols" src="https://github.com/user-attachments/assets/dd5aece2-2b40-464a-ab67-f0cd5dca5b94" />
+
 
 ---
 
