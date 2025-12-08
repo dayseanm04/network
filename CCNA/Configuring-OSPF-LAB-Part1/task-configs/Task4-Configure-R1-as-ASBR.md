@@ -27,5 +27,7 @@ show ip route
 
 **Expected Ouput ✅:**
 
+<img width="876" height="538" alt="T5-R1-show-route" src="https://github.com/user-attachments/assets/5f27aba4-d790-4876-910d-3de919ab36b5" />
+
 **Note: theres no defaault Route on R1**
 
