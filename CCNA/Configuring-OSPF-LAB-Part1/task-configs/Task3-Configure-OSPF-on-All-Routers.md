@@ -213,3 +213,10 @@ passive-interface loopback 0
 
 ### 7️⃣ Verify OSPF on R4
 
+```bash
+do show ip protocols
+```
+
+**Expected Output✅:**
+
+<img width="866" height="430" alt="T3-R4-show-ip-protocols" src="https://github.com/user-attachments/assets/cbbb9d9a-4e62-44a6-8ab5-ce12b154195d" />
