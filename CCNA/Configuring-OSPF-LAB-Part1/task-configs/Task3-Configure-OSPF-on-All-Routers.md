@@ -99,9 +99,52 @@ network 2.2.2.2 0.0.0.0 area 0
 passive-interface loopback 0
 ```
 
-### 7️⃣ Verify OSPF on R1
+### 7️⃣ Verify OSPF on R2
+
 
 ---
+
+## 🖥️ R3 – Configure OSPF (No OSPF on Internet Link)
+
+### 1️⃣ Enter global configuration mode
+
+```bash
+enable
+configure terminal
+```
+
+### 2️⃣ Enter OSPF process 1
+
+```bash
+router ospf 1
+```
+
+### 3️⃣ Enable OSPF on the R3–R1 link (F1/0)
+
+```bash
+network 10.0.13.0 0.0.0.3 area 0
+```
+
+### 4️⃣ Enable OSPF on the R3–R4 link (F2/0)
+
+```bash
+network 10.0.34.0 0.0.0.3 area 0
+```
+
+### 5️⃣ Enable OSPF on the R3 loopback interface
+
+```bash
+network 3.3.3.3 0.0.0.0 area 0
+```
+
+### 6️⃣ Configure the loopback as a passive interface
+
+``` bash
+passive-interface loopback 0
+```
+
+### 7️⃣ Verify OSPF on R3
+
 
 
 
