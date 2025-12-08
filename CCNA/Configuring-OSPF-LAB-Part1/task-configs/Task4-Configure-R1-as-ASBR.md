@@ -58,7 +58,7 @@ do show ip route
 
 ## 📢 3️⃣ Advertise the Default Route into OSPF
 
-### 1️⃣ Enter global configuration mode again
+### 1️⃣ Enter global configuration mode again (skip if in global mode)
 
 ```bash
 enable
@@ -76,4 +76,17 @@ router ospf 1
 ```bash
 default-information originate
 ```
+
+### 4️⃣ Verify
+
+```bash
+do show ip protocols
+```
+
+**Expected Ouput ✅:**
+
+<img width="718" height="428" alt="T5-R1-show-ip-protocols" src="https://github.com/user-attachments/assets/25c6511a-8bba-4b88-b06c-6344d7facf97" />
+
+
+
 
