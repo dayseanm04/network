@@ -55,6 +55,6 @@ This lab focuses on building an OSPF network using four routers. I will configur
 ---
 
 ### ✍️ Author Information
-Name: Daysean Mensah
-Course/Program: Cisco CCNA Studies
-Lab completion date: Dec 07 2025.
+Name: Daysean Mensah <br/>
+Course/Program: Cisco CCNA Studies <br/>
+Lab completion date: Dec 07 2025. <br/>
