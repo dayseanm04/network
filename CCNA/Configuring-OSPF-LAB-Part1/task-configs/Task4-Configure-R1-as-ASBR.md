@@ -27,4 +27,5 @@ show ip route
 
 **Expected Ouput ✅:**
 
+**Note: theres no defaault Route on R1**
 
