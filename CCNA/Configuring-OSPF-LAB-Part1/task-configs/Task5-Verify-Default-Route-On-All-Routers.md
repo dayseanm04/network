@@ -1,4 +1,11 @@
-# 📘 Verify Default Routes on R2, R3, and R4
+# 🧩 Task 5 – Verify Default Routes on R2, R3, and R4
+
+## 🎯 Goal
+
+In this task, I will:
+
+- Check the **routing tables** of **R2, R3, and R4**  
+- Confirm that they received a **default route (0.0.0.0/0)** from **R1**  
 
 ## Topology For Reference
 
