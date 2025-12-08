@@ -11,3 +11,20 @@ R1 will:
 
 <img width="711" height="341" alt="Topology" src="https://github.com/user-attachments/assets/53e6080d-57be-4f5f-b410-c3046016c538" />
 
+## 🔍 1️⃣ Check R1 routing table
+
+### 1️⃣ Enter privileged EXEC mode
+
+```bash
+enable
+```
+
+### 2️⃣ View R1 routing table
+
+```bash
+show ip route
+```
+
+**Expected Ouput ✅:**
+
+
