@@ -101,7 +101,6 @@ passive-interface loopback 0
 
 ### 7️⃣ Verify OSPF on R2
 
-
 ---
 
 ## 🖥️ R3 – Configure OSPF
@@ -187,14 +186,4 @@ passive-interface loopback 0
 ```
 
 ### 7️⃣ Verify OSPF on R4
-
----
-
-
-
-
-
-
-
-
 
