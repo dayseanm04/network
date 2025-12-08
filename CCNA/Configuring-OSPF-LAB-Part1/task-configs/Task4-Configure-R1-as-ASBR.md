@@ -112,4 +112,13 @@ show ip route
 
 <img width="814" height="516" alt="T5-R4-show-ip-route" src="https://github.com/user-attachments/assets/39b57499-3b2b-4ecc-b9e7-4b7d3c88c898" />
 
+This means:
+- The default route is coming from OSPF.
+- It is an external (E2) route originated by R1 (the ASBR).
+- Now, all routers R2, R3, and R4 know how to send traffic to networks outside the OSPF domain using R1 as their gateway.
 
+
+### Other OSPF Verification commands
+
+- show ip ospf neighbor
+- show ip ospf interface
