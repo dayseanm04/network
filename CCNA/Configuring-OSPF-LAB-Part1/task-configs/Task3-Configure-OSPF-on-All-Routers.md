@@ -60,7 +60,7 @@ passive-interface loopback 0
 
 ---
 
-## 🖥️ R2 – Configure OSPF (No OSPF on Internet Link)
+## 🖥️ R2 – Configure OSPF
 
 ### 1️⃣ Enter global configuration mode
 
@@ -104,7 +104,7 @@ passive-interface loopback 0
 
 ---
 
-## 🖥️ R3 – Configure OSPF (No OSPF on Internet Link)
+## 🖥️ R3 – Configure OSPF
 
 ### 1️⃣ Enter global configuration mode
 
@@ -144,6 +144,56 @@ passive-interface loopback 0
 ```
 
 ### 7️⃣ Verify OSPF on R3
+
+---
+
+## 🖥️ R4 – Configure OSPF
+
+### 1️⃣ Enter global configuration mode
+
+```bash
+enable
+configure terminal
+```
+
+### 2️⃣ Enter OSPF process 1
+
+```bash
+router ospf 1
+```
+
+### 3️⃣ Enable OSPF on the R4–R2 link (F1/0)
+
+```bash
+network 10.0.24.0 0.0.0.3 area 0
+```
+
+### 4️⃣ Enable OSPF on the R4–R3 link (F2/0)
+
+```bash
+network 10.0.34.0 0.0.0.3 area 0
+```
+
+### 5️⃣ Enable OSPF on the R3 loopback interface
+
+```bash
+network 4.4.4.4 0.0.0.0 area 0
+```
+
+### 6️⃣ Configure the loopback as a passive interface
+
+``` bash
+passive-interface loopback 0
+```
+
+### 7️⃣ Verify OSPF on R4
+
+---
+
+
+
+
+
 
 
 
