@@ -46,7 +46,7 @@ This lab focuses on building an OSPF network using four routers. I will configur
 
 ---
 
-### **🔍 Task 5: Verify Default Route Propagation**
+### **🔍 Task 5: Verify Default Route on R2, R3, and R4**
 - Checked routing tables on R2, R3, and R4 using `show ip route`.
 - Confirmed that each router received an **O*E2** default route.
 - Verified that the default route appears only after I configured R1 default route.
