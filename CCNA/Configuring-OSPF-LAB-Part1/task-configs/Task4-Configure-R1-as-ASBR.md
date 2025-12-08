@@ -31,3 +31,20 @@ show ip route
 
 **Note: theres no defaault Route on R1**
 
+## 🛣️ 2️⃣ Configure a Default Static Route on R1
+
+### 1️⃣ Enter global configuration mode
+
+```bash
+enable
+configure terminal
+```
+
+### 2️⃣ Configure the default static route
+
+```bash
+ip route 0.0.0.0 0.0.0.0 203.0.113.2
+end
+```
+
+
