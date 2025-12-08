@@ -56,5 +56,24 @@ do show ip route
 
 <img width="892" height="564" alt="T5-R1-show-route-after" src="https://github.com/user-attachments/assets/3e5c5386-1671-4e9b-bd7d-d01a847b2d6b" />
 
+## 📢 3️⃣ Advertise the Default Route into OSPF
 
+### 1️⃣ Enter global configuration mode again
+
+```bash
+enable
+configure terminal
+```
+
+### 2️⃣ Enter OSPF process configuration
+
+```bash
+router ospf 1
+```
+
+### 3️⃣ Advertise the default route
+
+```bash
+default-information originate
+```
 
