@@ -86,3 +86,5 @@ do show ip protocols
 **Expected Ouput ✅:**
 
 <img width="718" height="428" alt="T5-R1-show-ip-protocols" src="https://github.com/user-attachments/assets/25c6511a-8bba-4b88-b06c-6344d7facf97" />
+
+**R1 is now a Autonomous System Border Router**
