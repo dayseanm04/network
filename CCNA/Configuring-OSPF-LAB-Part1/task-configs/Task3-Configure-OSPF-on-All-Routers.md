@@ -58,6 +58,15 @@ passive-interface loopback 0
 
 ### 7️⃣ Verify OSPF on R1
 
+```bash
+do show ip protocols
+```
+
+**Expected Output✅:**
+
+<img width="782" height="344" alt="T3-R1-show-ip-protocols" src="https://github.com/user-attachments/assets/171fba7a-54e7-4dd4-b37a-eed987a01efa" />
+
+
 ---
 
 ## 🖥️ R2 – Configure OSPF
