@@ -13,3 +13,33 @@ Next, I configured **OSPF process 1** on all routers. I enabled OSPF on each int
 The most important part of the lab was configuring **R1 as an ASBR** (Autonomous System Border Router). After adding a static default route on R1, I used the `default-information originate` command to advertise that default route into OSPF. After doing that, R2, R3, and R4 learned the default route and addded it in their routing tables.
 
 ---
+
+## 📚 What I Learned
+
+### ✔ How to configure OSPF 
+I practiced enabling OSPF on different interfaces using wildcard masks and ensuring each router participated in the same OSPF area.
+
+### ✔ The purpose of passive interfaces  
+Loopback interfaces and internal LAN interfaces should not form adjacencies, so configuring them as passive helps reduce unnecessary OSPF traffic.
+
+### ✔ How OSPF handles loopback interfaces  
+Loopbacks are treated as host routes (/32) and are useful for router identification and testing connectivity.
+
+### ✔ What an ASBR is and how default routes are advertise  
+I learned that for a router advertise a default route into OSPF, it must already have a default route in its routing table.  
+Once that condition is met, `default-information originate` successfully advertises it.
+
+### ✔ How to verify routing behavior 
+- show ip route
+- show ip protocols
+
+helped confirm whether OSPF was enabled on the correct interfaces and whether each router learned the default route as expected.
+
+---
+
+## 🧠 Overall Reflection
+
+This lab strengthened my understanding of OSPF configuration and how routers share routes within an OSPF domain. Seeing how default routes propagate from an ASBR to internal routers made the routing logic clear. I also gained experience with wildcard masks, passive interfaces, interface activation, and verifying routing tables.  
+
+Overall, this lab was a strong introduction to how OSPF networks are designed and how routing information moves from one router to another.
+
