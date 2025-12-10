@@ -10,7 +10,7 @@ Configure **R1** as an Autonomous System Border Router (ASBR) that advertises a 
 
 ---
 
-## 🛠️ Step-by-Step: Configure Default Route on R1
+## 🛠️ Configure Default Route on R1
 
 ### 1️⃣ **Enter privileged EXEC mode**
 
@@ -58,7 +58,35 @@ show ip route
 
 <img width="830" height="497" alt="T5-R1-show-route-after" src="https://github.com/user-attachments/assets/f173d820-4858-4c75-aef9-dde02da2a3f8" />
 
+## 🌐 Step-by-Step: Advertise Default Route into OSPF
+
+### 7️⃣ Re-enter global configuration mode
+
+```bash
+conf terminal
+```
+
+### 8️⃣ Enter OSPF configuration mode (process 1)
 
 
+```bash
+router ospf 1
+```
 
+### 9️⃣ Advertise the default route into the OSPF domain
 
+```bash
+default-information originate
+```
+
+### 🔟 Verify
+
+```bash
+do show ip protocols
+```
+
+**Expected Ouput ✅:**
+
+<img width="766" height="421" alt="T5-R1-ASBR" src="https://github.com/user-attachments/assets/51eaae63-1b89-4a97-8cb8-2f494beb3ac1" />
+
+**R1 is not an ASBR**
