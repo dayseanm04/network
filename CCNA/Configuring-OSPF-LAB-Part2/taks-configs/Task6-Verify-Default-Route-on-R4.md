@@ -8,7 +8,7 @@ Verify whether **R4** has successfully learned the **default route (0.0.0.0/0)**
 
 <img width="711" height="341" alt="Topology" src="https://github.com/user-attachments/assets/53e6080d-57be-4f5f-b410-c3046016c538" />
 
-## 🛠️ Step-by-Step: Verify Default Route on R4
+## 🛠️ Verify Default Route on R4
 
 ### 1️⃣ Enter privileged EXEC mode
 
