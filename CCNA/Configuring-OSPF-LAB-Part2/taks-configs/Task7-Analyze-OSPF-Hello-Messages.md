@@ -22,3 +22,9 @@ Click **Inbound PDU Details** or **Outbound PDU Details** to view the full OSPF 
 **Expected Ouput ✅:**
 
 <img width="839" height="742" alt="T7-PDU-details" src="https://github.com/user-attachments/assets/c8bbaa47-b661-44c8-962d-01cc4c334c66" />
+
+- OSPF Hello Packet Header
+
+<img width="701" height="136" alt="T7-PDU-info" src="https://github.com/user-attachments/assets/58603f37-9de8-43c8-91f5-6ec4b95c47e5" />
+
+-PDU info ^^
