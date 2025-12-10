@@ -1,4 +1,4 @@
-# 🧩 Task6 Verify Default Route on R4.md
+# 🧩 Task 6 Verify Default Route on R4.md
 
 ## 🎯 Goal  
 Verify whether **R4** has successfully learned the **default route (0.0.0.0/0)** that R1 is advertised into the OSPF domain.
