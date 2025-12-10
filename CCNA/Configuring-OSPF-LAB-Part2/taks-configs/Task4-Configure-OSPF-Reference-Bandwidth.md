@@ -45,5 +45,43 @@ show ip ospf interface brief
 
 <img width="964" height="163" alt="T4-R1-show-ospf-int-brief" src="https://github.com/user-attachments/assets/2eec49e3-5829-4921-832f-858e29cfbab8" />
 
+## 🛠️ Configure OSPF Reference Bandwidth on R2
+
+### 1️⃣ Enter Global config mode
+
+```bash
+enable
+conf t
+```
+
+### 2️⃣ Enter OSPF configuration mode (process 1)
+
+```bash
+router ospf 1
+```
+
+### 3️⃣ Set the reference bandwidth to 10000 Mbps
+
+```bash
+auto-cost reference-bandwidth 10000
+```
+
+
+
+### 4️⃣ Exit back to privileged EXEC mode
+
+```bash
+end
+```
+
+### 5️⃣ Verify OSPF interface costs
+
+```bash
+show ip ospf interface brief
+```
+
+**Expected Ouput ✅:**
+
+<img width="949" height="120" alt="T4-R2-show-ospf-int-brief" src="https://github.com/user-attachments/assets/88c7e315-a93c-44bf-90cc-aead0e334474" />
 
 
