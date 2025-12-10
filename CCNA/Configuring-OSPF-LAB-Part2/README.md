@@ -42,7 +42,7 @@ Identify the fields included in the Hello message.
 | Section / File | Description |
 |----------------|-------------|
 | [**Topology.png**](Topology.png) | Network diagram for OSPF Lab Part 2 |
-| [**taks-configs/**](taks-configs) | All step-by-step task configuration files (Task 1–7) |
+| [**task-configs/**](taks-configs) | All step-by-step task configuration files (Task 1–7) |
 | [**pkt-files/**](pkt-files) | Packet Tracer files (blank and completed versions) |
 | [**Reflection.md**](Reflection.md) | Reflection and summary of what I learned |
 
