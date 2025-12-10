@@ -14,23 +14,26 @@ The tasks listed below come directly from the lab instructions.
 
 ## 🗂️ Tasks
 
-### 🧩 Task 1
+### 🧩 Task 1: Configure Hostnames & IP Addresses
 Configure the appropriate hostnames and IP addresses on each device.  
 Enable router interfaces. (ISPR1 does not need configuration)
 
-### 🌐 Task 3
+### 🎯 Task 2: Configure Loopback Interfaces
+Create a loopback interface on each router using a /32 address.
+
+### 🌐 Task 3: Enable OSPF on Router Interfaces
 Enable OSPF directly on each router interface.  
 Configure passive interfaces as appropriate.
 
-### ⚙️ Task 4
+### ⚙️ Task 4: Configure OSPF Reference Bandwidth
 Configure the reference bandwidth so a FastEthernet interface has a cost of 100.
 
-### 🚪 Task 5
+### 🚪 Task 5: Configure R1 as an ASBR
 Configure R1 as an ASBR that advertises a default route into the OSPF domain.
 
-### 🔍 Task 6
+### 🔍 Task 6: Verify Default Routes on R4
 Check the routing table of R4 and identify what default route(s) were added.
 
-### 🛰️ Task 7
+### 🛰️ Task 7: Analyze OSPF Hello Messages
 Use Simulation Mode to view OSPF Hello messages.  
 Identify the fields included in the Hello message.
