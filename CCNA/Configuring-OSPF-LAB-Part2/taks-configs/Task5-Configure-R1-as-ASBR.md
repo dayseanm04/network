@@ -1,4 +1,4 @@
-# Task5-Configure-R1-as-ASBR.md
+# Configure R1 as an Autonomous System Border Router (ASBR)
 
 ## 🎯 Objective  
 Configure **R1** as an Autonomous System Border Router (ASBR) that advertises a **default route** into the OSPF domain.
@@ -58,7 +58,7 @@ show ip route
 
 <img width="830" height="497" alt="T5-R1-show-route-after" src="https://github.com/user-attachments/assets/f173d820-4858-4c75-aef9-dde02da2a3f8" />
 
-## 🌐 Step-by-Step: Advertise Default Route into OSPF
+## 🌐 Advertise Default Route into OSPF
 
 ### 7️⃣ Re-enter global configuration mode
 
@@ -89,4 +89,4 @@ do show ip protocols
 
 <img width="766" height="421" alt="T5-R1-ASBR" src="https://github.com/user-attachments/assets/51eaae63-1b89-4a97-8cb8-2f494beb3ac1" />
 
-**R1 is not an ASBR**
+**R1 is now an ASBR**
