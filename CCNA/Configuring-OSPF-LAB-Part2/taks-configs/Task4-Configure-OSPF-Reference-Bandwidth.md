@@ -29,3 +29,21 @@ auto-cost reference-bandwidth 10000
 
 <img width="799" height="76" alt="T4-R1-log" src="https://github.com/user-attachments/assets/cff04898-0e3c-420b-b516-fcb6351c6304" />
 
+### 4️⃣ Exit back to privileged EXEC mode
+
+```bash
+end
+```
+
+### 5️⃣ Verify OSPF interface costs
+
+```bash
+show ip ospf interface brief
+```
+
+**Expected Ouput ✅:**
+
+<img width="964" height="163" alt="T4-R1-show-ospf-int-brief" src="https://github.com/user-attachments/assets/2eec49e3-5829-4921-832f-858e29cfbab8" />
+
+
+
