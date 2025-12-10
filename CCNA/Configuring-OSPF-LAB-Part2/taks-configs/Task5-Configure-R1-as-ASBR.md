@@ -30,3 +30,35 @@ show ip route
 
 **Note: There is no default route on R1.**
 
+### 3️⃣ Enter global configuration mode
+
+```bash
+configure terminal
+```
+
+### 4️⃣ Configure a static default route pointing toward the ISP
+
+```bash
+ip route 0.0.0.0 0.0.0.0 202.0.113.2
+```
+
+### 5️⃣ Exit back to privileged EXEC mode
+
+```bash
+end
+```
+
+### 6️⃣ Verify that the default route is now in the routing table
+
+```bash
+show ip route
+```
+
+**Expected Ouput ✅:**
+
+<img width="830" height="497" alt="T5-R1-show-route-after" src="https://github.com/user-attachments/assets/f173d820-4858-4c75-aef9-dde02da2a3f8" />
+
+
+
+
+
