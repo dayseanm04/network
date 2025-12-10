@@ -26,3 +26,4 @@ show ip route
 
 <img width="834" height="478" alt="T6-R4-routing-table" src="https://github.com/user-attachments/assets/e6aab19d-c7f3-4644-a45b-993983a55884" />
 
+**Note: R4 did recieved the deafult route R1 advertised**
