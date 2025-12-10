@@ -37,3 +37,10 @@ Check the routing table of R4 and identify what default route(s) were added.
 ### 🛰️ Task 7: Analyze OSPF Hello Messages
 Use Simulation Mode to view OSPF Hello messages.  
 Identify the fields included in the Hello message.
+
+---
+
+### ✍️ Author Information
+Name: Daysean Mensah <br/>
+Course/Program: Cisco CCNA Studies <br/>
+Lab completion date: Dec 09 2025. <br/>
