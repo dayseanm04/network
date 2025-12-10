@@ -12,9 +12,9 @@ The tasks listed below come directly from the lab instructions.
 <img width="696" height="349" alt="Topology" src="https://github.com/user-attachments/assets/333e133e-c498-4a12-9425-c888a964ff6a" />
 
 
-## Task Overview
+## 🗂️ Tasks
 
-### Task 1
+### 🧩 Task 1
 Configure the appropriate hostnames and IP addresses on each device.  
-Enable router interfaces.
+Enable router interfaces. (ISPR1 does not need configuration)
 
