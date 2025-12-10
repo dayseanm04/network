@@ -27,4 +27,4 @@ Click **Inbound PDU Details** or **Outbound PDU Details** to view the full OSPF 
 
 <img width="705" height="140" alt="T7-PDU-info" src="https://github.com/user-attachments/assets/e89c2e0d-62a1-4a6d-a70c-349779670e77" />
 
--PDU info ^^
+- PDU info ^^
