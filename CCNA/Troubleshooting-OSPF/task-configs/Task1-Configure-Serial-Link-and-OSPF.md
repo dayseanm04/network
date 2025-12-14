@@ -69,9 +69,46 @@ show controllers s0/0/0
 Note: R1 is the DCE Data Communications Equipment
 
 
-## ✅ Configure R2 (Serial + IP Address)
+### ✅ Configure R2 (Serial + IP Address)
 
 --- 
+
+### 1️⃣ global configuration mode
+
+```bash
+enable
+configure terminal
+```
+
+### 2️⃣ Enter the serial interface
+
+```bash
+interface s0/0/0
+```
+
+### 3️⃣ Try setting clock rate
+
+```bash
+clock rate 128000
+```
+
+**Expected Output ✅:**
+
+<img width="445" height="45" alt="T1-R2-not-DCE" src="https://github.com/user-attachments/assets/3e15fcc2-206c-4632-98d2-46f47f287f03" />
+
+Note R2 is DTE (Data Terminal Equipment) that is why I couldnt set the clock rate.
+
+### 4️⃣ Configure the IP address
+
+```bash
+ip address 192.168.12.2 255.255.255.252
+```
+
+### 5️⃣ Enable the interface
+
+```bash
+no shutdown
+```
 
 
 
