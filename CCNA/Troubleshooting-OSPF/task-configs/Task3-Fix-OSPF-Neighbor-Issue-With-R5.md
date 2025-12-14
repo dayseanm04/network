@@ -18,3 +18,7 @@ Troubleshoot why the adjacency is failing and fix the issue so R5 forms neighbor
 enable
 show ip ospf neighbor
 ```
+
+**Expected Output ✅:**
+
+<img width="864" height="119" alt="T3-R2-show-ospf-neighbor" src="https://github.com/user-attachments/assets/aed325e7-4fdc-4a67-82f0-871ae782fa14" />
