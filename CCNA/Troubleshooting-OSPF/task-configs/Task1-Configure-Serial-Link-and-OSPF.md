@@ -16,5 +16,19 @@ Configure the **serial connection between R1 and R2** (clock rate **128000**) an
 
 ```bash
 enable
+configure terminal
 ```
+
+### 2️⃣ Enter the serial interface
+
+```bash
+interface s0/0/0
+```
+
+### 3️⃣ Set the clock rate (128000)
+
+```bash
+clock rate 128000
+```
+
 
