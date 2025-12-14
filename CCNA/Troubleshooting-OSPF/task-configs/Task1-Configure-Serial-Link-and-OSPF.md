@@ -54,7 +54,7 @@ end
 ```
 
 
-### 7️⃣ Verify the serial controller (confirm DCE on R1)
+### 7️⃣ Verify the serial controller
 
 ```bash
 show controllers s0/0/0
@@ -64,7 +64,7 @@ show controllers s0/0/0
 
 <img width="563" height="99" alt="T1-R1-show-controllers" src="https://github.com/user-attachments/assets/67aef9df-8202-45b0-b0ae-0a85e4d4b10d" />
 
-
+Note: R1 is the DCE Data Communications Equipment
 
 
 
