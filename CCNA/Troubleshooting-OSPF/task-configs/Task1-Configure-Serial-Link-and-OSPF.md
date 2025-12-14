@@ -162,3 +162,36 @@ do show ip protocols
 
 <img width="653" height="267" alt="T1B-R1-verify-ospf" src="https://github.com/user-attachments/assets/67147b74-dad4-43a4-b60d-ec7553c2efa3" />
 
+---
+
+### ✅ Configure OSPF on R2
+
+### 1️⃣ Enter global configuration mode
+
+```bash
+enable
+configure ternimal
+```
+
+### 2️⃣ Enter OSPF process 1
+
+```bash
+router ospf 1
+```
+
+### 3️⃣ Enable OSPF on the serial network
+
+```bash
+network 192.168.12.0 0.0.0.3 area 0
+```
+
+### 4️⃣ Verify OSPF
+
+```bash
+do show ip protocols
+```
+
+**Expected Output ✅:**
+
+<img width="669" height="336" alt="T1B-R2-verify-ospf" src="https://github.com/user-attachments/assets/17b73e2a-b31e-4030-b729-8330f0c3cc55" />
+
