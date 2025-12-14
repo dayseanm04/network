@@ -9,3 +9,17 @@ Find out **why other routers don’t learn it through OSPF**, then fix the issue
 <img width="707" height="307" alt="topololgy" src="https://github.com/user-attachments/assets/5f516c89-9322-44b4-8128-ff659905e275" />
 
 
+---
+
+## 🧪 Step-by-Step: Confirm the Problem
+
+### 1️⃣ On R3: Check the routing table
+
+```bash
+enable
+show ip route
+```
+
+**Expected Output ✅:**
+
+<img width="832" height="324" alt="T2-R3-route" src="https://github.com/user-attachments/assets/57deb459-c951-4f10-817a-109b550ae482" />
