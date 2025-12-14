@@ -63,7 +63,7 @@ show ip ospf interface g0/0
 
 <img width="797" height="313" alt="T3-R2-show-g00-int" src="https://github.com/user-attachments/assets/badaaded-b6fc-44b2-83b4-9bb5eccabfa1" />
 
-**Note:** R2 G0/0 interfaces hello timer is 10 and its dead timer is 40
+**Note:** R2 G0/0 interface hello timer is 10 and its dead timer is 40
 
 ### 5️⃣ On R4: Check OSPF settings on G0/0
 
@@ -75,3 +75,4 @@ show ip ospf interface g0/0
 
 <img width="811" height="315" alt="T3-R4-show-g00-int" src="https://github.com/user-attachments/assets/bd01197d-3ba8-4458-89ac-ccbf26288719" />
 
+**Note:** R4 G0/0 interface hello timer is 10 and its dead timer is 40
