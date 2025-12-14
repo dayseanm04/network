@@ -23,3 +23,18 @@ show ip route
 **Expected Output ✅:**
 
 <img width="832" height="324" alt="T2-R3-route" src="https://github.com/user-attachments/assets/57deb459-c951-4f10-817a-109b550ae482" />
+
+**Note:** R3 has the route to 10.0.2.0/24 network because its directly connected on its G0/0 interface
+
+## 2️⃣ Check R4 routing table
+
+```bash
+enable
+show ip route
+```
+
+**Expected Output ✅:**
+
+<img width="832" height="362" alt="T2-R4-show-ip-route1" src="https://github.com/user-attachments/assets/99653abb-a16e-42bd-b85a-b024611eb9dc" />
+
+
