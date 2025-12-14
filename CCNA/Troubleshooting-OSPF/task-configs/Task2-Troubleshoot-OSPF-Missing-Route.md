@@ -41,11 +41,11 @@ show ip route
 
 ## 🔎 Step-by-Step: Check OSPF on the Link (R3 ↔ R4)
 
-### 3️⃣ On R3: Check the interface connected to R4
+### 1️⃣ On R3: Check the interface connected to R4
 
 **Note:** In this lab, R3 connects to R4 using G0/1 interface.
 
-### 4️⃣ Check OSPF settings on R3 G0/1 interface
+### 2️⃣ Check OSPF settings on R3 G0/1 interface
 
 ```bash
 show ip ospf interface g0/1
@@ -57,22 +57,40 @@ show ip ospf interface g0/1
 
 **Note:** R3 G0/1 interface network type is Point-To-Point
 
-### 5️⃣ On R4: Check OSPF settings on the matching interface
+### 3️⃣ On R4: Check OSPF settings on the matching interface
 
 **Note:** In this lab, R4 connects to R3 using G0/1 interface.
 
 ```bash
 show ip ospf interface g0/1
 ```
+
 **Expected Output ✅:**
 
 <img width="773" height="315" alt="T2-R4-g01-int" src="https://github.com/user-attachments/assets/49e2eece-fde9-4c84-9902-268203968054" />
 
 **Note:** R4 G0/1 interface network type is Broadcast.
 
-###  The OSPF network type must match on both ends, if they don’t match, adjacency and route sharing can break..
+###  The OSPF network type must match on both ends.
 
+---
 
+## 🛠️ Fix: Correct the OSPF Network Type Mismatch
+
+### 1️⃣ On R3: Enter interface configuration
+
+```bash
+configure terminal
+interface g0/1
+```
+
+### 2️⃣ Remove the point-to-point OSPF network type (restore default)
+
+```bash
+no ip ospf network point-to-point
+```
+
+**Expected Output ✅:**
 
 
 
