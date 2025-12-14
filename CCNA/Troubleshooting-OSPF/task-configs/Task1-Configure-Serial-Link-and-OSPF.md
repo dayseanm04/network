@@ -110,5 +110,21 @@ ip address 192.168.12.2 255.255.255.252
 no shutdown
 ```
 
+### 6️⃣ Exit
+
+```bash
+end
+```
+
+
+### 7️⃣ Verify the serial controller
+
+```bash
+show controllers s0/0/0
+```
+
+**Expected Output ✅:**
+<img width="578" height="101" alt="T1-R2-show-cont" src="https://github.com/user-attachments/assets/a13e3564-5967-462e-b251-6d894c45a422" />
+
 
 
