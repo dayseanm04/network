@@ -107,4 +107,4 @@ do show ip route
 
 <img width="813" height="366" alt="T2-R4-verify-route" src="https://github.com/user-attachments/assets/0302d516-2ad4-4f74-b970-c28eb30a0c8b" />
 
-
+**You should now see 10.0.2.0/24 learned via OSPF.**
