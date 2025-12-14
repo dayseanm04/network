@@ -94,4 +94,6 @@ no ip ospf network point-to-point
 
 <img width="969" height="113" alt="T2-remove-r3-p2p" src="https://github.com/user-attachments/assets/92ed9c99-6331-4550-a0b2-8962b91c61f5" />
 
+**Note:** R3 G0/1 interface went to the down state and then immediately went to the full state
+
 
