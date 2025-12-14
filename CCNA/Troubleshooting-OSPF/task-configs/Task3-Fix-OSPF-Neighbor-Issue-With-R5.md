@@ -49,7 +49,18 @@ show ip ospf neighbor
 
 <img width="636" height="59" alt="T3-R5-show-ospf-neighbor" src="https://github.com/user-attachments/assets/f0eee28a-ab52-435c-962c-fd111bce19ff" />
 
-**Note:** R4 and R2 are neighbors
+**Note:** R5 dosent have any neighbors
 
+## 🔎 Step-by-Step: Check the Shared Network Interface
+
+### 4️⃣ On R2: Check OSPF settings on G0/0
+
+```bash
+show ip ospf interface g0/0
+```
+
+**Expected Output ✅:**
+
+<img width="797" height="313" alt="T3-R2-show-g00-int" src="https://github.com/user-attachments/assets/badaaded-b6fc-44b2-83b4-9bb5eccabfa1" />
 
 
