@@ -23,5 +23,16 @@ show ip ospf neighbor
 
 <img width="864" height="119" alt="T3-R2-show-ospf-neighbor" src="https://github.com/user-attachments/assets/aed325e7-4fdc-4a67-82f0-871ae782fa14" />
 
-**Note:** R2 and R4 are neighbors with R4
+**Note:** R2 and R4 are neighbors
+
+### 2️⃣ On R4: Check OSPF neighbors
+
+```bash
+enable
+show ip ospf neighbor
+```
+
+**Expected Output ✅:**
+
+<img width="879" height="122" alt="T3-R4-show-ospf-neighbor" src="https://github.com/user-attachments/assets/d1ce5c8c-16d6-46d6-887e-43b273a15ae9" />
 
