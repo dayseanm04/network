@@ -153,3 +153,4 @@ show ip route
 
 <img width="805" height="390" alt="T3-R2-rt" src="https://github.com/user-attachments/assets/f2743ab6-9d93-4a79-8b69-5b0c771dda19" />
 
+**Note:** The 10.0.2.0/24 route was learned on R2 via OSPF
