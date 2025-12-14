@@ -31,4 +31,22 @@ interface s0/0/0
 clock rate 128000
 ```
 
+### 4️⃣ Configure the IP address
+
+```bash
+ip address 192.168.12.1 255.255.255.252
+```
+
+### 5️⃣ Enable the interface
+
+```bash
+no shutdown
+```
+
+**Expected Output ✅:**
+
+<img width="635" height="66" alt="T1-R1-S000-int-msg" src="https://github.com/user-attachments/assets/86839f6e-e80b-4c8f-bfde-cc84307e28f3" />
+
+### 6️⃣ Verify the serial controller (confirm DCE on R1)
+
 
