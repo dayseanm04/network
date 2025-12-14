@@ -68,5 +68,11 @@ show ip ospf interface g0/1
 
 <img width="773" height="315" alt="T2-R4-g01-int" src="https://github.com/user-attachments/assets/49e2eece-fde9-4c84-9902-268203968054" />
 
+**Note:** R4 G0/1 interface network type is Broadcast.
+
+###  The OSPF network type must match on both ends, if they don’t match, adjacency and route sharing can break..
+
+
+
 
 
