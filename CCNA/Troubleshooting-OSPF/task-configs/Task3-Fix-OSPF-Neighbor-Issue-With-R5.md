@@ -90,3 +90,43 @@ show ip ospf interface g0/0
 **Note:** R5 G0/0 interface hello timer is 5 and its dead timer is 20 which is different for R4 and R2 hello and dead timers.
 
 **The do not match! thats why R5 isnt ospf neighbors with R2 and R4**
+
+
+## 🛠️ Fix: Reset R5 Hello/Dead Timers to Default
+
+### 7️⃣ Enter Global config mode:
+
+```bash
+enable
+configure terminal
+```
+
+### 8️⃣ Enter the G0/0 interface
+
+```bash
+interface g0/0
+```
+
+### 9️⃣ Remove the custom Hello interval (restore default)
+
+```bash
+no ip ospf hello-interval
+```
+
+♦️ Wait for a couple of seconds ♦️
+
+<img width="835" height="115" alt="T3-log-msg-after-R5-timer-fix" src="https://github.com/user-attachments/assets/4bc851e0-23ee-480b-aff9-50ea730566d1" />
+
+## ✅ Verify the Fix
+
+### 1️⃣On R5: Check neighbors
+
+```bash
+show ip ospf neighbor
+```
+
+**Expected Output ✅:**
+
+<img width="855" height="117" alt="T3-R5-is-neighbors" src="https://github.com/user-attachments/assets/8456161e-99bc-4cfd-ad83-e1abc5804fb3" />
+
+R5 became ospf neighbors with R4 and R2
