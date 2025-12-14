@@ -87,3 +87,6 @@ show ip ospf interface g0/0
 
 <img width="748" height="296" alt="T3-R5-show-g00-int" src="https://github.com/user-attachments/assets/547bd16d-4547-43de-b66f-b59cf5f01bd6" />
 
+**Note:** R5 G0/0 interface hello timer is 5 and its dead timer is 20 which is different for R4 and R2 hello and dead timers.
+
+**The do not match! thats why R5 isnt ospf neighbors with R2 and R4**
