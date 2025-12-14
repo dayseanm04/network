@@ -127,5 +127,38 @@ show controllers s0/0/0
 
 <img width="578" height="101" alt="T1-R2-show-cont" src="https://github.com/user-attachments/assets/a13e3564-5967-462e-b251-6d894c45a422" />
 
+---
 
+## 🌐 Part B: Configure OSPF on R1 and R2 (Serial Link)
+
+### ✅ Configure OSPF on R1
+
+### 1️⃣ Enter global configuration mode
+
+```bash
+enable
+configure ternimal
+```
+
+### 2️⃣ Enter OSPF process 1
+
+```bash
+router ospf 1
+```
+
+### 3️⃣ Enable OSPF on the serial network
+
+```bash
+network 192.168.12.0 0.0.0.3 area 0
+```
+
+### 4️⃣ Verify OSPF
+
+```bash
+do show ip protocols
+```
+
+**Expected Output ✅:**
+
+<img width="653" height="267" alt="T1B-R1-verify-ospf" src="https://github.com/user-attachments/assets/67147b74-dad4-43a4-b60d-ec7553c2efa3" />
 
