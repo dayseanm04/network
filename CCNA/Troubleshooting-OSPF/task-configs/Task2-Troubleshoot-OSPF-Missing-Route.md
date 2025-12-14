@@ -1,0 +1,11 @@
+# Task2 Troubleshoot OSPF Missing-Route 🔍🧭
+
+## 🎯 Goal
+Only **R3** has a route to **10.0.2.0/24**.  
+Find out **why other routers don’t learn it through OSPF**, then fix the issue so the route propagates across the OSPF domain.
+
+## Topology For Reference
+
+<img width="707" height="307" alt="topololgy" src="https://github.com/user-attachments/assets/5f516c89-9322-44b4-8128-ff659905e275" />
+
+
