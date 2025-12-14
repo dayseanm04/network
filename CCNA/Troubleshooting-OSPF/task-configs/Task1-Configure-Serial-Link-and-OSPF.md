@@ -47,6 +47,24 @@ no shutdown
 
 <img width="635" height="66" alt="T1-R1-S000-int-msg" src="https://github.com/user-attachments/assets/86839f6e-e80b-4c8f-bfde-cc84307e28f3" />
 
-### 6️⃣ Verify the serial controller (confirm DCE on R1)
+### 6️⃣ Exit
+
+```bash
+end
+```
+
+
+### 7️⃣ Verify the serial controller (confirm DCE on R1)
+
+```bash
+show controllers s0/0/0
+```
+
+**Expected Output ✅:**
+
+<img width="563" height="99" alt="T1-R1-show-controllers" src="https://github.com/user-attachments/assets/67aef9df-8202-45b0-b0ae-0a85e4d4b10d" />
+
+
+
 
 
