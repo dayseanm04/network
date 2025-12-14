@@ -122,7 +122,7 @@ no ip ospf hello-interval
 ### 1️⃣On R5: Check neighbors
 
 ```bash
-show ip ospf neighbor
+do show ip ospf neighbor
 ```
 
 **Expected Output ✅:**
@@ -130,3 +130,17 @@ show ip ospf neighbor
 <img width="855" height="117" alt="T3-R5-is-neighbors" src="https://github.com/user-attachments/assets/8456161e-99bc-4cfd-ad83-e1abc5804fb3" />
 
 R5 became ospf neighbors with R4 and R2
+
+### ♦️ View R5 Routing table in Privileged EXEC mode
+
+```bash
+show ip route
+```
+
+**Expected Output ✅:**
+
+<img width="814" height="421" alt="T3-R5-rt" src="https://github.com/user-attachments/assets/c42a9121-85cb-4d07-a6b6-e3f44b04adce" />
+
+**Note:** The 10.0.2.0/24 route was learned on R5 via OSPF
+
+
