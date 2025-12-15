@@ -80,5 +80,20 @@ show ip route
 
 **Note:** Theres no default route on R1
 
+## 6️⃣ On R3: View the routing table
+
+### In Priviliged EXEC mode:
+
+```bash
+show ip route
+```
+
+**Expected Ouput✅:**
+
+<img width="773" height="338" alt="T4-R5-no-default-rout" src="https://github.com/user-attachments/assets/ce788b38-149c-4510-864e-0f394c10f593" />
+
+
+**Note:** Theres no default route on R3
+
 
 
