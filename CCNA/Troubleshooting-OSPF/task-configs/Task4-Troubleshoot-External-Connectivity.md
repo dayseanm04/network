@@ -185,3 +185,11 @@ show ip route
 **Note:** PC1 can ping 8.8.8.8 but for some reason it still says request timed. But in simulation mode the packet do reach the destination. See Bellow
 
 <img width="711" height="309" alt="PC1-ping-sim" src="https://github.com/user-attachments/assets/115256d1-a081-4e09-94de-8ccdd88b8655" />
+
+### 4️⃣ On PC2: Ping 8.8.8.8
+
+**Expected Ouput✅:**
+
+<img width="751" height="371" alt="PC2-ping-sucess" src="https://github.com/user-attachments/assets/07cedca5-5873-4c47-ab98-4747ca750f0b" />
+
+
