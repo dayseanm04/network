@@ -37,6 +37,17 @@ Inspect the OSPF Link-State Database and identify which LSAs are present.
 
 ---
 
+## 📚 Navigation
+
+| Section / File | Description |
+|---------------|-------------|
+| [**topology.png**](topology.png) | Network topology diagram for Troubleshooting OSPF Lab|
+| [**task-configs/**](task-configs) | Task 1–Task 5 |
+| [**pkt-files/**](pkt-files) | Packet Tracer files (completed and blank version) |
+| [**reflection.md**](reflection.md) | Reflection and lessons learned from the lab |
+
+---
+
 ### ✍️ Author Information
 Name: Daysean Mensah <br/>
 Course/Program: Cisco CCNA Studies <br/>
