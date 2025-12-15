@@ -93,7 +93,19 @@ show ip route
 <img width="773" height="338" alt="T4-R5-no-default-rout" src="https://github.com/user-attachments/assets/ce788b38-149c-4510-864e-0f394c10f593" />
 
 
-**Note:** Theres no default route on R3
+**Note:** Theres also no default route on R3
 
 
+## ✅ Check R5 (Edge router connected toward ISP)
+
+### In Priviliged EXEC mode:
+
+```bash
+
+show ip route
+```
+
+**Expected Ouput✅:**
+
+<img width="804" height="327" alt="T4-R5-no-derfault-route" src="https://github.com/user-attachments/assets/4d01dc8c-90f6-46ef-9d9d-75b925b40c7e" />
 
