@@ -98,7 +98,7 @@ show ip route
 
 ## ✅ Check R5 (Edge router connected toward ISP)
 
-### In Priviliged EXEC mode:
+### In Priviliged EXEC mode view the routing table:
 
 ```bash
 
@@ -108,4 +108,33 @@ show ip route
 **Expected Ouput✅:**
 
 <img width="804" height="327" alt="T4-R5-no-derfault-route" src="https://github.com/user-attachments/assets/4d01dc8c-90f6-46ef-9d9d-75b925b40c7e" />
+
+## 🛠️ Fix Part 1: Configure a Default Route on R5
+
+### 1️⃣ Enter Global config
+
+
+```bash
+configure terminal
+```
+
+### 2️⃣ Configure the default route pointing to the ISP next-hop
+
+```bash
+ip route 0.0.0.0 0.0.0.0 203.0.113.2
+```
+
+### 3️⃣ Verify
+
+```bash
+do show ip route
+```
+
+**Expected Ouput✅:**
+
+<img width="808" height="357" alt="T4-verify-R5-deault-route" src="https://github.com/user-attachments/assets/2694ef09-f9ee-48dd-8d91-e0ed8b3dd7a2" />
+
+
+
+
 
