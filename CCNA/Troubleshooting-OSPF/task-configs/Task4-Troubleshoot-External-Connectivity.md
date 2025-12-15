@@ -134,7 +134,36 @@ do show ip route
 
 <img width="808" height="357" alt="T4-verify-R5-deault-route" src="https://github.com/user-attachments/assets/2694ef09-f9ee-48dd-8d91-e0ed8b3dd7a2" />
 
+**Exit:** exit
 
+## 🌐 Fix Part 2: Advertise the Default Route into OSPF (From R5)
 
+### 1️⃣ Enter OSPF process 1
+
+```bash
+router ospf 1
+```
+
+### 2️⃣ Advertise the default route
+
+```bash
+default-information originate
+```
+
+⏳ Wait a moment for OSPF to converge.
+
+## ✅ Verification
+
+### 1️⃣On R1: Confirm a default route was learned
+
+**In Priviliged EXEC mode**
+
+```bash
+show ip route
+```
+
+**Expected Ouput✅:**
+
+<img width="835" height="419" alt="T4-R1-default-route" src="https://github.com/user-attachments/assets/15060ea7-51ae-4707-98fd-dd506e34b5a2" />
 
 
