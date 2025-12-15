@@ -178,3 +178,10 @@ show ip route
 
 <img width="819" height="413" alt="T4-R3-default-route" src="https://github.com/user-attachments/assets/43437f3f-fd0b-4eff-adb8-a2f8f95801f1" />
 
+### 3️⃣ On PC1: Ping 8.8.8.8
+
+<img width="748" height="370" alt="T4-PC1-ping-8888" src="https://github.com/user-attachments/assets/3026de06-6660-490f-b9de-d2f162961d66" />
+
+**Note:** PC1 can ping 8.8.8.8 but for some reason it still says request timed. But in simulation mode the packet do reach the destination. See Bellow
+
+<img width="711" height="309" alt="PC1-ping-sim" src="https://github.com/user-attachments/assets/115256d1-a081-4e09-94de-8ccdd88b8655" />
