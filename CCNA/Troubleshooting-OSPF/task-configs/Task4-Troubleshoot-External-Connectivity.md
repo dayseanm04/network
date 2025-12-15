@@ -166,4 +166,15 @@ show ip route
 
 <img width="835" height="419" alt="T4-R1-default-route" src="https://github.com/user-attachments/assets/15060ea7-51ae-4707-98fd-dd506e34b5a2" />
 
+### 2️⃣ On R3: Confirm a default route was learned
+
+**In Priviliged EXEC mode**
+
+```bash
+show ip route
+```
+
+**Expected Ouput✅:**
+
+<img width="819" height="413" alt="T4-R3-default-route" src="https://github.com/user-attachments/assets/43437f3f-fd0b-4eff-adb8-a2f8f95801f1" />
 
