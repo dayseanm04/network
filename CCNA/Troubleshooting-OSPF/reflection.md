@@ -31,3 +31,7 @@ Once the default route was injected, internal routers were able to reach externa
 Examining the LSDB helped me understand how OSPF maintains a complete view of the network.  
 
 ---
+
+## 🔍 Overall Reflection
+This lab improved my troubleshooting skills It showed that OSPF problems are often caused by small mismatches rather than major misconfigurations.  
+After completing this lab, I feel more confident troubleshooting OSPF adjacencies, routing issues, and external connectivity.
