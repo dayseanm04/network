@@ -62,6 +62,23 @@ tracert 8.8.8.8
 
 <img width="749" height="318" alt="T4-pc2-tracert" src="https://github.com/user-attachments/assets/a28cc9c6-e4fd-4853-9268-18b652bda297" />
 
+## 🔍 Check the Routing tables on the Routers
+
+---
+
+## 5️⃣ On R1: View the routing table
+
+### In Priviliged EXEC mode:
+
+```bash
+show ip route
+```
+
+**Expected Ouput✅:**
+
+<img width="829" height="410" alt="T4-R1-no-default-rout" src="https://github.com/user-attachments/assets/f2007e0e-8071-4edf-898f-08349c820bcc" />
+
+**Note:** Theres no default route on R1
 
 
 
