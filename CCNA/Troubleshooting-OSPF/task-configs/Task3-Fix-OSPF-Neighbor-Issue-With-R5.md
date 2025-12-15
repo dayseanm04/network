@@ -153,4 +153,17 @@ show ip route
 
 <img width="805" height="390" alt="T3-R2-rt" src="https://github.com/user-attachments/assets/f2743ab6-9d93-4a79-8b69-5b0c771dda19" />
 
-**Note:** The 10.0.2.0/24 route was learned on R2 via OSPF
+**Note:** The 10.0.2.0/24 route was also learned on R2 via OSPF
+
+### ♦️ View R1 Routing table in Privileged EXEC mode
+
+```bash
+show ip route
+```
+
+**Expected Output ✅:**
+
+<img width="805" height="410" alt="T3-R1-rt" src="https://github.com/user-attachments/assets/953f3afc-1d27-4355-bb0e-17c4fea7bd55" />
+
+**Note:** The 10.0.2.0/24 route was also learned on R1 via OSPF
+
