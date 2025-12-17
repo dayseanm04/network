@@ -23,3 +23,15 @@ enable
 write
 ```
 
+### Power Off R1
+
+
+- Click R1
+- Go to Physical
+- Toggle the power switch OFF
+
+
+<img width="455" height="190" alt="T1-R4-off" src="https://github.com/user-attachments/assets/244df0dd-4c46-43de-9e33-08d484caf0e6" />
+
+**Note:** R1 is off. ⏳ Wait a few seconds for HSRP to fail over.
+
