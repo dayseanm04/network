@@ -34,3 +34,7 @@ Observe whether R1 becomes the **active router** again.
 
 ---
 
+## ✍️ Author Information
+Name: Daysean Mensah <br/>
+Course/Program: Cisco CCNA Studies <br/>
+Lab completion date: December 15 2025. <br/>
