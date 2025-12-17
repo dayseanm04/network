@@ -58,9 +58,4 @@ tracert 8.8.8.8
 
 <img width="745" height="274" alt="T4-PC1-tracert" src="https://github.com/user-attachments/assets/114d7036-62e7-414e-a884-1089ab4ffea3" />
 
-
-
-
-
-
-
+**Note:** PC1 did use R2 as its default gateway!
