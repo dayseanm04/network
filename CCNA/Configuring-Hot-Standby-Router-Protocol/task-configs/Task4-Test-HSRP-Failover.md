@@ -9,3 +9,17 @@ Turn off **R1** (save the config first), then verify that **HSRP fails over** an
 
 ---
 
+## 💾 Save Configuration on R1
+
+### 1️⃣ On R1: Enter privileged EXEC mode
+
+```bash
+enable
+```
+
+### 2️⃣ Save the running configuration
+
+```bash
+write
+```
+
