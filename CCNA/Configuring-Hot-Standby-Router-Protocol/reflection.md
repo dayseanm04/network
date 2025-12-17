@@ -31,3 +31,7 @@ Turning the router back on and checking whether it resumed the Active role reinf
 
 ---
 
+## 🔍 Overall Reflection
+This lab helped me better understand high-availability concepts at the gateway level.  
+It showed how redundancy protocols like HSRP prevent single points of failure and keep networks operational.  
+After completing this lab, I feel more confident configuring, verifying, and troubleshooting HSRP.
