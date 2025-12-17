@@ -1,4 +1,4 @@
-# Task3-Configure-VIP-as-Default-Gateway.md 🌐🖥️
+# Task3 Configure VIP as Default Gateway.md 🌐🖥️
 
 ## 🎯 Goal
 Configure the **HSRP Virtual IP (VIP)** as the default gateway for **PC1** and **PC2**.  
