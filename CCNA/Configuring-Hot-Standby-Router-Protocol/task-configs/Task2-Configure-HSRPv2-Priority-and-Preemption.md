@@ -67,10 +67,52 @@ show standby
 
 <img width="727" height="257" alt="T2-R1-show-standby" src="https://github.com/user-attachments/assets/847de156-76bd-4285-a571-34f266be5a5d" />
 
+**Note:** R1 became the active router
 
+---
 
+## 🛠️ Configure HSRPv2 on R2
 
+### 1️⃣ Enter global configuration mode
 
+```bash
+enable
+configure terminal
+```
 
+### 2️⃣ Enter the interface config mode for the interface toward the PCs
 
+```bash
+interface g0/0
+```
 
+### 3️⃣ Enable HSRP version 2
+
+```bash
+standby version 2
+```
+
+### 4️⃣ Configure the same HSRP group + VIP
+
+```bash
+standby 1 ip 10.0.1.254
+```
+
+### 5️⃣ Lower R2 priority below the default
+
+```bash
+standby 1 priority 220
+exit
+```
+
+### 6️⃣ Verify HSRP status on R2
+
+```bash
+show standby
+```
+
+**Expected Output ✅:**
+
+<img width="713" height="260" alt="T2-R2-show-standby" src="https://github.com/user-attachments/assets/492cccc2-4672-4c4e-bbc3-da2b4c64158d" />
+
+**Note:** R1 became the standby router
