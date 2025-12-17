@@ -43,3 +43,39 @@ arp -a
 
 <img width="746" height="215" alt="PC1-ARP" src="https://github.com/user-attachments/assets/b7c66b86-fc1b-4237-8b76-e2d3d3c3eac0" />
 
+
+---
+
+## 🖥️ Update PC2 Default Gateway to the VIP
+
+### 1️⃣ Open PC1 IP Configuration
+- Click **PC2**
+- Go to **Desktop**
+- Click **IP Configuration**
+
+### 2️⃣ Set the Default Gateway to the VIP
+Set:
+- Default Gateway:** `10.0.1.254`
+
+**Reference Bellow:**
+
+<img width="747" height="310" alt="T3-PC2-DG" src="https://github.com/user-attachments/assets/9a5bf0c2-069c-4e24-9321-887e549fdf6b" />
+
+
+### 3️⃣ Test connectivity (PC2)
+Open **Command Prompt** and run:
+
+```bash
+ping 8.8.8.8
+```
+
+### 4️⃣ Check ARP table (PC2)
+
+```bash
+arp -a
+```
+
+**Expected Output: ✅**
+
+<img width="742" height="222" alt="PC2-ARP " src="https://github.com/user-attachments/assets/40751d8a-5074-4fde-bd58-eea3582e6caf" />
+
