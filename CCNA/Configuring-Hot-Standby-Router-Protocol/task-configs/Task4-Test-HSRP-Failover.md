@@ -48,11 +48,15 @@ ping 8.8.8.8
 
 <img width="746" height="393" alt="T4-PC1-Ping" src="https://github.com/user-attachments/assets/19a7c79d-76d0-4e65-a9ce-b20c46998cfc" />
 
+### 2️⃣ Run traceroute to confirm the gateway path
 
+```bash
+tracert 8.8.8.8
+```
 
+**Expected Ouput✅:**
 
-
-
+<img width="745" height="274" alt="T4-PC1-tracert" src="https://github.com/user-attachments/assets/114d7036-62e7-414e-a884-1089ab4ffea3" />
 
 
 
