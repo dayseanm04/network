@@ -25,3 +25,9 @@ Testing this behavior helped me understand when preemption is useful and how it 
 Configuring the VIP as the default gateway on the PCs show me that when the active router goes off the standby router takes it place  
 Checking the ARP table showed that the VIP maps to a **virtual MAC address**, not the physical MAC of a router.
 
+### 🔹 Failover and Recovery Testing
+Turning off the Active router and observing traffic fail over to the Standby router demonstrated how HSRP provides seamless redundancy.  
+Turning the router back on and checking whether it resumed the Active role reinforced how priority and preemption control recovery behavior.
+
+---
+
