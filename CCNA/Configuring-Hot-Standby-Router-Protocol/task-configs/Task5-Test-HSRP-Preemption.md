@@ -7,3 +7,16 @@ Turn **R1** back on and observe whether it becomes the **active router** again (
 
 <img width="624" height="284" alt="toplogy" src="https://github.com/user-attachments/assets/0f9e5564-4206-43af-a79f-1afe60dc7aa1" />
 
+
+## 🔌 Step-by-Step: Power On R1
+
+### 1️⃣ Turn on R1
+
+- Click **R1**
+- Go to **Physical**
+- Toggle the **power switch ON**
+
+⏳ Wait a few seconds for the router to boot and for HSRP to update.
+
+<img width="530" height="184" alt="R1-on" src="https://github.com/user-attachments/assets/84453e80-eb32-4bb1-ad27-77ac0f7aa6f3" />
+
