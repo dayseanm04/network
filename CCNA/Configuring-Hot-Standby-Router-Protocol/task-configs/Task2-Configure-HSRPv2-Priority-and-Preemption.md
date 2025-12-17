@@ -63,6 +63,9 @@ exit
 show standby
 ```
 
+**Expected Output ✅:**
+
+<img width="727" height="257" alt="T2-R1-show-standby" src="https://github.com/user-attachments/assets/847de156-76bd-4285-a571-34f266be5a5d" />
 
 
 
