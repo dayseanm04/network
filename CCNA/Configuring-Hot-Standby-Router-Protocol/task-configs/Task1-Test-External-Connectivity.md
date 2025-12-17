@@ -29,3 +29,31 @@ ipconfig
 **Expeceed Output✅:**
 
 <img width="744" height="330" alt="T1-PC1-DG" src="https://github.com/user-attachments/assets/91fd536f-be06-4989-9c99-fa5afb4687b1" />
+
+
+---
+
+## 🖥️ Test from PC2
+
+### 1️⃣ Open PC1 Command Prompt 
+PC1 ➜ **Desktop** ➜ **Command Prompt**
+
+### 2️⃣ Ping the external server
+
+```bash
+ping 8.8.8.8
+```
+
+### 3️⃣ Check the default gateway
+
+```bash
+ipconfig
+```
+
+**Expeceed Output✅:**
+
+<img width="749" height="342" alt="T1-PC2-DG" src="https://github.com/user-attachments/assets/c705a7bc-326a-4ff3-9d0b-f10a36d9d7bd" />
+
+
+
+
