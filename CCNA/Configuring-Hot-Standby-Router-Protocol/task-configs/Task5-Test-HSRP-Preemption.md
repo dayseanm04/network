@@ -33,3 +33,5 @@ show standby
 
 <img width="649" height="262" alt="T5-R1-is-active-Router" src="https://github.com/user-attachments/assets/abbb7435-6a0b-461e-9e97-a47bdc06e3be" />
 
+**Note:** R1 is the Active Router again!
+
