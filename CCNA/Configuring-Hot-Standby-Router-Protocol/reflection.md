@@ -7,3 +7,13 @@ By simulating router failures and recoveries, I was able to observe how HSRP mai
 
 ---
 
+## 💡 What I Learned
+
+### 🔹 Understanding HSRP and Gateway Redundancy
+I learned how HSRP allows multiple routers to share a virtual default gateway, ensuring that hosts do not lose connectivity when a router fails.  
+The concept of an **Active** and **Standby** router became clearer through hands-on testing.
+
+### 🔹 HSRPv2 Configuration and Priorities
+Configuring HSRPv2 showed me how router **priority values** determine which router becomes Active.  
+Raising R1’s priority and lowering R2’s priority helped me understand how HSRP elections work.
+
