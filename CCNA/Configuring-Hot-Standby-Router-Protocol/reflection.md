@@ -17,3 +17,11 @@ The concept of an **Active** and **Standby** router became clearer through hands
 Configuring HSRPv2 showed me how router **priority values** determine which router becomes Active.  
 Raising R1’s priority and lowering R2’s priority helped me understand how HSRP elections work.
 
+### 🔹 Preemption Behavior
+By enabling preemption, I learned that a router with a higher priority can reclaim the Active role when it comes back online.  
+Testing this behavior helped me understand when preemption is useful and how it affects network stability.
+
+### 🔹 Virtual IP and Virtual MAC Address
+Configuring the VIP as the default gateway on the PCs show me that when the active router goes off the standby router takes it place  
+Checking the ARP table showed that the VIP maps to a **virtual MAC address**, not the physical MAC of a router.
+
