@@ -6,4 +6,7 @@ You will first configure **OSPF** to ensure full connectivity, then apply **stan
 
 ---
 
-## 
+## Topology For Reference
+
+<img width="734" height="267" alt="topology" src="https://github.com/user-attachments/assets/b86b0c9f-dbe1-49b2-8e7d-603331823c9c" />
+
