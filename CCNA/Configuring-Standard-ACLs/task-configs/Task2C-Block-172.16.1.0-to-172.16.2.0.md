@@ -1,4 +1,4 @@
-# Task2C Block 172.16.1.0 hosts to 172.16.2.0.md 🚫🛡️
+# Task2C Block 172.16.1.0 hosts to 172.16.2.0 🚫🛡️
 
 ## 🎯 Goal
 Prevent **hosts in the 172.16.1.0/24 network** from accessing  
