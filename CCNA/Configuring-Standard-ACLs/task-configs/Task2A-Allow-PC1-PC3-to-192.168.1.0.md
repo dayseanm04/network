@@ -57,3 +57,14 @@ Ping test was succesfull for PC1
 <img width="743" height="323" alt="T2A-PC2-ping-test" src="https://github.com/user-attachments/assets/2c53bbd9-fb33-4bef-836b-7aea7107d6f3" />
 
 The ping was successfuly blocked by R2
+
+#### Verify ACL
+
+```bash
+show access-lists
+```
+
+**Expected Ouput✅:**
+
+<img width="581" height="147" alt="T2a-verify-acl" src="https://github.com/user-attachments/assets/f26f59d5-bd7c-41df-8616-164b841aae59" />
+
