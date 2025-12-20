@@ -48,7 +48,7 @@ Ping test was succesfull for PC1
 
 ### From PC3 (172.16.2.1) ping SRV1 (192.168.1.100)
 
-<img width="743" height="323" alt="T2A-PC2-ping-test" src="https://github.com/user-attachments/assets/85b82ee5-b146-4a8d-9b0b-76e6ff604cec" />
+<img width="742" height="376" alt="T2A-PC3-SR1-ping-sucess" src="https://github.com/user-attachments/assets/d608c8b9-3820-4dd0-8f94-a19d84536135" />
 
 Ping test was succesfull for PC1
 
