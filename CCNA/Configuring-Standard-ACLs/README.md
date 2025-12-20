@@ -31,3 +31,9 @@ Traffic from **172.16.1.0/24** must not be allowed to access **172.16.2.0/24**.
 Traffic from **172.16.2.0/24** must not be allowed to access **172.16.1.0/24**.
 
 ---
+
+## ✍️ Author Information
+
+**Name:** *Daysean Mensah*  
+**Course/Program:** *Cisco CCNA Studies*  
+**Lab completion date:** December 19 2025.
