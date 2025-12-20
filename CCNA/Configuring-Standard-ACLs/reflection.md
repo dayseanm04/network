@@ -13,3 +13,13 @@ Because of this, placement of standard ACLs is critical.
 This lab made me understand the rule of placing **standard ACLs as close to the destination as possible**.  
 Applying ACLs on the correct router interface and in the correct direction prevented unintended traffic from being blocked.
 
+### 🔹 Numbered vs Named ACLs
+Configuring **numbered ACLs** and **named ACLs** helped me understand the differences between the two.  
+Named ACLs were easier to read and manage, while numbered ACLs were quick to configure for simple policies.
+
+### 🔹 Testing and Verification
+Using ping tests and `show access-lists` allowed me to verify that each ACL worked as intended.  
+Watching ACL hit counts increase helped confirm that traffic was being filtered correctly.
+
+---
+
