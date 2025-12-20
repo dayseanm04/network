@@ -52,11 +52,8 @@ Ping test was succesfull for PC1
 
 Ping test was succesfull for PC1
 
+### From PC2 (172.16.1.2) ping SRV1 (192.168.1.100)
 
+<img width="743" height="323" alt="T2A-PC2-ping-test" src="https://github.com/user-attachments/assets/2c53bbd9-fb33-4bef-836b-7aea7107d6f3" />
 
-
-
-
-
-
-
+The ping was successfuly blocked by R2
