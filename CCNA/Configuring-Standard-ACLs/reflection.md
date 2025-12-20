@@ -23,3 +23,7 @@ Watching ACL hit counts increase helped confirm that traffic was being filtered 
 
 ---
 
+## 🔍 Overall Reflection
+This lab strengthened my understanding of how ACLs are used to enforce basic network security policies.  
+It showed that even simple filtering rules require careful planning to avoid blocking legitimate traffic.  
+After completing this lab, I feel more confident designing, configuring, and verifying standard ACLs.
