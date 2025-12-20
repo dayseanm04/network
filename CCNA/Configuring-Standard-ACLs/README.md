@@ -15,5 +15,7 @@ You will first configure **OSPF** to ensure full connectivity, then apply **stan
 ### 🌐 Task 1: Configure OSPF for Full Connectivity
 Configure **OSPF** on **R1** and **R2** to allow full connectivity between all PCs and servers before applying any ACLs.
 
----
+### 🚫 Task 2: Configure Standard ACLs to Enforce Network Policies
+Configure **standard numbered ACLs on R1** and **standard named ACLs on R2** to meet the following requirements:
+
 
