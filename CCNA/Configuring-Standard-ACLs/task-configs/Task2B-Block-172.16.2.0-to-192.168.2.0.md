@@ -64,3 +64,7 @@ ip access-group block-172.16.2.0/24 out
 
 ### From PC1 (172.16.1.1) ping SRV2 (192.168.2.100)
 
+<img width="740" height="359" alt="T2b-PC1-ping-SVR2" src="https://github.com/user-attachments/assets/ff743c85-00b0-4878-a1cb-ec22c446c44b" />
+
+Ping was successful
+
