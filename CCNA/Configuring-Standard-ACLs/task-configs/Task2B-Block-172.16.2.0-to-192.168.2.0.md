@@ -30,7 +30,7 @@ configure terminal
 ### 3️⃣ Create a standard named ACL
 
 ```bash
-ip access-list standard BLOCK-172.16.2.0
+ip access-list standard block-172.16.2.0/24-hosts
 ```
 
 ### 4️⃣ Deny the 172.16.2.0/24 network
@@ -49,11 +49,18 @@ permit any
 
 ```bash
 interface g0/1
-ip access-group BLOCK-172.16.2.0 out
+ip access-group block-172.16.2.0/24 out
 ```
 
 ---
 
 ## 🧪 Test the Policy
 
+### From PC3 (172.16.2.1) ping SRV2 (192.168.2.100)
+
+<img width="747" height="329" alt="T2B-PC3-SR1-ping-failed" src="https://github.com/user-attachments/assets/74a88d25-c615-4667-b44c-248396e06e6a" />
+
+**Note:** PC3 couldn't ping SRV2. Destination host unreachable,  the packet reaches the R2 but R2 doesn't forward it out of its G0/1 interface. The ACL denies it.
+
+### From PC1 (172.16.1.1) ping SRV2 (192.168.2.100)
 
