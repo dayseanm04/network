@@ -28,6 +28,13 @@ configure terminal
 router ospf 1
 ```
 
+### 4️⃣ Enable OSPF on appropraite interfaces
+
+```bash
+network 203.0.113.0 0.0.0.3 area 0
+network 172.16.1.0 0.0.0.255 area 0
+network 172.16.2.0 0.0.0.255 area 0
+```
 
 
 
