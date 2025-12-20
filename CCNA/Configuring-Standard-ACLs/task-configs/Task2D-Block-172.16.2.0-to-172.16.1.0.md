@@ -52,4 +52,12 @@ end
 
 <img width="748" height="339" alt="T2D-PC3-PC1-ping-fail" src="https://github.com/user-attachments/assets/c5baedba-44e5-4bd8-87b5-c0cfe42f011e" />
 
+### Verify ACL
 
+```bash
+show access-lists
+```
+
+**Expected Ouput✅:**
+
+<img width="553" height="145" alt="T2d-verify-acl" src="https://github.com/user-attachments/assets/fa5591ae-fb3b-48e6-9a74-44aca6476fe2" />
