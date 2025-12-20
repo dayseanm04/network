@@ -38,3 +38,25 @@ interface g0/0
 ip access-group ALLOW-PC1-PC3 out
 ```
 
+## Test the Policy
+
+### From PC1 (172.16.1.1) ping SRV1 (192.168.1.100)
+
+<img width="746" height="370" alt="T2A-ACL-test-PC1" src="https://github.com/user-attachments/assets/e0cf4d56-b5c4-499d-b1a0-7aafc3c28494" />
+
+Ping test was succesfull for PC1
+
+### From PC3 (172.16.2.1) ping SRV1 (192.168.1.100)
+
+<img width="743" height="323" alt="T2A-PC2-ping-test" src="https://github.com/user-attachments/assets/85b82ee5-b146-4a8d-9b0b-76e6ff604cec" />
+
+Ping test was succesfull for PC1
+
+
+
+
+
+
+
+
+
