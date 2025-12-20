@@ -18,8 +18,12 @@ Configure **OSPF** on **R1** and **R2** to allow full connectivity between all P
 ### 🚫 Task 2: Configure Standard ACLs to Enforce Network Policies
 Configure **standard numbered ACLs on R1** and **standard named ACLs on R2** to meet the following requirements:
 
-### 🅰️ Task 2A: Restrict Access to 192.168.1.0/24
+#### 🅰️ Task 2A: Restrict Access to 192.168.1.0/24
 Only **PC1** and **PC3** are allowed to access the **192.168.1.0/24** network.
 
 #### 🅱️ Task 2B: Block 172.16.2.0/24 from 192.168.2.0/24
 Hosts in the **172.16.2.0/24** network must not be able to access **192.168.2.0/24**.
+
+#### 🅲 Task 2C: Block 172.16.1.0/24 from 172.16.2.0/24
+Traffic from **172.16.1.0/24** must not be allowed to access **172.16.2.0/24**.
+
