@@ -40,6 +40,12 @@ interface g0/1
 ip access-group 1 out
 ```
 
+### 5️⃣ Exit configuration mode
+
+```bash
+end
+```
+
 ---
 
 ## Test the Policy
