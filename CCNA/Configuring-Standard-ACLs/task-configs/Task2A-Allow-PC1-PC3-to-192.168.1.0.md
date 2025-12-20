@@ -38,6 +38,10 @@ interface g0/0
 ip access-group ALLOW-PC1-PC3 out
 ```
 
+**📌 Note:** This policy is enforced closest to the **destination network (192.168.1.0/24)** using a **standard named ACL** on **R2**.
+
+
+
 ## Test the Policy
 
 ### From PC1 (172.16.1.1) ping SRV1 (192.168.1.100)
