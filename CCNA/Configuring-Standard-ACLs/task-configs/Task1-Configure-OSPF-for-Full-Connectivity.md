@@ -48,6 +48,10 @@ end
 show ip protocols
 ```
 
+**Expected Output✅:**
+
+<img width="733" height="372" alt="T1-R1-verify-ospf" src="https://github.com/user-attachments/assets/994f2384-de73-443b-9ac8-9d22a15a6d21" />
+
 
 
 
