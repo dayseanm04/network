@@ -36,7 +36,7 @@ network 172.16.1.0 0.0.0.255 area 0
 network 172.16.2.0 0.0.0.255 area 0
 ```
 
-### 5️⃣ Exit configuration mode
+### 5️⃣ Verify OSPF
 
 ```bash
 do show ip protocols
@@ -79,6 +79,13 @@ network 192.168.2.0 0.0.0.255 area 0
 
 **Note:** R2 becomes neighbors with R1
 
+### 5️⃣ Verify OSPF
 
+```bash
+do show ip protocols
+```
 
+**Expected Output✅:**
+
+<img width="781" height="378" alt="T1-R2-verify-ospf" src="https://github.com/user-attachments/assets/45fade58-4e1c-4db5-a0fa-936d8eb75be8" />
 
