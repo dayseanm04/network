@@ -27,3 +27,7 @@ Hosts in the **172.16.2.0/24** network must not be able to access **192.168.2.0/
 #### 🅲 Task 2C: Block 172.16.1.0/24 from 172.16.2.0/24
 Traffic from **172.16.1.0/24** must not be allowed to access **172.16.2.0/24**.
 
+#### 🅳 Task 2D: Block 172.16.2.0/24 from 172.16.1.0/24
+Traffic from **172.16.2.0/24** must not be allowed to access **172.16.1.0/24**.
+
+---
