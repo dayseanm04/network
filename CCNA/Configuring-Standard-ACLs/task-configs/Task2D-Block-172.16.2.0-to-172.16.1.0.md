@@ -46,5 +46,10 @@ end
 
 ---
 
+## Test the Policy
+
+### From PC3 (172.16.2.1) ping PC1 (172.16.1.1)
+
+<img width="748" height="339" alt="T2D-PC3-PC1-ping-fail" src="https://github.com/user-attachments/assets/c5baedba-44e5-4bd8-87b5-c0cfe42f011e" />
 
 
