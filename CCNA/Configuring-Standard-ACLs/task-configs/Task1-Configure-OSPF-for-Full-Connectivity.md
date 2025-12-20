@@ -36,6 +36,18 @@ network 172.16.1.0 0.0.0.255 area 0
 network 172.16.2.0 0.0.0.255 area 0
 ```
 
+### 5️⃣ Exit configuration mode
+
+```bash
+end
+```
+
+### 6️⃣ Verify OSPF is running
+
+```bash
+show ip protocols
+```
+
 
 
 
