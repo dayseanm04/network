@@ -32,6 +32,17 @@ Traffic from **172.16.2.0/24** must not be allowed to access **172.16.1.0/24**.
 
 ---
 
+## 📚 Navigation
+
+| Section / File | Description |
+|---------------|-------------|
+| [**topology.png**](topology.png) | Network topology diagram for the Standard ACL lab |
+| [**task-configs/**](task-configs) | Step-by-step configuration tasks (Task 1, Task 2A–2D) |
+| [**pkt-files/**](pkt-files) | Packet Tracer files (blank & completed lab version) |
+| [**reflection.md**](reflection.md) | Reflection and lessons learned |
+
+---
+
 ## ✍️ Author Information
 
 **Name:** *Daysean Mensah*  
