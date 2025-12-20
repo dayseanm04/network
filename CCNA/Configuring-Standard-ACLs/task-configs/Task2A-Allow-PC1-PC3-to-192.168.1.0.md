@@ -68,4 +68,4 @@ show access-lists
 
 <img width="581" height="147" alt="T2a-verify-acl" src="https://github.com/user-attachments/assets/f26f59d5-bd7c-41df-8616-164b841aae59" />
 
-**Note:** I took this screenshot after finising the lab. I should only see the second 1
+**Note:** I took this screenshot after finising the lab. You should only see the second ACL
