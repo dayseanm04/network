@@ -70,6 +70,6 @@ show access-lists
 
 **Expected Ouput✅:**
 
-<img width="581" height="147" alt="T2a-verify-acl" src="https://github.com/user-attachments/assets/f26f59d5-bd7c-41df-8616-164b841aae59" />
+<img width="512" height="154" alt="T2a-verify-acl" src="https://github.com/user-attachments/assets/bd87d6ad-068d-48ea-aca1-2c002e29dd0c" />
 
 **Note:** I took this screenshot after finising the lab. You should only see the second ACL
