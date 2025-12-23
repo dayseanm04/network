@@ -1,10 +1,3 @@
-# Packet Tracer Files 📂🖥️
+## Topology For Reference
 
-This folder contains the Packet Tracer files for Configuring Static NAT lab. It includes both a blank version for practice and a completed version for reference.
-
----
-
-## Navigation 🗂️
-
-- **Configuring_Static_NAT_blank.pkt** – A blank Packet Tracer file to perform the lab exercises yourself ✏️  
-- **Configuring_Static_NAT_completed.pkt** – Completed Packet Tracer file with all configurations applied. (Use it for verification)  ✅  
+<img width="648" height="227" alt="Topology" src="https://github.com/user-attachments/assets/9eff3467-85fb-40f2-a50c-a3eca4d670d2" />
