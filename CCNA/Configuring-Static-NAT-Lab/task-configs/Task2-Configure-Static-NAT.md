@@ -24,3 +24,11 @@ Configure **Static NAT** on **R1** so that internal hosts (PC1, PC2, PC3) in the
 
 ---
 
+## Configure R1
+
+### 1️⃣ Enter Global Configuration Mode
+
+```bash
+enable
+configure terminal
+```
