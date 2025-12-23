@@ -9,3 +9,19 @@ Clear the NAT translation table on **R1**, then check which NAT entries remain. 
 
 ---
 
+## On R1
+
+### 1️⃣ Check Current NAT Translations (Before Clearing)
+
+In privileged EXEC mode:
+
+```bash
+show ip nat translations
+```
+
+**Expected Output✅**
+
+<img width="791" height="304" alt="T4-check-NAT-translations" src="https://github.com/user-attachments/assets/d75b6dc7-4501-4942-a2b2-1c1e41371a6b" />
+
+**📌 This shows the current NAT translation table after you generated traffic in Task 4.**
+
