@@ -60,8 +60,6 @@ write memory
 
 ### ✅ Ping PC1 from PC3
 
-**Expected Output✅:**
-
 <img width="744" height="338" alt="T1A-PC3-PC1" src="https://github.com/user-attachments/assets/e0e0ffaf-b8ab-464b-bf04-555a624f17e8" />
 
 ### On R1 show access-lists
