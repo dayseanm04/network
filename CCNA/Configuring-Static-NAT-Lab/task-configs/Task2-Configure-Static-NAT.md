@@ -45,11 +45,13 @@ ip nat inside
 ### 3️⃣  Set the Outside Interface (Internet)
 Go to the internet-facing interface and mark it as **NAT outside**:
 
-- `interface g0/0`
-- `ip nat outside`
-- `exit`
+```bash
+interface g0/0
+ip nat outside
+exit
+```
 
-**Note📌 This tells R1 that traffic leaving this interface is going to the **outside (internet)**. 
+**Note📌 This tells R1 that traffic leaving this interface is going to the outside (internet)**. 
 
 ---
 
