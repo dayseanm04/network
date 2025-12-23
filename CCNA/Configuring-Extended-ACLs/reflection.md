@@ -39,3 +39,10 @@
   - Enforcing security policies at the router level
 
 ---
+
+## ✅ Overall Reflection
+- This lab improved my understanding of **traffic filtering and network security**.
+- I can now:
+  - Configure precise extended ACL rules
+  - Apply ACLs to the correct interfaces
+  - Test and Troubleshooting ACL behavior
