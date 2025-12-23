@@ -18,3 +18,10 @@ Verify that **Static NAT is working** by testing internet connectivity **after N
 **Expected Output✅**
 
 <img width="739" height="363" alt="T3-PC1-Ping-Int-SRV" src="https://github.com/user-attachments/assets/ff799015-5c3c-40fb-9e8d-3525ded8b5f4" />
+
+**Note: the ping is successful after Static NAT was configured**
+
+## 🧠 Why This Works
+- Static NAT translates PC1’s **private IP address** into a **public IP address**
+- This allows return traffic from the internet to reach PC1 correctly
+- Without NAT, the internet cannot route traffic back to private IPs
