@@ -45,3 +45,6 @@ show ip nat translations
 
 <img width="771" height="105" alt="NAT-translation-after-clear" src="https://github.com/user-attachments/assets/bbf6433b-0254-4c3a-98fe-004bb5a7ff75" />
 
+After clearing:
+- ✅ The **static NAT mappings remain**
+- ❌ The dynamic entries that were created when the static mappings were used is gone.
