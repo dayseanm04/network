@@ -21,7 +21,7 @@ Verify that **Static NAT is working** by testing internet connectivity **after N
 
 ## ✅ On PC2
 
-### 1️⃣ Open the Command Prompt on PC2
+### 2️⃣ Open the Command Prompt on PC2
 
 `ping 8.8.8.8`
 
@@ -33,7 +33,7 @@ Verify that **Static NAT is working** by testing internet connectivity **after N
 
 ## ✅ On PC3
 
-### 1️⃣ Open the Command Prompt on PC2
+### 3️⃣ Open the Command Prompt on PC2
 
 `ping 8.8.8.8`
 
