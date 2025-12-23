@@ -9,3 +9,18 @@ Configure **Static NAT** on **R1** so that internal hosts (PC1, PC2, PC3) in the
 
 ---
 
+### 🔌 Interfaces (NAT Roles)
+| R1 Interface | Connected To | NAT Role |
+|------------|--------------|----------|
+| `G0/1` | `172.16.0.0/24` LAN | **inside** |
+| `G0/0` | Internet | **outside** |
+
+### 🖥️ Static NAT Mappings
+| Device | Inside Local (Private) | Inside Global (Public) |
+|--------|-------------------------|------------------------|
+| PC1 | `172.16.0.1` | `100.0.0.1` |
+| PC2 | `172.16.0.2` | `100.0.0.2` |
+| PC3 | `172.16.0.3` | `100.0.0.3` |
+
+---
+
