@@ -32,3 +32,31 @@ Configure **Static NAT** on **R1** so that internal hosts (PC1, PC2, PC3) in the
 enable
 configure terminal
 ```
+
+### 2️⃣ Set the Inside Interface (LAN)
+
+```bash
+interface G0/1
+ip nat inside
+```
+
+**Note 📌 This tells R1 that traffic coming from this interface is from the **inside network**.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
