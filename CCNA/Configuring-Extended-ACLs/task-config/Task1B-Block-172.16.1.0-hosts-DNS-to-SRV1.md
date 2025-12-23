@@ -53,3 +53,11 @@ end
 write memory
 ```
 
+## 🧪Test the Policy
+
+### ✅ Run a DNS Lookup from PC1
+
+`nslookup index.html`
+
+<img width="745" height="367" alt="T1B-PC1-nslookup" src="https://github.com/user-attachments/assets/ab149797-a855-41b2-8198-442eed63cc57" />
+
