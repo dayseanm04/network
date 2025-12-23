@@ -25,10 +25,10 @@ configure terminal
 
 ```bash
 ip access-list extended block-172.16.1.0-hosts-DNS
-deny ip 172.16.2.0 0.0.0.255 host 172.16.1.1
 deny udp 172.16.1.0 0.0.0.255 host 192.168.1.100 eq 53
 deny tcp 172.16.1.0 0.0.0.255 host 192.168.1.100 eq 53
 ```
 
+**Note📌:** Blocking both UDP and TCP ensures **all DNS access** is denied because DNS uses TCP and UDP port 53.
 
 
