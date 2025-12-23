@@ -9,3 +9,12 @@ Verify that **Static NAT is working** by testing internet connectivity **after N
 
 ---
 
+## ✅ On PC1
+
+### 1️⃣ Open the Command Prompt on PC1
+
+`ping 8.8.8.8`
+
+**Expected Output✅**
+
+<img width="739" height="363" alt="T3-PC1-Ping-Int-SRV" src="https://github.com/user-attachments/assets/ff799015-5c3c-40fb-9e8d-3525ded8b5f4" />
