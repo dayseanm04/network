@@ -27,8 +27,16 @@ enable
 configure terminal
 ```
 
-### 2️⃣ Create a Extended named ACL that blocks 172.16.2.0/24 hosts from communicating with **PC1**
+### 2️⃣ Create an Extended named ACL that blocks 172.16.2.0/24 hosts from communicating with **PC1**
 
 ```bash
 ip access-list extended block-172.16.2.0-hosts-to-PC1
+deny ip 172.16.2.0 0.0.0.255 host 172.16.1.1
 ```
+
+### 3️⃣ Permit all other traffic:
+
+```bash
+permit ip any any
+```
+
