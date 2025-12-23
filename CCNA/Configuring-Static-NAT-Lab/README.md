@@ -9,3 +9,24 @@ The lab demonstrates why NAT is required, how static NAT is configured on a rout
 
 <img width="648" height="227" alt="Topology" src="https://github.com/user-attachments/assets/9eff3467-85fb-40f2-a50c-a3eca4d670d2" />
 
+## 🎯 Lab Objectives
+By completing this lab, You will be able to:
+
+- ✅ Understand why internal hosts cannot reach the internet without NAT
+- ✅ Configure **inside** and **outside** NAT interfaces
+- ✅ Create **static NAT mappings** for multiple hosts
+- ✅ Verify NAT operation using connectivity tests
+- ✅ Interpret and clear the NAT translation table
+
+---
+
+## 🧪 Lab Tasks
+
+### 🧩 Task 1 – Test Connectivity Before NAT
+- Attempt to ping **8.8.8.8** from **PC1**
+- Observe and document whether the ping succeeds or fails
+
+**📌 This confirms that NAT is required for internet access.**
+
+
+
