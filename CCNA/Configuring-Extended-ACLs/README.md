@@ -44,9 +44,9 @@ Extended ACLs are created to enforce the following network policies:
 
 | Section | Description |
 |------|-------------|
-| 📂 **pkt-files/** | Cisco Packet Tracer files (blank and completed versions of the lab) |
-| 📂 **task-config/** | Step-by-step configuration tasks for each extended ACL |
-| 📝 **reflection.md** | Summary of the lab and lessons learned |
+| 📂 [`pkt-files/`](./pkt-files)  | Cisco Packet Tracer files (blank and completed versions of the lab) |
+| 📂 [`task-config/`](./task-config) | Step-by-step configuration tasks for each extended ACL |
+| 📝 [`reflection.md`](./reflection.md) | Summary of the lab and lessons learned |
 
 
 ---
