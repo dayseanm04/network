@@ -43,5 +43,7 @@ Verify that **Static NAT translations are being used** by generating internet tr
 show ip nat translation
 ```
 
+**Expected Output✅**
+
 <img width="791" height="304" alt="T4-check-NAT-translations" src="https://github.com/user-attachments/assets/d75b6dc7-4501-4942-a2b2-1c1e41371a6b" />
 
