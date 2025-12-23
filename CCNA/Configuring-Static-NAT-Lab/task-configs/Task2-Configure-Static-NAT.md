@@ -41,7 +41,7 @@ ip nat inside
 ```
 
 
-### 3️⃣  Set the Inside  Interface (Internet)
+### 3️⃣  Set the Inside Interface (LAN  )
 Go to the internet-facing interface and mark it as **NAT inside**:
 
 ```bash
@@ -65,7 +65,17 @@ exit
 
 ---
 
+### 5️⃣ Configure the Static NAT Mappings (1-to-1)
 
+Create static translations for PC1, PC2, and PC3:
+
+```bash
+ip nat inside source static 172.16.0.1 100.0.0.1
+ip nat inside source static 172.16.0.2 100.0.0.2
+ip nat inside source static 172.16.0.3 100.0.0.3
+```
+
+---
 
 
 
