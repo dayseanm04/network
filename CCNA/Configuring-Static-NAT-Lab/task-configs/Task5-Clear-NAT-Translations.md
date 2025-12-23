@@ -1,7 +1,7 @@
 # 🧹 Task 5 – Clear NAT Translations (Which Entries Remain?)
 
 ## 🎯 Goal
-Clear the NAT translation table on **R1**, then check which NAT entries remain. T
+Clear the NAT translation table on **R1**, then check which NAT entries remain.
 
 ## Topology For Reference
 
