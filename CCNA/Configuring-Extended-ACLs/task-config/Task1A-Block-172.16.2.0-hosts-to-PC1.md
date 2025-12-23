@@ -54,3 +54,21 @@ ip access-group block-172.16.2.0-hosts-to-PC1 in
 end
 write memory
 ```
+
+
+## 🧪Test the Policy
+
+### ✅ Ping PC1 from PC3
+
+<img width="744" height="338" alt="T1A-PC3-PC1" src="https://github.com/user-attachments/assets/e0e0ffaf-b8ab-464b-bf04-555a624f17e8" />
+
+
+
+
+
+
+
+
+
+
+
