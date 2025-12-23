@@ -58,17 +58,14 @@ write memory
 
 ## 🧪Test the Policy
 
-### ✅ Ping PC1 from PC3
+#### ✅ Ping PC1 from PC3
+
+**Expected Output✅:**
 
 <img width="744" height="338" alt="T1A-PC3-PC1" src="https://github.com/user-attachments/assets/e0e0ffaf-b8ab-464b-bf04-555a624f17e8" />
 
+### On R1 show access-lists
 
+<img width="715" height="84" alt="T1A-R1-al" src="https://github.com/user-attachments/assets/c2e49311-9063-4d79-acf6-12fba51c6ce5" />
 
-
-
-
-
-
-
-
-
+The ACL succesfully blocked the pings to PC1
