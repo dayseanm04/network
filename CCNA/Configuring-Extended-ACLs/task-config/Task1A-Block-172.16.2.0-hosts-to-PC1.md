@@ -44,7 +44,7 @@ permit ip any any
 ### 4️⃣ Apply the ACL to R1 g0/1 inbound (toward 172.16.2.0/24)
 
 ```bash
-interface g0/
+interface g0/1
 ip access-group block-172.16.2.0-hosts-to-PC1 in
 ```
 
