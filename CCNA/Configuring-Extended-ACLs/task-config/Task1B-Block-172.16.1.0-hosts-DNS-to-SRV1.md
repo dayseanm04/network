@@ -61,3 +61,12 @@ write memory
 
 <img width="745" height="367" alt="T1B-PC1-nslookup" src="https://github.com/user-attachments/assets/ab149797-a855-41b2-8198-442eed63cc57" />
 
+❌ DNS request **fails / times out** (DNS blocked)
+
+
+### On R1 show access-lists
+
+<img width="821" height="154" alt="T1B-R1-al" src="https://github.com/user-attachments/assets/89aa479f-cc0a-4b2b-8ad1-6b66439e418f" />
+
+The ACL succesfully blocked the DNS requests
+
