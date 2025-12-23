@@ -43,3 +43,26 @@ This task is split into two parts:
   - PC3 → `100.0.0.3`
 - Verify 
 
+---
+
+### 🧩 Task 3 – Test Connectivity After NAT
+- Ping **8.8.8.8** from **PC1**
+- Observe whether connectivity is now successful
+
+---
+
+### 🧩 Task 4 – Verify NAT Translations
+- Ping **google.com** from:
+  - PC1
+  - PC2
+  - PC3
+- Check the NAT translation table on **R1**
+- Observe how inside local and inside global addresses are displayed
+
+---
+
+### 🧩 Task 5 – Clear NAT Translations
+- Clear the NAT translation table on **R1**
+- View the table again and identify which entries remain
+
+---
