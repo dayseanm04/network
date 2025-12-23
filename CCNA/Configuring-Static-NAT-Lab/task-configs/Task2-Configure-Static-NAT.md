@@ -77,14 +77,24 @@ ip nat inside source static 172.16.0.3 100.0.0.3
 
 ---
 
+### 6️⃣ Verify the NAT Configuration
+In privileged EXEC mode:
+
+```bash
+show ip nat translation
+```
+
+**Expected Output✅:**
+
+<img width="785" height="103" alt="T2-show-nat" src="https://github.com/user-attachments/assets/decfec69-c19b-48ad-8b40-decb20243f16" />
 
 
+**Note there isnt any translations yet**
 
+### 7️⃣ Save the Configuration
 
-
-
-
-
-
+```bash
+write memory
+```
 
 
