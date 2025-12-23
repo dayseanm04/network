@@ -38,7 +38,7 @@ permit ip any any
 
 ```bash
 interface g0/1
-ip access-group block-172.16.1.0-hosts-DNS in
+ip access-group block-172.16.2.0-hosts-HTTP in
 ```
 
 **Note:** ⚠️ This is required because ACLs have an **implicit deny** at the end.
@@ -52,3 +52,13 @@ write memory
 ```
 
 ## 🧪Test the Policy
+
+### ✅ Access the web from from PC3
+
+<img width="742" height="306" alt="PC3-HTML" src="https://github.com/user-attachments/assets/84cb3aa7-d87a-49dc-b85f-1967131c7ced" />
+
+❌ Website **does not load** (HTTP/HTTPS blocked)
+
+### Verify the ACL on R1
+
+<img width="832" height="226" alt="T1C-verify-acl" src="https://github.com/user-attachments/assets/b97d379d-d741-46d7-87f5-9cc33c2c6ba5" />
