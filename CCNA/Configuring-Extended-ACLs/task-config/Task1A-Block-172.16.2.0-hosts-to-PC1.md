@@ -40,3 +40,17 @@ deny ip 172.16.2.0 0.0.0.255 host 172.16.1.1
 permit ip any any
 ```
 
+
+### 4️⃣ Apply the ACL to R1 g0/1 inbound (toward 172.16.2.0/24)
+
+```bash
+interface g0/
+ip access-group block-172.16.2.0-hosts-to-PC1 in
+```
+
+### 5️⃣ Save Configuration 
+
+```bash
+end
+write memory
+```
