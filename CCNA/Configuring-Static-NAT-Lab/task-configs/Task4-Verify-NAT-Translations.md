@@ -36,3 +36,12 @@ Verify that **Static NAT translations are being used** by generating internet tr
 **Expected Output✅**
 
 <img width="745" height="376" alt="T3-PC3-Goog" src="https://github.com/user-attachments/assets/56bfd0c7-3b60-471d-94ad-14a8739c9cb2" />
+
+### 4️⃣ Check NAT Translations on R1
+
+```bash
+show ip nat translation
+```
+
+<img width="791" height="304" alt="T4-check-NAT-translations" src="https://github.com/user-attachments/assets/d75b6dc7-4501-4942-a2b2-1c1e41371a6b" />
+
