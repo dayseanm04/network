@@ -55,7 +55,7 @@ write memory
 
 ### ✅ Access the web from from PC3
 
-<img width="742" height="306" alt="PC3-HTML" src="https://github.com/user-attachments/assets/84cb3aa7-d87a-49dc-b85f-1967131c7ced" />
+<img width="746" height="310" alt="PC3-HTML" src="https://github.com/user-attachments/assets/cca45e27-4fcb-449f-a68f-2b8cbe6d2d2f" />
 
 ❌ Website **does not load** (HTTP/HTTPS blocked)
 
