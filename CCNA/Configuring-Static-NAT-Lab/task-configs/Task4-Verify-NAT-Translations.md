@@ -47,3 +47,9 @@ show ip nat translation
 
 <img width="791" height="304" alt="T4-check-NAT-translations" src="https://github.com/user-attachments/assets/d75b6dc7-4501-4942-a2b2-1c1e41371a6b" />
 
+**📌Note: This command displays how internal (inside local) IP addresses are translated to public (inside global) IP addresses.** 
+
+---
+
+Even though NAT mappings are **static**, traffic must be generated for translations to appear as active
+- The NAT table clearly shows the relationship between **private IPs** and **public IPs**
