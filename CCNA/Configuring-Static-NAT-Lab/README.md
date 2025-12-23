@@ -28,5 +28,18 @@ By completing this lab, You will be able to:
 
 **📌 This confirms that NAT is required for internet access.**
 
+### 🧩 Task 2 – Configure Static NAT on R1
+This task is split into two parts:
 
+#### 🔹 Task 2A – Configure Inside and Outside Interfaces
+- Identify which R1 interface connects to the **LAN**
+- Identify which R1 interface connects to the **internet**
+- Configure the correct NAT roles on each interface
+
+#### 🔹 Task 2B – Comfigure Static NAT Mappings
+- Map:
+  - PC1 → `100.0.0.1`
+  - PC2 → `100.0.0.2`
+  - PC3 → `100.0.0.3`
+- Verify 
 
