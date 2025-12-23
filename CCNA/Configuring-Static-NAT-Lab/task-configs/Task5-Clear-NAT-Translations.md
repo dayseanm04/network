@@ -25,3 +25,23 @@ show ip nat translations
 
 **📌 This shows the current NAT translation table after you generated traffic in Task 4.**
 
+### 2️⃣ Clear the NAT Translation Table
+
+```bash
+clear ip nat translations *
+```
+
+**✅ This removes the **active/dynamic translation entries** created when hosts communicated with the internet.**
+
+### 3️⃣ Check NAT Translations Again (After Clearing)
+
+Run the show command again:
+
+```bash
+show ip nat translations
+```
+
+**Expected Output✅**
+
+<img width="771" height="105" alt="NAT-translation-after-clear" src="https://github.com/user-attachments/assets/bbf6433b-0254-4c3a-98fe-004bb5a7ff75" />
+
