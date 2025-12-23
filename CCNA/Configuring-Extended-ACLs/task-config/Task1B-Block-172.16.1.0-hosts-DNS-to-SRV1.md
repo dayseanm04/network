@@ -10,7 +10,6 @@ Configure an **extended ACL** on **R1** so that hosts in the **172.16.1.0/24** n
 
 ---
 
---
 
 ## Configure R1
 
@@ -31,4 +30,26 @@ deny tcp 172.16.1.0 0.0.0.255 host 192.168.1.100 eq 53
 
 **Note📌:** Blocking both UDP and TCP ensures **all DNS access** is denied because DNS uses TCP and UDP port 53.
 
+### 3️⃣ Permit all other traffic:
+
+```bash
+permit ip any any
+```
+
+### 4️⃣ Apply the ACL to R1 g0/0 inbound (toward 172.16.1.0/24)
+
+```bash
+interface g0/0
+ip access-group block-172.16.1.0-hosts-DNS in
+```
+
+**Note:** ⚠️ This is required because ACLs have an **implicit deny** at the end.
+
+
+### 5️⃣ Save Configuration 
+
+```bash
+end
+write memory
+```
 
