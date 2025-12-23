@@ -66,3 +66,8 @@ This task is split into two parts:
 - View the table again and identify which entries remain
 
 ---
+
+### ✍️ Author Information
+Name: Daysean Mensah <br/>
+Course/Program: Cisco CCNA Studies <br/>
+Lab completion date: Dec 21 2025. <br/>
