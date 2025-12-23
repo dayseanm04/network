@@ -58,7 +58,7 @@ write memory
 
 ## 🧪Test the Policy
 
-#### ✅ Ping PC1 from PC3
+### ✅ Ping PC1 from PC3
 
 **Expected Output✅:**
 
