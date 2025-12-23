@@ -5,8 +5,6 @@ In this lab, I configured **Static Network Address Translation (Static NAT)** to
 
 The lab demonstrates why NAT is required, how static NAT is configured on a router, and how NAT translations behave when traffic is generated and cleared.
 
----
-
 ## Topology For Reference
 
 <img width="648" height="227" alt="Topology" src="https://github.com/user-attachments/assets/9eff3467-85fb-40f2-a50c-a3eca4d670d2" />
