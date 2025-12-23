@@ -19,3 +19,4 @@ Test internet connectivity **before configuring NAT** by attempting to ping **8.
 
 <img width="750" height="367" alt="T1-PC1-Int-SRV" src="https://github.com/user-attachments/assets/3d495b31-0aa1-4934-ace3-a4fb4792bae1" />
 
+**📌 Note:** The ping did not work: The Request Timed Out
