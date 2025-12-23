@@ -39,3 +39,20 @@ Extended ACLs are created to enforce the following network policies:
 - 🎯 Services Blocked:
   - HTTP (port 80)
   - HTTPS (port 443)
+
+## 🧭 Lab Navigation
+
+| Section | Description |
+|------|-------------|
+| 📂 **pkt-files/** | Cisco Packet Tracer files (blank and completed versions of the lab) |
+| 📂 **task-config/** | Step-by-step configuration tasks for each extended ACL |
+| 📝 **reflection.md** | Summary of the lab and lessons learned |
+
+
+---
+
+## ✍️ Author Information
+
+**Name:** *Daysean Mensah*  
+**Course/Program:** *Cisco CCNA Studies*  
+**Lab completion date:** December 21 2025.
