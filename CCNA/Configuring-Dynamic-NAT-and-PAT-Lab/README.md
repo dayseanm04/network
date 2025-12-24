@@ -32,3 +32,12 @@ By completing this lab, you will be able to:
 
 ---
 
+### 🧩 Task 2 – Test Dynamic NAT Behavior
+- Ping **google.com** from **PC1** and **PC2**
+- Ping **google.com** from **PC3**
+- Observe what happens to PC3’s traffic when the NAT pool is exhausted
+
+**📌Note: This demonstrates the main limitation of Dynamic NAT.** 
+
+---
+
