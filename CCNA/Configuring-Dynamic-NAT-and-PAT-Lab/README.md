@@ -9,3 +9,14 @@ In this lab, I will configure **Dynamic NAT** and **Port Address Translation (PA
 
 ---
 
+## 🎯 Lab Objectives
+By completing this lab, you will be able to:
+
+- ✅ Configure **Dynamic NAT** using a public IP pool
+- ✅ Understand what happens when the NAT pool runs out
+- ✅ Remove Dynamic NAT and switch to **PAT (NAT Overload)**
+- ✅ Verify NAT behavior using connectivity tests
+- ✅ Examine and the NAT translation table
+
+---
+
