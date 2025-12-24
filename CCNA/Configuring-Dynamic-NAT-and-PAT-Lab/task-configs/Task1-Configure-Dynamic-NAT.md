@@ -34,3 +34,16 @@ ip nat outside
 interface g0/1
 ip nat inside
 ```
+
+**✅ Now R1 knows which side is inside and which side is outside.**
+
+
+### 4️⃣ Create an standard  ACL to Match Inside Traffic (172.16.0.0/24)
+
+```bash
+access-list 1 permit 172.16.0.0 0.0.0.255
+```
+
+**📌 This ACL defines which inside hosts are allowed to be translated.**
+
+
