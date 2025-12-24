@@ -56,3 +56,9 @@ By completing this lab, you will be able to:
 - Examine the NAT translation table to observe port-based translations
 
 ---
+
+## ✍️ Author Information
+
+**Name:** *Daysean Mensah*  
+**Course/Program:** *Cisco CCNA Studies*  
+**Lab completion date:** December 24 2025.
