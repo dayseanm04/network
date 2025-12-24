@@ -45,15 +45,10 @@ When a third host tries, it should fail.
 PC3 ping failed because the NAT pool is exhausted.
 
 
+## View NAT translations
 
+```bash
+show ip nat translations
+```
 
-
-
-
-
-
-
-
-
-
-
+<img width="767" height="356" alt="T2-R1-nat-translations" src="https://github.com/user-attachments/assets/0699452c-32be-4a64-8a88-17767d8ff4cf" />
