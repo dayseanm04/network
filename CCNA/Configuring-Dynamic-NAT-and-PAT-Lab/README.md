@@ -20,3 +20,15 @@ By completing this lab, you will be able to:
 
 ---
 
+
+## 🧪 Lab Tasks
+
+### 🧩 Task 1 – Configure Dynamic NAT
+- Configure the correct **inside** and **outside** NAT interfaces on R1
+- Translate all traffic from `172.16.0.0/24`
+- Create a Dynamic NAT pool using **two public IP addresses**
+
+**📌Note: This limits internet access to only two internal hosts at a time.** 
+
+---
+
