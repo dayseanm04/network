@@ -41,3 +41,13 @@ By completing this lab, you will be able to:
 
 ---
 
+### 🧩 Task 3 – Switch from Dynamic NAT to PAT
+- Clear existing NAT translations
+- Remove the Dynamic NAT configuration
+- Reconfigure NAT using **PAT (overload)** with R1’s public IP address
+
+**📌Note: PAT allows many internal devices to share a single public IP.**
+
+---
+
+
