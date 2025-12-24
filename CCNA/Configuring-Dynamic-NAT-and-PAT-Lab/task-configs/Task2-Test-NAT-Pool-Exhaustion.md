@@ -22,7 +22,7 @@ When a third host tries, it should fail.
 
 <img width="746" height="364" alt="PC1-ping-google" src="https://github.com/user-attachments/assets/e6dacb53-e61c-4329-8f81-60f2c3f57d0b" />
 
-### 1️2️⃣ Ping google.com from PC2
+### 2️⃣ Ping google.com from PC2
 
 **First ping 8.8.8.8 then ping google.com:**
 
@@ -31,8 +31,18 @@ When a third host tries, it should fail.
 
 <img width="745" height="362" alt="PC2-ping-google" src="https://github.com/user-attachments/assets/a9f4a32a-c8c5-4d6d-bb59-14aea2697519" />
 
+### 3️⃣ Ping google.com from PC3
+
+**First ping 8.8.8.8 then ping google.com:**
 
 
+**✅ Expected Output:**
+
+<img width="744" height="369" alt="PC3-GOOG-ping" src="https://github.com/user-attachments/assets/34ebb5e4-8d5b-48fa-8777-6d703f65b265" />
+
+<img width="738" height="182" alt="PC3-google-ping" src="https://github.com/user-attachments/assets/90142434-5641-475b-bdd2-d2f340950a8b" />
+
+PC3 ping failed because the NAT pool is exhausted.
 
 
 
