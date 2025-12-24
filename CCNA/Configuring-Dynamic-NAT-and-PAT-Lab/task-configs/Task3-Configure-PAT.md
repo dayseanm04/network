@@ -25,3 +25,15 @@ clear ip nat translations
 ```
 
 **Note:📌 This removes active translation entries from the NAT tablle.**
+
+### 3️⃣ Enter Global Configuration Mode
+
+```bash
+configure terminal
+```
+
+### 4️⃣ Remove the Dynamic NAT Configuration
+
+```bash
+no ip nat inside source list 1 pool public
+```
