@@ -44,6 +44,45 @@ ip nat inside
 access-list 1 permit 172.16.0.0 0.0.0.255
 ```
 
-**📌 This ACL defines which inside hosts are allowed to be translated.**
+**📌Note: This ACL defines which inside hosts are allowed to be translated.**
+
+### 5️⃣ Create the Public NAT Pool
+
+```bash
+ip nat pool public 100.0.0.1 100.0.0.2 netmask 255.255.255.0
+```
+
+### 6️⃣ Enable Dynamic NAT
+
+```bash
+ip nat inside source list 1 pool public
+```
+
+**📌Note: This tells R1 to translate traffic matched by ACL 1 using the pool**
+
+### 7️⃣ Verify NAT is Configured
+
+```bash
+do show ip nat statistics
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
