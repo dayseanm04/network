@@ -12,3 +12,12 @@ When a third host tries, it should fail.
 <img width="588" height="215" alt="Topology" src="https://github.com/user-attachments/assets/a0ad75ab-6982-416a-8c01-5fd83306f1b0" />
 
 ---
+
+### 1️⃣ Ping google.com from PC1
+
+**First ping 8.8.8.8 then ping google.com:**
+
+
+**✅ Expected Output:**
+
+<img width="746" height="364" alt="PC1-ping-google" src="https://github.com/user-attachments/assets/e6dacb53-e61c-4329-8f81-60f2c3f57d0b" />
