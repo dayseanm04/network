@@ -69,21 +69,9 @@ do show ip nat statistics
 <img width="706" height="231" alt="T1-nat-stat" src="https://github.com/user-attachments/assets/8741b680-ecdc-457e-93d4-1747dfccec03" />
 
 
+### 8️⃣  Save the Configuration
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```bash
+end
+write memory
+```
