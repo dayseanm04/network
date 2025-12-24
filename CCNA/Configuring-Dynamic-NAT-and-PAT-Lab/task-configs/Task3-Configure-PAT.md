@@ -44,4 +44,13 @@ no ip nat inside source list 1 pool public
 ip nat inside source list 1 interface g0/0 overload
 ```
 
+### 6️⃣ Save the Configuration
+
+```bash
+end
+write memory
+```
+
+
+
 
