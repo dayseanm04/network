@@ -18,4 +18,10 @@ Remove the **Dynamic NAT configuration** and replace it with **PAT (Port Address
 enable
 ```
 
+### 2️⃣ Clear Existing NAT Translations
 
+```bash
+clear ip nat translations
+```
+
+**Note:📌 This removes active translation entries from the NAT tablle.**
