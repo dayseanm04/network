@@ -37,3 +37,11 @@ configure terminal
 ```bash
 no ip nat inside source list 1 pool public
 ```
+
+### 5️⃣ Configure PAT (NAT Overload)
+
+```bash
+ip nat inside source list 1 interface g0/0 overload
+```
+
+
