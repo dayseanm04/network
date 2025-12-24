@@ -38,3 +38,13 @@ After switching from Dynamic NAT to PAT, **PC1, PC2, and PC3 should all be able 
 **Expected Output:✅**
 
 <img width="750" height="403" alt="PC3-google-ping" src="https://github.com/user-attachments/assets/fa7be919-d985-446d-bf7a-9449af9d39d0" />
+
+---
+
+## View NAT translations
+
+```bash
+show ip nat translations
+```
+
+<img width="783" height="259" alt="T4-show-nat-translations" src="https://github.com/user-attachments/assets/16cdf53c-af0c-437d-be66-51dfd06104a6" />
