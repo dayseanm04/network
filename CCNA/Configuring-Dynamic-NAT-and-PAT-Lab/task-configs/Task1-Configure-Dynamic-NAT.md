@@ -66,7 +66,7 @@ ip nat inside source list 1 pool public
 do show ip nat statistics
 ```
 
-<img width="767" height="356" alt="T2-R1-nat-translations" src="https://github.com/user-attachments/assets/f1b152f6-3f57-4d38-9e41-53496e31335f" />
+<img width="706" height="231" alt="T1-nat-stat" src="https://github.com/user-attachments/assets/8741b680-ecdc-457e-93d4-1747dfccec03" />
 
 
 
