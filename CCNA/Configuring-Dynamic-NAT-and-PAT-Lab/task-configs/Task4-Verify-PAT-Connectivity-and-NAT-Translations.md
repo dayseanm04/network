@@ -11,4 +11,20 @@ After switching from Dynamic NAT to PAT, **PC1, PC2, and PC3 should all be able 
 
 ---
 
+## ✅ Ping Tests
+
 ### 1️⃣ Ping google.com from PC1
+
+**First ping 8.8.8.8 then ping google.com:**
+
+<img width="746" height="364" alt="PC1-ping-google" src="https://github.com/user-attachments/assets/1ebfaf39-9588-4775-bb3e-70f681dab90a" />
+
+---
+
+### 1️⃣ Ping google.com from PC2
+
+**First ping 8.8.8.8 then ping google.com:**
+
+<img width="745" height="362" alt="PC2-ping-google" src="https://github.com/user-attachments/assets/5dd33651-133a-42bc-bd5a-5002b6253bd2" />
+
+---
