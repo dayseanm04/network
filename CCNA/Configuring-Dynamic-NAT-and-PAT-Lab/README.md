@@ -50,4 +50,9 @@ By completing this lab, you will be able to:
 
 ---
 
+### 🧩 Task 4 – Verify PAT Operation
+- Ping **google.com** from **PC1, PC2, and PC3**
+- Confirm that all devices now have internet access
+- Examine the NAT translation table to observe port-based translations
 
+---
