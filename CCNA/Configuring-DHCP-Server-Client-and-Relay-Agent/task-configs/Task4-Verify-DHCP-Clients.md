@@ -22,15 +22,23 @@ Use the CLI on **PC1** and **PC2** to force each PC to request an IP address fro
 | PC2 | `192.168.2.0/24` | `192.168.2.1` | `8.8.8.8` |
 
 
-### On PC1
+### On PC1 🖥
 
 **Open Command Prompt on PC1**
+
+```bash
+ipconfig /renew
+```
 
 <img width="665" height="251" alt="PC1-IP-CONFIG-RENEW" src="https://github.com/user-attachments/assets/f40a2b32-1789-4450-b17c-36498901b4c4" />
 
 
+### On PC2 🖥
 
+**Open Command Prompt on PC1**
 
+```bash
+ipconfig /renew
+```
 
-
-
+<img width="751" height="311" alt="PC2-IP-CONFIG-RENEW" src="https://github.com/user-attachments/assets/a69d6582-542c-4788-abd2-83428816b802" />
