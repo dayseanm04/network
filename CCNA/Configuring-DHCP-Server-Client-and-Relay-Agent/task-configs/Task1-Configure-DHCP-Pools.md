@@ -7,6 +7,7 @@ Configure **three DHCP pools** on **R2** so it can assign IP addresses to multip
 
 <img width="645" height="285" alt="Topology" src="https://github.com/user-attachments/assets/21f639d4-6d6f-4952-9de3-d255df077e99" />
 
+---
 
 ### I will configure:
 - ✅ **POOL1** for `192.168.1.0/24` (reserve `.1`–`.10`)
@@ -154,7 +155,7 @@ ip dhcp pool POOL3
 network 203.0.113.0 255.255.255.252
 ```
 
-## Verify DHCP Pool
+## ✅ Verify DHCP Pool
 
 ```bash
 show ip dhcp pool
@@ -167,4 +168,3 @@ show ip dhcp pool
 ```bash
 write memory
 ```
-
