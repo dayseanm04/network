@@ -134,9 +134,9 @@ exit
 
 ---
 
-# 🧩 Configure POOL3 (203.0.113.0/30)
+## 🧩 Configure POOL3 (203.0.113.0/30)
 
-### 1️⃣ Exclude Reserved Addresse for POOL3
+### 1️⃣ Exclude Reserved Address for POOL3
 
 ```bash
 ip dhcp excluded-address 203.0.113.1
