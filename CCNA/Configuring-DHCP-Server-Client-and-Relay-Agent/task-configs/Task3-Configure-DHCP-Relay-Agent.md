@@ -34,18 +34,23 @@ ip helper-address 203.0.113.1
 
 **Note: ✅ This forwards DHCP requests from the R1 G0/1 side to R2.**
 
+
+
+## 🔍 Verification 
+
+### On R1
+
+```bash
+show running-config | section GigabitEthernet0/1
+```
+
+**Expected Output:**
+
+<img width="568" height="120" alt="T3-show-run-config" src="https://github.com/user-attachments/assets/8e3336be-9d92-44ec-b1a1-132c7015e298" />
+
 ### 4️⃣ Exit and Save (Recommended)
 
 ```bash
 end
 write memory
 ```
-
-
-
-
-
-
-
-
-
