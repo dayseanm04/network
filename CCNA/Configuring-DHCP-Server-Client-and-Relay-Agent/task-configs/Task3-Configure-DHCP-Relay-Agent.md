@@ -51,6 +51,5 @@ show running-config | section GigabitEthernet0/1
 ### 4️⃣ Exit and Save (Recommended)
 
 ```bash
-end
 write memory
 ```
