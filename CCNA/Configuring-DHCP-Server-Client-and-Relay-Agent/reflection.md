@@ -28,3 +28,16 @@
 
 ---
 
+## 🧪 Testing & Verification
+- I used:
+  - `ipconfig /renew` on PCs to request DHCP addresses
+  - `ipconfig /all` to verify DHCP settings
+  - `show ip dhcp binding` on R2 to view the DHCP binding
+- I verified that:
+  - PC1 and PC2 received IP addresses **outside the excluded ranges**
+  - Each PC received the **correct default gateway and DNS server**
+  - R1 successfully received an IP address via DHCP on its G0/0 interface
+
+---
+
+
