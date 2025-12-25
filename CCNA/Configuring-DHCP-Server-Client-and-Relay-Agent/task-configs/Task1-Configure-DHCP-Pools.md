@@ -154,8 +154,17 @@ ip dhcp pool POOL3
 network 203.0.113.0 255.255.255.252
 ```
 
+## Verify DHCP Pool
+
+```bash
+show ip dhcp pool
+```
+
+<img width="970" height="693" alt="T1-show-dhcp-pool" src="https://github.com/user-attachments/assets/0836eae1-88da-4a3f-9c83-c4eca4d16c29" />
+
 ### 4️⃣ Save the Configuration
 
 ```bash
 write memory
 ```
+
