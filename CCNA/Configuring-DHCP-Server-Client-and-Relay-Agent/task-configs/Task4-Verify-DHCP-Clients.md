@@ -67,9 +67,15 @@ ipconfig /all
 <img width="968" height="433" alt="PC2-ipconfig-all" src="https://github.com/user-attachments/assets/a46a30b7-2314-4c1e-8503-6a29f2a7415f" />
 
 
+## 🔍 Verify on R2
 
+### 3️⃣ Check DHCP Bindings
 
+```bash
+show ip dhcp binding
+```
 
+<img width="806" height="138" alt="T4-show-R2-dhcp-binding" src="https://github.com/user-attachments/assets/d3bbd7df-7c04-4374-b060-e6706cfc3e1b" />
 
 
 
