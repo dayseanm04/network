@@ -26,6 +26,8 @@ Use the CLI on **PC1** and **PC2** to force each PC to request an IP address fro
 
 **Open Command Prompt on PC1**
 
+### 1️⃣ Request a DHCP Address (Renew)
+
 ```bash
 ipconfig /renew
 ```
@@ -37,8 +39,37 @@ ipconfig /renew
 
 **Open Command Prompt on PC1**
 
+### 1️⃣ Request a DHCP Address (Renew)
+
 ```bash
 ipconfig /renew
 ```
 
 <img width="751" height="311" alt="PC2-IP-CONFIG-RENEW" src="https://github.com/user-attachments/assets/a69d6582-542c-4788-abd2-83428816b802" />
+
+---
+
+### 2️⃣ Verify PC1 Settings
+
+```bash
+ipconfig /all
+```
+
+<img width="932" height="434" alt="PC1-ipconfig-all" src="https://github.com/user-attachments/assets/7679eb4a-b334-464b-b08d-769945e79d57" />
+
+
+### 2️⃣ Verify PC2 Settings
+
+```bash
+ipconfig /all
+```
+
+<img width="968" height="433" alt="PC2-ipconfig-all" src="https://github.com/user-attachments/assets/a46a30b7-2314-4c1e-8503-6a29f2a7415f" />
+
+
+
+
+
+
+
+
