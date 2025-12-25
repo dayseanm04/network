@@ -40,6 +40,18 @@ ip address dhcp
 
 ## 🔍 Verify the IP Address on R1
 
+On **R1**, verify the address assigned to G0/0:
+
+```bash
+show ip interface brief
+```
+
+**Expected Output✅:**
+
+<img width="822" height="138" alt="T2-show-int-brief" src="https://github.com/user-attachments/assets/6780f5cb-fb55-4439-867f-ad201e5c40ed" />
+
+---
+
 On **R2**, verify the address assigned to G0/0:
 
 ```bash
@@ -49,8 +61,3 @@ show ip dhcp binding
 **Expected Output✅:**
 
 <img width="765" height="96" alt="T2-R2-DHCP-binding" src="https://github.com/user-attachments/assets/487d52ef-57ff-4f0d-aa54-362203f34635" />
-
-
-
-
-
