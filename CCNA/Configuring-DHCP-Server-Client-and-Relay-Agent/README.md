@@ -11,3 +11,13 @@ This setup reflects real-world enterprise networks where centralized DHCP server
 
 ---
 
+## 🎯 Lab Objectives
+By completing this lab, you will be able to:
+
+- ✅ Configure multiple **DHCP pools** on a router
+- ✅ Exclude reserved IP addresses from DHCP assignment
+- ✅ Configure a router interface as a **DHCP client** and a **DHCP Server**
+- ✅ Configure a router as a **DHCP relay agent**
+- ✅ Verify DHCP address assignment from end devices
+
+---
