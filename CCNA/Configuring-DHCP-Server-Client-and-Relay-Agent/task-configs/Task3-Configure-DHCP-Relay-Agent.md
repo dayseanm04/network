@@ -34,6 +34,14 @@ ip helper-address 203.0.113.1
 
 **Note: ✅ This forwards DHCP requests from the R1 G0/1 side to R2.**
 
+### 4️⃣ Exit and Save (Recommended)
+
+```bash
+end
+write memory
+```
+
+
 
 
 
