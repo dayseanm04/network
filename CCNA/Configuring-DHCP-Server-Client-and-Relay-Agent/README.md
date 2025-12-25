@@ -64,3 +64,11 @@ Configure the following DHCP pools:
 - Make the PCs request an IP address from the DHCP server
 - Verify assigned IP address, subnet mask, default gateway, and DNS server
 
+
+---
+
+## ✍️ Author Information
+
+**Name:** *Daysean Mensah*  
+**Course/Program:** *Cisco CCNA Studies*  
+**Lab completion date:** December 25 2025.
