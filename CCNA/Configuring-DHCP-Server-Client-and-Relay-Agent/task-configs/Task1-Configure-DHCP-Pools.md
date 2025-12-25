@@ -1,7 +1,7 @@
 # 📡 Task 1 – Configure DHCP Pools on R2
 
 ## 🎯 Goal
-Configure **three DHCP pools** on **R2** so it can assign IP addresses to multiple networks, while reserving specific addresses that should NOT be handed out by DHCP. :contentReference[oaicite:0]{index=0}
+Configure **three DHCP pools** on **R2** so it can assign IP addresses to multiple networks, while reserving specific addresses that should NOT be handed out by DHCP.
 
 ## Topology For Reference
 
