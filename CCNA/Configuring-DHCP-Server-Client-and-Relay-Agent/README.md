@@ -21,3 +21,29 @@ By completing this lab, you will be able to:
 - ✅ Verify DHCP address assignment from end devices
 
 ---
+
+## 🧪 Lab Tasks
+
+### 🧩 Task 1 – Configure DHCP Pools on R2
+Configure the following DHCP pools:
+
+#### 🔹 POOL1 – **192.168.1.0/24**
+- Reserve IPs: **.1** to **.10**
+- DNS Server: **8.8.8.8**
+- Domain Name: **jeremysitlab.com**
+- Default Gateway: **R1**
+
+#### 🔹 POOL2 – **192.168.2.0/24**
+- Reserve IPs: **.1** to **.10**
+- DNS Server: **8.8.8.8**
+- Domain Name: **jeremysitlab.com**
+- Default Gateway: **R2**
+
+#### 🔹 POOL3 – **203.0.113.0/30**
+- Reserve IP: **.1**
+- Used for R1 R2 point to point
+
+---
+
+
+
