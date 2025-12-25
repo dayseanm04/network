@@ -40,4 +40,8 @@
 
 ---
 
-
+## 🌐 Real-World Importance
+- This lab reflects real enterprise networks where:
+  - DHCP servers are centralized
+  - Multiple subnets depend on relay agents
+  - Routers dynamically receive addresses from service providers
