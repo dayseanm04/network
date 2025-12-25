@@ -132,25 +132,30 @@ default-router 192.168.2.1
 exit
 ```
 
+---
 
+# 🧩 Configure POOL3 (203.0.113.0/30)
 
+### 1️⃣ Exclude Reserved Addresse for POOL3
 
+```bash
+ip dhcp excluded-address 203.0.113.1
+```
 
+### 2️⃣ Create the DHCP Pool (POOL3)
 
+```bash
+ip dhcp pool POOL3
+```
 
+### 3️⃣ Set the Network for POOL2
 
+```bash
+network 203.0.113.0 255.255.255.252
+```
 
+### 4️⃣ Save the Configuration
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+```bash
+write memory
+```
