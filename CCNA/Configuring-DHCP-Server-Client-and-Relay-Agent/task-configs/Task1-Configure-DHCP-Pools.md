@@ -93,6 +93,44 @@ exit
 
 ---
 
+## 🧩 Configure POOL2 (192.168.2.0/24)
+
+### 1️⃣ Exclude Reserved Addresses for POOL2
+
+```bash
+ip dhcp excluded-address 192.168.2.1 192.168.2.10
+```
+
+### 2️⃣ Create the DHCP Pool (POOL2)
+
+```bash
+ip dhcp pool POOL2
+```
+
+### 3️⃣ Set the Network for POOL2
+
+```bash
+network 192.168.2.0 255.255.255.0
+```
+
+### 4️⃣ Set the Domain Name for POOL2
+
+```bash
+domain-name jeremysitlab.com
+```
+
+### 5️⃣ Set the DNS Server for POOL1
+
+```bash
+dns-server 8.8.8.8
+```
+
+### 6️⃣ Set the Default Gateway for POOL1 (R1)
+
+```bash
+default-router 192.168.2.1
+exit
+```
 
 
 
