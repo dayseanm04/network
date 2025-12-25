@@ -45,5 +45,22 @@ Configure the following DHCP pools:
 
 ---
 
+### 🧩 Task 2 – Configure R1 as a DHCP Client
+- Configure **R1 G0/0** to obtain its IP address dynamically via DHCP
 
+📌 *This shows that routers can function as DHCP clients.*
+
+---
+
+### 🧩 Task 3 – Configure R1 as a DHCP Relay Agent
+- Configure **R1** to forward DHCP requests for the `192.168.1.0/24` subnet
+
+📌 *This allows clients on different networks to obtain IP addresses from a centralized DHCP server.*
+
+---
+
+### 🧩 Task 4 – Verify DHCP Client Operation
+- Use the CLI on **PC1** and **PC2**
+- Make the PCs request an IP address from the DHCP server
+- Verify assigned IP address, subnet mask, default gateway, and DNS server
 
