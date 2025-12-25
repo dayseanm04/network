@@ -12,3 +12,15 @@ Configure **three DHCP pools** on **R2** so it can assign IP addresses to multip
 - ✅ **POOL1** for `192.168.1.0/24` (reserve `.1`–`.10`)
 - ✅ **POOL2** for `192.168.2.0/24` (reserve `.1`–`.10`)
 - ✅ **POOL3** for `203.0.113.0/30` (reserve `.1`)
+
+## 🗺️ DHCP Pool Requirements
+
+### ✅ POOL1 – `192.168.1.0/24`
+| Setting | Value |
+|--------|------|
+| Excluded Range | `192.168.1.1` → `192.168.1.10` |
+| DNS | `8.8.8.8` |
+| Domain | `jeremysitlab.com` |
+| Default Gateway | `192.168.1.1` (R1) |
+
+---
