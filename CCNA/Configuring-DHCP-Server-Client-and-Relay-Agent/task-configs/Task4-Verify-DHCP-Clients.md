@@ -14,12 +14,19 @@ Use the CLI on **PC1** and **PC2** to force each PC to request an IP address fro
 
 ---
 
+## 🗺️ Expected output
+
+| PC | Subnet | Expected Default Gateway | Expected DNS |
+|----|--------|--------------------------|--------------|
+| PC1 | `192.168.1.0/24` | `192.168.1.1` | `8.8.8.8` |
+| PC2 | `192.168.2.0/24` | `192.168.2.1` | `8.8.8.8` |
 
 
+### On PC1
 
+**Open Command Prompt on PC1**
 
-
-
+<img width="665" height="251" alt="PC1-IP-CONFIG-RENEW" src="https://github.com/user-attachments/assets/f40a2b32-1789-4450-b17c-36498901b4c4" />
 
 
 
