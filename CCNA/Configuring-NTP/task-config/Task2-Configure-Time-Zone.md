@@ -25,15 +25,15 @@ configure terminal
 clock timezone EST -5
 ```
 
-**ℹ️ Adjust the time zone name and UTC offset if you are in a different region. This lab example I used New york EST (UTC -5)**
+**ℹ️ Adjust the time zone name and UTC offset if you are in a different region. In this lab I used New york EST (UTC -5)**
 
 ### 3️⃣ Verify the Time Zone Configuration (All Routers)
 
-```bash
-show clock
-```
+**On R1 show clock**
 
+**Expected output✅:**
 
+<img width="455" height="80" alt="T2-R1-show-clock" src="https://github.com/user-attachments/assets/e4429ad3-475e-4431-9dae-783d8f0a14fc" />
 
 
 
