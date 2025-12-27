@@ -108,5 +108,17 @@ show clock
 
 <img width="754" height="84" alt="T4-R3-R1-sync" src="https://github.com/user-attachments/assets/33987efc-5f13-4888-81cb-58b30d32e78f" />
 
+### 🔟 Verify the Time Source is NTP (R2 and R3)
 
+**On R2: do show clock detail**
+
+**Expected output✅:**
+
+<img width="443" height="96" alt="T4-R2-show-clock-deatil" src="https://github.com/user-attachments/assets/4248d68f-d027-4db1-98cf-1c5576b1cea7" />
+
+**On R3: do show clock detail**
+
+**Expected output✅:**
+
+<img width="390" height="94" alt="T4-R3-show-clock-deatil" src="https://github.com/user-attachments/assets/10497132-7672-474f-ae0c-9e4dfafa19bb" />
 
