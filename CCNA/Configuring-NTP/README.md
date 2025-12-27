@@ -12,3 +12,13 @@ This lab covers **manual clock configuration**, **time zones**, **external NTP s
 <img width="648" height="256" alt="topology" src="https://github.com/user-attachments/assets/e30bc4fe-1d0b-480f-82fd-509165d35916" />
 
 ---
+
+## 🎯 Objectives
+- Configure and verify system clocks on multiple routers  
+- Apply correct time zone settings  
+- Synchronize a router with an external NTP server  
+- Configure an internal NTP master with authentication  
+- Ensure routers update their hardware calendars using NTP  
+
+---
+
