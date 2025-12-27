@@ -32,14 +32,19 @@ clock set 12:00:00 30 Dec 2020
 
 **On R1 show clock**
 
-**Expectedd output✅:**
+**Expected output✅:**
 
 <img width="466" height="77" alt="T1-R1-show-clock" src="https://github.com/user-attachments/assets/0585851c-c10f-4b1c-a2df-ccf8bd0b9a9e" />
 
 
+**On R2 show clock**
 
+**Expected output✅:**
 
+<img width="423" height="80" alt="T1-R2-show-clock" src="https://github.com/user-attachments/assets/b39686e3-7f40-473a-a509-43f25f37854c" />
 
+**On R3 show clock**
 
+**Expected output✅:**
 
-
+<img width="472" height="81" alt="T1-R3-show-clock" src="https://github.com/user-attachments/assets/690637b5-3c9c-44fa-b781-51bf89d369ed" />
