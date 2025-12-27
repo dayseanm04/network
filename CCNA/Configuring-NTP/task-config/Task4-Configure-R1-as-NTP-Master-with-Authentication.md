@@ -40,6 +40,9 @@ configure terminal
 ntp master
 ```
 
+**Note: the default stratum is 8!**
+
+
 ## 🟩 Part B - Configure NTP Authentication (R1, R2, R3)
 
 ### 4️⃣ Enable NTP Authentication + Create Key (R1)
