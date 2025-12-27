@@ -43,12 +43,18 @@ do show ntp associations
 <img width="1001" height="134" alt="T3-R1-show-ntp-associations" src="https://github.com/user-attachments/assets/b8981797-d55b-4e31-a45c-413fe243438f" />
 
 
+### ✅ Confirm that:
+- 1.1.1.1 appears as an NTP server
+- The association state shows synchronization
 
+### 5️⃣ Verify NTP Status and Stratum (R1)
 
+```bash
+do show ntp status
+```
 
+**Expected output✅:**
 
-
-
-
+<img width="740" height="204" alt="T3-R1-show-nt-status" src="https://github.com/user-attachments/assets/64c9c6d5-c87c-4d3d-a456-254fa749e6fd" />
 
 
