@@ -18,7 +18,7 @@ Because Packet Tracer does **not support `ntp source`**, use **R1’s physical i
 
 ---
 
-## 🧩 Configure
+## 🧩 Configure R1, R2, and R3
 
 ### 1️⃣ Enter Privileged EXEC Mode (All Routers)
 
@@ -26,5 +26,27 @@ Because Packet Tracer does **not support `ntp source`**, use **R1’s physical i
 enable
 ```
 
+## 🟦 Part A - Configure R1 as Stratum 8 NTP Master
 
+### 2️⃣ Enter Global Configuration Mode (R1)
+
+```bash
+configure terminal
+```
+
+### 3️⃣ Configure R1 as an NTP Master (Stratum 8)
+
+```
+ntp master
+```
+
+## 🟩 Part B - Configure NTP Authentication (R1, R2, R3)
+
+```bash
+ntp authenticate
+ntp authentication-key 1 md5 ccnalab
+ntp trusted-key 1
+```
+
+**Note: 🔐 The key number and password must match on all routers**
 
