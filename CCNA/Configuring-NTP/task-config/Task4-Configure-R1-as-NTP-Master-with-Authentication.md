@@ -122,3 +122,14 @@ show clock
 
 <img width="390" height="94" alt="T4-R3-show-clock-deatil" src="https://github.com/user-attachments/assets/10497132-7672-474f-ae0c-9e4dfafa19bb" />
 
+## 🗓️ Task 5 - Update Hardware Calendar
+
+### 1️⃣ Configure NTP to Update the Hardware Calendar
+
+**On R1, R2, and R3 (global config):**
+
+```bash
+ntp update-calendar
+```
+
+**Note: ⚠️ Packet Tracer limitation: you can’t view the hardware calendar, but you can still configure this command**
