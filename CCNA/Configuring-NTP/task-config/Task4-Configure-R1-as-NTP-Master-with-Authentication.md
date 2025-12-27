@@ -74,5 +74,13 @@ ntp server 192.168.12.1 key 1
 - ⏩ NTP may take time to form associations and synchronize.
 
 
+### 8️⃣ Verify NTP Associations (R2 and R3)
+
+**On R2 do show ntp associations**
+
+**Expected output✅:**
+
+<img width="1002" height="150" alt="T4-T3-show-ntp-associations" src="https://github.com/user-attachments/assets/d868f488-02ce-4f22-9db6-d3e48a95efe7" />
+
 
 
