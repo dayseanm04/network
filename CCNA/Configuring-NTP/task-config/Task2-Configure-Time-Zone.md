@@ -1,4 +1,4 @@
-# 🌎 Task 2 — Configure Time Zone
+# 🌎 Task 2 - Configure Time Zone
 
 ## 🎯 Goal
 Configure the **time zone** on **R1, R2, and R3** so the router clocks reflect the **local time zone** instead of UTC. In this case EST.  
@@ -9,4 +9,32 @@ This ensures logs and timestamps match real-world time.
 <img width="648" height="256" alt="topology" src="https://github.com/user-attachments/assets/e30bc4fe-1d0b-480f-82fd-509165d35916" />
 
 ---
+
+## 🧩Configure R1, R2, and R3
+
+### 1️⃣ Enter Configuration Mode (All Routers)
+
+```bash
+enable
+configure terminal
+```
+
+### 2️⃣ Configure the Time Zone (All Routers)
+
+```bash
+clock timezone EST -5
+```
+
+**ℹ️ Adjust the time zone name and UTC offset if you are in a different region. This lab example I used New york EST (UTC -5)**
+
+### 3️⃣ Verify the Time Zone Configuration (All Routers)
+
+```bash
+show clock
+```
+
+
+
+
+
 
