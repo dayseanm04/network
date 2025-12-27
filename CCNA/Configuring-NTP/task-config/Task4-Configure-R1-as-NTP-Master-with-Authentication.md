@@ -62,11 +62,17 @@ ntp trusted-key 1
 
 ## 🟨 Part C - Point R2 and R3 to R1 Using Physical Interface IPs
 
-### 6️⃣ Configure R2 to Use R1 as NTP Server (Use R1 Physical IPs)
+### 6️⃣ Configure R2 and R3 to Use R1 as NTP Server (Use R1 Physical IPs)
 
 ```bash
 ntp server 192.168.13.1 key 1
 ntp server 192.168.12.1 key 1
 ```
+
+### 7️⃣ Allow Time for Synchronization
+- In Packet Tracer, fast-forward time so NTP can sync.
+- ⏩ NTP may take time to form associations and synchronize.
+
+
 
 
