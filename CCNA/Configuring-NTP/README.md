@@ -22,3 +22,19 @@ This lab covers **manual clock configuration**, **time zones**, **external NTP s
 
 ---
 
+## 📋 Lab Tasks
+
+### 🕒 Task 1: Configure Software Clock (UTC)
+- Manually set the **software clock** on **R1, R2, and R3**
+- Date & Time: **12:00:00 Dec 30 2020 (UTC)**
+- Verify clock configuration on all routers
+
+---
+
+### 🌎 Task 2: Configure Time Zone (EST)
+- Configure the **time zone** on **R1, R2, and R3**
+- Time zone must match the **local system time**
+- Verify updated time display
+
+
+
