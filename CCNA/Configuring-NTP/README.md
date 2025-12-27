@@ -1,4 +1,11 @@
+# ⏱️ Configuring NTP (Network Time Protocol)
 
+## 📌 Lab Overview
+In this lab, I configured **Network Time Protocol (NTP)** to ensure consistent and accurate time synchronization across multiple routers.  
+
+Accurate time is critical for **logs, troubleshooting, authentication, and security auditing** in real-world networks.
+
+This lab covers **manual clock configuration**, **time zones**, **external NTP servers**, **NTP master configuration**, **authentication**, and **hardware calendar updates** using Cisco Packet Tracer.
 
 ## Topology For Refernece
 
