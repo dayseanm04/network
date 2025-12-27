@@ -10,5 +10,5 @@ Repository           Description
 ## 🛠️ Getting Started
 To explore the content, simply navigate to the repository link above!
 
-For **GNS3** : Head over to the GNS3 repository for GNS3 related files & folders. <br>
 For **CCNA** : Head over to the CCNA repository for CCNA my labs and studies .
+For **GNS3** : Head over to the GNS3 repository for GNS3 related files & folders. <br>
