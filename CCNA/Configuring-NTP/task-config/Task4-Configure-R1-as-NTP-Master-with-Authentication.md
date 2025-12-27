@@ -97,7 +97,16 @@ ntp server 192.168.12.1 key 1
 show clock
 ```
 
+**Expected output✅:**
+
 <img width="696" height="82" alt="T4-R2-R1-sync" src="https://github.com/user-attachments/assets/ace30d66-2df2-4e20-9c4e-cca48ac4da80" />
+
+
+**On R1 and R3, compare:**
+
+**Expected output✅:**
+
+<img width="754" height="84" alt="T4-R3-R1-sync" src="https://github.com/user-attachments/assets/33987efc-5f13-4888-81cb-58b30d32e78f" />
 
 
 
