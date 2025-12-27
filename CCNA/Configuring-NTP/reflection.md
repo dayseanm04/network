@@ -21,4 +21,16 @@ Finally, I configured **R1 as an internal NTP master (Stratum 8)** and securely 
 
 ---
 
+## 🧩 Key Takeaways
+- Accurate time synchronization is critical for **logging, troubleshooting, and security**  
+- Lower stratum numbers indicate **closer proximity to authoritative time sources**  
+- Internal NTP servers are useful when Internet access is limited or restricted or down
+- Authentication is an important best practice when deploying internal NTP services  
+- Packet Tracer limitations require practical workarounds, such as using **physical interface IPs** instead of the `ntp source` command  
 
+---
+
+## 🚧 Challenges & Notes
+- NTP synchronization did not occur instantly and required **fast-forwarding simulation time**
+- The **hardware calendar cannot be viewed** in Packet Tracer, even though it can be configured
+- Understanding stratum relationships helped clarify how NTP selects the best time source
