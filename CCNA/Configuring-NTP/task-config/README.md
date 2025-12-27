@@ -7,10 +7,10 @@
 
 | Task | File Name | Description |
 |-----|----------|-------------|
-| ⏰ **Task 1** | [`Task1-Configure-Software-Clock.md`](Task1-Configure-Software-Clock.md) | Configure the software clock on R1, R2, and R3 to **12:00:00 Dec 30 2020 (UTC)** and verify the time |
-| 🌎 **Task 2** | [`Task2-Configure-Time-Zone.md`](Task2-Configure-Time-Zone.md) | Configure the local **time zone** on all routers and verify the clock reflects local time |
-| 🌐 **Task 3** | [`Task3-Configure-External-NTP.md`](Task3-Configure-External-NTP.md) | Configure **R1 as an NTP client** using the Internet NTP server **1.1.1.1** and verify stratum levels |
-| 🔐 **Task 4 & 5** | [`Task4-Configure-R1-as-NTP-Master-with-Authentication.md`](Task4-Configure-R1-as-NTP-Master-with-Authentication.md) | Configure **R1 as a Stratum 8 NTP master**, synchronize **R2/R3 with authentication**, and update the hardware calendar |
+| ⏰ **Task 1** | [**Task1-Configure-Software-Clock.md**](Task1-Configure-Software-Clock.md) | Configure the software clock on R1, R2, and R3 to **12:00:00 Dec 30 2020 (UTC)** and verify the time |
+| 🌎 **Task 2** | [**Task2-Configure-Time-Zone.md**](Task2-Configure-Time-Zone.md) | Configure the local **time zone** on all routers and verify the clock reflects local time |
+| 🌐 **Task 3** | [**Task3-Configure-External-NTP.md**](Task3-Configure-External-NTP.md) | Configure **R1 as an NTP client** using the Internet NTP server **1.1.1.1** and verify stratum levels |
+| 🔐 **Task 4 & 5** | [**Task4-Configure-R1-as-NTP-Master-with-Authentication.md**](Task4-Configure-R1-as-NTP-Master-with-Authentication.md) | Configure **R1 as a Stratum 8 NTP master**, synchronize **R2/R3 with authentication**, and update the hardware calendar |
 
 ---
 
