@@ -28,7 +28,7 @@ enable
 
 ## 🟦 Part A - Configure R1 as Stratum 8 NTP Master
 
-### 2️⃣ Enter Global Configuration Mode (R1)
+### 2️⃣ Enter Global Configuration Mode (R1, R2, and R3)
 
 ```bash
 configure terminal
@@ -42,6 +42,16 @@ ntp master
 
 ## 🟩 Part B - Configure NTP Authentication (R1, R2, R3)
 
+### 4️⃣ Enable NTP Authentication + Create Key (R1)
+
+```bash
+ntp authenticate
+ntp authentication-key 1 md5 ccnalab
+ntp trusted-key 1
+```
+
+### 5️⃣ Enable NTP Authentication + Create Key (R2 and R3)
+
 ```bash
 ntp authenticate
 ntp authentication-key 1 md5 ccnalab
@@ -49,4 +59,14 @@ ntp trusted-key 1
 ```
 
 **Note: 🔐 The key number and password must match on all routers**
+
+## 🟨 Part C - Point R2 and R3 to R1 Using Physical Interface IPs
+
+### 6️⃣ Configure R2 to Use R1 as NTP Server (Use R1 Physical IPs)
+
+```bash
+ntp server 192.168.13.1 key 1
+ntp server 192.168.12.1 key 1
+```
+
 
