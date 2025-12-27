@@ -82,5 +82,22 @@ ntp server 192.168.12.1 key 1
 
 <img width="1002" height="150" alt="T4-T3-show-ntp-associations" src="https://github.com/user-attachments/assets/d868f488-02ce-4f22-9db6-d3e48a95efe7" />
 
+**On R3 do show ntp associations**
+
+**Expected output✅:**
+
+<img width="994" height="152" alt="T4-R3-show-ntp-ass" src="https://github.com/user-attachments/assets/d0a3d544-d40d-40a4-8575-8d55b0f5ea31" />
+
+
+### 9️⃣ Verify Clocks Match (R1 vs R2/R3)
+
+**On R1 and R2, compare:**
+
+```bash
+show clock
+```
+
+<img width="696" height="82" alt="T4-R2-R1-sync" src="https://github.com/user-attachments/assets/ace30d66-2df2-4e20-9c4e-cca48ac4da80" />
+
 
 
