@@ -1,4 +1,4 @@
-# ⏰ Task 1 — Configure Software Clock (UTC)
+# ⏰ Task 1 - Configure Software Clock (UTC)
 
 ## 🎯 Goal
 Configure the **software clock** on **R1, R2, and R3** to:
