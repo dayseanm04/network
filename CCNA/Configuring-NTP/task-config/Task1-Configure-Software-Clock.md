@@ -14,7 +14,7 @@ Configure the **software clock** on **R1, R2, and R3** to:
 
 ---
 
-## 🧩 Configure R1
+## 🧩 Configure R1, R2 abd R3
 
 ### 1️⃣ Enter Privileged EXEC Mode (All Routers)
 
