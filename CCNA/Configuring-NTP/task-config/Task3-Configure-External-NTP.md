@@ -32,3 +32,23 @@ ntp server 1.1.1.1
 - In Packet Tracer, fast-forward the simulation time to allow synchronization to occur.
 - ⏩ NTP synchronization does not happen instantly in Packet Tracer.
 
+### 4️⃣ Verify NTP Associations (R1)
+
+```bash
+do show ntp associations
+```
+
+**Expected output✅:**
+
+<img width="1001" height="134" alt="T3-R1-show-ntp-associations" src="https://github.com/user-attachments/assets/b8981797-d55b-4e31-a45c-413fe243438f" />
+
+
+
+
+
+
+
+
+
+
+
