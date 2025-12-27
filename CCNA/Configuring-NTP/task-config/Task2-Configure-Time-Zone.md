@@ -35,6 +35,17 @@ clock timezone EST -5
 
 <img width="455" height="80" alt="T2-R1-show-clock" src="https://github.com/user-attachments/assets/e4429ad3-475e-4431-9dae-783d8f0a14fc" />
 
+**On R2 show clock**
 
+**Expected output✅:**
+
+<img width="443" height="81" alt="T2-R2-show-clock" src="https://github.com/user-attachments/assets/7c034fb5-b765-4307-9086-79b52d32e737" />
+
+
+**On R3 show clock**
+
+**Expected output✅:**
+
+<img width="455" height="82" alt="T2-R3-show-clock" src="https://github.com/user-attachments/assets/c906753d-f7d5-441a-95b2-7ffd29a85158" />
 
 
