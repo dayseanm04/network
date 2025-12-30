@@ -27,6 +27,7 @@ By completing this lab, you will be able to:
 ## 🧪 Lab Tasks
 
 ### 🧩 Task 1 – Configure a Default Route on R1
+
 - Configure a **default route** so R1 can reach the Internet
 - This allows DNS queries and external traffic to leave the network
 
@@ -35,9 +36,33 @@ By completing this lab, you will be able to:
 ---
 
 ### 🧩 Task 2 – Configure DNS on PCs
+
 - Configure **PC1, PC2, and PC3** to use **1.1.1.1** as their DNS server
 - Verify DNS settings using command prompt
 
 ---
+
+
+### 🧩 Task 3 – Configure DNS on R1
+
+- Configure R1 to use **1.1.1.1** as its DNS server
+- Create **local host entries** for:
+  - R1
+  - PC1
+  - PC2
+  - PC3
+- Verify name resolution by pinging **PC1 by hostname** from R1
+
+**Note📌: This demonstrates local name resolution vs external DNS.**
+
+
+
+
+
+
+
+
+
+
 
 
