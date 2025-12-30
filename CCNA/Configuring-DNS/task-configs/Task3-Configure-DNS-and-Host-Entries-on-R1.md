@@ -25,7 +25,6 @@ enable
 configure terminal
 ```
 
---
 
 ### 2️⃣ Configure R1 to Use 1.1.1.1 as DNS Server
 
