@@ -24,7 +24,8 @@ Finally, verify name resolution by pinging **PC1 by name** from R1.
 enable
 configure terminal
 ```
----
+
+--
 
 ### 2️⃣ Configure R1 to Use 1.1.1.1 as DNS Server
 
@@ -62,18 +63,21 @@ show hosts
 
 <img width="713" height="279" alt="T3-R1-show-hosts" src="https://github.com/user-attachments/assets/0a9343b2-eab6-4b30-9435-16d2238470ca" />
 
+---
+
+### 6️⃣ Ping PC1 by Name from R1
+
+#### ♦️ On R1, ping PC1 using its hostname:
+
+```bash
+ping PC1
+```
+
+<img width="697" height="170" alt="T3-Ping-PC1" src="https://github.com/user-attachments/assets/02e38f73-ba22-487b-83c6-39a19975d00a" />
+
+The Ping was successfull
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 🧠 Key Takeaway
+- `ip host` entries let R1 resolve names **locally** (without contacting external DNS)
+- `ip name-server 1.1.1.1` allows R1 to resolve **internet domain names** when needed
