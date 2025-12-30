@@ -74,3 +74,8 @@ This response provides the IP address for youtube.com. (See Below)
 <img width="1017" height="270" alt="DNS-Answer" src="https://github.com/user-attachments/assets/b075000d-cf21-4911-875f-017b876ff2d8" />
 
 ---
+
+#### Note the Ping was successful
+
+<img width="709" height="369" alt="T4-PC1-ping" src="https://github.com/user-attachments/assets/cdd68292-0b72-40cf-9dfc-e7dbe75c5532" />
+
