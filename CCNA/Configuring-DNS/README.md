@@ -23,7 +23,6 @@ By completing this lab, you will be able to:
 
 ---
 
-
 ## 🧪 Lab Tasks
 
 ### 🧩 Task 1 – Configure a Default Route on R1
@@ -41,7 +40,6 @@ By completing this lab, you will be able to:
 - Verify DNS settings using command prompt
 
 ---
-
 
 ### 🧩 Task 3 – Configure DNS on R1
 
@@ -67,17 +65,13 @@ By completing this lab, you will be able to:
   - DNS Response
 
 
-** Note📌: This step shows the full process of hostname resolution and packet flow.**
+**Note📌: This step shows the full process of hostname resolution and packet flow.**
+
 
 ---
 
+## ✍️ Author Information
 
-
-
-
-
-
-
-
-
-
+**Name:** *Daysean Mensah*  
+**Course/Program:** *Cisco CCNA Studies*  
+**Lab completion date:** December 30 2025.
