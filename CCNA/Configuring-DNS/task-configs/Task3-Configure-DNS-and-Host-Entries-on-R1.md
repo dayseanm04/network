@@ -14,3 +14,66 @@ Finally, verify name resolution by pinging **PC1 by name** from R1.
 <img width="626" height="254" alt="Topology" src="https://github.com/user-attachments/assets/7c66d56e-4913-4f1f-97fa-fa7b65588bf3" />
 
 ---
+
+
+## ✅ Configure (R1)
+
+### 1️⃣ Enter Global Configuration Mode
+
+```bash
+enable
+configure terminal
+```
+---
+
+### 2️⃣ Configure R1 to Use 1.1.1.1 as DNS Server
+
+```bash
+ip name-server 1.1.1.1
+```
+
+### 3️⃣ Configure Local Host Entries on R1
+
+```bash
+ip host PC1 192.168.0.1
+ip host PC2 192.168.0.2
+ip host PC3 192.168.0.3
+ip host R1 192.168.0.254
+````
+
+### 4️⃣ Save the Configuration (Recommended)
+
+```bash
+end
+write memory
+```
+
+---
+
+## 🔍 Verification
+
+### 5️⃣ Verify Host Entries on R1
+
+#### ♦️ On R1, check the configured host table:
+
+```bash
+show hosts
+```
+
+<img width="713" height="279" alt="T3-R1-show-hosts" src="https://github.com/user-attachments/assets/0a9343b2-eab6-4b30-9435-16d2238470ca" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
