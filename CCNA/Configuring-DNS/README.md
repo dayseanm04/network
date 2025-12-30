@@ -55,6 +55,21 @@ By completing this lab, you will be able to:
 
 **Note📌: This demonstrates local name resolution vs external DNS.**
 
+---
+
+### 🧩 Task 4 – Analyze DNS Resolution (Simulation Mode)
+
+⚠️ **USE SIMULATION MODE**
+
+- From **PC1**, ping **youtube.com by name**
+- Observe and analyze:
+  - DNS Query
+  - DNS Response
+
+
+** Note📌: This step shows the full process of hostname resolution and packet flow.**
+
+---
 
 
 
