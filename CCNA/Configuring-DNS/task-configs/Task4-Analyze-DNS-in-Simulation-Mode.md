@@ -51,3 +51,26 @@ To make results easier to read:
 **✅ Watch what appears in the event list.**
 
 ---
+
+## 🔍 What You Should See (Packet Analysis)
+
+### 🟦 DNS Query (PC1 ➜ DNS Server)
+
+#### ✅ You should see a **DNS Query** sent first.  
+
+This is PC1 asking: *“What is the IP address for youtube.com?”* (See Below)
+
+<img width="1022" height="268" alt="DNS-Query" src="https://github.com/user-attachments/assets/c9cac704-3aba-4300-9e05-e7ceae0f3208" />
+
+
+---
+
+### 🟩 DNS Answer (DNS Server ➜ PC1)
+
+#### ✅ You should then see a **DNS Answer** sent back.  
+
+This response provides the IP address for youtube.com. (See Below)
+
+<img width="1017" height="270" alt="DNS-Answer" src="https://github.com/user-attachments/assets/b075000d-cf21-4911-875f-017b876ff2d8" />
+
+---
