@@ -22,3 +22,22 @@ By completing this lab, you will be able to:
 - ✅ Analyze DNS traffic in simulation mode
 
 ---
+
+
+## 🧪 Lab Tasks
+
+### 🧩 Task 1 – Configure a Default Route on R1
+- Configure a **default route** so R1 can reach the Internet
+- This allows DNS queries and external traffic to leave the network
+
+**Note📌: DNS resolution will not work without proper routing.**
+
+---
+
+### 🧩 Task 2 – Configure DNS on PCs
+- Configure **PC1, PC2, and PC3** to use **1.1.1.1** as their DNS server
+- Verify DNS settings using command prompt
+
+---
+
+
