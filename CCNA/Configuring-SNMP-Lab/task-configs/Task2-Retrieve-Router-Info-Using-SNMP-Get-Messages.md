@@ -74,7 +74,9 @@ Under **SNMP MIBs** click MIB Tree all the way till you reach **.system** and cl
 
 <img width="432" height="352" alt="T2" src="https://github.com/user-attachments/assets/555cd72a-81bc-45b2-bb93-39bee06176a5" />
 
+Then click Go. See bellow:
 
+<img width="689" height="210" alt="T2-5" src="https://github.com/user-attachments/assets/7cc5fbf5-17a1-4ad5-97ed-2180baf15639" />
 
 
 
