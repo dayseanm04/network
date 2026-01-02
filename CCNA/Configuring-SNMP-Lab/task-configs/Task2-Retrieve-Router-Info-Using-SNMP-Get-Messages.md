@@ -48,9 +48,10 @@ Under **SNMP MIBs** click MIB Tree all the way till you reach **.system**. See B
 
 <img width="530" height="411" alt="T2-1" src="https://github.com/user-attachments/assets/b72d4ca9-3b35-4f75-9482-709cdd536cfd" />
 
-Then click G). See bellow:
+Then click Go. See bellow:
 
 <img width="693" height="135" alt="T2-3" src="https://github.com/user-attachments/assets/bb00441f-7207-4f5e-8b22-d43c9ab4280e" />
 
+**♦️ R1 has been up for about 10 hours**
 
 
