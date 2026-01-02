@@ -27,7 +27,15 @@ In the MIB Browser settings:
 
 <img width="385" height="229" alt="T2-MIB-info" src="https://github.com/user-attachments/assets/885d26c7-2f65-4451-8b55-00d929009d37" />
 
+### 3️⃣ Select the Hostname Object (sysName)
+Locate the **sysName** object in the MIB tree. See Below
+
+<img width="406" height="436" alt="T2" src="https://github.com/user-attachments/assets/1261438c-9e1c-41e4-8a08-78fd417c00c5" />
+
+
 ### 4️⃣ Set a New Hostname
+
+Under **SNMP MIBs** click MIB Tree all the way till you reach **.system** and click **.sysUpTime**. See Below
 
 - Enter a **new hostname value** (example: `R2`)
 - Make sure the operation is set to **SET**. See below
