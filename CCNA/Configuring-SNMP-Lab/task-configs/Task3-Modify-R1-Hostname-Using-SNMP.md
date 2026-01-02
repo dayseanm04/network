@@ -46,3 +46,13 @@ See below
 
 **✅ Send the SNMP Set request**
 
+---
+
+
+## 🔍 Verification (R1)
+
+### 5️⃣ Verify Hostname Change on R1
+
+#### ♦️ On R1 show run | include hostname
+
+<img width="605" height="176" alt="T3-4" src="https://github.com/user-attachments/assets/eed3bb29-df35-4b90-963c-983f29eef4e8" />
