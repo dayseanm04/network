@@ -70,7 +70,9 @@ Then click Go. See bellow:
 
 ### 5️⃣ Use SNMP Get to Check How Many Interfaces R1 Has
 
+Under **SNMP MIBs** click MIB Tree all the way till you reach **.system** and click **.ifNumber**. See Below
 
+<img width="432" height="352" alt="T2" src="https://github.com/user-attachments/assets/555cd72a-81bc-45b2-bb93-39bee06176a5" />
 
 
 
