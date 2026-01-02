@@ -34,7 +34,18 @@ In the MIB Browser settings:
 - Set the **Write Community** to: `Cisco2`
 - Make sure the operation is **GET**
 
+<img width="385" height="229" alt="T2-MIB-info" src="https://github.com/user-attachments/assets/885d26c7-2f65-4451-8b55-00d929009d37" />
+
+
 **📌 If SNMP is set up correctly, R1 should respond to your Get requests.**
 
-
 ---
+
+### 3️⃣ Use SNMP Get to Check R1 System Uptime
+In the MIB Browser, request **sysUpTime**.
+
+Under **SNMP MIBs** click MIB Tree all the way till you reachech **.system**. See Below
+
+<img width="530" height="411" alt="T2-1" src="https://github.com/user-attachments/assets/b72d4ca9-3b35-4f75-9482-709cdd536cfd" />
+
+
