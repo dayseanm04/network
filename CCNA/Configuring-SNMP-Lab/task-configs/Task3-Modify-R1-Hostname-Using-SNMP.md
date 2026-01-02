@@ -27,3 +27,14 @@ In the MIB Browser settings:
 
 <img width="385" height="229" alt="T2-MIB-info" src="https://github.com/user-attachments/assets/885d26c7-2f65-4451-8b55-00d929009d37" />
 
+### 4️⃣ Set a New Hostname
+
+- Enter a **new hostname value** (example: `R2`)
+- Make sure the operation is set to **SET**. See below
+
+See below
+
+<img width="764" height="293" alt="T3-1" src="https://github.com/user-attachments/assets/775fe583-a705-4afb-a654-03b43a4ebf43" />
+
+
+
