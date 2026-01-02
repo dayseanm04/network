@@ -13,3 +13,20 @@
 
 <img width="333" height="135" alt="Topology" src="https://github.com/user-attachments/assets/cb46b216-b82f-4c84-8a90-aabeda8c2800" />
 
+## 🧠 What I Learned
+- **SNMP uses a manager–agent model**:
+  - The router (R1) acts as the **SNMP agent**
+  - PC1 acts as the **SNMP manager**
+- **Read-only communities** allow monitoring but prevent changes.
+- **Read/write communities** allow configuration changes.
+- SNMP Get messages can retrieve:
+  - System uptime
+  - Hostname
+  - Interface count
+  - Interface names
+  - Other device details stored in the MIB
+- SNMP Set messages can **modify device configuration remotely**, such as changing the hostname.
+
+---
+
+
