@@ -96,6 +96,9 @@ Then click Go. See bellow:
 
 ---
 
-
-
-
+### ✅Some of the other interfaces I learned about R1 using  SNMP Get messages are:
+- Interface MAC address
+- MTU
+- Speed
+- Routing information (OSPF, RIP)
+- Device software
