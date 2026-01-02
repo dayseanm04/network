@@ -66,11 +66,13 @@ Then click Go. See bellow:
 
 <img width="691" height="208" alt="T2-4" src="https://github.com/user-attachments/assets/602d2f9b-b8d0-4fc1-b2ef-5be8515c211b" />
 
+**R1 hosname is R1 🤣🤣**
+
 ---
 
 ### 5️⃣ Use SNMP Get to Check How Many Interfaces R1 Has
 
-Under **SNMP MIBs** click MIB Tree all the way till you reach **.system** and click **.ifNumber**. See Below
+Under **SNMP MIBs** click MIB Tree all the way till you reach **.interace** and click **.ifNumber**. See Below
 
 <img width="432" height="352" alt="T2" src="https://github.com/user-attachments/assets/555cd72a-81bc-45b2-bb93-39bee06176a5" />
 
@@ -78,12 +80,21 @@ Then click Go. See bellow:
 
 <img width="689" height="210" alt="T2-5" src="https://github.com/user-attachments/assets/7cc5fbf5-17a1-4ad5-97ed-2180baf15639" />
 
+**R1 has 4 interfaces**
 
+---
 
+### 6️⃣ Use SNMP Get to Identify R1’s Interfaces
 
+Under **SNMP MIBs** click MIB Tree all the way till you reach **.ifEntry** and click **.ifDescr**. See Below
 
+<img width="390" height="474" alt="T2-6" src="https://github.com/user-attachments/assets/963dcb2d-7916-4af5-aad0-cb67d92afe05" />
 
+Then click Go. See bellow:
 
+<img width="753" height="276" alt="T2-7" src="https://github.com/user-attachments/assets/f2d1bcd2-f29b-484f-94c7-a3ae4fbd9c59" />
+
+---
 
 
 
