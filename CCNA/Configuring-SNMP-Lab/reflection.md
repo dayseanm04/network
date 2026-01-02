@@ -29,4 +29,19 @@
 
 ---
 
+## 🧪 Monitoring vs Management
+- **SNMP Get**
+  - Used for monitoring and visibility
+  - Commonly used by network monitoring tools
+- **SNMP Set**
+  - Used for configuration changes
+- This lab helped me see the difference between **monitoring a device** and **managing a device**.
 
+---
+
+## 🔐 Security Awareness
+- SNMP community strings act like **passwords**.
+- Simple community names (like the one used in labs) are **not secure** in real networks.
+- In production environments:
+  - SNMP access should be restricted
+  - SNMPv3 should be used for encryption and authentication
