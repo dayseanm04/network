@@ -66,6 +66,9 @@ Then click Go. See bellow:
 
 <img width="691" height="208" alt="T2-4" src="https://github.com/user-attachments/assets/602d2f9b-b8d0-4fc1-b2ef-5be8515c211b" />
 
+---
+
+### 5️⃣ Use SNMP Get to Check How Many Interfaces R1 Has
 
 
 
