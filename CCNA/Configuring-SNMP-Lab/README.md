@@ -38,4 +38,17 @@ Using the **MIB Browser on PC1**, retrieve the following information from R1:
 
 ---
 
+### 🧩 Task 3 – Use SNMP Set Message (Management)
+- Use an **SNMP Set** message from PC1
+- Change the **hostname of R1** remotely
+- Verify the change from the router CLI
 
+📌 *This demonstrates how SNMP can be used to manage and modify devices.*
+
+---
+
+## ✍️ Author Information
+
+**Name:** *Daysean Mensah*  
+**Course/Program:** *Cisco CCNA Studies*  
+**Lab completion date:** December 31 2025.
