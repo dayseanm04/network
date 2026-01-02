@@ -38,11 +38,11 @@ Locate the **sysName** object in the MIB tree. See Below
 Under **SNMP MIBs** click MIB Tree all the way till you reach **.system** and click **.sysUpTime**. See Below
 
 - Enter a **new hostname value** (example: `R2`)
-- Make sure the operation is set to **SET**. See below
+- Make sure the operation is set to **SET**.
 
 See below
 
 <img width="764" height="293" alt="T3-1" src="https://github.com/user-attachments/assets/775fe583-a705-4afb-a654-03b43a4ebf43" />
 
-
+**✅ Send the SNMP Set request**
 
