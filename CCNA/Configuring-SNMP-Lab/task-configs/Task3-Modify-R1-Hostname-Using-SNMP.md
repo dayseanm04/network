@@ -44,7 +44,7 @@ See below
 
 <img width="764" height="293" alt="T3-1" src="https://github.com/user-attachments/assets/775fe583-a705-4afb-a654-03b43a4ebf43" />
 
-**✅ Send the SNMP Set request**
+**✅ Send the SNMP Set request. Click GO**
 
 ---
 
