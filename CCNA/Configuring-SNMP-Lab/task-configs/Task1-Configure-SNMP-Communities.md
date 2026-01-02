@@ -40,3 +40,34 @@ enable
 configure terminal
 ```
 
+### 2️⃣ Configure Read-Only SNMP Community
+
+
+```bash
+snmp-server community Cisco1 ro
+```
+
+✅ This allows SNMP **Get** messages only.
+
+
+### 3️⃣ Configure Read/Write SNMP Community
+
+```bash
+snmp-server community Cisco2 rw
+```
+
+⚠️ This allows SNMP **Set** messages (can change device settings).
+
+---
+
+### 4️⃣ Exit and Save the Configuration
+
+```bash
+end
+write memory
+```
+
+---
+
+
+
