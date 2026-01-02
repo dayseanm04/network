@@ -42,12 +42,13 @@ configure terminal
 
 ### 2️⃣ Configure Read-Only SNMP Community
 
-
 ```bash
 snmp-server community Cisco1 ro
 ```
 
-✅ This allows SNMP **Get** messages only.
+**Expected Log:✅**
+
+<img width="699" height="69" alt="T1-1-log" src="https://github.com/user-attachments/assets/2c109d90-ac6d-4846-a1d3-e511021abb41" />
 
 
 ### 3️⃣ Configure Read/Write SNMP Community
