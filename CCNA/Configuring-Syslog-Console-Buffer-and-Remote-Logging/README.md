@@ -8,3 +8,22 @@ This lab demonstrates how syslog messages behave differently depending on the co
 
 ---
 
+**Login Credentials (R1):**
+- Username: `jeremy`
+- Password: `ccna`
+- Enable Password: `ccna`
+
+---
+
+## 📋 Lab Tasks
+
+### 🖥️ Task 1 — Console Logging & Severity Levels
+- Connect to **R1’s console port** using **PC2**
+- Shut down and re-enable **G0/0**
+- Observe generated **syslog messages**
+- Identify the **severity level**
+- Enable **timestamps** for logging messages
+
+---
+
+
