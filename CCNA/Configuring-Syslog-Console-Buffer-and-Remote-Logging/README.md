@@ -50,10 +50,8 @@ This lab demonstrates how syslog messages behave differently depending on the co
 
 ---
 
+## ✍️ Author Information
 
-
-
-
-
-
-
+**Name:** *Daysean Mensah*
+**Course/Program:** *Cisco CCNA Studies*
+**Lab completion date:** January 2 2025
