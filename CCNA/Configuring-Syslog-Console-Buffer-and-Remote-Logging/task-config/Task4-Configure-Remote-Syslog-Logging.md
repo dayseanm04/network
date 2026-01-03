@@ -33,4 +33,13 @@ logging host 192.168.1.100
 logging trap debugging
 ```
 
+**Expected Log ✅:**
+
+<img width="956" height="114" alt="T4-syslog-server-log" src="https://github.com/user-attachments/assets/f072b152-e5a9-4623-80b0-c2996c51f83f" />
+
+### 4️⃣ Verify Syslog Configuration on R1
+
+```bash
+do show logging
+```
 
