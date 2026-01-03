@@ -31,3 +31,33 @@ On **PC2**:
 - Log in using the provided credentials
 
 ---
+
+### 2️⃣ Enter Privileged EXEC Mode (R1)
+
+#### ♦️ On PC2 Enter Global Configuration Mode
+
+```bash
+enable
+configure terminal
+```
+
+### 3️⃣ Shut Down Interface G0/0
+
+```bash
+interface g0/0
+shutdown
+```
+
+### 4️⃣ Re-Enable Interface G0/0
+
+```bash
+no shutdown
+exit
+```
+
+<img width="923" height="263" alt="T1-R1-logs" src="https://github.com/user-attachments/assets/96766fd4-bd21-41b0-a0af-e577ae259647" />
+
+Note there is no timestamp for the logs displayed. the interface messages generate severity level 5 (Notice) logs.
+
+
+
