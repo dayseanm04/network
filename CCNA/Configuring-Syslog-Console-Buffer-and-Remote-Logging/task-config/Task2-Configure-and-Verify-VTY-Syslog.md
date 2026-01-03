@@ -61,4 +61,16 @@ No syslog messages appear because when you connect via Telnet (VTY lines), syslo
 do terminal monitor
 ```
 
+### 4️⃣ Test Syslog Display (Shutdown / No Shutdown G0/1)
+
+Now generate syslog messages again by shutting down and re-enabling G0/1:
+
+```bash
+do terminal monitor
+```
+
+<img width="925" height="291" alt="PC1-log-display-telnet" src="https://github.com/user-attachments/assets/11a7ef60-6716-450b-a9e1-59019d2a4e50" />
+
+
+
 
