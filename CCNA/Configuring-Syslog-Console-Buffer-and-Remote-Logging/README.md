@@ -1,4 +1,4 @@
-# 📟 Configuring Syslog — Console, Buffer, and Remote Logging Lab
+# 📟 Configuring Syslog - Console, Buffer, and Remote Logging Lab
 
 ## 📌 Lab Overview
 In this lab, I configured **Syslog logging** on a Cisco router to observe how system messages are generated, categorized, and delivered to different logging destinations.  
@@ -17,7 +17,7 @@ This lab demonstrates how syslog messages behave differently depending on the co
 
 ## 📋 Lab Tasks
 
-### 🖥️ Task 1 — Console Logging & Severity Levels
+### 🖥️ Task 1 - Console Logging & Severity Levels
 - Connect to **R1’s console port** using **PC2**
 - Shut down and re-enable **G0/0**
 - Observe generated **syslog messages**
@@ -26,7 +26,7 @@ This lab demonstrates how syslog messages behave differently depending on the co
 
 ---
 
-### 🌐 Task 2 — VTY (Telnet) Logging Behavior
+### 🌐 Task 2 - VTY Logging Behavior
 - Telnet from **PC1** to **R1’s G0/0 interface**
 - Enable the unused **G0/1 interface**
 - Observe why **no syslog message appears**
@@ -37,7 +37,18 @@ This lab demonstrates how syslog messages behave differently depending on the co
 
 ---
 
+### 🧠 Task 3 - Buffered Logging
+- Enable **logging to the buffer**
+- Configure the buffer size to **8192 bytes**
 
+---
+
+### 🌍 Task 4 - Remote Syslog Server Logging
+- Configure **R1** to send logs to **SRV1**
+- Set the logging level to **debugging**
+- Verify logs are successfully received by the syslog server
+
+---
 
 
 
