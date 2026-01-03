@@ -53,10 +53,12 @@ exit
 
 <img width="748" height="238" alt="T2-P1-no-log" src="https://github.com/user-attachments/assets/34ce7a88-a472-4bd4-860d-cc0d13f42e0d" />
 
+No syslog messages appear because when you connect via Telnet (VTY lines), syslog messages are not displayed to the terminal by default. 
 
+### 3️⃣ Enable Syslog Messages to Display on the Current VTY Session
 
-
-
-
+```bash
+do terminal monitor
+```
 
 
