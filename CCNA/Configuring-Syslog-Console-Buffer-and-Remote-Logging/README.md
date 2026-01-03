@@ -26,4 +26,23 @@ This lab demonstrates how syslog messages behave differently depending on the co
 
 ---
 
+### 🌐 Task 2 — VTY (Telnet) Logging Behavior
+- Telnet from **PC1** to **R1’s G0/0 interface**
+- Enable the unused **G0/1 interface**
+- Observe why **no syslog message appears**
+- Enable logging to the **VTY lines** for the active session
+
+⚠️ *Packet Tracer note:*  
+> The `logging monitor` command is not available, but VTY logging is enabled by default.
+
+---
+
+
+
+
+
+
+
+
+
 
