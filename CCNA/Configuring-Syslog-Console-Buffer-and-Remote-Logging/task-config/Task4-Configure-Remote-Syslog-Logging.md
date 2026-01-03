@@ -45,8 +45,11 @@ do show logging
 
 <img width="777" height="194" alt="T4-verify-srv-log" src="https://github.com/user-attachments/assets/0e39d4b4-5eb0-472f-848e-c6145cbca90a" />
 
+## Check Syslog Server
 
-
+- Click SRV1
+- Go to Services
+- Click SYSLOG
 
 
 
