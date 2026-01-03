@@ -17,3 +17,20 @@ Then I will enable logging to the current VTY session using **`terminal monitor`
 - Enable password: `ccna`
 
 ---
+
+### 1️⃣ Telnet from PC1 to R1 (G0/0 IP)
+
+On **PC1**:
+1. Click **Desktop**
+2. Open **Command Prompt**
+3. Telnet to R1’s G0/0 IP address:
+
+```bash
+telnet 192.168.1.1
+```
+
+Log in with:
+- Username: jeremy
+- Password: ccna
+
+
