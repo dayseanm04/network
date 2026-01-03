@@ -1,4 +1,4 @@
-# 🌐 Task 2 — Telnet to R1 and Enable Syslog Messages on VTY (Terminal Monitor)
+# 🌐 Task 2 - Telnet to R1 and Enable Syslog Messages on VTY (Terminal Monitor)
 
 ## 🎯 Goal
 In this task, I will connect to **R1 using Telnet from PC1**, enable an unused interface to generate syslog messages, and learn why syslog messages **do not appear by default** on a Telnet/VTY session.
@@ -11,3 +11,9 @@ Then I will enable logging to the current VTY session using **`terminal monitor`
 
 ---
 
+## 🔐 Login Information (R1)
+- Username: `jeremy`
+- Password: `ccna`
+- Enable password: `ccna`
+
+---
