@@ -65,12 +65,4 @@ do terminal monitor
 
 Now generate syslog messages again by shutting down and re-enabling G0/1:
 
-```bash
-do terminal monitor
-```
-
 <img width="925" height="291" alt="PC1-log-display-telnet" src="https://github.com/user-attachments/assets/11a7ef60-6716-450b-a9e1-59019d2a4e50" />
-
-
-
-
