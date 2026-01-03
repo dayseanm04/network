@@ -28,6 +28,9 @@ On **PC2**:
 <img width="736" height="342" alt="PC2-Terminal" src="https://github.com/user-attachments/assets/8b11db92-64dc-4ffe-8afd-21454cd94d5c" />
 
 - Cick OK
+
+<img width="750" height="241" alt="T1-PC2-console-log" src="https://github.com/user-attachments/assets/c2ccbc79-6eb3-4bea-8b25-538d7ed0e177" />
+
 - Log in using the provided credentials
 
 ---
