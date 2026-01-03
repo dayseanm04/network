@@ -33,4 +33,29 @@ Log in with:
 - Username: jeremy
 - Password: ccna
 
+<img width="740" height="297" alt="T2-1" src="https://github.com/user-attachments/assets/f890cb80-4d2c-480c-aac5-7b7e4386db03" />
+
+
+### 2️⃣ Enter Privileged EXEC Mode (R1)
+
+```bash
+enable
+configure terminal
+```
+
+### 2️⃣ Enable the Unused Interface (G0/1)
+
+```bash
+interface g0/1
+no shutdown
+exit
+```
+
+
+
+
+
+
+
+
 
