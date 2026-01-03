@@ -21,3 +21,7 @@ Next, I configured **buffered logging**, allowing syslog messages to be stored l
 
 ---
 
+## 🚧 Challenges & Notes
+- Understanding why no syslog messages appeared during Telnet access helped reinforce how VTY logging works  
+- Packet Tracer limitations required careful observation of log behavior  
+- Generating interface up/down events was an effective way to test syslog functionality  
