@@ -68,5 +68,10 @@ Note there is no timestamp for the logs displayed. the interface messages genera
 service timestamps log datetime msec
 ```
 
+### 6️⃣ Verify Timestamped Syslog Messages
 
+shutdown G0/1 interface and enable it
 
+<img width="847" height="362" alt="T1-Test-timestamps-log" src="https://github.com/user-attachments/assets/c2cababb-ef37-4d0a-9550-c83690eb1f22" />
+
+The timestamps are now displayed!
