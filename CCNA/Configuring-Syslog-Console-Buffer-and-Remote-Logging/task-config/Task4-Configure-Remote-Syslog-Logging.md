@@ -51,6 +51,7 @@ do show logging
 - Go to Services
 - Click SYSLOG
 
+<img width="963" height="192" alt="T-3-4-syslog-SRV" src="https://github.com/user-attachments/assets/0057dcfa-0dee-465f-b95c-22dac20a0a25" />
 
 
 
