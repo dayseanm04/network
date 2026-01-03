@@ -59,5 +59,11 @@ exit
 
 Note there is no timestamp for the logs displayed. the interface messages generate severity level 5 (Notice) logs.
 
+### 5️⃣ Enable Timestamps for Syslog Messages
+
+```bash
+service timestamps log datetime msec
+```
+
 
 
