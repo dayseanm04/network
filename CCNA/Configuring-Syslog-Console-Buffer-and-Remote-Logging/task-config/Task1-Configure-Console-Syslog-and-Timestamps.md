@@ -11,3 +11,23 @@ This task demonstrates how **console logging works by default** on Cisco routers
 
 ---
 
+## 🔐 Login Information (R1)
+- Username: `jeremy`
+- Password: `ccna`
+- Enable password: `ccna`
+
+---
+
+## 🧩 Step-by-Step Instructions
+
+### 1️⃣ Connect to R1 via Console (PC2)
+On **PC2**:
+- Open **Desktop**
+- Click **Terminal**
+
+<img width="736" height="342" alt="PC2-Terminal" src="https://github.com/user-attachments/assets/8b11db92-64dc-4ffe-8afd-21454cd94d5c" />
+
+- Cick OK
+- Log in using the provided credentials
+
+---
