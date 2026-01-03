@@ -11,3 +11,26 @@ This simulates a real enterprise setup where logs are centralized on a server fo
 
 ---
 
+## 🧩 Configure R1 or From PC1 or PC2
+
+### 1️⃣ Enter Global Configuration Mode
+On **R1**:
+
+```bash
+enable
+configure terminal
+```
+
+### 2️⃣ Configure the Remote Syslog Server (SRV1)
+
+```bash
+logging host 192.168.1.100
+```
+
+### 3️⃣ Set the Syslog Trap Level to Debugging
+
+```bash
+logging trap debugging
+```
+
+
