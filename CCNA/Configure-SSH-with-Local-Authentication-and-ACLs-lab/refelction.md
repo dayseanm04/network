@@ -20,3 +20,15 @@ After the basic setup, I secured **console access** by requiring **local authent
 - Why SSH is preferred over Telnet in production networks  
 - How ACLs add an extra layer of protection by **restricting management access to specific hosts**  
 
+## 🧩 Key Takeaways
+- Console access is critical for **first-time device configuration**  
+- SSH requires both a **domain name** and **RSA key generation** to function  
+- Local authentication ensures management access is **user-based and auditable**  
+- Combining SSH with ACLs significantly improves network device security  
+
+---
+
+## 🚧 Challenges & Notes
+- SSH would not function until RSA keys were generated  
+- ACLs must be carefully applied to avoid locking out legitimate access  
+- Testing from both authorized and unauthorized devices helped confirm correct configuration
