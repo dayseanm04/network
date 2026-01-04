@@ -46,6 +46,15 @@ crypto key generate rsa
 
 **When prompted, enter: 2048**
 
+**📢 Check SSH**
+
+```bash
+do show ip ssh
+```
+
+<img width="785" height="101" alt="SW2-view-SSH" src="https://github.com/user-attachments/assets/92b531a9-c199-4b12-bd1d-b39bd12af3b7" />
+
+
 ## 🧱 Part B 🧱 Part B - Create ACL to Allow ONLY PC1 Create ACL to Allow ONLY PC1
 
 ### 4️⃣ Create a Standard ACL Permitting PC1 Only\
