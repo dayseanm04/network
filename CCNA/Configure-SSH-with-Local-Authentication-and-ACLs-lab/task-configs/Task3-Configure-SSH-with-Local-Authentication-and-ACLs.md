@@ -109,5 +109,12 @@ do write memory
 
 <img width="632" height="314" alt="PC1-SSH-login" src="https://github.com/user-attachments/assets/6c4a4765-4ebe-4ca0-85da-82836642df2a" />
 
+✅ PC1 sucessfuly SSH into SW2
 
+### 9️⃣ Test SSH Access from PC1 (Should Fail because of the ACL)
 
+On R2, **ssh -l jeremy 192.168.1.253**
+
+<img width="549" height="116" alt="R2-SSH-failedd" src="https://github.com/user-attachments/assets/f8be9761-36d3-4d22-9887-db15f17448b1" />
+
+✅ R2 failed SSH into SW2 because of the ACL I configure earlier
