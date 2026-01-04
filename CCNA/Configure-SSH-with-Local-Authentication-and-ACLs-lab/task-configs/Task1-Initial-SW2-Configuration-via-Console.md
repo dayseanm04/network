@@ -30,6 +30,52 @@ SW2 is newly added and not configured yet. In this task, I will use **Laptop1 co
 
 ---
 
-### 2️⃣ Enter Privileged EXEC Mode
+### 2️⃣ Enter Global Configuration Mode
+
 ```bash
 enable
+configure terminal
+```
+
+### 3️⃣ Set the Hostname
+
+```bash
+hostname SW2
+```
+
+### 4️⃣ Configure the Enable Secret
+
+```bash
+enable secret ccna
+```
+
+### 5️⃣ Create a Local User Account
+
+```bash
+username jeremy secret ccna
+```
+
+### 6️⃣ Configure the VLAN 1 SVI (Management IP)
+
+```bash
+interface vlan 1
+ip address 192.168.2.253 255.255.255.0
+no shutdown
+exit
+```
+
+### 7️⃣ Configure the Default Gateway
+
+```bash
+ip default-gateway 192.168.2.254
+```
+
+### 8️⃣ Save Config
+
+```bash
+end
+write
+```
+
+
+
