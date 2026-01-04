@@ -87,15 +87,6 @@ write
 
 <img width="551" height="80" alt="verifiy-ip" src="https://github.com/user-attachments/assets/9523209a-d1f8-4f5d-aaaf-ea9eb17d93a2" />
 
+#### 🔶 show run | section Vlan
 
-
-
-
-
-
-
-
-
-
-
-
+<img width="477" height="84" alt="verifiy-svi" src="https://github.com/user-attachments/assets/5316b630-38af-4416-98b5-25aab609d50f" />
