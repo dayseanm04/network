@@ -30,4 +30,44 @@ configure terminal
 
 **Note 📢: laptop is consoled into SW2**
 
+## 🌐 Part A - Enable SSH (Domain + RSA Keys)
+
+### 2️⃣ Configure the Domain Name
+
+```bash
+ip domain-name jeremysitlab.com
+```
+
+### 3️⃣ Generate RSA Keys (2048-bit)
+
+```bash
+crypto key generate rsa
+```
+
+**When prompted, enter: 2048**
+
+## 🧱 Part B 🧱 Part B - Create ACL to Allow ONLY PC1 Create ACL to Allow ONLY PC1
+
+### 4️⃣ Create a Standard ACL Permitting PC1 Only\
+
+```bash
+access-list 1 permit host 192.168.1.1
+```
+
+## 🧰 Part C - Configure VTY Lines for SSH + Local Login + ACL
+
+### 5️⃣ Configure VTY Lines (0–15)
+
+```bash
+line vty 0 15
+```
+
+### 6️⃣ Enable Local Authentication + Timeout
+
+```bash
+login local
+exec-timeout 5
+```
+
+
 
