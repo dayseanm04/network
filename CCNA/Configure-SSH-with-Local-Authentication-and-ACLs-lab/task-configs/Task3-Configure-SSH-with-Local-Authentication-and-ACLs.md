@@ -69,5 +69,14 @@ login local
 exec-timeout 5
 ```
 
+### 7️⃣ Allow SSH Only (Disable Telnet)
 
+```bash
+transport input ssh
+```
 
+### 8️⃣ Apply ACL to Limit SSH to PC1 Only
+
+```bash
+access-class 1 in
+```
