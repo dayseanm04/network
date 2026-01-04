@@ -22,6 +22,8 @@ enable
 configure terminal
 ```
 
+**Note 📢: laptop is consoled into SW2**
+
 ### 2️⃣ Configure Console Line (Line Console 0)
 
 ```bash
