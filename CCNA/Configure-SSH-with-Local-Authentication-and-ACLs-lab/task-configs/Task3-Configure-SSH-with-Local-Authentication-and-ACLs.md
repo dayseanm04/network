@@ -16,3 +16,17 @@ Configure **SW2** for secure remote management using **SSH only** with:
 ---
 
 
+## 🧩 Step-by-Step Config
+
+### 1️⃣ Enter Global config Mode
+
+On **Laptop**:
+
+```bash
+enable
+configure terminal
+```
+
+**Note 📢: laptop is consoled into SW2**
+
+
