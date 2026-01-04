@@ -23,7 +23,7 @@ This configuration reflects real-world best practices for **secure device manage
 
 ## 📋 Lab Tasks
 
-### 🖥️ Task 1 — Initial Switch Configuration (Console)
+### 🖥️ Task 1 - Initial Switch Configuration (Console)
 - Connect **Laptop1** to **SW2’s console port**
 - Configure:
   - Hostname
@@ -33,3 +33,12 @@ This configuration reflects real-world best practices for **secure device manage
   - Default gateway
 
 ---
+
+### 🔒 Task 2 - Secure Console Access
+- Configure **console line security** on SW2
+- Enable **local authentication**
+- Set an **exec timeout of 5 minutes**
+
+---
+
+
