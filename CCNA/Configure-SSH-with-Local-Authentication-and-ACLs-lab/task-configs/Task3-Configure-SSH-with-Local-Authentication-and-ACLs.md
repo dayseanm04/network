@@ -80,3 +80,16 @@ transport input ssh
 ```bash
 access-class 1 in
 ```
+
+### Save
+
+```bash
+do write memory
+```
+
+## ✅ Verification
+
+
+### 9️⃣ 
+
+
