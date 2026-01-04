@@ -10,5 +10,26 @@ This configuration reflects real-world best practices for **secure device manage
 
 <img width="545" height="224" alt="topology" src="https://github.com/user-attachments/assets/ae47e659-6807-4ae7-9c97-e89aa8e4ebba" />
 
+---
+
+## 🎯 Objectives
+- Perform initial switch configuration using the **console**
+- Secure console access with **local authentication**
+- Configure **SSH remote access** with RSA encryption
+- Restrict SSH access using an **ACL**
+- Verify that only authorized hosts can manage the switch
+
+---
+
+## 📋 Lab Tasks
+
+### 🖥️ Task 1 — Initial Switch Configuration (Console)
+- Connect **Laptop1** to **SW2’s console port**
+- Configure:
+  - Hostname
+  - Enable secret
+  - Local user account
+  - VLAN 1 SVI IP address
+  - Default gateway
 
 ---
