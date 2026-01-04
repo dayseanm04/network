@@ -6,5 +6,5 @@ This folder contains the Packet Tracer files for Configure DNS Lab. It includes 
 
 ## Navigation 🗂️
 
-- **Configuring_SNMP_Lab_blank.pkt** – A blank Packet Tracer file to perform the lab exercises yourself ✏️  
-- **Configuring_SNMP_Lab_completed.pkt** – Completed Packet Tracer file with all configurations applied. (Use it for verification)  ✅  
+- **Configure-SSH-with-Local-Authentication-and-ACLs-blank.pkt** – A blank Packet Tracer file to perform the lab exercises yourself ✏️  
+- **Configure-SSH-with-Local-Authentication-and-ACLs-completed.pkt** – Completed Packet Tracer file with all configurations applied. (Use it for verification)  ✅  
