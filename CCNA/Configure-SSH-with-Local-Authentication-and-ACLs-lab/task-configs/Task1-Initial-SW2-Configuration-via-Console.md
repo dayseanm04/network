@@ -77,5 +77,23 @@ end
 write
 ```
 
+## Verification
+
+#### 🔶 show run | include secrete
+
+<img width="583" height="97" alt="verifiy-user-secret" src="https://github.com/user-attachments/assets/6707ebff-56fe-438b-9177-3afa16f7cad8" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
