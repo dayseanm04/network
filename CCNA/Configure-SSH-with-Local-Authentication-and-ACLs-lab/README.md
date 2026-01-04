@@ -41,4 +41,16 @@ This configuration reflects real-world best practices for **secure device manage
 
 ---
 
+### 🌐 Task 3 - Secure Remote Access with SSH + ACLs
+- Configure **SSH** on SW2 with:
+  - Domain name
+  - RSA keys (2048-bit)
+  - Local user authentication
+  - SSH-only access (no Telnet)
+- Create and apply an **ACL** to restrict SSH access to **PC1 only**
+- Verify successful SSH access from PC1 and denied access from other devices
+
+---
+
+
 
