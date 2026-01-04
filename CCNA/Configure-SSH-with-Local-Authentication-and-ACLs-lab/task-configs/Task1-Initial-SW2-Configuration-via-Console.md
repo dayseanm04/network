@@ -83,7 +83,9 @@ write
 
 <img width="583" height="97" alt="verifiy-user-secret" src="https://github.com/user-attachments/assets/6707ebff-56fe-438b-9177-3afa16f7cad8" />
 
+#### 🔶 show run | include 192
 
+<img width="551" height="80" alt="verifiy-ip" src="https://github.com/user-attachments/assets/9523209a-d1f8-4f5d-aaaf-ea9eb17d93a2" />
 
 
 
