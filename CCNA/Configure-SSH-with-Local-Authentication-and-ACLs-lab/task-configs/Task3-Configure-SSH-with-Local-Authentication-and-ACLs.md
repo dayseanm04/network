@@ -90,6 +90,15 @@ do write memory
 ## ✅ Verification
 
 
-### 9️⃣ 
+### 9️⃣ Test SSH Access from PC1 (Should Work)
+
+- Click on PC1
+- Click on Desktop
+- Click on Command Prompt
+- **ssh -l jeremy 192.168.2.253**
+- Enter password: **ccna**
+
+<img width="632" height="314" alt="PC1-SSH-login" src="https://github.com/user-attachments/assets/6c4a4765-4ebe-4ca0-85da-82836642df2a" />
+
 
 
