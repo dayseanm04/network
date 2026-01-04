@@ -12,4 +12,11 @@ After the basic setup, I secured **console access** by requiring **local authent
 
 ---
 
+## 📘 What I Learned
+- How to perform **initial switch configuration** using console access  
+- Why local user accounts are required before enabling **secure management access**  
+- How console line security protects devices from unauthorized physical access  
+- How SSH uses **encryption and RSA keys** to secure remote management sessions  
+- Why SSH is preferred over Telnet in production networks  
+- How ACLs add an extra layer of protection by **restricting management access to specific hosts**  
 
