@@ -52,5 +52,8 @@ This configuration reflects real-world best practices for **secure device manage
 
 ---
 
+## ✍️ Author Information
 
-
+**Name:** *Daysean Mensah*  
+**Course/Program:** *Cisco CCNA Studies*  
+**Lab completion date:** january 3 2025.
