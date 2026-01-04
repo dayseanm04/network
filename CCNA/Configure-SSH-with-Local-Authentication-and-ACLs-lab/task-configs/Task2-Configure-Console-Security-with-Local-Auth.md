@@ -11,3 +11,41 @@ This prevents unauthorized access and reduces the risk of someone leaving an act
 
 ---
 
+## 🧩 Step-by-Step Config
+
+### 1️⃣ Enter Global Configuration Mode
+
+On **Laptop1**:
+
+```bash
+enable
+configure terminal
+```
+
+### 2️⃣ Configure Console Line (Line Console 0)
+
+```bash
+line console 0
+```
+
+### 3️⃣ Enable Local Authentication
+
+```bash
+login local
+```
+
+### 4️⃣ Set Exec Timeout to 5 Minutes
+
+```bash
+exec-timeout 5
+```
+
+### 5️⃣ Exit and Save
+
+```bash
+end
+write memory
+```
+
+
+
