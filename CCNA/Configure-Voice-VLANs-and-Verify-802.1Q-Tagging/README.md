@@ -12,3 +12,13 @@ A **Voice VLAN** is configured on access switch ports so that:
 Packet Tracer **Simulation Mode** is used to visually verify this behavior.
 
 ---
+
+## 🧪 Lab Tasks Overview
+
+### 🛠️ Task 1 - Configure Access Ports for Data and Voice VLANs
+- Assign **data VLAN** and **voice VLAN** to switch access ports
+- IP phones connect to the switch, with PCs connected through the phones
+- The switch informs the phones which VLAN to use for voice traffic
+
+---
+
