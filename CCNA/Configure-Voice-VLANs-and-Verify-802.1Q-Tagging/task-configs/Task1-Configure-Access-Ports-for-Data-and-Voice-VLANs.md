@@ -62,7 +62,12 @@ interface range g1/0/2 - 3
 ### 3️⃣ Configure the Interfaces as Access Ports
 
 ```bash
-switchport access vlan 10
+switchport mode access
 ```
 
+### 4️⃣ Assign the Data VLAN
+
+```bash
+switchport access vlan 10
+```
 
