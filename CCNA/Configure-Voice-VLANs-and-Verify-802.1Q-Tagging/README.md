@@ -41,3 +41,17 @@ Packet Tracer **Simulation Mode** is used to visually verify this behavior.
 ➡️ No - data traffic sent to PCs is **not tagged**
 
 ---
+
+### 📞 Task 4 – Verify Voice Traffic (Phone to Phone)
+
+- Use **Simulation Mode**
+- Place a call from **PH1 to PH2**
+- Inspect the outbound frame details
+
+❓ **Is the traffic VLAN-tagged?**
+
+➡️ Yes - voice traffic is **tagged with 802.1Q (Voice VLAN)**
+
+
+---
+
