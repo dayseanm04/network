@@ -61,3 +61,11 @@ On **PH1**:
 
 ---
 
+### 4️⃣ Inspect the Frame Details
+- Click **Outbound PDU Details**
+- Look for **Dot1Q / 802.1Q tagging**
+
+<img width="997" height="320" alt="T4-PDU2" src="https://github.com/user-attachments/assets/56088e1a-00d8-4f26-b5c1-9591ce8d286e" />
+
+
+---
