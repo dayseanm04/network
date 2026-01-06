@@ -85,6 +85,17 @@ no shutdown
 exit
 ```
 
+### 3️⃣ Create Subinterface for Data VLAN 10
+
+```bash
+interface f0/0.10
+encapsulation dot1q 10
+ip address 192.168.10.1 255.255.255.0
+exit
+```
+
+
+
 
 
 
