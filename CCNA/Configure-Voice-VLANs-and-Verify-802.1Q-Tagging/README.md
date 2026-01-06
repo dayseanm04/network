@@ -52,6 +52,10 @@ Packet Tracer **Simulation Mode** is used to visually verify this behavior.
 
 ➡️ Yes - voice traffic is **tagged with 802.1Q (Voice VLAN)**
 
-
 ---
 
+## ✍️ Author Information
+
+**Name:** *Daysean Mensah*  
+**Course/Program:** *Cisco CCNA Studies*  
+**Lab completion date:** january 6 2026.
