@@ -96,3 +96,11 @@ Note that the TCI is **0x0014** 0014 is hexidecimal which is 20 in binary. Voice
 ### ❓ Is the traffic tagged with a VLAN ID?
 
 **✅ Yes**  voice traffic is **802.1Q tagged** and should show **VLAN 20**.
+
+---
+
+## 💡 Why This Happens
+
+- PCs connected to access ports typically receive **untagged** frames
+- IP phones use a **Voice VLAN**, so the switch expects/handles **tagged voice frames**
+- This keeps **voice traffic separated** from normal data traffic
