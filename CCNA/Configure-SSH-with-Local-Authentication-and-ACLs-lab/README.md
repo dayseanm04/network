@@ -56,4 +56,4 @@ This configuration reflects real-world best practices for **secure device manage
 
 **Name:** *Daysean Mensah*  
 **Course/Program:** *Cisco CCNA Studies*  
-**Lab completion date:** january 3 2025.
+**Lab completion date:** january 3 2026.
