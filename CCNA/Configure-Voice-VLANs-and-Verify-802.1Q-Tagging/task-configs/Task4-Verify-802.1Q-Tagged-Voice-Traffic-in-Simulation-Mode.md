@@ -62,6 +62,7 @@ On **PH1**:
 ---
 
 ### 4️⃣ Inspect the Frame Details
+
 - Click **Outbound PDU Details**
 - Look for **Dot1Q / 802.1Q tagging**
 
@@ -69,5 +70,29 @@ On **PH1**:
 
 <img width="997" height="320" alt="T4-PDU2" src="https://github.com/user-attachments/assets/56088e1a-00d8-4f26-b5c1-9591ce8d286e" />
 
+---
+
+
+## ✅ What to Look For
+
+### 🔍 Confirm VLAN Tagging
+
+In the details, verify you see indicators like:
+
+- **Dot1Q**
+- **802.1Q tag**
+
+**✅ Expected result:**
+
+- The voice traffic is **tagged**
+- The tag shows it belongs to **Voice VLAN 20**
+
+Note that the TCI is **0x0014** 0014 is hexidecimal which is 20 in binary. Voice VLAN in 20
 
 ---
+
+## 📝 Answer
+
+### ❓ Is the traffic tagged with a VLAN ID?
+
+**✅ Yes**  voice traffic is **802.1Q tagged** and should show **VLAN 20**.
