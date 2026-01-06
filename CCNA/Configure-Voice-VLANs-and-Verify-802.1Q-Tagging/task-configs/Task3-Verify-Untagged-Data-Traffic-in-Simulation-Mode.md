@@ -39,6 +39,7 @@ Even though PCs are in **VLAN 10**, switches typically send **data frames untagg
 First ping PC2 from PC1 for the ARP process to complete
 
 ### 1️⃣ Switch to Simulation Mode
+
 - At the bottom right, click **Simulation** (instead of Realtime)
 
 ---
@@ -56,5 +57,11 @@ ping 192.168.10.12
 ### 3️⃣ Inspect the First Frame
 - In the event list, click the first ICMP frame
 - Click Outbound PDU Details
+
+<img width="931" height="260" alt="T3-PDU" src="https://github.com/user-attachments/assets/1ecc5bb6-fa2c-4f29-aeac-834fb75ecda6" />
+
+Note: these no tpid 0x8100 whihc refers to 802.1Q VLAN tagging
+
+
 
 
