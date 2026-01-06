@@ -60,8 +60,10 @@ ping 192.168.10.12
 
 <img width="931" height="260" alt="T3-PDU" src="https://github.com/user-attachments/assets/1ecc5bb6-fa2c-4f29-aeac-834fb75ecda6" />
 
-Note: these no tpid 0x8100 whihc refers to 802.1Q VLAN tagging
+Note: There no tpid 0x8100 whihc refers to 802.1Q VLAN tagging
 
+## 📝 Answer
 
+### ❓ Is the traffic tagged with a VLAN ID?
 
-
+#### ✅ No- PC data traffic on an access port is not tagged.
