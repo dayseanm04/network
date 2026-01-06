@@ -28,3 +28,11 @@ I also reinforced my understanding of **Router-on-a-Stick**, where:
 
 ---
 
+---
+
+## 🚀 Why This Matters in Real Networks
+
+In enterprise environments like **hospitals, offices, and campuses**, voice and data traffic often share the same infrastructure. This lab shows how networks:
+- Reduce cabling costs
+- Maintain traffic separation
+- Prioritize and protect voice communications
