@@ -22,3 +22,14 @@ Packet Tracer **Simulation Mode** is used to visually verify this behavior.
 
 ---
 
+### 🔀 Task 2 – Configure Router-on-a-Stick (ROAS)
+
+- Configure the switch-to-router link as a **trunk**
+- Create router **subinterfaces** for:
+  - Data VLAN
+  - Voice VLAN
+- Enable inter-VLAN routing
+
+
+---
+
