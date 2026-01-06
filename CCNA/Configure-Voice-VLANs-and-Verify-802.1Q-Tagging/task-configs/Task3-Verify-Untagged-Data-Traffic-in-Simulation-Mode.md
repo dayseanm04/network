@@ -52,3 +52,9 @@ On **PC1**:
 ```bash
 ping 192.168.10.12
 ```
+
+### 3️⃣ Inspect the First Frame
+- In the event list, click the first ICMP frame
+- Click Outbound PDU Details
+
+
