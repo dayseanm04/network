@@ -104,8 +104,21 @@ exit
 ```
 
 
+## ✅ Verify ROAS on R1
+
+```bash
+show ip int brief
+```
+
+<img width="845" height="155" alt="T2-Verify-sub-int" src="https://github.com/user-attachments/assets/383a32c9-60c4-4e40-a0bd-0f221e43ba4c" />
 
 
+### 5️⃣ Exit + Save 
+
+```bash
+end
+write memory
+```
 
 
 
