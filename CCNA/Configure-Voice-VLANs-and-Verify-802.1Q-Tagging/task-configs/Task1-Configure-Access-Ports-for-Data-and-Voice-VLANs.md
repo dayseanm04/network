@@ -71,3 +71,16 @@ switchport mode access
 switchport access vlan 10
 ```
 
+### 5️⃣ Assign the Voice VLAN
+
+```bash
+switchport access vlan 20
+```
+
+### 6️⃣ Exit Interface Configuration
+
+```bash
+exit
+```
+
+
