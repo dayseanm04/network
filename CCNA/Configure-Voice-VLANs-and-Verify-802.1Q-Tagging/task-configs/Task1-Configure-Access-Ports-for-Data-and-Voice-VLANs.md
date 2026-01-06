@@ -33,3 +33,36 @@ This allows a **PC and an IP phone to share the same physical switch port** whil
 
 ---
 
+## 🔌 Interface Connections
+
+| Switch Interface | Connected Device |
+|-----------------|------------------|
+| G1/0/2 | IP Phone (PH1) → PC1 |
+| G1/0/3 | IP Phone (PH2) → PC2 |
+
+📌 The PC is connected **through** the IP phone.
+
+---
+
+## ⚙️ Configuration Steps
+
+### 1️⃣ Enter Global Configuration Mode
+
+```bash
+enable
+configure terminal
+```
+
+### 2️⃣ Select the Access Interfaces
+
+```bash
+interface range g1/0/2 - 3
+```
+
+### 3️⃣ Configure the Interfaces as Access Ports
+
+```bash
+switchport access vlan 10
+```
+
+
