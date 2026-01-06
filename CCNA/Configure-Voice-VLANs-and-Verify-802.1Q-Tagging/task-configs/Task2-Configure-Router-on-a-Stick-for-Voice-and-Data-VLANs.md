@@ -53,4 +53,24 @@ switchport mode trunk
 ```bash
 switchport trunk allowed vlan 10,20
 ```
+### 5️⃣ Exit
+
+```bash
+exit
+```
+
+## ✅ Verify Trunking on SW1
+
+```bash
+show interfaces trunk
+```
+
+
+
+
+
+
+
+
+
 
