@@ -27,3 +27,29 @@ Voice VLANs are designed so the **phone sends tagged traffic**, even though it�
 
 ---
 
+## ☎️ Phone Info
+
+| Device | Extension |
+|--------|----------|
+| PH1 | 2020 |
+| PH2 | 2010 |
+
+---
+
+## 🧪 Simulation Steps
+
+### 1️⃣ Switch to Simulation Mode
+
+- At the bottom right, click **Simulation** (instead of Realtime)
+
+---
+
+### 2️⃣ Open PH1 Dial Pad
+
+On **PH1**:
+- Click the phone
+- Go to the **GUI**
+- Dial **2010** (PH2)
+
+---
+
