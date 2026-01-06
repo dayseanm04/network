@@ -94,9 +94,14 @@ ip address 192.168.10.1 255.255.255.0
 exit
 ```
 
+### 4️⃣ Create Subinterface for Voice VLAN 20
 
-
-
+```bash
+interface f0/0.20
+encapsulation dot1q 10
+ip address 192.168.20.1 255.255.255.0
+exit
+```
 
 
 
