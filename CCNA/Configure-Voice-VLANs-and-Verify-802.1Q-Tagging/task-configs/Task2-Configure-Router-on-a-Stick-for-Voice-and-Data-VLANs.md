@@ -56,7 +56,7 @@ switchport trunk allowed vlan 10,20
 ### 5️⃣ Exit
 
 ```bash
-exit
+end
 ```
 
 ## ✅ Verify Trunking on SW1
@@ -65,6 +65,25 @@ exit
 show interfaces trunk
 ```
 
+<img width="791" height="240" alt="T2-show-interface-trunk" src="https://github.com/user-attachments/assets/f2f66c93-3bc6-445c-8b43-f78f6d570bfa" />
+
+
+## ⚙️ Part B — Configure ROAS on R1 (F0/0 Subinterfaces)
+
+### 1️⃣ Enter Global Config Mode
+
+```bash
+enable
+conf t
+```
+
+### 2️⃣ Enable the Physical Interface
+
+```bash
+interface f0/0
+no shutdown
+exit
+```
 
 
 
