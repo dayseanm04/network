@@ -14,3 +14,22 @@ This allows a **PC and an IP phone to share the same physical switch port** whil
 
 ---
 
+## 🧠 Simple Explanation
+
+- **PC traffic** belongs to the **Data VLAN**
+- **IP phone traffic** belongs to the **Voice VLAN**
+- The switch:
+  - Sends **untagged traffic** to the PC
+  - Sends **802.1Q-tagged traffic** to the IP phone
+ 
+---
+
+## 📋 VLAN Information
+
+| VLAN Type | VLAN ID | Purpose |
+|---------|--------|--------|
+| 🖥️ Data VLAN | 10 | PC data traffic |
+| 📞 Voice VLAN | 20 | IP phone voice traffic |
+
+---
+
