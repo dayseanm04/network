@@ -22,14 +22,22 @@ Packet Tracer **Simulation Mode** is used to visually verify this behavior.
 
 ---
 
-### 🔀 Task 2 – Configure Router-on-a-Stick (ROAS)
+### 🔀 Task 2 - Configure Router-on-a-Stick (ROAS)
 
 - Configure the switch-to-router link as a **trunk**
 - Create router **subinterfaces** for:
   - Data VLAN
   - Voice VLAN
-- Enable inter-VLAN routing
-
 
 ---
 
+### 🖥️ Task 3 - Verify Data Traffic (PC to PC)
+- Use **Simulation Mode**
+- Ping **PC2 from PC1**
+- Inspect the outbound frame
+
+❓ **Is the traffic VLAN-tagged?**
+
+➡️ No - data traffic sent to PCs is **not tagged**
+
+---
