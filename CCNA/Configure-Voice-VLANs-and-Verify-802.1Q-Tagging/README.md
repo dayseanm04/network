@@ -1,5 +1,11 @@
 # 📞 Configure Voice VLANs and Verify 802.1Q Tagging
 
+## Refernece Topology
+
+<img width="657" height="253" alt="topology" src="https://github.com/user-attachments/assets/92bc0d70-5e42-4f0f-a584-a2b3f0cb7397" />
+
+---
+
 ## 📌 Summary
 
 This lab demonstrates how **voice and data traffic are separated using VLANs** and how **802.1Q tagging behaves differently** for PCs and IP phones.
