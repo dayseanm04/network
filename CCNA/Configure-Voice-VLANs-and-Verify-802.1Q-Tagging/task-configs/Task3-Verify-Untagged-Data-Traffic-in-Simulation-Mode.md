@@ -34,3 +34,21 @@ Even though PCs are in **VLAN 10**, switches typically send **data frames untagg
 | PC2 IP (example) | 192.168.10.12 |
 | Test | Ping PC2 from PC1 |
 
+## 🧪 Simulation Steps
+
+First ping PC2 from PC1 for the ARP process to complete
+
+### 1️⃣ Switch to Simulation Mode
+- At the bottom right, click **Simulation** (instead of Realtime)
+
+---
+
+### 2️⃣ Generate Data Traffic (Ping)
+
+On **PC1**:
+- Open **Desktop → Command Prompt**
+- Run:
+- 
+```bash
+ping 192.168.10.12
+```
