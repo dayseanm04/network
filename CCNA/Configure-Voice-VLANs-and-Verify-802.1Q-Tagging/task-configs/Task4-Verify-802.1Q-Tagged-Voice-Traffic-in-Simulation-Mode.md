@@ -53,3 +53,11 @@ On **PH1**:
 
 ---
 
+### 3️⃣ Watch the Packets Appear
+- You should see call signaling traffic (often **SCCP** in Packet Tracer)
+- Click the **first frame** generated for the call
+
+<img width="825" height="149" alt="T4-call-" src="https://github.com/user-attachments/assets/fe635bb5-f747-4cf0-bc4a-9b80bcc5814b" />
+
+---
+
