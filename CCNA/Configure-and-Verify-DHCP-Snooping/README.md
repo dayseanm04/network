@@ -2,8 +2,7 @@
 
 ## 📌 Summary
 
-This lab focuses on **securing DHCP operations using DHCP Snooping**.  
-DHCP Snooping helps protect the network from **rogue DHCP servers** by controlling which switch ports are allowed to send DHCP server messages.
+This lab focuses on **securing DHCP operations using DHCP Snooping**. DHCP Snooping helps protect the network from **rogue DHCP servers** by controlling which switch ports are allowed to send DHCP server messages.
 
 In this lab, I configured R1 as a **legitimate DHCP server**, i enabled DHCP Snooping on switches, and I test client behavior to observe how **trusted and untrusted ports** affect DHCP traffic.
 
@@ -34,6 +33,16 @@ By completing this lab, you will be able to:
 📌 *Purpose:* Ensure a valid and trusted DHCP server exists on the network.
 
 ---
+
+### 🔐 Task 2 – Configure DHCP Snooping and Trusted Interfaces
+- Enable DHCP Snooping on **SW1 and SW2**
+- Specify the VLAN used for DHCP Snooping
+- Configure **uplink interfaces as trusted**
+
+📌 *Purpose:* Prevent unauthorized DHCP messages from untrusted ports.
+
+---
+
 
 
 ## ✍️ Author Information
