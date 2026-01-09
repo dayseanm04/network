@@ -9,6 +9,10 @@ traffic if the configuration is not fully aligned.
 
 The lab also included troubleshooting a DHCP failure and applying a fix so the client could successfully receive an IP address again.
 
+## Topology For Reference
+
+<img width="667" height="221" alt="topology" src="https://github.com/user-attachments/assets/0437e21d-9c1c-483d-b25a-dc0aa1e8f15a" />
+
 ---
 
 ## 🎯 What I Learned
