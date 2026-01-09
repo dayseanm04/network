@@ -33,3 +33,22 @@ From PC1/PC2/PC3, ping the default gateway to generate ARP entries:
 ping 10.0.0.254
 ```
 
+### 2️⃣ Add a New Test PC (Example: Test1)
+
+- Connect Test1 to SW1 F0/1 (or any secured port)
+- Click on Config and change the MAC address to example: 0011.0011.0011
+- Cpnfigure IP
+-   IP: 10.0.0.10
+-   Mask: 255.255.255.0
+-   Gateway: 10.0.0.254
+
+### 3️⃣ Trigger the Violation
+
+On Test1, ping the gateway:
+
+```bash
+ping 10.0.0.254
+```
+
+
+
