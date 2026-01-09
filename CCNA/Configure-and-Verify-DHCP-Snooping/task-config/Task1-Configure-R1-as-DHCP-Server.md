@@ -45,6 +45,24 @@ configure terminal
 ip dhcp excluded-address 192.168.1.1 192.168.1.9
 ```
 
+### 3️⃣ Create a DHCP Pool
+
+```bash
+ip dhcp pool LAN1
+```
+
+### 4️⃣ Configure the Default Gateway
+
+```bash
+default-router 192.168.1.1
+```
+
+### 5️⃣ Exit Configuration Mode
+
+```bash
+end
+```
+
 
 
 
