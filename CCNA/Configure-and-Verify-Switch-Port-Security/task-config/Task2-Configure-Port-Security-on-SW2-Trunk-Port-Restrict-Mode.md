@@ -92,7 +92,5 @@ end
 
 ## ✅ Verification
 
-Verify port security status on SW2:
-
-
+Verify port security status on SW2: `show port-security`
 
