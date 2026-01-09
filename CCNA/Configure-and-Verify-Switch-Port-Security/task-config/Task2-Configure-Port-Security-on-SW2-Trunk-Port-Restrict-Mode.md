@@ -78,10 +78,21 @@ switchport port-security violation restrict
 switchport port-security maximum 4
 ```
 
+### 7️⃣ Enable Sticky MAC Learning
 
+```bash
+switchport port-security mac-address sticky
+```
 
+### 8️⃣ Exit Configuration Mode
 
+```bash
+end
+```
 
+## ✅ Verification
+
+Verify port security status on SW2:
 
 
 
