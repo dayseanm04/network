@@ -36,7 +36,8 @@ ping 10.0.0.254
 ### 2️⃣ Add a New Test PC (Example: Test1)
 
 - Connect Test1 to SW1 F0/1 (or any secured port)
-- Click on Config and change the MAC address to example: 0011.0011.0011
+- Click on Config
+- Select FastEthernet and change the MAC address to example: 0011.0011.0011
 - Cpnfigure IP
 -   IP: 10.0.0.10
 -   Mask: 255.255.255.0
@@ -54,6 +55,30 @@ On Test1, ping the gateway:
 ```bash
 ping 10.0.0.254
 ```
+
+## 🔎 Verify SW2 Violation
+
+```bash
+show port-security
+```
+
+<img width="744" height="136" alt="T2-SW2-show-port-sec" src="https://github.com/user-attachments/assets/04b53857-c1d4-4a47-a15b-bdb371150dbb" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
