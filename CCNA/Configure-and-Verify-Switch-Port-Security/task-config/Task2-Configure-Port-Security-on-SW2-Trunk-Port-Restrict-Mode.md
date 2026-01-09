@@ -40,3 +40,34 @@ The trunk receives MAC addresses from:
 
 ---
 
+## ⚙️ Configuration Steps
+
+### 1️⃣ Enter Global Configuration Mode
+
+```bash
+configure terminal
+```
+
+### 2️⃣ Select the Trunk Interface
+
+```bash
+interface g0/1
+```
+
+### 3️⃣ Configure the Interface as a Trunk
+
+```bash
+switchport mode trunk
+```
+
+
+
+
+
+
+
+
+
+
+
+
