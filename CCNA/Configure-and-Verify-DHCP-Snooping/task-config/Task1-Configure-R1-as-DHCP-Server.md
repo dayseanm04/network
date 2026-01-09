@@ -63,8 +63,11 @@ default-router 192.168.1.1
 end
 ```
 
+## ✅ Verification
 
+#### 🔷 show ip dhcp pool on R1
 
+<img width="811" height="258" alt="T1-show-ip-dhcp-pool" src="https://github.com/user-attachments/assets/56b0aebc-ea68-4ec6-bdb3-16fb735dad3e" />
 
 
 
