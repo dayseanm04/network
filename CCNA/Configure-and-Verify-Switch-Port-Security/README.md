@@ -62,6 +62,22 @@ Configure port security on the following interface:
 
 ---
 
+### 🚨 Task 2 – Trigger and Observe Port Security Violations
+
+In this task, port security violations are **intentionally triggered** by actions such as:
+- Connecting an additional PC
+- Changing a device’s MAC address
+- Generating traffic to exceed allowed MAC limits
+
+You will observe and compare:
+
+- 🔴 Interface shutdown behavior on **SW1**
+- ⚠️ Violation counters and restricted traffic on **SW2**
+- Differences between **shutdown** and **restrict** modes
+
+📌 *Focus:* Understanding how switches react to security violations.
+
+---
 
 
 
