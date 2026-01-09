@@ -35,6 +35,36 @@ DHCP Snooping works by:
 
 ---
 
+## ⚙️ Configuration – SW1
+
+### 1️⃣ Enter Global Config Mode
+
+```bash
+enable
+configure terminal
+```
+
+### 2️⃣ Enable DHCP Snooping
+
+```bash
+ip dhcp snooping
+```
+
+### 3️⃣ Enable DHCP Snooping on VLAN 1
+
+```bash
+ip dhcp snooping vlan 1
+```
+
+### 4️⃣ Trust the Uplink Interface (G0/2)
+
+```bash
+interface g0/2
+ip dhcp snooping trust
+```
+
+
+
 
 
 
