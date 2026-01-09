@@ -33,6 +33,7 @@ If something is wrong, the switch may **drop the DHCP traffic**, causing the cli
 ### 2️⃣ Renew the IP Address
 
 Run:
+
 ```bash
 ipconfig /renew
 ```
@@ -40,6 +41,17 @@ ipconfig /renew
 **✅Expected Output**
 
 <img width="547" height="243" alt="PC1-ipconfig-renew" src="https://github.com/user-attachments/assets/159fdbbf-5aa2-4160-afd3-7bb1650abae4" />
+
+### 2️⃣ Renew the IP Address in simulation moode:
+
+```bash
+ipconfig /renew
+```
+
+Click on the SW2 to SW1 PDU.  Look at the DHCP Client Identifier Option
+
+<img width="726" height="261" alt="option-82-frame" src="https://github.com/user-attachments/assets/67e1d6ed-a1c6-45ca-98e5-47e6654f8bc8" />
+
 
 ### ❌ The request should fail at first.
 
