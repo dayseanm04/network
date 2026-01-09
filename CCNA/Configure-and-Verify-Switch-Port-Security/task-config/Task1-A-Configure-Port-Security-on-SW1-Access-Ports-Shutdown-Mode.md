@@ -87,6 +87,22 @@ switchport port-security maximum 1
 switchport port-security aging time 60
 ```
 
+### 8️⃣ Exit Configuration Mode and Save
+
+```bash
+end
+```
+
+## ✅ Verification
+
+Check port security status on SW1: `show port-security`
+
+<img width="766" height="173" alt="T1-Verify-SW1" src="https://github.com/user-attachments/assets/e25bb3e3-c24e-4397-99a7-f17e572a8c0c" />
+
+
+
+
+
 
 
 
