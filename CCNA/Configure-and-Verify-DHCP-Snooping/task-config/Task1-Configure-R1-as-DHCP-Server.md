@@ -6,8 +6,6 @@ Configure **R1** to act as a **DHCP server** for the LAN so that clients can aut
 
 I will configure a **legitimate and trusted DHCP server**, which is required before enabling and testing **DHCP Snooping**.
 
----
-
 ## 🧠 Simple Explanation
 
 - DHCP automatically assigns IP addresses to clients
@@ -21,4 +19,16 @@ I will configure a **legitimate and trusted DHCP server**, which is required bef
 <img width="667" height="221" alt="topology" src="https://github.com/user-attachments/assets/0437e21d-9c1c-483d-b25a-dc0aa1e8f15a" />
 
 ---
+
+
+## 🌐 DHCP Network Information
+
+| Item | Value |
+|-----|------|
+| Network | 192.168.1.0 /24 |
+| Default Gateway | 192.168.1.1 |
+| Excluded Range | 192.168.1.1 – 192.168.1.9 |
+| DHCP Server | R1 |
+
+## ⚙️ Configuration Steps (R1)
 
