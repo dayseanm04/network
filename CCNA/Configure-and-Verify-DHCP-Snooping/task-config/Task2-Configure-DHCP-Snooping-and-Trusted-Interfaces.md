@@ -73,9 +73,37 @@ end
 
 #### 🔷 On SW1 show ip dhcp snooping
 
-<img width="711" height="276" alt="T2-SW2-show-dhcp-b" src="https://github.com/user-attachments/assets/dfc252e9-704f-446a-bff0-6e014fcfb548" />
+<img width="711" height="276" alt="T2-SW1-show-dhcp-b" src="https://github.com/user-attachments/assets/dfc252e9-704f-446a-bff0-6e014fcfb548" />
 
+---
 
+## ⚙️ Configuration – SW2
+
+### 1️⃣ Enter Global Config Mode
+
+```bash
+enable
+configure terminal
+```
+
+### 2️⃣ Enable DHCP Snooping
+
+```bash
+ip dhcp snooping
+```
+
+### 3️⃣ Enable DHCP Snooping on VLAN 1
+
+```bash
+ip dhcp snooping vlan 1
+```
+
+### 4️⃣ Trust the Uplink Interface (G0/1)
+
+```bash
+interface g0/1
+ip dhcp snooping trust
+```
 
 
 
