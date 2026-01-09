@@ -57,7 +57,17 @@ switchport port-security
 
 <img width="563" height="97" alt="T1-A-Log" src="https://github.com/user-attachments/assets/63a7a280-495c-4f47-b2cf-a069a2037952" />
 
+### 3️⃣ Configure Interfaces as Access Ports
 
+```bash
+switchport mode access
+```
+
+### 4️⃣ Enable Port Security
+
+```bash
+switchport port-security
+```
 
 
 
