@@ -6,5 +6,5 @@ This folder contains the Packet Tracer files for Configure port securityLab. It 
 
 ## Navigation 🗂️
 
-- **Configure-port-security-blank.pkt** – A blank Packet Tracer file to perform the lab exercises yourself ✏️  
-- **Configure-port-security-completed.pkt** – Completed Packet Tracer file with all configurations applied. (Use it for verification)  ✅  
+- **Configure-switch-port-security-completed-blank.pkt** – A blank Packet Tracer file to perform the lab exercises yourself ✏️  
+- **Configure-switch-port-security-completed.pkt** – Completed Packet Tracer file with all configurations applied. (Use it for verification)  ✅  
