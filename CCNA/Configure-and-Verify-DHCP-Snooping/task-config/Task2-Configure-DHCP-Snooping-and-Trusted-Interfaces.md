@@ -63,7 +63,11 @@ interface g0/2
 ip dhcp snooping trust
 ```
 
+### 5️⃣ Exit
 
+```bash
+end
+```
 
 
 
