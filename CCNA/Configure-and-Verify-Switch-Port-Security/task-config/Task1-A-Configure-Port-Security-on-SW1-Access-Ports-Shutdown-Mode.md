@@ -69,9 +69,23 @@ switchport mode access
 switchport port-security
 ```
 
+### 5️⃣ Set Violation Mode to Shutdown
 
+```bash
+switchport port-security violation shutdown
+```
 
+### 6️⃣ Limit Each Port to One MAC Address
 
+```bash
+switchport port-security maximum 1
+```
+
+### 7️⃣ Configure MAC Address Aging (1 Hour)
+
+```bash
+switchport port-security aging time 60
+```
 
 
 
