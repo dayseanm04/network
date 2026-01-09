@@ -26,3 +26,29 @@ By completing this lab, you will be able to:
 
 ---
 
+## 🧪 Lab Tasks Overview
+
+### 🛠️ Task 1 – Configure Port Security on Switch Interfaces
+
+#### 🔹 Task 1A – SW1 Access Ports
+Configure port security on the following **access interfaces**:
+
+- **Switch:** SW1  
+- **Interfaces:** F0/1, F0/2, F0/3  
+
+**Port Security Policy:**
+
+- 🚫 Violation Mode: **Shutdown**
+- 🔢 Maximum MAC Addresses: **1**
+- 📌 Sticky Learning: **Disabled**
+- ⏱️ Aging Time: **1 hour**
+
+📌 *Purpose:* Strictly secure access ports so any violation immediately disables the interface.
+
+---
+
+
+
+
+
+
