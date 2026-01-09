@@ -105,8 +105,8 @@ interface g0/1
 ip dhcp snooping trust
 ```
 
+### ✅ Verfiy SW2 DHCP snooping
 
+#### 🔷 On SW1 show ip dhcp snooping
 
-
-
-
+<img width="781" height="274" alt="T2-SW2-show-dhcp-b" src="https://github.com/user-attachments/assets/b3cfb2ba-2fd5-4c6b-9636-f052fb05cf29" />
