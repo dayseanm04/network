@@ -6,6 +6,14 @@ Enable **DHCP Snooping** on **SW1** and **SW2** to protect the network from **ro
 
 I will also configurr the **uplink interfaces** as **trusted** so DHCP server replies can sent by the switches.
 
+## 🧠 Simple Explanation
+
+DHCP Snooping works by:
+- ✅ Allowing DHCP server messages only on **trusted ports**
+- 🚫 Blocking DHCP server messages coming from **untrusted ports**
+
+📌 End-user access ports stay **untrusted** by default, which is what we want.
+
 ## Topology For Reference
 
 <img width="667" height="221" alt="topology" src="https://github.com/user-attachments/assets/0437e21d-9c1c-483d-b25a-dc0aa1e8f15a" />
