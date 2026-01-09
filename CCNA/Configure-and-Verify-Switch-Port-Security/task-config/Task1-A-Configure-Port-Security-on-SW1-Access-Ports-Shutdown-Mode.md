@@ -32,5 +32,41 @@ This task demonstrates how port security can **prevent unauthorized devices** fr
 
 ---
 
+## ⚙️ Configuration Steps
+
+### 1️⃣ Enter Global Configuration Mode
+
+```bash
+enable
+configure terminal
+```
+
+### 2️⃣ Select the Access Interfaces
+
+```bash
+interface range f0/1 - 3
+```
+
+### Enable Port Security
+
+```bash
+switchport port-security
+```
+
+**Expected Output:**
+
+<img width="563" height="97" alt="T1-A-Log" src="https://github.com/user-attachments/assets/63a7a280-495c-4f47-b2cf-a069a2037952" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
