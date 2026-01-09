@@ -69,6 +69,16 @@ ip dhcp snooping trust
 end
 ```
 
+### ✅ Verfiy SW1 DHCP snooping
+
+#### 🔷 On SW1 show ip dhcp snooping
+
+<img width="711" height="276" alt="T2-SW2-show-dhcp-b" src="https://github.com/user-attachments/assets/dfc252e9-704f-446a-bff0-6e014fcfb548" />
+
+
+
+
+
 
 
 
