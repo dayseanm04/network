@@ -1,6 +1,6 @@
 # Packet Tracer Files 📂🖥️
 
-This folder contains the Packet Tracer files for Configure port securityLab. It includes both a blank version for practice and a completed version for reference.
+This folder contains the Packet Tracer files for Configure port security Lab. It includes both a blank version for practice and a completed version for reference.
 
 ---
 
