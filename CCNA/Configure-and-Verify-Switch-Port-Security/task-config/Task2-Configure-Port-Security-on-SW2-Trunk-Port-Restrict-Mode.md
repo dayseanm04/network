@@ -24,3 +24,19 @@ This task demonstrates how port security behaves differently on a **trunk port**
 
 ---
 
+## 🔐 Port Security Policy (SW2 G0/1)
+
+| Setting | Value |
+|------|------|
+| Violation Mode | ⚠️ Restrict |
+| Maximum MAC Addresses | 4 |
+| Sticky MAC Learning | Enabled |
+
+📌 **Why 4 MAC addresses?**  
+
+The trunk receives MAC addresses from:
+- Multiple PCs (PC1, 2, and 3)
+- The neighboring switch
+
+---
+
