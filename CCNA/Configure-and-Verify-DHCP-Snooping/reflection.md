@@ -38,3 +38,9 @@ I also learned how important it is to test client behavior after enabling securi
 
 ---
 
+## 🏥 Why This Matters in Real Networks
+
+In real enterprise environments such as **hospitals, offices, and campuses**, DHCP Snooping is critical because it:
+
+- Protects users from incorrect or malicious IP assignments
+- Helps maintain reliable network access
