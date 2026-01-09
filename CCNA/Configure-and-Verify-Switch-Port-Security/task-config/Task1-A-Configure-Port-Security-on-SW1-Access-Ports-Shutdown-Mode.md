@@ -21,7 +21,16 @@ This task demonstrates how port security can **prevent unauthorized devices** fr
 ---
 
 
+## 🔐 Port Security Policy (SW1)
 
+| Setting | Value |
+|------|------|
+| Violation Mode | 🚫 Shutdown |
+| Maximum MAC Addresses | 1 |
+| Sticky MAC Learning | Disabled |
+| Aging Time | ⏱️ 1 hour |
+
+---
 
 
 
