@@ -12,5 +12,17 @@ Violations are intentionally triggered and observed to understand how switches r
 
 <img width="589" height="226" alt="topology" src="https://github.com/user-attachments/assets/f75f290f-5b2f-41a0-9526-3651fbaddc79" />
 
+---
+
+
+## 🎯 Lab Objectives
+
+By completing this lab, you will be able to:
+- Configure **port security** on access and trunk interfaces
+- Apply different **violation modes** (shutdown vs restrict)
+- Control the **number of allowed MAC addresses**
+- Use **sticky MAC learning**
+- Observe and verify **port security violations**
 
 ---
+
