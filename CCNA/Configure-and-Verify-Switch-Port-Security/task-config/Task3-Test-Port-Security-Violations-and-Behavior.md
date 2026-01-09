@@ -42,6 +42,11 @@ ping 10.0.0.254
 -   Mask: 255.255.255.0
 -   Gateway: 10.0.0.254
 
+## Reference Test1
+
+<img width="599" height="322" alt="T2-Test1-diagram" src="https://github.com/user-attachments/assets/dad26435-2038-4001-bed4-b689434b6010" />
+
+
 ### 3️⃣ Trigger the Violation
 
 On Test1, ping the gateway:
