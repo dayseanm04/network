@@ -60,9 +60,23 @@ interface g0/1
 switchport mode trunk
 ```
 
+### 4️⃣ Enable Port Security
 
+```bash
+switchport port-security
+```
 
+### 5️⃣ Set Violation Mode to Restrict
 
+```bash
+switchport port-security violation restrict
+```
+
+### 6️⃣ Set Maximum Allowed MAC Addresses
+
+```bash
+switchport port-security maximum 4
+```
 
 
 
