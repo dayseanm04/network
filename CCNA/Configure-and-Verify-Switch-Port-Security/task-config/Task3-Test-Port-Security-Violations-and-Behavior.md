@@ -112,21 +112,8 @@ On **SW1** an F0/1 is adminstratively down log is displayed
 
 <img width="551" height="243" alt="T2-show-ps-int" src="https://github.com/user-attachments/assets/357b97c3-4756-4799-9f1c-f217f0788deb" />
 
+### On SW1 show ip int brief
 
+<img width="822" height="119" alt="SW1-show-int-stat" src="https://github.com/user-attachments/assets/42a4fd75-2305-4d41-abed-a191e06794be" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Interface F0/1 is error disabled!
