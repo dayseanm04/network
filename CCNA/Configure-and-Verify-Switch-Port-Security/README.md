@@ -79,5 +79,8 @@ You will observe and compare:
 
 ---
 
+## ✍️ Author Information
 
-
+**Name:** *Daysean Mensah*  
+**Course/Program:** *Cisco CCNA Studies*  
+**Lab completion date:** january 8 2026.
