@@ -1,4 +1,4 @@
-# 🛠️ Task 4 – Fix-DHCP-Snooping-Option-82-Issue
+# 🛠️ Task 4 – Fix DHCP Snooping Option 82 Issue
 
 ## 📌 Objective
 Fix the DHCP Snooping issue that prevents **PC1** from receiving an IP address.
@@ -21,5 +21,18 @@ In this lab, the DHCP request fails because **Option 82** (DHCP relay informatio
 
 ---
 
+## ⚙️ Fix Configuration (Run on SW1 and SW2)
+
+### 1️⃣ Enter Global Configuration Mode
+
+```bash
+configure terminal
+```
+
+### 2️⃣ Disable the DHCP Snooping Information Option (Option 82)
+
+```bash
+no ip dhcp snooping information option
+```
 
 
