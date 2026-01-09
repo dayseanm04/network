@@ -55,6 +55,6 @@ ipconfig /renew
 
 <img width="570" height="236" alt="PC1-ipconfig-renew-good" src="https://github.com/user-attachments/assets/18cf4a16-5790-4719-b033-fb6fbcd3fabd" />
 
-
+PC1 should successfully received an IP address from the DHCP server.
 
 
