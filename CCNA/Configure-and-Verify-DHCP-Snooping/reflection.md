@@ -28,3 +28,13 @@ This lab helped me understand the purpose and behavior of **DHCP Snooping**:
 I also learned how important it is to test client behavior after enabling security features.
 
 ---
+
+## 🔍 Key Observations
+
+- Security features can break normal network functions if not properly configured
+- Client-side testing (`ipconfig /renew`) is an effective way to verify DHCP behavior
+- Switches enforce trust boundaries at **Layer 2**
+- Cisco Packet Tracer may limit some logging, but the overall behavior still demonstrates real concepts
+
+---
+
