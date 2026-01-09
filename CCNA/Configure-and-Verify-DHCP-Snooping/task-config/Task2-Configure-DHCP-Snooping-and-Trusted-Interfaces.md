@@ -20,3 +20,21 @@ DHCP Snooping works by:
 
 ---
 
+## 📋 What I Will Configure
+
+### ✅ Enable DHCP Snooping on:
+- SW1
+- SW2
+
+### ✅ Enable DHCP Snooping for:
+- VLAN 1
+
+### ✅ Trust the uplinks:
+- SW1 **G0/2** (uplink toward DHCP server side)
+- SW2 **G0/1** (uplink toward SW1)
+
+---
+
+
+
+
