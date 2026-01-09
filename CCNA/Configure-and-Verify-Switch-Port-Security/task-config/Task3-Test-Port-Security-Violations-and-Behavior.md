@@ -100,8 +100,9 @@ ping 10.0.0.254
 
 **Note:** The ping failed.
 
+On **SW1** an F0/1 is adminstratively down log is displayed
 
-
+<img width="826" height="158" alt="T2-SW1-log" src="https://github.com/user-attachments/assets/33e60776-41d3-47eb-b465-b10715961e7a" />
 
 
 
