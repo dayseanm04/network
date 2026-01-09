@@ -88,6 +88,41 @@ show port-security interface g0/1
 
 <img width="515" height="230" alt="T2-SW1-F01-down" src="https://github.com/user-attachments/assets/da9f8186-1d27-4cac-8c0a-c65d710c3097" />
 
+**Note:** The link lights turn red.
+
+On **Test1**, ping the gateway:
+
+```bash
+ping 10.0.0.254
+```
+
+<img width="680" height="371" alt="T2-Test-PC-ping-failed" src="https://github.com/user-attachments/assets/06746cd6-2ab5-4ba0-b416-b29e59a38195" />
+
+**Note:** The ping failed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
