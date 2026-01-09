@@ -13,5 +13,20 @@ By intentionally triggering violations, I was able to observe how switches detec
 
 ---
 
+## 🎯 What I Learned
 
+This lab helped me  understand how **port security protects the network** from unauthorized devices.
 
+- **Shutdown mode** immediately disables the interface when a violation occurs, placing it in an **err-disabled** state.
+- **Restrict mode** keeps the interface up but **drops unauthorized traffic** and increases the violation counter.
+- **Sticky MAC learning** allows the switch to dynamically learn and save MAC addresses without manual configuration.
+- Trunk ports can use port security, but they must allow **multiple MAC addresses** because they carry traffic from other switches.
+
+---
+
+## 🔍 Key Observations
+
+- Port security behavior depends heavily on the **violation mode** used.
+- Access ports are typically configured more **strictly** than trunk ports.
+- Packet Tracer requires **manual recovery** of err-disabled ports using `shutdown` and `no shutdown`.
+- The `show port-security` and `show port-security interface` commands are essential for verification and troubleshooting.
