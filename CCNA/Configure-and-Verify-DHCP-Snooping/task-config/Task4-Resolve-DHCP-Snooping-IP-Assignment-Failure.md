@@ -35,4 +35,26 @@ configure terminal
 no ip dhcp snooping information option
 ```
 
+### 3️⃣ Exit
+
+```bash
+end
+```
+
+## ✅ Verification
+
+### 🧪 Retest DHCP (PC1)
+
+#### 1️⃣ On PC1, Renew the IP Address Again
+
+```bash
+ipconfig /renew
+```
+
+**✅ Expected Result**
+
+<img width="570" height="236" alt="PC1-ipconfig-renew-good" src="https://github.com/user-attachments/assets/18cf4a16-5790-4719-b033-fb6fbcd3fabd" />
+
+
+
 
