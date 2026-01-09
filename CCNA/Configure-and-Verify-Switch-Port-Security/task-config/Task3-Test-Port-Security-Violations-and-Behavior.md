@@ -108,9 +108,9 @@ On **SW1** an F0/1 is adminstratively down log is displayed
 
 <img width="734" height="172" alt="T2-SW1-show-pc-after-PC1-mac-change" src="https://github.com/user-attachments/assets/7963ce00-fae7-43d0-8a9c-37ad34e8ac00" />
 
+### On SW1 show port-security interface F0/1
 
-
-
+<img width="551" height="243" alt="T2-show-ps-int" src="https://github.com/user-attachments/assets/357b97c3-4756-4799-9f1c-f217f0788deb" />
 
 
 
