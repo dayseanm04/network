@@ -32,3 +32,23 @@ I will configure a **legitimate and trusted DHCP server**, which is required bef
 
 ## ⚙️ Configuration Steps (R1)
 
+
+### 1️⃣ Enter Global Configuration Mode
+
+```bash
+configure terminal
+```
+
+## 2️⃣ Exclude Reserved IP Addresses
+
+```bash
+ip dhcp excluded-address 192.168.1.1 192.168.1.9
+```
+
+
+
+
+
+
+
+
