@@ -64,10 +64,11 @@ show port-security
 
 <img width="744" height="136" alt="T2-SW2-show-port-sec" src="https://github.com/user-attachments/assets/04b53857-c1d4-4a47-a15b-bdb371150dbb" />
 
+```bash
+show port-security interface g0/1
+```
 
-
-
-
+<img width="642" height="251" alt="T2-SW2-show-port-sec-int" src="https://github.com/user-attachments/assets/1743689e-ca78-47b2-902a-5d4d5eeff347" />
 
 
 
