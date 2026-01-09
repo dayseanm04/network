@@ -1,4 +1,26 @@
+# 🚨 Task 2 – Trigger-and-Analyze-Port-Security-Violations
+
+## 📌 Objective
+
+Intentionally trigger **port security violations** on:
+- **SW1 (Shutdown mode)** → port should go **down / err-disabled**
+- **SW2 (Restrict mode)** → port should stay **up**, but violations are **counted** and traffic is **dropped**
+
+I will observe and compare how each switch responds.
+
+## 🧠 What I am Testing (Simple)
+
+Port security can react differently depending on the **violation mode**:
+
+| Switch | Interface(s) | Violation Mode | Expected Result |
+|--------|--------------|----------------|-----------------|
+| SW1 | F0/1–F0/3 | Shutdown | Interface goes **err-disabled** |
+| SW2 | G0/1 | Restrict | Interface stays **up**, violations are **counted** |
 
 ## Topology For Reference
 
 <img width="589" height="226" alt="topology" src="https://github.com/user-attachments/assets/f75f290f-5b2f-41a0-9526-3651fbaddc79" />
+
+---
+
+
