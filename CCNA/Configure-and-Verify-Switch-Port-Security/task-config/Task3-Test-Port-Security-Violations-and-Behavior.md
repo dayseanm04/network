@@ -23,4 +23,13 @@ Port security can react differently depending on the **violation mode**:
 
 ---
 
+## 🧪 Part A – Trigger a Violation on SW1 (Shutdown Mode)
+
+### 1️⃣ Generate Normal Traffic First
+
+From PC1/PC2/PC3, ping the default gateway to generate ARP entries:
+
+```bash
+ping 10.0.0.254
+```
 
