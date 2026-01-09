@@ -19,3 +19,28 @@ If something is wrong, the switch may **drop the DHCP traffic**, causing the cli
 <img width="667" height="221" alt="topology" src="https://github.com/user-attachments/assets/0437e21d-9c1c-483d-b25a-dc0aa1e8f15a" />
 
 ---
+
+## 🧪 Steps (PC1)
+
+### 1️⃣ Open PC1 Command Prompt
+
+- Click **PC1**
+- Go to **Desktop**
+- Open **Command Prompt**
+
+---
+
+### 2️⃣ Renew the IP Address
+
+Run:
+```bash
+ipconfig /renew
+```
+
+**✅Expected Output**
+
+<img width="547" height="243" alt="PC1-ipconfig-renew" src="https://github.com/user-attachments/assets/159fdbbf-5aa2-4160-afd3-7bb1650abae4" />
+
+
+
+---
