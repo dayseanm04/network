@@ -47,7 +47,20 @@ Configure port security on the following **access interfaces**:
 
 ---
 
+#### 🔹 Task 1B – SW2 Trunk Port
+Configure port security on the following interface:
 
+- **Switch:** SW2  
+- **Interface:** G0/1  
+
+**Port Security Policy:**
+- ⚠️ Violation Mode: **Restrict**
+- 🔢 Maximum MAC Addresses: **4**
+- 📎 Sticky Learning: **Enabled**
+
+📌 *Purpose:* Allow multiple MAC addresses while logging violations without shutting down the port.
+
+---
 
 
 
