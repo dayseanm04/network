@@ -25,3 +25,19 @@ By completing this lab, you will be able to:
 ---
 
 ## 🧪 Lab Tasks Overview
+
+### 🛠️ Task 1 – Configure R1 as DHCP Server
+- Create a DHCP pool for the LAN1
+- Exclude reserved IP addresses
+- Set the default gateway
+
+📌 *Purpose:* Ensure a valid and trusted DHCP server exists on the network.
+
+---
+
+
+## ✍️ Author Information
+
+**Name:** *Daysean Mensah*  
+**Course/Program:** *Cisco CCNA Studies*  
+**Lab completion date:** january 9 2026.
