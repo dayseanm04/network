@@ -94,3 +94,5 @@ end
 
 Verify port security status on SW2: `show port-security`
 
+<img width="793" height="133" alt="T1-Verify-SW2" src="https://github.com/user-attachments/assets/00160857-b92e-4328-a68f-5b82f535c19c" />
+
