@@ -21,7 +21,6 @@ By completing this lab, you will be able to:
 - Observe DHCP failures caused by **DHCP Snooping Option 82**
 - Apply the correct fix to restore DHCP functionality
 
----
 
 ## 🧪 Lab Tasks Overview
 
@@ -43,7 +42,14 @@ By completing this lab, you will be able to:
 
 ---
 
+### 🖥️ Task 3 – Test DHCP IP Assignment from Client
+- Renew the IP address on **PC1**
+- Observe whether DHCP assignment succeeds or fails
+- Analyze switch behavior when DHCP Snooping is active
 
+📌 *Purpose:* Understand how DHCP Snooping impacts client DHCP requests.
+
+---
 
 ## ✍️ Author Information
 
