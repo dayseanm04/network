@@ -23,7 +23,7 @@ Port security can react differently depending on the **violation mode**:
 
 ---
 
-## 🧪 Part A – Trigger a Violation on SW1 (Shutdown Mode)
+## 🧪 Part A – Trigger a Violation on SW2 (Restrict Mode)
 
 ### 1️⃣ Generate Normal Traffic First
 
@@ -70,13 +70,23 @@ show port-security interface g0/1
 
 <img width="642" height="251" alt="T2-SW2-show-port-sec-int" src="https://github.com/user-attachments/assets/1743689e-ca78-47b2-902a-5d4d5eeff347" />
 
+## 🧪 Part B – Trigger a Violation on SW1 (Shutdown Mode)
 
+### 1️⃣ Trigger a violation by connecting a MAC Address Event
 
+### 2️⃣ Using the same New Test PC (Example: Test1)
 
+- Connect Test1 to SW1 F0/1 (or any secured port)
+- Click on Config
+- Select FastEthernet and change the MAC address to example: 0011.0011.0011
+- Cpnfigure IP
+-   IP: 10.0.0.10
+-   Mask: 255.255.255.0
+-   Gateway: 10.0.0.254
 
+## Reference Topology
 
-
-
+<img width="515" height="230" alt="T2-SW1-F01-down" src="https://github.com/user-attachments/assets/da9f8186-1d27-4cac-8c0a-c65d710c3097" />
 
 
 
