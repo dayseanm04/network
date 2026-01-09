@@ -41,6 +41,13 @@ ipconfig /renew
 
 <img width="547" height="243" alt="PC1-ipconfig-renew" src="https://github.com/user-attachments/assets/159fdbbf-5aa2-4160-afd3-7bb1650abae4" />
 
+### ❌ The request should fail at first.
 
+#### ❓ Why it fails
 
----
+- PC1 is on an untrusted port
+- SW2 adds DHCP Option 82 information
+- When the DHCP message is forwarded to **SW1**, **SW1** drops it because of the **Option 82** behavior in this setup
+
+📌 This is the problem I will fix in Task 4.
+
