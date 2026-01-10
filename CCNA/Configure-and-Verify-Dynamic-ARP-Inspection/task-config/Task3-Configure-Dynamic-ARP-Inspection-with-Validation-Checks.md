@@ -121,6 +121,7 @@ show ip arp inspection
 
 <img width="732" height="531" alt="T3-SW1-show-ip-arp-inspec-int" src="https://github.com/user-attachments/assets/1d0cf718-8bd4-427e-8f5d-f581d6ca50e1" />
 
+<img width="758" height="187" alt="T3-SW1-show-ip-arp-inspect" src="https://github.com/user-attachments/assets/9fe706c5-4be4-4789-aca3-ac48afa8a67e" />
 
 
 
