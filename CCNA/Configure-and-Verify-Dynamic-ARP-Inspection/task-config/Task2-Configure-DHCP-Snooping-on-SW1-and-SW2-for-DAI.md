@@ -30,3 +30,15 @@ These bindings are required for **Dynamic ARP Inspection (DAI)** to validate ARP
 - Trust **uplink interfaces** connected to a router or another switch
 
 ---
+
+## ⚙️ Configuration – SW1
+
+### 1️⃣ Enter Global Configuration Mode
+```bash
+enable
+configure terminal
+```
+
+
+
+
