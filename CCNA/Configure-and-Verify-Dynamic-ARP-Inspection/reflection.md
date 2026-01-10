@@ -11,7 +11,6 @@ After the prerequisites were in place, DAI was enabled on the switches and addit
 
 ---
 
-
 ## 🎯 What I Learned
 
 This lab helped me understand how multiple **Layer 2 security features work together**:
@@ -24,7 +23,6 @@ This lab helped me understand how multiple **Layer 2 security features work toge
 I also learned that DAI is not a standalone feature, it depends on correct DHCP Snooping configuration to function properly.
 
 ---
-
 
 ## 🔍 Key Observations
 
