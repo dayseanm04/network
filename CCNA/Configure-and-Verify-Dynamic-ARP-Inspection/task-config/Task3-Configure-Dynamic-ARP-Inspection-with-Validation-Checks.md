@@ -117,7 +117,6 @@ Run these commands on SW1 and SW2:
 
 #### 🔷 On SW1 show ip arp inspection interfaces
 
-
 <img width="732" height="531" alt="T3-SW1-show-ip-arp-inspec-int" src="https://github.com/user-attachments/assets/1d0cf718-8bd4-427e-8f5d-f581d6ca50e1" />
 
 #### 🔷 On SW1 show ip arp inspection
@@ -133,6 +132,27 @@ Run these commands on SW1 and SW2:
 #### 🔷 On SW2 show ip arp inspection
 
 <img width="741" height="183" alt="T3-SW2-show-ip-arp-inspect" src="https://github.com/user-attachments/assets/bb697cae-eee5-4d11-8141-6d94d3b8d633" />
+
+## Quick Test (Client Connectivity)
+
+#### 🔷 On PC1 ipconfig /renew
+
+<img width="599" height="307" alt="PC1-DHCP" src="https://github.com/user-attachments/assets/d9c5d15e-ee99-4774-b3de-ee1348a97265" />
+
+PC1 successfuly received an IP Address from R1
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
