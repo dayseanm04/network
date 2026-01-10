@@ -58,4 +58,8 @@ By completing this lab, you will be able to:
 
 ---
 
+## ✍️ Author Information
 
+**Name:** *Daysean Mensah*  
+**Course/Program:** *Cisco CCNA Studies*  
+**Lab completion date:** january 10 2026.
