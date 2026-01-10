@@ -67,3 +67,12 @@ default-router 192.168.1.1
 ```bash
 end
 ```
+
+
+## ✅ Verification
+
+```bash
+show ip dhcp pool
+```
+
+<img width="816" height="261" alt="T1-R1-dhcp-pool" src="https://github.com/user-attachments/assets/9bdac728-c20e-4f1c-936e-e035cf115a66" />
