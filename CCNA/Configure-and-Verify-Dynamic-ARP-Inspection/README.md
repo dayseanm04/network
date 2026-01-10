@@ -11,7 +11,6 @@ To make DAI work correctly, the network is first configured with **DHCP Snooping
 
 <img width="685" height="260" alt="topology" src="https://github.com/user-attachments/assets/6b428763-7bbc-4f14-aefa-c2624a090abc" />
 
----
 
 ## 🎯 Lab Objectives
 
@@ -23,4 +22,12 @@ By completing this lab, you will be able to:
 - Secure the network against **ARP spoofing attacks**
 
 ---
+
+## 🧪 Lab Tasks Overview
+
+### 🛠️ Task 1 – Configure R1 as DHCP Server
+
+- Create a DHCP pool for the LAN
+- Exclude reserved IP addresses
+- Set R1 as the default gateway
 
