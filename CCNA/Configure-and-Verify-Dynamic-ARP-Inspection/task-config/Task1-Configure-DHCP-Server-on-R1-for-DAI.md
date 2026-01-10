@@ -18,6 +18,16 @@ That trusted information comes from **DHCP Snooping bindings**, which are built 
 
 <img width="685" height="260" alt="topology" src="https://github.com/user-attachments/assets/6b428763-7bbc-4f14-aefa-c2624a090abc" />
 
+---
+
+## 🌐 DHCP Network Information
+
+| Item | Value |
+|-----|------|
+| Network | 192.168.1.0 /24 |
+| Default Gateway | 192.168.1.1 |
+| Excluded IP Range | 192.168.1.1 – 192.168.1.9 |
+| DHCP Server | R1 |
 
 ---
 
