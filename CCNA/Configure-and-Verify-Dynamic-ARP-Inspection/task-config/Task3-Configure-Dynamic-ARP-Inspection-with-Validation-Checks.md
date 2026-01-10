@@ -125,6 +125,16 @@ Run these commands on SW1 and SW2:
 <img width="758" height="187" alt="T3-SW1-show-ip-arp-inspect" src="https://github.com/user-attachments/assets/9fe706c5-4be4-4789-aca3-ac48afa8a67e" />
 
 
+#### 🔷 On SW2 show ip arp inspection interfaces
+
+<img width="671" height="533" alt="T3-SW2-show-ip-arp-inspec-int" src="https://github.com/user-attachments/assets/82a13cd4-9840-45e7-ad2c-33a4e8d8c3e9" />
+
+
+#### 🔷 On SW2 show ip arp inspection
+
+<img width="741" height="183" alt="T3-SW2-show-ip-arp-inspect" src="https://github.com/user-attachments/assets/bb697cae-eee5-4d11-8141-6d94d3b8d633" />
+
+
 
 
 
