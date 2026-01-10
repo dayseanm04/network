@@ -1,3 +1,22 @@
+# 🔐 Configure DHCP Snooping for DAI
+
+## 📌 Objective
+
+Enable **DHCP Snooping** on **SW1** and **SW2** to build a **trusted IP-to-MAC binding table**.  
+These bindings are required for **Dynamic ARP Inspection (DAI)** to validate ARP packets.
+
+---
+
+## 🧠 Simple Explanation
+
+- DHCP Snooping inspects DHCP traffic
+- Only **trusted interfaces** are allowed to forward DHCP server messages
+- Client-facing ports stay **untrusted by default**
+- The switch records **IP–MAC bindings**, which DAI will use later
+
+📌 Think of DHCP Snooping as the **foundation** for DAI.
+
+---
 
 ## Topology For Reference
 
