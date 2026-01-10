@@ -31,7 +31,7 @@ These bindings are required for **Dynamic ARP Inspection (DAI)** to validate ARP
 
 ---
 
-## ⚙️ Configuration – SW1
+## ⚙️ Configure – SW1
 
 ### 1️⃣ Enter Global Configuration Mode
 ```bash
@@ -70,7 +70,7 @@ ip dhcp snooping trust
 end
 ```
 
-## ⚙️ Configuration – SW2
+## ⚙️ Configure – SW2
 
 ### 1️⃣ Enter Global Configuration Mode
 
