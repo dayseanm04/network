@@ -1,4 +1,24 @@
+# 🛠️ Configure-R1-as-DHCP-Server-for-DAI
+
+## 📌 Objective
+Configure **R1** as a **DHCP server** for the LAN.  
+
+This provides the **IP-to-MAC address bindings** that will later be used by **DHCP Snooping** and **Dynamic ARP Inspection (DAI)**.
+
+---
+
+## 🧠 Simple Explanation
+
+Dynamic ARP Inspection relies on trusted information to decide whether ARP packets are valid.  
+That trusted information comes from **DHCP Snooping bindings**, which are built when clients receive IP addresses from a legitimate DHCP server.
+
+📌 This task sets up that **legitimate DHCP server**.
 
 ## Topology For Reference
 
 <img width="685" height="260" alt="topology" src="https://github.com/user-attachments/assets/6b428763-7bbc-4f14-aefa-c2624a090abc" />
+
+
+---
+
+
