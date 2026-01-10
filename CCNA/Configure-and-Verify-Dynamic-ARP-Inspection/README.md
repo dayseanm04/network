@@ -45,4 +45,17 @@ By completing this lab, you will be able to:
 
 ---
 
+### 🛡️ Task 3 – Configure Dynamic ARP Inspection (DAI)
+
+- Enable DAI for the VLAN
+- Trust ports connected to a router or switch
+- Enable additional validation checks:
+  - Source MAC validation
+  - Destination MAC validation
+  - IP address validation
+
+📌 *Purpose:* Prevent malicious or invalid ARP packets from entering the network.
+
+---
+
 
