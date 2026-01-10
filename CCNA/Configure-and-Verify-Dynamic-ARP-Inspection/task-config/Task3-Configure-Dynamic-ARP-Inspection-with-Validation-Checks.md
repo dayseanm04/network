@@ -29,7 +29,7 @@ DAI checks ARP packets and only allows them if they look legitimate.
 
 ---
 
-## 📋 What You I Configure
+## 📋 What I will Configure
 
 On **SW1** and **SW2**:
 
@@ -40,7 +40,7 @@ On **SW1** and **SW2**:
 ---
 
 
-## ⚙️ Configuration – SW1
+## ⚙️ Configur2 – SW1
 
 ### 1️⃣ Enter Global Configuration Mode
 
@@ -55,7 +55,7 @@ configure terminal
 ip arp inspection vlan 1
 ```
 
-### 3️⃣ Trust the Uplink Interface (Connected to Router/Switch)
+### 3️⃣ Trust the Uplink Interface (Connected to SW2)
 
 ```bash
 interface g0/1
@@ -71,10 +71,45 @@ ip arp inspection validate dst-mac ip src-mac
 
 ### 5️⃣ Exit
 
-``bash
+```bash
 end
 ```
 
+
+## ⚙️ Configure – SW2
+
+### 1️⃣ Enter Global Configuration Mode
+
+```bash
+enable
+configure terminal
+```
+
+### 2️⃣ Enable DAI on VLAN 1
+
+```bash
+ip arp inspection vlan 1
+```
+
+### 3️⃣ Trust the Uplink Interface (Connected to R1)
+
+```bash
+interface g0/2
+ip arp inspection trust
+exit
+```
+
+### 4️⃣ Enable Additional Validation Checks
+
+```bash
+ip arp inspection validate dst-mac ip src-mac
+```
+
+### 5️⃣ Exit
+
+``1bash
+end
+```
 
 
 
