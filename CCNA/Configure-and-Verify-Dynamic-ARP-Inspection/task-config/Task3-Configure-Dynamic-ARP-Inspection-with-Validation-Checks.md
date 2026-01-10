@@ -153,15 +153,6 @@ PC2 successfuly received an IP Address from R1
 
 PC3 successfuly received an IP Address from R1
 
+#### 🔷 On R1 show ip dhcp binding
 
-
-
-
-
-
-
-
-
-
-
-
+<img width="793" height="136" alt="T3-R1-show-dhcp-b" src="https://github.com/user-attachments/assets/2b65d352-6f26-492c-a14e-c5685537a377" />
