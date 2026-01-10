@@ -70,6 +70,15 @@ ip dhcp snooping trust
 end
 ```
 
+## ⚙️ Configuration – SW2
+
+### 1️⃣ Enter Global Configuration Mode
+
+```bash
+enable
+configure terminal
+```
+
 
 
 
