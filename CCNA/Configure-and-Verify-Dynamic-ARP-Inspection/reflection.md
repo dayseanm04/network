@@ -11,3 +11,16 @@ After the prerequisites were in place, DAI was enabled on the switches and addit
 
 ---
 
+
+## 🎯 What I Learned
+
+This lab helped me understand how multiple **Layer 2 security features work together**:
+
+- **DHCP Snooping** builds a trusted binding table of IP and MAC addresses
+- **Dynamic ARP Inspection** uses those bindings to verify ARP packets
+- Only **trusted ports** (router and switch uplinks) should be allowed to foward DHCP Server messages
+- Enabling extra validation checks increases protection against spoofed ARP messages
+
+I also learned that DAI is not a standalone feature, it depends on correct DHCP Snooping configuration to function properly.
+
+---
