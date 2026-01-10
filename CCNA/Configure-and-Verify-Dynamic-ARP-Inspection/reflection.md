@@ -24,3 +24,14 @@ This lab helped me understand how multiple **Layer 2 security features work toge
 I also learned that DAI is not a standalone feature, it depends on correct DHCP Snooping configuration to function properly.
 
 ---
+
+
+## 🔍 Key Observations
+
+- All switch ports are **untrusted by default**, which improves security
+- Incorrect trust configuration can easily break network connectivity
+- Packet Tracer may show different rate-limiting behavior compared to real Cisco hardware
+- Verification commands like `show ip arp inspection` is useful for troubleshooting
+
+---
+
