@@ -40,6 +40,42 @@ On **SW1** and **SW2**:
 ---
 
 
+## ⚙️ Configuration – SW1
+
+### 1️⃣ Enter Global Configuration Mode
+
+```bash
+enable
+configure terminal
+```
+
+### 2️⃣ Enable DAI on VLAN 1
+
+```bash
+ip arp inspection vlan 1
+```
+
+### 3️⃣ Trust the Uplink Interface (Connected to Router/Switch)
+
+```bash
+interface g0/1
+ip arp inspection trust
+exit
+```
+
+### 4️⃣ Enable Additional Validation Checks
+
+```bash
+ip arp inspection validate dst-mac ip src-mac
+```
+
+### 5️⃣ Exit
+
+``bash
+end
+```
+
+
 
 
 
