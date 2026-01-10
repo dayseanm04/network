@@ -29,3 +29,22 @@ DAI checks ARP packets and only allows them if they look legitimate.
 
 ---
 
+## 📋 What You I Configure
+
+On **SW1** and **SW2**:
+
+- Enable DAI for **VLAN 1**
+- Trust ports connected to a **router or switch**
+- Enable ARP validation checks
+
+---
+
+
+
+
+
+
+
+
+
+
