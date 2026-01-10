@@ -98,9 +98,19 @@ interface g0/1
 ip dhcp snooping trust
 ```
 
+### 6️⃣ Exit
 
+```bash
+end
+```
 
+## ✅ Verification
 
+### 🟢 Run on both switches:
+
+```bash
+show ip dhcp snooping
+```
 
 
 
