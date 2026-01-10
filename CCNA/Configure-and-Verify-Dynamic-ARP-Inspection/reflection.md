@@ -33,3 +33,15 @@ I also learned that DAI is not a standalone feature, it depends on correct DHCP 
 
 ---
 
+## 🏥 Why This Matters in Real Networks
+In enterprise environments such as **hospitals, campuses, and offices**, ARP spoofing can be used to intercept or disrupt traffic. DAI helps prevent these attacks by ensuring that devices can only claim IP addresses that were legitimately assigned to them.
+
+This lab demonstrates how layered security at the access layer can significantly reduce the risk of man-in-the-middle attacks.
+
+---
+
+## ✅ Overall Takeaway
+
+This lab reinforced the importance of **defense-in-depth at Layer 2**. Seeing how DHCP Snooping and DAI work together made the concepts much clearer and more practical.
+
+Dynamic ARP Inspection is a powerful security feature, but it requires **careful planning, correct trust configuration, and thorough testing** to avoid unintended network disruptions.
