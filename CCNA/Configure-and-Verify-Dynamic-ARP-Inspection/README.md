@@ -31,3 +31,18 @@ By completing this lab, you will be able to:
 - Exclude reserved IP addresses
 - Set R1 as the default gateway
 
+📌 *Purpose:* Provide trusted DHCP bindings required for DAI validation.
+
+---
+
+### 🔐 Task 2 – Configure DHCP Snooping on SW1 and SW2
+
+- Enable DHCP Snooping on both switches
+- Specify the VLAN used for DHCP Snooping
+- Ensure interfaces connected to the router or other switches are trusted
+
+📌 *Purpose:* Build a secure IP–MAC binding table used by DAI.
+
+---
+
+
