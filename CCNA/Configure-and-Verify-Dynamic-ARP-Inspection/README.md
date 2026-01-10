@@ -13,4 +13,14 @@ To make DAI work correctly, the network is first configured with **DHCP Snooping
 
 ---
 
+## 🎯 Lab Objectives
+
+By completing this lab, you will be able to:
+- Configure a router as a **DHCP server**
+- Enable **DHCP Snooping** on a switche
+- Configure **Dynamic ARP Inspection** on switche
+- Apply **additional ARP validation checks**
+- Secure the network against **ARP spoofing attacks**
+
+---
 
