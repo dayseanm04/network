@@ -50,9 +50,11 @@ ip dhcp excluded-address 192.168.1.1 192.168.1.9
 ip dhcp pool LAN1
 ```
 
+### 4️⃣ Configure the Network
 
-
-
+```bash
+network 192.168.1.0 255.255.255.0
+```
 
 
 
