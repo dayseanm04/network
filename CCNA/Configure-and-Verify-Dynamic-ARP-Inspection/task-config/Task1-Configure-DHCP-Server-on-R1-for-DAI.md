@@ -56,7 +56,14 @@ ip dhcp pool LAN1
 network 192.168.1.0 255.255.255.0
 ```
 
+### 5️⃣ Configure the Default Gateway
 
+```bash
+default-router 192.168.1.1
+```
 
+### 6️⃣ Exit Configuration Mode
 
-
+```bash
+end
+```
