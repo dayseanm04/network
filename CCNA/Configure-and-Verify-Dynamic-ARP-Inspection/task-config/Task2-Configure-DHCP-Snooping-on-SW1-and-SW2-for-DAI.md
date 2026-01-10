@@ -16,8 +16,17 @@ These bindings are required for **Dynamic ARP Inspection (DAI)** to validate ARP
 
 📌 Think of DHCP Snooping as the **foundation** for DAI.
 
----
-
 ## Topology For Reference
 
 <img width="685" height="260" alt="topology" src="https://github.com/user-attachments/assets/6b428763-7bbc-4f14-aefa-c2624a090abc" />
+
+---
+
+## 📋 What I Will Configure
+
+- Enable DHCP Snooping globally
+- Enable DHCP Snooping for **VLAN 1**
+- Disable the DHCP information option (Option 82)
+- Trust **uplink interfaces** connected to a router or another switch
+
+---
