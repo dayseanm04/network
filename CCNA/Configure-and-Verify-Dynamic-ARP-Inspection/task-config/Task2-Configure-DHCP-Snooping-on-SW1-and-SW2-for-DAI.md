@@ -112,7 +112,9 @@ end
 show ip dhcp snooping
 ```
 
+<img width="632" height="228" alt="T2-SW1-show-dhcp-snooping" src="https://github.com/user-attachments/assets/c5173dd2-93eb-41cc-ab7a-48100a3ddd71" />
 
+<img width="682" height="223" alt="T2-SW2-show-dhcp-snooping" src="https://github.com/user-attachments/assets/208c86e2-edad-4c53-9174-f1e4da43bb2c" />
 
 
 
