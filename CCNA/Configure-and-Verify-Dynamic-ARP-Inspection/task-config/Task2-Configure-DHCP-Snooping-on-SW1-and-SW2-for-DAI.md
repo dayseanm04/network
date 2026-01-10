@@ -39,6 +39,22 @@ enable
 configure terminal
 ```
 
+### 2️⃣ Enable DHCP Snooping
 
+```bash
+ip dhcp snooping
+```
+
+### 3️⃣ Enable DHCP Snooping for VLAN 1
+
+```bash
+ip dhcp snooping vlan 1
+```
+
+## 4️⃣ Disable DHCP Snooping Information Option (Option 82)
+
+```bash
+no ip dhcp snooping information option
+```
 
 
