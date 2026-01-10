@@ -51,10 +51,32 @@ ip dhcp snooping
 ip dhcp snooping vlan 1
 ```
 
-## 4️⃣ Disable DHCP Snooping Information Option (Option 82)
+### 4️⃣ Disable DHCP Snooping Information Option (Option 82)
 
 ```bash
 no ip dhcp snooping information option
 ```
+
+### 5️⃣ Trust the Uplink Interface (Connected to Router/Switch)
+
+```bash
+interface g0/2
+ip dhcp snooping trust
+```
+
+### 6️⃣ Exit
+
+```bash
+end
+```
+
+
+
+
+
+
+
+
+
 
 
