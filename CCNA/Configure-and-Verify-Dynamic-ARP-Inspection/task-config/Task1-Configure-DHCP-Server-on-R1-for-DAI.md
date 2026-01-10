@@ -5,8 +5,6 @@ Configure **R1** as a **DHCP server** for the LAN.
 
 This provides the **IP-to-MAC address bindings** that will later be used by **DHCP Snooping** and **Dynamic ARP Inspection (DAI)**.
 
----
-
 ## 🧠 Simple Explanation
 
 Dynamic ARP Inspection relies on trusted information to decide whether ARP packets are valid.  
@@ -30,5 +28,33 @@ That trusted information comes from **DHCP Snooping bindings**, which are built 
 | DHCP Server | R1 |
 
 ---
+
+## ⚙️ Configuration Steps (R1)
+
+### 1️⃣ Enter Global Configuration Mode
+
+```bash
+enable
+configure terminal
+```
+
+### 2️⃣ Exclude Reserved IP Addresses
+
+```bash
+ip dhcp excluded-address 192.168.1.1 192.168.1.9
+```
+
+### 3️⃣ Create the DHCP Pool
+
+```bash
+ip dhcp pool LAN1
+```
+
+
+
+
+
+
+
 
 
