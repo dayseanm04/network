@@ -107,11 +107,17 @@ ip arp inspection validate dst-mac ip src-mac
 
 ### 5️⃣ Exit
 
-``1bash
+```1bash
 end
 ```
 
+## ✅ Verification
 
+Run these commands on SW1 and SW2:
+
+```bash
+show ip arp inspection
+```
 
 
 
