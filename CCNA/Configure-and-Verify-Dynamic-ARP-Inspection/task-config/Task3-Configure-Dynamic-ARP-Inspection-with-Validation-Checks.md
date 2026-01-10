@@ -141,10 +141,17 @@ Run these commands on SW1 and SW2:
 
 PC1 successfuly received an IP Address from R1
 
+#### 🔷 On PC2 ipconfig /renew
 
+<img width="568" height="313" alt="PC2-DHCP" src="https://github.com/user-attachments/assets/526791e1-0fa3-427e-a66d-c6d9972efd83" />
 
+PC2 successfuly received an IP Address from R1
 
+#### 🔷 On PC3 ipconfig /renew
 
+<img width="613" height="315" alt="PC3-DHCP" src="https://github.com/user-attachments/assets/583cab79-290f-4764-a875-57e1ed32d416" />
+
+PC3 successfuly received an IP Address from R1
 
 
 
