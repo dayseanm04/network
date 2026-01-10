@@ -119,6 +119,7 @@ Run these commands on SW1 and SW2:
 show ip arp inspection
 ```
 
+<img width="732" height="531" alt="T3-SW1-show-ip-arp-inspec-int" src="https://github.com/user-attachments/assets/1d0cf718-8bd4-427e-8f5d-f581d6ca50e1" />
 
 
 
