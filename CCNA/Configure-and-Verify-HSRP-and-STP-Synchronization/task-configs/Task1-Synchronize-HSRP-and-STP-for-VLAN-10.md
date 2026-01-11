@@ -69,9 +69,11 @@ standby 10 priority 120
 
 Note: preempt allows DSW1 to take back the Active role if it comes back online after a failure
 
+## ✅ Verify on DSW1
 
+#### ♦️ show spanning-tree vlan 10
 
-
+<img width="806" height="358" alt="T1-DSW1-show-stp-vlan10" src="https://github.com/user-attachments/assets/2e5f8bc2-0798-4341-a748-1684da2895b1" />
 
 
 
