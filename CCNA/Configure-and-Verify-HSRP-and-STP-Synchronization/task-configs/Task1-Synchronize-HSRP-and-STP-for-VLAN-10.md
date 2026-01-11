@@ -51,6 +51,8 @@ standby version 2
 standby 10 ip 10.0.10.200
 ```
 
+Note: The Virtual IP (VIP) is the default gateway used by hosts in VLAN 10
+
 ### 4️⃣ Make DSW1 the Active router
 
 ```bash
@@ -59,10 +61,13 @@ standby 10 priority 120
 
 Note: by defaulut the priority is 100, 120 is higher than 100 so it becomes the active router 
 
+### 5️⃣ Configure Preemption
 
+```bash
+standby 10 priority 120
+```
 
-
-
+Note: preempt allows DSW1 to take back the Active role if it comes back online after a failure
 
 
 
