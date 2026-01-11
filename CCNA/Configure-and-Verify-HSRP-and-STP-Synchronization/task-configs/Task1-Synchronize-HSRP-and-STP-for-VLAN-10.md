@@ -19,13 +19,6 @@ This alignment ensures hosts in VLAN 10 use the **most direct path** to their de
 
 <img width="618" height="332" alt="Topology" src="https://github.com/user-attachments/assets/67061080-b132-4e96-a33b-6c05489f583e" />
 
-## 📋 VLAN 10 Role Assignment
-
-| Device | HSRP Role | STP Role |
-|-------|-----------|----------|
-| DSW1 | 🟢 Active | 🟢 Root |
-| DSW2 | 🔵 Standby | 🔵 Secondary Root |
-
 ## 📋 VLAN 10 HSRP configs
 
 | Setting | Value |
