@@ -75,6 +75,9 @@ Note: preempt allows DSW1 to take back the Active role if it comes back online a
 
 <img width="806" height="358" alt="T1-DSW1-show-stp-vlan10" src="https://github.com/user-attachments/assets/2e5f8bc2-0798-4341-a748-1684da2895b1" />
 
+#### ♦️ show standby brief
+
+<img width="768" height="101" alt="T1-DSW1-show-standby-1" src="https://github.com/user-attachments/assets/79283f88-4335-4ae5-b425-b22ab17d3b45" />
 
 
 
