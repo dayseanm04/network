@@ -39,5 +39,16 @@ For **VLAN 10**, configure the following roles:
 
 ---
 
+### 🔧 Task 2 – VLAN 20 HSRP and STP Synchronization
 
+For **VLAN 20**, reverse the roles:
 
+- 🟢 **DSW2**
+  - HSRP **Active**
+  - STP **Root Bridge**
+
+- 🔵 **DSW1**
+  - HSRP **Standby**
+  - STP **Secondary Root**
+
+📌 *Purpose:* Ensure hosts in VLAN 20 have a direct path to **DSW2** as their default gateway.
