@@ -28,3 +28,15 @@ This alignment ensures hosts in VLAN 10 use the **most direct path** to their de
 
 ---
 
+# 🟢 Part A — Configure DSW1 (HSRP Active + STP Root)
+
+## 1️⃣ Make DSW1 the STP Root for VLAN 10
+
+#### ♦️ On **DSW1** (Global Config Mode):
+
+```bash
+spanning-tree vlan 10 root primary
+```
+
+
+
