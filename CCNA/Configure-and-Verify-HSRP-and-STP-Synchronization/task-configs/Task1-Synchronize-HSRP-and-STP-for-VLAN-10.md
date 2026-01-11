@@ -64,7 +64,7 @@ Note: by defaulut the priority is 100, 120 is higher than 100 so it becomes the 
 ### 5️⃣ Configure Preemption
 
 ```bash
-standby 10 priority 120
+standby 10 preempt
 ```
 
 Note: preempt allows DSW1 to take back the Active role if it comes back online after a failure
@@ -97,5 +97,29 @@ Note: This configures DSW2 as the backup STP root, ready to take over if DSW1 fa
 interface vlan 10
 standby version 2
 ```
+
+### 3️⃣ Configure HSRP virtual IP for VLAN 10
+
+```bash
+standby 10 ip 10.0.10.200
+```
+
+Note: The Virtual IP (VIP) is the default gateway used by hosts in VLAN 10
+
+### 4️⃣ Make DSW2 the Standby router
+
+```bash
+standby 10 priority 80
+```
+
+Note: by defaulut the priority is 100, 80 is lower than 100 so it becomes the standby router 
+
+### 5️⃣ Configure Preemption
+
+```bash
+standby 10 preempt
+```
+
+## ✅ Verify on DSW2
 
 
