@@ -1,4 +1,4 @@
-# 🔁 Task1 Synchronize HSRP and STP for VLAN 10
+# 🔁 Task 1 Synchronize HSRP and STP for VLAN 10
 
 ## 📌 Objective
 
@@ -141,4 +141,3 @@ Note: DSW2 is the secondary root bridge for Vlan 10 because its G1/0/3 is a root
 <img width="788" height="100" alt="T1-DSW2-show-standby-1" src="https://github.com/user-attachments/assets/35776ff6-0c10-4c1e-8ba4-151d6ce38af2" />
 
 Note: DSW2 is the standby router for vlan 10
-
