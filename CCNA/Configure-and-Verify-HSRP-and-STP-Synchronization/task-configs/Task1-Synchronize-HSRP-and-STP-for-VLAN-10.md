@@ -45,5 +45,12 @@ interface vlan 10
 standby version 2
 ```
 
+### 3️⃣ Configure HSRP virtual IP for VLAN 10
+
+```bash
+standby 10 ip 10.0.10.200
+```
+
+
 
 
