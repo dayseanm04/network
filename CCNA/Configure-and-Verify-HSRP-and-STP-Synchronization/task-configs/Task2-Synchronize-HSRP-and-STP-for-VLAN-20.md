@@ -89,3 +89,8 @@ Note: DSW2 is the Active router for VLAN 20
 
 Note: DSW1 is the secondary root bridge for Vlan 20 because its G1/0/3 is a root port connected to DSW2
 
+### ♦️ show standby brief
+
+<img width="786" height="132" alt="T2-DSW1-show-standby-1" src="https://github.com/user-attachments/assets/184439e6-41b5-477a-bcc2-10240b290985" />
+
+Note: DSW1 is the Standby router for vlan 20
