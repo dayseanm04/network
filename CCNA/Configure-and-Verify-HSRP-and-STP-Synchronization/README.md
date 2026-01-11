@@ -21,5 +21,23 @@ By completing this lab, you will be able to:
 
 ---
 
+## 🧪 Lab Tasks Overview
+
+### 🔧 Task 1 – VLAN 10 HSRP and STP Synchronization
+
+For **VLAN 10**, configure the following roles:
+
+- 🟢 **DSW1**
+  - HSRP **Active**
+  - STP **Root Bridge**
+
+- 🔵 **DSW2**
+  - HSRP **Standby**
+  - STP **Secondary Root**
+
+📌 *Purpose:* Ensure hosts in VLAN 10 have a direct path to **DSW1** as their default gateway.
+
+---
+
 
 
