@@ -26,6 +26,17 @@ This alignment ensures hosts in VLAN 10 use the **most direct path** to their de
 | DSW1 | 🟢 Active | 🟢 Root |
 | DSW2 | 🔵 Standby | 🔵 Secondary Root |
 
+## 📋 VLAN 10 HSRP configs
+
+| Setting | Value |
+|------|------|
+| HSRP Version | 2 |
+| HSRP Group | 10 |
+| Virtual IP (VIP) | 10.0.10.200 |
+| DSW1 Priority | 120 |
+| DSW2 Priority | 80 |
+| Preempt | Enabled |
+
 ---
 
 # 🟢 Part A - Configure DSW1 (HSRP Active + STP Root)
