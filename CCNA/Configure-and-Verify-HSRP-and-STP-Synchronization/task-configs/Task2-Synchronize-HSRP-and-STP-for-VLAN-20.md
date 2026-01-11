@@ -72,8 +72,12 @@ Note: preempt allows DSW2 to take back the Active role if it comes back online a
 
 <img width="857" height="334" alt="T2-DSW2-show-stp-vlan20" src="https://github.com/user-attachments/assets/d471a7ec-87f5-42ae-823d-2848ad2a8cfe" />
 
+Note: DSW2 is the Root Bridge for Vlan 20
+
+
 #### ♦️ show standby brief
 
 <img width="768" height="134" alt="T2-DSW2-show-standby-1" src="https://github.com/user-attachments/assets/bc5b405f-3721-4d93-a22e-93ef511c3326" />
 
+Note: DSW2 is the Active router for VLAN 20
 
