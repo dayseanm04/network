@@ -2,7 +2,9 @@
 
 ## 📌 Lab Summary
 
-In this lab, I configured **HSRP and STP synchronization** across multiple VLANs to ensure efficient traffic flow in a redundant LAN. By aligning the **HSRP Active gateway** with the **STP root bridge** on a per-VLAN basis, I was able to control both Layer 2 and Layer 3 forwarding behavior.
+In this lab, I configured **HSRP and STP synchronization** across multiple VLANs to ensure efficient traffic flow in a redundant LAN. 
+
+I configured different roles for **VLAN 10** and **VLAN 20** to practice per-VLAN redundancy design.
 
 ## Topology For Reference
 
@@ -10,3 +12,14 @@ In this lab, I configured **HSRP and STP synchronization** across multiple VLANs
 
 ---
 
+## 🎯 What I Learned
+
+- **HSRP** determines the default gateway for hosts
+- **STP** determines the Layer 2 forwarding path
+- If HSRP and STP are not aligned, traffic can take inefficient paths
+- Using different HSRP priorities and STP root roles per VLAN allows **load balancing across switches**
+- **Preempt** ensures the intended device regains the Active role after recovery
+
+I also gained hands-on experience configuring **HSRP version 2** and verifying redundancy behavior using show commands.
+
+---
