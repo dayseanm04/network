@@ -22,8 +22,8 @@ The repo will cover core CCNA topics including:
 
 ---
 
-## 🛠️ Projects & Labs
-I will upload various projects and lab exercises, including:
+## 🛠️  Labs
+I will upload various lab exercises, including:
 - Router and switch configurations
 - VLAN setups
 - Inter-VLAN routing
