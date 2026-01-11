@@ -122,4 +122,12 @@ standby 10 preempt
 
 ## ✅ Verify on DSW2
 
+#### ♦️ show spanning-tree vlan 10
+
+<img width="840" height="358" alt="T1-DSW2-HSRP-VLAN10-Log" src="https://github.com/user-attachments/assets/48f007b8-c387-4f84-9fde-031ac2e444b9" />
+
+#### ♦️ show standby brief
+
+<img width="788" height="100" alt="T1-DSW2-show-standby-1" src="https://github.com/user-attachments/assets/35776ff6-0c10-4c1e-8ba4-151d6ce38af2" />
+
 
