@@ -26,3 +26,26 @@ This alignment ensures hosts in VLAN 20 use the **most direct path** to their de
 | Preempt | Enabled |
 
 ---
+
+# 🟢 Part A - Configure DSW2 (HSRP Active + STP Root)
+
+## 1️⃣ Make DSW1 the STP Root for VLAN 20
+
+#### ♦️ On **DSW2** (Global Config Mode):
+
+```bash
+spanning-tree vlan 20 root primary
+```
+
+## 2️⃣ Enable HSRP Version 2 on VLAN 20 SVI
+
+```bash
+interface vlan 20
+standby version 2
+```
+
+### 3️⃣ Configure HSRP virtual IP for VLAN 20
+
+```bash
+standby 10 ip 10.0.20.200
+```
