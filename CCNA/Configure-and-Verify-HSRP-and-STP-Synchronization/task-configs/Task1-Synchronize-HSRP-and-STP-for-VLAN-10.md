@@ -79,5 +79,23 @@ Note: preempt allows DSW1 to take back the Active role if it comes back online a
 
 <img width="768" height="101" alt="T1-DSW1-show-standby-1" src="https://github.com/user-attachments/assets/79283f88-4335-4ae5-b425-b22ab17d3b45" />
 
+## 🔵 Part B - Configure DSW2 (HSRP Standby + STP Secondary Root)
+
+## 1️⃣ Make DSW2 the STP Secondary Root for VLAN 10
+
+#### ♦️ On **DSW2** (Global Config Mode):
+
+```bash
+spanning-tree vlan 10 root secondary
+```
+
+Note: This configures DSW2 as the backup STP root, ready to take over if DSW1 fails.
+
+## 2️⃣ Enable HSRP Version 2 on VLAN 10 SVI
+
+```bash
+interface vlan 10
+standby version 2
+```
 
 
