@@ -134,8 +134,11 @@ standby 10 preempt
 
 <img width="840" height="358" alt="T1-DSW2-HSRP-VLAN10-Log" src="https://github.com/user-attachments/assets/48f007b8-c387-4f84-9fde-031ac2e444b9" />
 
+Note: DSW2 is the secondary root bridge for Vlan 10 because its G1/0/3 is a root port connected to DSW1
+
 #### ♦️ show standby brief
 
 <img width="788" height="100" alt="T1-DSW2-show-standby-1" src="https://github.com/user-attachments/assets/35776ff6-0c10-4c1e-8ba4-151d6ce38af2" />
 
+Note: DSW2 is the standby router for vlan 10
 
