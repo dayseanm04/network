@@ -60,11 +60,13 @@ Interfance name: Guest, VLAN ID: 200 then click Apply then click Back
 
 <img width="990" height="293" alt="T3-4" src="https://github.com/user-attachments/assets/ac706ac5-130f-4ecf-92ed-c2b45b4e5a62" />
 
-## 🟢 Part B Configure the interface
+## 🟢 Part B Configure the interfaces
 
+### 1️⃣ Click on Internal 
 
+<img width="823" height="300" alt="T3-5" src="https://github.com/user-attachments/assets/82455cea-854f-4ef8-81d7-cfa49d8bf549" />
 
-
+Give Internal an IP addresss, Subnet Mask and Default Gateway. Note the default gateway is the SVI of VLAN 100.
 
 
 
