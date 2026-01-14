@@ -96,4 +96,8 @@ Check the Enable checkbox
 Click on the **Internal WLAN** ID number, then set:
 - **Interface/Interface Group:** `Guest`
 
+<img width="445" height="124" alt="Guest-group" src="https://github.com/user-attachments/assets/21a6c761-80c1-4f01-ad0d-a972d9a5170d" />
+
+Click **Apply** on the top right.
+
 
