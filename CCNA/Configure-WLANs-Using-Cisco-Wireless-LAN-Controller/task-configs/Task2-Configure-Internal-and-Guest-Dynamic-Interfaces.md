@@ -36,3 +36,10 @@ In the WLC GUI, navigate to:
 <img width="607" height="311" alt="T2-1" src="https://github.com/user-attachments/assets/37c27730-f7d2-4a48-8eff-3f12c33f6792" />
 
 ---
+
+
+## 2️⃣ Create the Internal Dynamic Interface
+
+Click **New** on the top right and enter the interface details.
+
+
