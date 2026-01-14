@@ -22,3 +22,13 @@ After configuring the WLANs on the WLC, the final step is to prove everything wo
 
 ---
 
+## 🧪 Part A - Add a Wireless Client (Smartphone)
+
+### 1️⃣ Add a Smartphone to the Topology
+
+- Drag a **Smartphone** into the topology
+
+### 2️⃣ Connect the Smartphone to the WLAN
+- Click the Smartphone
+- Go to **Desktop**
+
