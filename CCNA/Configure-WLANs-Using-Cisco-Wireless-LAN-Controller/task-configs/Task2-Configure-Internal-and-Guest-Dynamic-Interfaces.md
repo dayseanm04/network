@@ -39,7 +39,6 @@ In the WLC GUI, navigate to:
 
 ---
 
-
 ## 2️⃣ Create the Internal Dynamic Interface
 
 Click **New** on the top right and enter the interface details.
@@ -70,10 +69,14 @@ Give Internal an IP addresss, Subnet Mask, Default Gateway and the DHCP Server. 
 
 <img width="557" height="245" alt="show-run" src="https://github.com/user-attachments/assets/ef4f1264-a6f7-4764-b440-653903904b36" />
 
-Go back
+Go back and dont forget to Click save config on the top right, see bellow:
 
-### 1️⃣ Click on Guest 
+<img width="186" height="30" alt="image" src="https://github.com/user-attachments/assets/458265ab-a625-4f9a-bc4e-9ecbfbdb8150" />
 
+
+### 2️⃣ Click on Guest 
+
+<img width="788" height="305" alt="T3-6" src="https://github.com/user-attachments/assets/f675f57f-2b8c-4274-a497-7482a74331cb" />
 
 
 
