@@ -130,3 +130,14 @@ Click **Internal WLAN** → **Security** tab:
 
 Click **Apply** on the top right. Also dont forget to Click save on the Top right!
 
+## ✅ Verification
+
+Return to **WLANs** summary and confirm:
+
+<img width="818" height="221" alt="Verify-WLANs-1" src="https://github.com/user-attachments/assets/10e5d715-9f76-46a0-9d42-104e4c289361" />
+
+<img width="730" height="171" alt="Verify-WLANs-2" src="https://github.com/user-attachments/assets/2b8d71f7-2941-43a4-ae77-9bd13a341832" />
+
+
+
+
