@@ -8,6 +8,17 @@ Add a wireless client to the topology and verify that it can:
 - Authenticate using **WPA2-PSK**
 - Receive an IP address via DHCP
 
+## 🧠 Simple Explanation
+
+After configuring the WLANs on the WLC, the final step is to prove everything works:
+
+- Client connects to SSID (Internal or Guest)
+- Client enters the WPA2 password
+- Client receives an IP address
+
 ## Topology For Reference
 
 <img width="491" height="251" alt="topology" src="https://github.com/user-attachments/assets/72d0bdd5-e278-4cca-9727-160600a81eb2" />
+
+---
+
