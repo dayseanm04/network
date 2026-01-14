@@ -23,6 +23,23 @@ By completing this lab, you will be able to:
 
 ---
 
+## 🧪 Lab Tasks Overview
+
+### 🌐 Task 1 – Access and Explore the WLC GUI
+
+- Use **PC1** to access the **WLC1 GUI**
+- Connect using **HTTPS**
+- Log in with:
+  - **Username:** `admin`
+  - **Password:** `Cisco123`
+- Explore the WLC tabs and dashboards
+- Observe the current network status (APs, WLANs, interfaces)
+
+📌 *Purpose:* Become familiar with the WLC interface and understand how the wireless network is managed.
+
+---
+
+
 ## ✍️ Author Information
 
 **Name:** *Daysean Mensah*  
