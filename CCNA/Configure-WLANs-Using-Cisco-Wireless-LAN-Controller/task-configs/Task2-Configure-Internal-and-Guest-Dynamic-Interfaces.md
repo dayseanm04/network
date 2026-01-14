@@ -46,4 +46,11 @@ Click **New** on the top right and enter the interface details.
 
 Interfance name: Internal, VLAN ID: 100 then click Apply then click Back
 
+## 3️⃣ Create the Guest Dynamic Interface
+
+Click **New** on the top right and enter the interface details.
+
+<img width="608" height="160" alt="T3-3" src="https://github.com/user-attachments/assets/ffde18f7-d7e7-45ed-826b-c021c58fe933" />
+
+Interfance name: Guest, VLAN ID: 200 then click Apply then click Back
 
