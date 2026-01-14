@@ -29,9 +29,15 @@ After configuring the WLANs on the WLC, the final step is to prove everything wo
 - Drag a **Smartphone** into the topology
 
 ### 2️⃣ Connect the Smartphone to the WLAN
+
 - Click the Smartphone
 - Clicn on **Config**
 - Click on **Wireless0**
+
+### 3️⃣  Enter wireless details
+
+- For the SSID enter: **`Internal`**
+- For the Authentication check **`WPA2-PSK`**
 
 
 
