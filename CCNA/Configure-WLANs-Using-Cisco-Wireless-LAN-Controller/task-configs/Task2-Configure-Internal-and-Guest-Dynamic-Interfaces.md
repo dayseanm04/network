@@ -54,3 +54,16 @@ Click **New** on the top right and enter the interface details.
 
 Interfance name: Guest, VLAN ID: 200 then click Apply then click Back
 
+### ✅ Results 
+
+<img width="990" height="293" alt="T3-4" src="https://github.com/user-attachments/assets/ac706ac5-130f-4ecf-92ed-c2b45b4e5a62" />
+
+
+
+
+
+
+
+
+
+
