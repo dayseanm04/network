@@ -28,6 +28,8 @@ On a Cisco WLC:
 
 # ✅ Step by Step (WLC GUI)
 
+## 🟢 Part A
+
 ### 1️⃣ Go to the Interfaces Section
 
 In the WLC GUI, navigate to:
@@ -58,6 +60,7 @@ Interfance name: Guest, VLAN ID: 200 then click Apply then click Back
 
 <img width="990" height="293" alt="T3-4" src="https://github.com/user-attachments/assets/ac706ac5-130f-4ecf-92ed-c2b45b4e5a62" />
 
+## 🟢 Part B
 
 
 
