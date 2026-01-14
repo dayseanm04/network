@@ -26,4 +26,13 @@ On a Cisco WLC:
 | Internal | 100 | 10.0.0.10 | 255.255.255.0 | 10.0.0.1 | 10.0.0.1 |
 | Guest | 200 | 10.1.0.10 | 255.255.255.0 | 10.1.0.1 | 10.1.0.1 |
 
+# ✅ Step by Step (WLC GUI)
 
+### 1️⃣ Go to the Interfaces Section
+
+In the WLC GUI, navigate to:
+- **Controller** → **Interfaces**
+
+<img width="607" height="311" alt="T2-1" src="https://github.com/user-attachments/assets/37c27730-f7d2-4a48-8eff-3f12c33f6792" />
+
+---
