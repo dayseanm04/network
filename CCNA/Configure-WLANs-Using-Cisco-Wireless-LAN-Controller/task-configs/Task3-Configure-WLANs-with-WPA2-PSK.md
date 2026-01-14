@@ -1,3 +1,10 @@
+# 🔐 Task 3 Configure WLANs with WPA2 PSK
+
+## 📌 Objective
+
+Create and configure two WLANs on **WLC1**:
+- 🏥 **Internal WLAN**
+- 🧑‍⚕️ **Guest WLAN**
 
 ## Topology For Reference
 
