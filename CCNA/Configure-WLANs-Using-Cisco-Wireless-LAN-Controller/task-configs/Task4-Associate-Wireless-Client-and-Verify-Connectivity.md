@@ -28,6 +28,8 @@ After configuring the WLANs on the WLC, the final step is to prove everything wo
 
 - Drag a **Smartphone** into the topology
 
+<img width="635" height="287" alt="add-smartphone" src="https://github.com/user-attachments/assets/19c54b89-c127-431d-931e-3109bee6ba04" />
+
 ### 2️⃣ Connect the Smartphone to the WLAN
 
 - Click the Smartphone
