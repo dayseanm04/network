@@ -43,5 +43,17 @@ On a Cisco 3504 Wireless Controller:
 
 <img width="899" height="170" alt="WLAN-tab" src="https://github.com/user-attachments/assets/8e2dc235-ce70-48c2-a8ed-35be7f9933b5" />
 
+## 2️⃣ Create the Internal WLAN
 
+Click **Go** on the top right and enter:
+
+
+- **Profile Name:** `Internal`
+- **SSID:** `Internal`
+- **WLAN ID:** `1`
+
+Click **Apply**
+
+
+<img width="766" height="239" alt="T4-1" src="https://github.com/user-attachments/assets/17437fb2-fac9-4741-8b35-e78c3baa8cf3" />
 
