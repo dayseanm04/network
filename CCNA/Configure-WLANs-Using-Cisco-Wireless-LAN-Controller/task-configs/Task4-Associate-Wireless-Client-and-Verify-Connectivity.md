@@ -30,5 +30,8 @@ After configuring the WLANs on the WLC, the final step is to prove everything wo
 
 ### 2️⃣ Connect the Smartphone to the WLAN
 - Click the Smartphone
-- Go to **Desktop**
+- Clicn on **Config**
+- Click on **Wireless0**
+
+
 
