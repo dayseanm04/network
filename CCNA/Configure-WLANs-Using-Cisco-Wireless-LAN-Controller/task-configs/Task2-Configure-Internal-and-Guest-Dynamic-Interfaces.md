@@ -43,7 +43,7 @@ In the WLC GUI, navigate to:
 
 Click **New** on the top right and enter the interface details.
 
-<img width="606" height="180" alt="T3-2" src="https://github.com/user-attachments/assets/5957eb79-ee65-4fc4-bfe0-81edb20b332f" />
+<img width="606" height="180" alt="T2-2" src="https://github.com/user-attachments/assets/5957eb79-ee65-4fc4-bfe0-81edb20b332f" />
 
 Interfance name: Internal, VLAN ID: 100 then click Apply then click Back
 
@@ -51,19 +51,19 @@ Interfance name: Internal, VLAN ID: 100 then click Apply then click Back
 
 Click **New** on the top right and enter the interface details.
 
-<img width="608" height="160" alt="T3-3" src="https://github.com/user-attachments/assets/ffde18f7-d7e7-45ed-826b-c021c58fe933" />
+<img width="608" height="160" alt="T2-3" src="https://github.com/user-attachments/assets/ffde18f7-d7e7-45ed-826b-c021c58fe933" />
 
 Interfance name: Guest, VLAN ID: 200 then click Apply then click Back
 
 ### ✅ Results 
 
-<img width="990" height="293" alt="T3-4" src="https://github.com/user-attachments/assets/ac706ac5-130f-4ecf-92ed-c2b45b4e5a62" />
+<img width="990" height="293" alt="T2-4" src="https://github.com/user-attachments/assets/ac706ac5-130f-4ecf-92ed-c2b45b4e5a62" />
 
 ## 🟢 Part B Configure the interfaces
 
 ### 1️⃣ Click on Internal 
 
-<img width="823" height="300" alt="T3-5" src="https://github.com/user-attachments/assets/82455cea-854f-4ef8-81d7-cfa49d8bf549" />
+<img width="823" height="300" alt="T2-5" src="https://github.com/user-attachments/assets/82455cea-854f-4ef8-81d7-cfa49d8bf549" />
 
 Set the Port Number to 1 under the Physical Information section.
 Note: Port 1 is connected to the Switch. 
@@ -74,12 +74,12 @@ Give the Internal internal an IP addresss, Subnet Mask, Default Gateway and the 
 
 Click Apply on the Top right and go back and dont forget to Click save config on the top right, see bellow:
 
-<img width="186" height="30" alt="image" src="https://github.com/user-attachments/assets/458265ab-a625-4f9a-bc4e-9ecbfbdb8150" />
+<img width="186" height="30" alt="save" src="https://github.com/user-attachments/assets/458265ab-a625-4f9a-bc4e-9ecbfbdb8150" />
 
 
 ### 2️⃣ Click on Guest 
 
-<img width="788" height="305" alt="T3-6" src="https://github.com/user-attachments/assets/f675f57f-2b8c-4274-a497-7482a74331cb" />
+<img width="788" height="305" alt="T2-6" src="https://github.com/user-attachments/assets/f675f57f-2b8c-4274-a497-7482a74331cb" />
 
 Set the Port Number to 1 under the Physical Information section
 Note: Port 1 is connected to the Switch. 
