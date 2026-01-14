@@ -42,5 +42,6 @@ After configuring the WLANs on the WLC, the final step is to prove everything wo
 - For the Authentication check **WPA2-PSK**
 - For the PSK Pass Phrase enter: **ccnaccna**
 
+<img width="703" height="370" alt="smarphone-connect" src="https://github.com/user-attachments/assets/ae2d05c9-386b-4d01-ab1c-5b680b620101" />
 
 
