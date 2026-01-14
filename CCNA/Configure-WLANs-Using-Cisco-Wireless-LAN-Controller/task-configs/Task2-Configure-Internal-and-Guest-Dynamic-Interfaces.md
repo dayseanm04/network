@@ -66,8 +66,9 @@ Interfance name: Guest, VLAN ID: 200 then click Apply then click Back
 
 <img width="823" height="300" alt="T3-5" src="https://github.com/user-attachments/assets/82455cea-854f-4ef8-81d7-cfa49d8bf549" />
 
-Give Internal an IP addresss, Subnet Mask and Default Gateway. Note the default gateway is the SVI of VLAN 100.
+Give Internal an IP addresss, Subnet Mask and Default Gateway. Note the default gateway is the SVI of VLAN 100. See bellow:
 
+<img width="557" height="245" alt="show-run" src="https://github.com/user-attachments/assets/ef4f1264-a6f7-4764-b440-653903904b36" />
 
 
 
