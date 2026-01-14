@@ -1,4 +1,4 @@
-# 📱 Task4 Associate Wireless Client and Verify Connectivity
+# 📱 Task 4 Associate Wireless Client and Verify Connectivity
 
 ## 📌 Objective
 
