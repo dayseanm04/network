@@ -47,5 +47,14 @@ After configuring the WLANs on the WLC, the final step is to prove everything wo
 
 <img width="675" height="255" alt="smartphone-wifi" src="https://github.com/user-attachments/assets/a8a82b72-fa88-4ab0-bb47-d888458e8aec" />
 
-The smartphone successfully connected to the WLAN
+The smartphone successfully connected to the WLAN.
+
+<img width="479" height="127" alt="smartphone-ip" src="https://github.com/user-attachments/assets/ee7dfbe8-3a2a-4db3-8c6f-dc8d84a7955b" />
+
+Note: The smartphone received an IP from the wrong pool/subnet, Its suppose to recieve an IP addresses for the VLAN 100 subnet see below.
+
+<img width="397" height="63" alt="VLAN-DHCP" src="https://github.com/user-attachments/assets/cd79bd23-3dc7-4c9b-a2d9-024926be48cf" />
+
+
+
 
