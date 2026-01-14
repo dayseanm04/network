@@ -29,3 +29,11 @@ Before configuring anything, it’s important to understand **what information i
 
 ---
 
+### 2️⃣ Access the WLC GUI Using HTTPS
+
+In the address bar, enter:
+
+```bash
+https://172.16.1.10
+```
+
