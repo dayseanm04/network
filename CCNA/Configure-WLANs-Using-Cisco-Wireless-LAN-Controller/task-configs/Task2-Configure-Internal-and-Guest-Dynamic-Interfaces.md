@@ -65,7 +65,7 @@ Interfance name: Guest, VLAN ID: 200 then click Apply then click Back
 
 <img width="823" height="300" alt="T3-5" src="https://github.com/user-attachments/assets/82455cea-854f-4ef8-81d7-cfa49d8bf549" />
 
-Give  the Internal internal an IP addresss, Subnet Mask, Default Gateway and the DHCP Server. Note the default gateway and the DHCP Server is the SVI of VLAN 100. See bellow:
+Set the Port Number to 1 under the Physical Information section. Give the Internal internal an IP addresss, Subnet Mask, Default Gateway and the DHCP Server. Note the default gateway and the DHCP Server is the SVI of VLAN 100. See bellow:
 
 <img width="557" height="245" alt="show-run" src="https://github.com/user-attachments/assets/ef4f1264-a6f7-4764-b440-653903904b36" />
 
@@ -78,7 +78,7 @@ Click Apply on the Top right and go back and dont forget to Click save config on
 
 <img width="788" height="305" alt="T3-6" src="https://github.com/user-attachments/assets/f675f57f-2b8c-4274-a497-7482a74331cb" />
 
-Give the Guest interface an IP addresss, Subnet Mask, Default Gateway and the DHCP Server. Note the default gateway and the DHCP Server is the SVI of VLAN 200.
+Set the Port Number to 1 under the Physical Information section. Give the Guest interface an IP addresss, Subnet Mask, Default Gateway and the DHCP Server. Note the default gateway and the DHCP Server is the SVI of VLAN 200.
 
 Click Apply on the Top right and go back and dont forget to Click save config on the top right.
 
