@@ -59,7 +59,7 @@ Click **Apply**
 
 Check the Enable checkbox
 
-## 4️⃣ Map Internal WLAN to Internal Interface
+## 4️⃣ Map Internal WLAN to the Internal Interface
 
 Click on the **Internal WLAN** ID number, then set:
 - **Interface/Interface Group:** `Internal`
@@ -69,3 +69,18 @@ Click on the **Internal WLAN** ID number, then set:
 Click **Apply** on the top right.
 
 ---
+
+## 2️⃣ Create the Guest WLAN
+
+Click **Go** on the top right and enter:
+
+- **Profile Name:** `Guest`
+- **SSID:** `Guest`
+- **WLAN ID:** `2`
+
+Click **Apply**
+
+<img width="988" height="420" alt="T4-4" src="https://github.com/user-attachments/assets/247c5ca4-f3e1-4f9c-a6f6-e2c0ab312c06" />
+
+
+
