@@ -49,7 +49,7 @@ By completing this lab, you will be able to:
 
 ---
 
-### 🔐 Task 3 – Create-Internal-and-Guest-WLANs-with-WPA2-PSK
+### 🔐 Task 3 – Create Internal and Guest WLANs with WPA2 PSK
 
 - Create two WLANs:
   - **Internal WLAN**
@@ -58,6 +58,16 @@ By completing this lab, you will be able to:
 - Map each WLAN to its corresponding dynamic interface
 
 📌 *Purpose:* Provide secure wireless access while separating internal and guest users.
+
+---
+
+### 📱 Task 4 – Add and Verify Wireless Client Connectivity
+
+- Add a wireless client to the network
+- Connect the client to one of the WLANs
+- Verify successful connectivity
+
+📌 *Purpose:* Confirm that the wireless configuration is working end-to-end.
 
 ---
 
