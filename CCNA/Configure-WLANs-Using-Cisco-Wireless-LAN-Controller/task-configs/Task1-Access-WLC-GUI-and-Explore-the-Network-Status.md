@@ -41,3 +41,11 @@ You should seee this Login page:
 
 <img width="953" height="652" alt="WLC-Login" src="https://github.com/user-attachments/assets/70d5febd-7370-45cc-8a29-92536af08a3d" />
 
+### 3️⃣ Log In to the WLC
+
+| Field    | Value    |
+| -------- | -------- |
+| Username | admin    |
+| Password | Cisco123 |
+
+
