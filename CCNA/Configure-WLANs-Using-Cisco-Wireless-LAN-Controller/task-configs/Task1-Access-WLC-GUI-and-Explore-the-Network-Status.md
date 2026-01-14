@@ -56,3 +56,5 @@ Click on the:
 - CONTROLLER tab
 - WIRELESS tab
 - SECURITY tab
+
+Note: Cisco packet tracer is very slow and most of the features are unavailable
