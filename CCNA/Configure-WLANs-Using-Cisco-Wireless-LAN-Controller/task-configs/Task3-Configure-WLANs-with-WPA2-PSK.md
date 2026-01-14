@@ -91,7 +91,7 @@ Check the Enable checkbox
 
 <img width="988" height="420" alt="T4-4" src="https://github.com/user-attachments/assets/247c5ca4-f3e1-4f9c-a6f6-e2c0ab312c06" />
 
-## 4️⃣ Map Internal WLAN to the Internal Interface
+## 4️⃣ Map Guest WLAN to the Guest Interface
 
 Click on the **Internal WLAN** ID number, then set:
 - **Interface/Interface Group:** `Guest`
