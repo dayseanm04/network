@@ -42,6 +42,10 @@ After configuring the WLANs on the WLC, the final step is to prove everything wo
 - For the Authentication check **WPA2-PSK**
 - For the PSK Pass Phrase enter: **ccnaccna**
 
+
 <img width="703" height="370" alt="smarphone-connect" src="https://github.com/user-attachments/assets/ae2d05c9-386b-4d01-ab1c-5b680b620101" />
 
+<img width="675" height="255" alt="smartphone-wifi" src="https://github.com/user-attachments/assets/a8a82b72-fa88-4ab0-bb47-d888458e8aec" />
+
+The smartphone successfully connected to the WLAN
 
