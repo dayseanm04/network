@@ -118,6 +118,17 @@ Click **Apply** on the top right.
 
 <img width="973" height="344" alt="T5-2" src="https://github.com/user-attachments/assets/fd581c73-91b5-444c-ae9c-3659ca9e4307" />
 
+## 2️⃣ Set Security for Guest WLAN (WPA2-PSK)
+
+Click **Internal WLAN** → **Security** tab:
+
+- **Layer 2 Security:** `WPA + WPA2`
+- **WPA+WPA2 Parameters:** `WPA2 Policy`
+- **WPA2 Encryption:** AES
+- **Authentication Key Management:** `PSK`
+- **PSK Password:** `ccnaccna`
+
+Click **Apply** on the top right.
 
 
 
