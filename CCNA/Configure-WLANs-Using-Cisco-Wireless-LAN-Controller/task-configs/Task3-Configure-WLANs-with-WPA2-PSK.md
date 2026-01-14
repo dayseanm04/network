@@ -80,6 +80,10 @@ Click **Go** on the top right and enter:
 
 Click **Apply**
 
+<img width="596" height="235" alt="T4-2" src="https://github.com/user-attachments/assets/14f11a62-0d4b-4ad1-95aa-35d818e69437" />
+
+
+
 <img width="988" height="420" alt="T4-4" src="https://github.com/user-attachments/assets/247c5ca4-f3e1-4f9c-a6f6-e2c0ab312c06" />
 
 
