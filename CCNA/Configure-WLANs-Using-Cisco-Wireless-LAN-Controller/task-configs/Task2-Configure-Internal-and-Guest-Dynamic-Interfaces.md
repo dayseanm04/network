@@ -18,3 +18,12 @@ On a Cisco WLC:
 <img width="491" height="251" alt="topology" src="https://github.com/user-attachments/assets/72d0bdd5-e278-4cca-9727-160600a81eb2" />
 
 ---
+
+## 📋 Interface Plan 
+
+| Interface | VLAN ID | IP Address | Subnet Mask | Default Gateway | DHCP Server |
+|----------|---------|------------|-------------|-----------------|------------|
+| Internal | 100 | 10.0.0.10 | 255.255.255.0 | 10.0.0.1 | 10.0.0.1 |
+| Guest | 200 | 10.1.0.10 | 255.255.255.0 | 10.1.0.1 | 10.1.0.1 |
+
+
