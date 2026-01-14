@@ -114,8 +114,9 @@ Click **Internal WLAN** → **Security** tab:
 
 Click **Apply** on the top right.
 
-<img width="754" height="659" alt="T5-4" src="https://github.com/user-attachments/assets/ad8de7ae-a490-4ad9-93ee-03a4ef374ef6" />
+<img width="754" height="659" alt="T5-1" src="https://github.com/user-attachments/assets/ad8de7ae-a490-4ad9-93ee-03a4ef374ef6" />
 
+<img width="973" height="344" alt="T5-2" src="https://github.com/user-attachments/assets/fd581c73-91b5-444c-ae9c-3659ca9e4307" />
 
 
 
