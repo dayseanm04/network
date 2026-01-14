@@ -50,6 +50,8 @@ You should seee this Login page:
 
 ## 🔍 Explore the WLC GUI
 
+<img width="1248" height="697" alt="WLC-Explore" src="https://github.com/user-attachments/assets/4cebb508-4930-4a75-8832-c17265c01df1" />
+
 Click on the:
 - Montior tab
 - WLANs tab
