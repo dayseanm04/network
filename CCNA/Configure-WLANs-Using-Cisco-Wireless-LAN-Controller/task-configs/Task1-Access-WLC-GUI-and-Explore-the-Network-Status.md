@@ -48,4 +48,11 @@ You should seee this Login page:
 | Username | admin    |
 | Password | Cisco123 |
 
+## 🔍 Explore the WLC GUI
 
+Click on the:
+- Montior tab
+- WLANs tab
+- CONTROLLER tab
+- WIRELESS tab
+- SECURITY tab
