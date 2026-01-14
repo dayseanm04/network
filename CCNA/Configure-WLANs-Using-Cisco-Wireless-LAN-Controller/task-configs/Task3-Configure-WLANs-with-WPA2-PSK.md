@@ -26,3 +26,14 @@ On a Cisco 3504 Wireless Controller:
 
 ---
 
+## 📋 WLAN Plan (Fill In Your Values)
+
+| WLAN | SSID | WLAN ID | Interface Mapping | Security |
+|------|------|--------|------------------|----------|
+| Internal | Internal | 1 | Internal | WPA2-PSK |
+| Guest | Guest | 2 | Guest | WPA2-PSK |
+
+📌 WLAN IDs must be **unique** on the WLC.
+
+---
+
