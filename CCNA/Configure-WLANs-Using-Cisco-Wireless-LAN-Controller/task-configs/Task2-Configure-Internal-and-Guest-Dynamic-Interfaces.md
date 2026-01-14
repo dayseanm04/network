@@ -69,7 +69,7 @@ Give Internal an IP addresss, Subnet Mask, Default Gateway and the DHCP Server. 
 
 <img width="557" height="245" alt="show-run" src="https://github.com/user-attachments/assets/ef4f1264-a6f7-4764-b440-653903904b36" />
 
-Go back and dont forget to Click save config on the top right, see bellow:
+Click Apply on the Top right and go back and dont forget to Click save config on the top right, see bellow:
 
 <img width="186" height="30" alt="image" src="https://github.com/user-attachments/assets/458265ab-a625-4f9a-bc4e-9ecbfbdb8150" />
 
