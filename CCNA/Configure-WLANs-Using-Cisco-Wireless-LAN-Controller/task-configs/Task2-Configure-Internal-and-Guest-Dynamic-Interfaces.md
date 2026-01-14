@@ -78,5 +78,6 @@ Go back and dont forget to Click save config on the top right, see bellow:
 
 <img width="788" height="305" alt="T3-6" src="https://github.com/user-attachments/assets/f675f57f-2b8c-4274-a497-7482a74331cb" />
 
+Give Internal an IP addresss, Subnet Mask, Default Gateway and the DHCP Server. Note the default gateway and the DHCP Server is the SVI of VLAN 200.
 
 
