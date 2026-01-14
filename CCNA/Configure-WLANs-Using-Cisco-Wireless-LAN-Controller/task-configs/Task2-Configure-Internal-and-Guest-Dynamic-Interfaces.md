@@ -88,3 +88,4 @@ Give the Internal internal an IP addresss, Subnet Mask, Default Gateway and the 
 
 Click Apply on the Top right and go back and dont forget to Click save config on the top right.
 
+<img width="978" height="190" alt="T2-complete" src="https://github.com/user-attachments/assets/04c3e0c0-ad22-4287-936f-3e5a0d44a79c" />
