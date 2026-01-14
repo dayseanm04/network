@@ -19,3 +19,13 @@ Before configuring anything, it’s important to understand **what information i
 
 ---
 
+## 🖥️ Step by Step Instructions
+
+### 1️⃣ Open the Web Browser on PC1
+
+- Click **PC1**
+- Go to **Desktop**
+- Open **Web Browser**
+
+---
+
