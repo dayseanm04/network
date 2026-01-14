@@ -36,8 +36,9 @@ After configuring the WLANs on the WLC, the final step is to prove everything wo
 
 ### 3️⃣  Enter wireless details
 
-- For the SSID enter: **`Internal`**
-- For the Authentication check **`WPA2-PSK`**
+- For the SSID enter: **Internal**
+- For the Authentication check **WPA2-PSK**
+- For the PSK Pass Phrase enter: **ccnaccna**
 
 
 
