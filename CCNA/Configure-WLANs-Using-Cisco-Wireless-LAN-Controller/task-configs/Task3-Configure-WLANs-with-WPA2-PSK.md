@@ -100,4 +100,15 @@ Click on the **Internal WLAN** ID number, then set:
 
 Click **Apply** on the top right.
 
+# ✅ Part B - Configure WPA2-PSK Security for the WLANs
+
+
+
+
+
+
+
+
+
+
 
