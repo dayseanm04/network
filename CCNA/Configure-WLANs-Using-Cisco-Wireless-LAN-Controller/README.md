@@ -49,6 +49,18 @@ By completing this lab, you will be able to:
 
 ---
 
+### 🔐 Task 3 – Create-Internal-and-Guest-WLANs-with-WPA2-PSK
+
+- Create two WLANs:
+  - **Internal WLAN**
+  - **Guest WLAN**
+- Secure both WLANs using **WPA2 with Pre-Shared Key (PSK)**
+- Map each WLAN to its corresponding dynamic interface
+
+📌 *Purpose:* Provide secure wireless access while separating internal and guest users.
+
+---
+
 ## ✍️ Author Information
 
 **Name:** *Daysean Mensah*  
