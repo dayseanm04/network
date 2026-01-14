@@ -44,3 +44,6 @@ Click **New** on the top right and enter the interface details.
 
 <img width="606" height="180" alt="T3-2" src="https://github.com/user-attachments/assets/5957eb79-ee65-4fc4-bfe0-81edb20b332f" />
 
+Interfance name: Internal, VLAN ID: 100 then click Apply then click Back
+
+
