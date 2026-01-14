@@ -39,6 +39,15 @@ By completing this lab, you will be able to:
 
 ---
 
+### 🔧 Task 2 – Configure Dynamic Interfaces for Internal and Guest WLANs
+
+- Create separate **dynamic interfaces** on the WLC
+- Assign each interface to the correct VLAN and IP configs
+- Prepare the WLC for multiple WLANs
+
+📌 *Purpose:* Support network segmentation for Internal and Guest wireless traffic.
+
+---
 
 ## ✍️ Author Information
 
