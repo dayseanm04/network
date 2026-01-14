@@ -52,3 +52,11 @@ For **VLAN 20**, reverse the roles:
   - STP **Secondary Root**
 
 📌 *Purpose:* Ensure hosts in VLAN 20 have a direct path to **DSW2** as their default gateway.
+
+---
+
+## ✍️ Author Information
+
+**Name:** *Daysean Mensah*  
+**Course/Program:** *Cisco CCNA Studies*  
+**Lab completion date:** january 11 2026.
