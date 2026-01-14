@@ -6,6 +6,17 @@ I will access the **WLC GUI**, create **dynamic interfaces**, configure **Intern
 
 The goal is to understand how centralized wireless management works using a WLC.
 
+---
+
+## 🎯 Lab Objectives
+
+By completing this lab, you will be able to:
+- Access and navigate the **Cisco 3504 Wireless Controller GUI**
+- Understand the **current state of the wireless network**
+- Configure **dynamic interfaces** for different WLANs
+- Create **secure WLANs using WPA2-PSK**
+- Verify **wireless client connectivity**
+
 ## Topology For Reference
 
 <img width="491" height="251" alt="topology" src="https://github.com/user-attachments/assets/72d0bdd5-e278-4cca-9727-160600a81eb2" />
