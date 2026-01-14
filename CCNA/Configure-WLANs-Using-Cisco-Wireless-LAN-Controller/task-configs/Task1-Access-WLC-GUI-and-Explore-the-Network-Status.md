@@ -1,4 +1,4 @@
-# 🌐 Task1 Access WLC GUI and Explore the Network Status
+# 🌐 Task 1 Access WLC GUI and Explore the Network Status
 
 ## 📌 Objective
 
