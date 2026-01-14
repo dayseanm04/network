@@ -37,3 +37,11 @@ On a Cisco 3504 Wireless Controller:
 
 ---
 
+# ✅ Part A - Create the WLANs (WLC GUI)
+
+## 1️⃣ Click on the WLANs tab
+
+<img width="899" height="170" alt="WLAN-tab" src="https://github.com/user-attachments/assets/8e2dc235-ce70-48c2-a8ed-35be7f9933b5" />
+
+
+
