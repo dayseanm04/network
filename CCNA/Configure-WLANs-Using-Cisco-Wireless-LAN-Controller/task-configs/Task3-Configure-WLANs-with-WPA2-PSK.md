@@ -128,7 +128,5 @@ Click **Internal WLAN** → **Security** tab:
 - **Authentication Key Management:** `PSK`
 - **PSK Password:** `ccnaccna`
 
-Click **Apply** on the top right.
-
-
+Click **Apply** on the top right. Also dont forget to Click save on the Top right!
 
