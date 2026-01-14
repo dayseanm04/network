@@ -24,3 +24,10 @@ This lab helped me learn several important wireless concepts:
 
 ---
 
+## 🔍 Key Observations
+
+- WLANs must be **enabled** before clients can connect
+- WLANs must be mapped to the **correct interface**, or clients may get the wrong IP address
+- Packet Tracer has **limitations**, especially with DHCP behavior on WLCs
+
+---
