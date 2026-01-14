@@ -102,11 +102,19 @@ Click **Apply** on the top right.
 
 # ✅ Part B - Configure WPA2-PSK Security for the WLANs
 
+## 1️⃣ Set Security for Internal WLAN (WPA2-PSK)
 
+Click **Internal WLAN** → **Security** tab:
 
+- **Layer 2 Security:** `WPA + WPA2`
+- **WPA+WPA2 Parameters:** `WPA2 Policy`
+- **WPA2 Encryption:** AES
+- **Authentication Key Management:** `PSK`
+- **PSK Password:** `ccnaccna`
 
+Click **Apply** on the top right.
 
-
+<img width="754" height="659" alt="T5-4" src="https://github.com/user-attachments/assets/ad8de7ae-a490-4ad9-93ee-03a4ef374ef6" />
 
 
 
