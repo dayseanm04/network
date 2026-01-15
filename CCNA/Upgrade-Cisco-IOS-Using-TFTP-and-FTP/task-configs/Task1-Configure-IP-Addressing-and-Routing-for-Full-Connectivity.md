@@ -57,3 +57,25 @@ interface g0/1
  ip address 10.0.0.254 255.255.255.0
  no shutdown
 ```
+
+## 2️⃣ Configure R1 Interfaces 
+
+
+#### ♦️Enter Global Configuration Mode:
+
+```bash
+enable
+configure terminal
+```
+
+#### ♦️ Configure R2 G0/0 interface
+
+```bash
+interface g0/0
+ ip address 192.168.12.2 255.255.255.252
+ no shutdown
+```
+
+
+
+
