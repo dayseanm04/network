@@ -61,18 +61,21 @@ Hit enter
 
 ## ✅ Verification After Reload
 
-### 1️⃣ Verify the New IOS Image Exists
+### 5️⃣ Verify the New IOS Image Exists
 
 #### 🟢 On R1 in Priviliged EXEC mode:
 
 ```bash
-show version
+show flash:
 ```
 
 <img width="969" height="240" alt="T5-verify-new-OS" src="https://github.com/user-attachments/assets/5e1fe2a0-b78e-46a7-a7a6-3dd7bb3b0d33" />
 
+### 6️⃣ Delete the Old IOS Image
 
-
+```bash
+delete flash:c2900-universalk9-mz.SPA.151-4.M4.bin
+```
 
 
 
