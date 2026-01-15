@@ -10,6 +10,19 @@ In this lab, I upgraded the **Cisco IOS** on two routers using **TFTP** and **FT
 
 ---
 
+## 🎯 What I Learned
+
+This lab helped me understand how IOS upgrades are performed and why each step matters:
+
+- IOS upgrades require **working network connectivity**
+- **TFTP** is simple and fast but does not use authentication
+- **FTP** supports usernames and passwords and is more secure
+- The **boot system** command controls which IOS image the router loads
+- Old IOS files should only be deleted **after confirming** the new IOS is running
+
+I also learned how important it is to verify flash space and save configurations before reloading a router.
+
+---
 
 
 
