@@ -52,7 +52,13 @@ copy tftp: flash:
 - Source filename []? **`c2900-universalk9-mz.SPA.155-3.M4a.bin`**
 - Destination filename [**`c2900-universalk9-mz.SPA.155-3.M4a.bin`**]? <Hit Enter>
 
+**Note:** ⏳ The transfer may take some time. Do not interrupt the process.
 
+## ✅ Verify IOS Image Was Transferred
+
+```bash
+show flash
+```
 
 
 
