@@ -25,6 +25,16 @@ By completing this lab, you will be able to:
 
 ---
 
+## 🧪 Lab Tasks Overview
+
+### 🛠️ Task 1 – Configure IP Addressing and Routing
+
+- Assign IP addresses to all devices
+- Configure routing on routers to ensure full network connectivity
+
+📌 *Purpose:* Ensure all devices can communicate before attempting file transfers.
+
+---
 
 
 
