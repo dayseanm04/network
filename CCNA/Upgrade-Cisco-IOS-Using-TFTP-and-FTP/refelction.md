@@ -24,12 +24,12 @@ I also learned how important it is to verify flash space and save configurations
 
 ---
 
+## 🔍 Key Observations
 
-
-
-
-
-
+- File transfers can take time and should not be interrupted
+- Verifying the IOS version after reload is critical
+- Flash memory management is necessary to avoid storage issues
+- Careful planning prevents accidental router downtime
 
 
 
