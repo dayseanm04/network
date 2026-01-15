@@ -30,4 +30,11 @@ Use **TFTP** on **R1** to download a new **Cisco IOS image** from **SRV1** and s
 
 ---
 
+## ⚙️ TFTP Transfer Configuration (Exact Commands)
+
+#### 1️⃣ Enter Priviliged EXEC mode on R1:
+
+```bash
+enable
+```
 
