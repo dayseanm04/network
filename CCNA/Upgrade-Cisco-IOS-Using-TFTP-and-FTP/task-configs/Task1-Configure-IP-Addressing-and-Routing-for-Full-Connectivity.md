@@ -92,3 +92,26 @@ On SRV1:
 ```bash
 ip route 10.0.0.0 255.255.255.0 192.168.12.1
 ```
+
+## ✅ Verification
+
+
+## 🔶show ip interface brief on R1
+
+<img width="850" height="136" alt="R1-ip-int" src="https://github.com/user-attachments/assets/5eae9d3d-6f59-499b-bb67-0354a379e5ef" />
+
+## 🔶show ip interface brief on R2
+
+<img width="826" height="132" alt="R2-ip-int" src="https://github.com/user-attachments/assets/491c2554-66a1-4b71-a3e1-445a563c9953" />
+
+
+
+
+
+
+
+
+
+
+
+
