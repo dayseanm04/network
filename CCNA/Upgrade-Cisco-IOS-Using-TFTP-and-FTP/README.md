@@ -55,6 +55,19 @@ By completing this lab, you will be able to:
 
 ---
 
+### 📤 Task 4 – Transfer IOS Image to R2 Using FTP
+
+- Use **FTP** on **R2** to download the IOS image from **SRV1**
+- FTP Credentials:
+  - **Username:** `jeremy`
+  - **Password:** `ccna`
+- File: `c2900-universalk9-mz.SPA.155-3.M4a.bin`
+
+⏱️ *Note:* The FTP transfer may take some time.
+
+📌 *Purpose:* Practice IOS file transfers using FTP with authentication.
+
+---
 
 
 
