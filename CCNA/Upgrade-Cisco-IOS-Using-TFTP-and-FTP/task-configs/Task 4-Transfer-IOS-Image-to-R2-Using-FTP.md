@@ -31,24 +31,31 @@ Use **FTP** on **R2** to download a new **Cisco IOS image** from **SRV1** and st
 
 ---
 
-<img width="953" height="378" alt="T4-FTP-SRV" src="https://github.com/user-attachments/assets/208e8f44-5d01-441e-85b1-3b700f1efe8c" />
-
 - Click on the SRV1
 - Click on Services
 - Click on FTP
 
-
-
+<img width="953" height="378" alt="T4-FTP-SRV" src="https://github.com/user-attachments/assets/208e8f44-5d01-441e-85b1-3b700f1efe8c" />
 
 
 
 ## ⚙️ FTP Transfer Configuration
 
-#### 1️⃣ Enter GlobalConfig mode on R2:
+### 1️⃣ Enter Global Config mode on R2:
 
 ```bash
 enable
 conf t
 ```
+
+### 2️⃣ Configure FTP username of password
+
+```bash
+ip ftp username jeremy 
+ip ftp password ccna
+```
+
+
+
 
 
