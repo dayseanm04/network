@@ -73,15 +73,3 @@ show flash
 ```
 
 <img width="811" height="196" alt="Verify-flash" src="https://github.com/user-attachments/assets/e01c6cc4-7c9c-4b1a-bd25-3a8c4025a484" />
-
-## ✅ Verification After Reload
-
-### 1️⃣ Verify the New IOS Image Exists
-
-#### 🟢 On R2 in Priviliged EXEC mode:
-
-```bash
-show version
-```
-
-<img width="811" height="196" alt="Verify-flash" src="https://github.com/user-attachments/assets/6b48eedf-aaa0-40b5-989e-d335c7a04a02" />
