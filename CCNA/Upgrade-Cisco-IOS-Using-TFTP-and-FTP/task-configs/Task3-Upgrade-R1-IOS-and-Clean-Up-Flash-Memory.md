@@ -82,6 +82,7 @@ Note the old OS is File 3 (c2900-universalk9-mz.SPA.151-4.M4.bin). Copy the file
 delete flash:c2900-universalk9-mz.SPA.151-4.M4.bin
 ```
 
+<img width="698" height="81" alt="T3-delete-old-os" src="https://github.com/user-attachments/assets/8ca39e5c-315f-4cc4-948f-71595d983511" />
 
 
 
