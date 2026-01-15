@@ -46,9 +46,11 @@ copy tftp: flash:
 
 <img width="779" height="344" alt="T2-TFTP" src="https://github.com/user-attachments/assets/af43610e-9055-49e8-b990-796edb14bca2" />
 
+#### 🟢 When prompted, enter the following: When prompted, enter the following:
 
-
-
+- Address or name of remote host []? 10.0.0.1
+- Source filename []? c2900-universalk9-mz.SPA.155-3.M4a.bin
+- Destination filename [c2900-universalk9-mz.SPA.155-3.M4a.bin]? <Hit Enter>
 
 
 
