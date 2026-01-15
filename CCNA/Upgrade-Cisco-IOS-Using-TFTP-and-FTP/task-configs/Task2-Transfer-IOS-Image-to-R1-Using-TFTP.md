@@ -60,6 +60,7 @@ copy tftp: flash:
 show flash
 ```
 
+<img width="737" height="202" alt="T2-verify-show-flash" src="https://github.com/user-attachments/assets/ef031a46-f6af-43e4-b34c-0886c9db9b0d" />
 
 
 
