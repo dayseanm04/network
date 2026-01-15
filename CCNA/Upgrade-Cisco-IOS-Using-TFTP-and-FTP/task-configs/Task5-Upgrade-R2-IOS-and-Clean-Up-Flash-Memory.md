@@ -55,6 +55,8 @@ end
 reload
 ```
 
+When prompted, hit Enter
+
 Hit enter
 
 ## ✅ Verification After Reload
