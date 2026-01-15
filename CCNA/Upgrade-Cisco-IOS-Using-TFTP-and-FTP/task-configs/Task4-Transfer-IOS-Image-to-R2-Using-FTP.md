@@ -29,6 +29,13 @@ Use **FTP** on **R2** to download a new **Cisco IOS image** from **SRV1** and st
 | Destination Device | R2 |
 | Destination Location | Flash |
 
+## ⚙️ FTP Transfer Configuration
 
+#### 1️⃣ Enter GlobalConfig mode on R2:
+
+```bash
+enable
+conf t
+```
 
 
