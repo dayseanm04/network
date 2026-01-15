@@ -53,7 +53,49 @@ conf t
 ```bash
 ip ftp username jeremy 
 ip ftp password ccna
+exit
 ```
+
+### 3️⃣ Retrieve the file with FTP
+
+```bash
+copy ftp: flash:
+```
+
+<img width="683" height="192" alt="T4-FTP" src="https://github.com/user-attachments/assets/e27499b3-f3e0-4c1d-9856-dc36f17d4149" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
