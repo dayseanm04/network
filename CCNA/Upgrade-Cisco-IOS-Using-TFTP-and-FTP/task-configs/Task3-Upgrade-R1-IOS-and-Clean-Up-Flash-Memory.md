@@ -33,7 +33,6 @@ show flash:
 ### 2️⃣ Enter Global Config mode
 
 ```bash
-enable
 configure terminal
 ```
 
