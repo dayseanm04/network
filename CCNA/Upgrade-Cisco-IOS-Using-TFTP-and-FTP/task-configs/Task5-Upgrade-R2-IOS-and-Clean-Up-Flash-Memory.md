@@ -30,8 +30,6 @@ Upgrade **R2** to boot from the **new IOS image** that was transferred via FTP, 
 show flash:
 ```
 
-<img width="714" height="206" alt="T4-R2-show-flash" src="https://github.com/user-attachments/assets/bc0f8a3f-dae3-499d-8c3a-107d9106e953" />
-
 ### 2️⃣ Enter Global Config mode
 
 ```bash
