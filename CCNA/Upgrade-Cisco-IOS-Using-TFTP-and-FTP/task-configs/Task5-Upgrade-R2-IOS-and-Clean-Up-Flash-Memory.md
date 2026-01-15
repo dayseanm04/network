@@ -54,8 +54,6 @@ reload
 ```
 When prompted, hit Enter
 
-Hit enter
-
 ## 🧹 Clean Up Old IOS Image
 
 ### 5️⃣ Delete the Old IOS Image
@@ -67,6 +65,21 @@ delete flash:c2900-universalk9-mz.SPA.151-4.M4.bin
 ```
 
 <img width="683" height="192" alt="T4-FTP" src="https://github.com/user-attachments/assets/cf9ef2d6-464f-4d15-9e68-b691e895a1b3" />
+
+When prompted, hit Enter
+
+### 6️⃣ Verify Flash Cleanup
+
+```bash
+show flash
+```
+
+
+
+
+
+
+
 
 
 
