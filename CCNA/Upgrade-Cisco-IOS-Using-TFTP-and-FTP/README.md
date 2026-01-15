@@ -69,7 +69,15 @@ By completing this lab, you will be able to:
 
 ---
 
+### 🔄 Task 5 – Upgrade R2 IOS and Clean Up Flash
 
+- Set the new IOS image as the boot image
+- Reload the router
+- Remove the old IOS image from flash memory
+
+📌 *Purpose:* Complete the IOS upgrade process on R2.
+
+---
 
 ## ✍️ Author Information
 
