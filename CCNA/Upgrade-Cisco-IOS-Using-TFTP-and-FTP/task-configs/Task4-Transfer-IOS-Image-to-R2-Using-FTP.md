@@ -17,4 +17,18 @@ Use **FTP** on **R2** to download a new **Cisco IOS image** from **SRV1** and st
 ---
 
 
+## 📁 IOS Image Information
+
+| Item | Value |
+|----|----|
+| IOS File | **`c2900-universalk9-mz.SPA.155-3.M4a.bin`** |
+| Transfer Method | FTP |
+| Source Device | SRV1 |
+| FTP Username | jeremy |
+| FTP Password | ccna |
+| Destination Device | R2 |
+| Destination Location | Flash |
+
+
+
 
