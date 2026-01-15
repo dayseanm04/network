@@ -65,6 +65,13 @@ copy ftp: flash:
 <img width="683" height="192" alt="T4-FTP" src="https://github.com/user-attachments/assets/e27499b3-f3e0-4c1d-9856-dc36f17d4149" />
 
 
+#### 🟢 When prompted, enter the following: When prompted, enter the following:
+
+- Address or name of remote host []? **`10.0.0.1`**
+- Source filename []? **`c2900-universalk9-mz.SPA.155-3.M4a.bin`**
+- Destination filename [**`c2900-universalk9-mz.SPA.155-3.M4a.bin`**]? <Hit Enter>
+
+**Note:** ⏳ The transfer may take some time. Do not interrupt the process.
 
 
 
