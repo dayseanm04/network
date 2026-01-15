@@ -74,9 +74,13 @@ show flash:
 
 <img width="733" height="199" alt="T2-verify-show-flash" src="https://github.com/user-attachments/assets/ed7cdc46-fb0e-46fd-8b29-6d63c17035b6" />
 
+Note the old OS is File 3 (c2900-universalk9-mz.SPA.151-4.M4.bin). Copy the file
 
+### 6️⃣ Delete the Old IOS Image
 
-
+```bash
+delete flash:c2900-universalk9-mz.SPA.151-4.M4.bin
+```
 
 
 
