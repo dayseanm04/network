@@ -58,8 +58,9 @@ interface g0/1
  no shutdown
 ```
 
-## 2️⃣ Configure R1 Interfaces 
+# 🟢 Configure R1
 
+## 2️⃣ Configure R2 Interfaces 
 
 #### ♦️Enter Global Configuration Mode:
 
@@ -84,3 +85,10 @@ On SRV1:
 - Subnet Mask: `255.255.255.0`
 - Default Gateway: `10.0.0.254`
 
+## 4️⃣ Configure Static Route on R2 (Exact Command)
+
+#### ♦️In Global Configuration Mode on R2:
+
+```bash
+ip route 10.0.0.0 255.255.255.0 192.168.12.1
+```
