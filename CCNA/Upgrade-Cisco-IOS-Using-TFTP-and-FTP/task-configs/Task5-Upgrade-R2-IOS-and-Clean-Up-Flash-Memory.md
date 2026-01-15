@@ -30,8 +30,7 @@ Upgrade **R2** to boot from the **new IOS image** that was transferred via FTP, 
 show flash:
 ```
 
-<img width="969" height="240" alt="T5-verify-new-OS" src="https://github.com/user-attachments/assets/7bb380f2-81d7-44fc-a1ff-f57cad32afe8" />
-
+<img width="714" height="206" alt="T4-R2-show-flash" src="https://github.com/user-attachments/assets/bc0f8a3f-dae3-499d-8c3a-107d9106e953" />
 
 
 
