@@ -19,3 +19,34 @@ Upgrade **R2** to boot from the **new IOS image** that was transferred via FTP, 
 | Router | R2 |
 
 ---
+
+## ⚙️ Step-by-Step Configuration (R2)
+
+### ♦️ Verify the New IOS Image Exists
+
+#### 🟢 On R2 in Priviliged EXEC mode:
+
+```bash
+show flash:
+```
+
+<img width="969" height="240" alt="T5-verify-new-OS" src="https://github.com/user-attachments/assets/7bb380f2-81d7-44fc-a1ff-f57cad32afe8" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
