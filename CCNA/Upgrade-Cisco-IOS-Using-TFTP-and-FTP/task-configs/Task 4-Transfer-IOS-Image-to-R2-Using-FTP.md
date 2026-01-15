@@ -73,8 +73,9 @@ copy ftp: flash:
 
 **Note:** ⏳ The transfer may take some time. Do not interrupt the process.
 
+## ✅ Verify IOS Image Was Transferred
 
-
+<img width="714" height="206" alt="T4-R2-show-flash" src="https://github.com/user-attachments/assets/68df3a3b-7536-4f37-9010-d487adeccaa2" />
 
 
 
