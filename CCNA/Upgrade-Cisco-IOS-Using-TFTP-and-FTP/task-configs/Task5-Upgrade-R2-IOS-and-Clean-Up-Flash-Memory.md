@@ -56,7 +56,7 @@ When prompted, hit Enter
 
 ### 5️⃣ Delete the Old IOS Image
 
-In Priviiged EXEC mode:
+In Priviliged EXEC mode:
 
 ```bash
 delete flash:c2900-universalk9-mz.SPA.151-4.M4.bin
