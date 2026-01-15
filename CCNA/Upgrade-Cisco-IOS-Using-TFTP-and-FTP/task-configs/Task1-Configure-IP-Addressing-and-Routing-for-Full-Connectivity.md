@@ -31,3 +31,25 @@ This step is required before attempting any **TFTP or FTP file transfers**.
 
 ---
 
+# 🟢 Configure R1
+
+## 1️⃣ Configure R1 Interfaces 
+
+#### ♦️On **R1** (Global Configuration Mode):
+
+```bash
+enable
+configure terminal
+```
+
+```bash
+interface g0/0
+ ip address 192.168.12.1 255.255.255.252
+ no shutdown
+```
+
+```bash
+interface g0/1
+ ip address 10.0.0.254 255.255.255.0
+ no shutdown
+```
