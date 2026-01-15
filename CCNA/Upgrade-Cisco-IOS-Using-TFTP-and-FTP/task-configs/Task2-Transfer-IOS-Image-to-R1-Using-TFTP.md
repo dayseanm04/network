@@ -48,9 +48,9 @@ copy tftp: flash:
 
 #### 🟢 When prompted, enter the following: When prompted, enter the following:
 
-- Address or name of remote host []? `10.0.0.1`
-- Source filename []? `c2900-universalk9-mz.SPA.155-3.M4a.bin`
-- Destination filename [`c2900-universalk9-mz.SPA.155-3.M4a.bin`]? <Hit Enter>
+- Address or name of remote host []? **`10.0.0.1`**
+- Source filename []? **`c2900-universalk9-mz.SPA.155-3.M4a.bin`**
+- Destination filename [**`c2900-universalk9-mz.SPA.155-3.M4a.bin`**]? <Hit Enter>
 
 
 
