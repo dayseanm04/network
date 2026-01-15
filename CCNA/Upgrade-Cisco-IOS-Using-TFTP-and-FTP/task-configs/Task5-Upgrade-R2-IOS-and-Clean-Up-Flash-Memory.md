@@ -52,29 +52,21 @@ end
 ```bash
 reload
 ```
-
 When prompted, hit Enter
 
 Hit enter
 
-## ✅ Verification After Reload
+## 🧹 Clean Up Old IOS Image
 
-### 5️⃣ Verify the New IOS Image Exists
+### 5️⃣ Delete the Old IOS Image
 
-#### 🟢 On R1 in Priviliged EXEC mode:
-
-```bash
-show flash:
-```
-
-<img width="969" height="240" alt="T5-verify-new-OS" src="https://github.com/user-attachments/assets/5e1fe2a0-b78e-46a7-a7a6-3dd7bb3b0d33" />
-
-### 6️⃣ Delete the Old IOS Image
+In Priviiged EXEC mode:
 
 ```bash
 delete flash:c2900-universalk9-mz.SPA.151-4.M4.bin
 ```
 
+<img width="683" height="192" alt="T4-FTP" src="https://github.com/user-attachments/assets/cf9ef2d6-464f-4d15-9e68-b691e895a1b3" />
 
 
 
