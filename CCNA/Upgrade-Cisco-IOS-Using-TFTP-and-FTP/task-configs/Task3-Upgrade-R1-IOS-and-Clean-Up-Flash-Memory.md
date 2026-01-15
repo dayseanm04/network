@@ -18,5 +18,13 @@ Upgrade **R1** to boot from the **new IOS image** that was transferred via TFTP,
 
 ---
 
+## ⚙️ Step-by-Step Configuration (R1)
 
+### 1️⃣ Verify the New IOS Image Exists
+
+#### 🟢 On R1:
+
+```bash
+show flash:
+```
 
