@@ -74,6 +74,7 @@ When prompted, hit Enter
 show flash
 ```
 
+<img width="811" height="196" alt="Verify-flash" src="https://github.com/user-attachments/assets/e01c6cc4-7c9c-4b1a-bd25-3a8c4025a484" />
 
 
 
