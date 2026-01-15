@@ -38,3 +38,29 @@ Use **TFTP** on **R1** to download a new **Cisco IOS image** from **SRV1** and s
 enable
 ```
 
+#### 2️⃣ Retrieve the file with TFTP
+
+```bash
+copy tftp: flash:
+```
+
+<img width="779" height="344" alt="T2-TFTP" src="https://github.com/user-attachments/assets/af43610e-9055-49e8-b990-796edb14bca2" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
