@@ -44,9 +44,6 @@ boot system flash:c2900-universalk9-mz.SPA.155-3.M4a.bin
 end
 ```
 
-<img width="711" height="80" alt="T5-delete-old-os" src="https://github.com/user-attachments/assets/41598a9f-9058-422b-af04-14bf7b7d028b" />
-
-
 ### 4️⃣ Reload the Router
 
 ```bash
