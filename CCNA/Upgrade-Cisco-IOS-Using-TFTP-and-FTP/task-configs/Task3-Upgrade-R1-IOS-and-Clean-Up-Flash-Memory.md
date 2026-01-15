@@ -51,18 +51,6 @@ reload
 
 Hit enter
 
-## ✅ Verification After Reload
-
-### 1️⃣ Verify the New IOS Image Exists
-
-#### 🟢 On R1 in Priviliged EXEC mode:
-
-```bash
-show version
-```
-
-<img width="805" height="230" alt="T3-verify-new-OS" src="https://github.com/user-attachments/assets/0b478970-474f-4da2-9233-f6a3c35d9d97" />
-
 ## 🧹 Clean Up Old IOS Image
 
 ### 5️⃣  Delete the Old IOS Image
@@ -84,3 +72,16 @@ show flash
 ```
 
 <img width="650" height="190" alt="show-flash-R1-cleanup" src="https://github.com/user-attachments/assets/2b273d6e-6593-4a59-91a6-85c7660933ff" />
+
+## ✅ Verification After Reload
+
+### 1️⃣ Verify the New IOS Image Exists
+
+#### 🟢 On R1 in Priviliged EXEC mode:
+
+```bash
+show version
+```
+
+<img width="805" height="230" alt="T3-verify-new-OS" src="https://github.com/user-attachments/assets/0b478970-474f-4da2-9233-f6a3c35d9d97" />
+
