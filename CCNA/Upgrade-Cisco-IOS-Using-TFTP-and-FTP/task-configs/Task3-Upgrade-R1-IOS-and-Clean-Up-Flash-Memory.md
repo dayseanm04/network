@@ -20,7 +20,7 @@ Upgrade **R1** to boot from the **new IOS image** that was transferred via TFTP,
 
 ## ⚙️ Step-by-Step Configuration (R1)
 
-### 1️⃣ Verify the New IOS Image Exists
+### ♦️ Verify the New IOS Image Exists
 
 #### 🟢 On R1 in Priviliged EXEC mode:
 
@@ -93,10 +93,3 @@ show flash
 ```
 
 <img width="650" height="190" alt="show-flash-R1-cleanup" src="https://github.com/user-attachments/assets/2b273d6e-6593-4a59-91a6-85c7660933ff" />
-
-
-
-
-
-
-
