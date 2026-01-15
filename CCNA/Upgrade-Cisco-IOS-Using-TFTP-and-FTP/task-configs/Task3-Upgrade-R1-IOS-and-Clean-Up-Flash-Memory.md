@@ -92,6 +92,7 @@ When prompted, hit Enter
 show flash
 ```
 
+<img width="650" height="190" alt="show-flash-R1-cleanup" src="https://github.com/user-attachments/assets/2b273d6e-6593-4a59-91a6-85c7660933ff" />
 
 
 
