@@ -14,6 +14,20 @@ I will configure IP addresses for the interfaces, static routes, transfer IOS im
 
 ---
 
+## 🎯 Lab Objectives
+
+By completing this lab, you will be able to:
+- Configure IP addressing and routing for full network connectivity
+- Transfer IOS images using **TFTP** and **FTP**
+- Upgrade router IOS software
+- Manage router flash memory by removing old IOS images
+- Verify successful IOS upgrades
+
+---
+
+
+
+
 ## ✍️ Author Information
 
 **Name:** *Daysean Mensah*  
