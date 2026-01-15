@@ -29,5 +29,5 @@ This step is required before attempting any **TFTP or FTP file transfers**.
 | R2 | G0/0 | 192.168.12.2 | 255.255.255.252 |
 | SRV1 | NIC | 10.0.0.1 | 255.255.255.0 |
 
-
 ---
+
