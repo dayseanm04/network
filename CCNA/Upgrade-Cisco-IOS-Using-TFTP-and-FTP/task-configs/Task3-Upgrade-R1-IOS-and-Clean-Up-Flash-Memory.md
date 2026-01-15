@@ -28,3 +28,40 @@ Upgrade **R1** to boot from the **new IOS image** that was transferred via TFTP,
 show flash:
 ```
 
+<img width="733" height="199" alt="T2-verify-show-flash" src="https://github.com/user-attachments/assets/16a7ebff-3f81-4212-955b-0c719cf473d4" />
+
+### 2️⃣ Enter Global Config mode
+```bash
+enable
+configure terminal
+```
+
+### 3️⃣ Boot with the new version of IOS on R1
+
+```bash
+boot system flash:c2900-universalk9-mz.SPA.155-3.M4a.bin
+end
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
