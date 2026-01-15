@@ -1,3 +1,12 @@
+# 🔄 Upgrade Cisco IOS Using TFTP and FTP
+
+## 📌 Summary
+
+This lab focuses on upgrading **Cisco router IOS images** using two common file transfer protocols:
+- **TFTP** (Trivial File Transfer Protocol)
+- **FTP** (File Transfer Protocol)
+
+I will configure IP addresses for the interfaces, static routes, transfer IOS images from a server, upgrade router operating systems, and deleted old files from flash memory.
 
 ## Topology For Reference
 
