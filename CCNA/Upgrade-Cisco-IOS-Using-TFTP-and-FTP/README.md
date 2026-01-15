@@ -37,10 +37,21 @@ By completing this lab, you will be able to:
 ---
 
 ### 📤 Task 2 – Transfer IOS Image to R1 Using TFTP
+
 - Use **TFTP** on **R1** to download the IOS image from **SRV1**
 - File: `c2900-universalk9-mz.SPA.155-3.M4a.bin`
 
 📌 *Purpose:* Practice IOS file transfers using TFTP.
+
+---
+
+### 🔄 Task 3 – Upgrade R1 IOS and Clean Up Flash
+
+- Set the new IOS image as the boot image
+- Reload the router
+- Delete the old IOS file from flash memory
+
+📌 *Purpose:* Complete the IOS upgrade process on R1.
 
 ---
 
