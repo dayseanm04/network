@@ -43,7 +43,13 @@ boot system flash:c2900-universalk9-mz.SPA.155-3.M4a.bin
 end
 ```
 
+### 4️⃣ Reload the Router
 
+```bash
+reload
+```
+
+Hit enter
 
 
 
