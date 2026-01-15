@@ -76,6 +76,11 @@ interface g0/0
  no shutdown
 ```
 
+## 3️⃣ Configure SRV1 IP Settings (Desktop GUI)
 
+On SRV1:
 
+- IP Address: `10.0.0.1`
+- Subnet Mask: `255.255.255.0`
+- Default Gateway: `10.0.0.254`
 
