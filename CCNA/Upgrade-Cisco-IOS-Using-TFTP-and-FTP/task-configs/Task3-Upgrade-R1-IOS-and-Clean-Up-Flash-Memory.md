@@ -22,7 +22,7 @@ Upgrade **R1** to boot from the **new IOS image** that was transferred via TFTP,
 
 ### 1️⃣ Verify the New IOS Image Exists
 
-#### 🟢 On R1:
+#### 🟢 On R1 in Priviliged EXEC mode:
 
 ```bash
 show flash:
@@ -31,6 +31,7 @@ show flash:
 <img width="733" height="199" alt="T2-verify-show-flash" src="https://github.com/user-attachments/assets/16a7ebff-3f81-4212-955b-0c719cf473d4" />
 
 ### 2️⃣ Enter Global Config mode
+
 ```bash
 enable
 configure terminal
@@ -51,8 +52,15 @@ reload
 
 Hit enter
 
+## ✅ Verification After Reload
 
+### 1️⃣ Verify the New IOS Image Exists
 
+#### 🟢 On R1 in Priviliged EXEC mode:
+
+```bash
+show flash:
+```
 
 
 
