@@ -64,6 +64,15 @@ show version
 
 <img width="805" height="230" alt="T3-verify-new-OS" src="https://github.com/user-attachments/assets/0b478970-474f-4da2-9233-f6a3c35d9d97" />
 
+## 🧹 Clean Up Old IOS Image
+
+### 1️⃣ View Flash Contents
+
+```bash
+show flash:
+```
+
+<img width="733" height="199" alt="T2-verify-show-flash" src="https://github.com/user-attachments/assets/ed7cdc46-fb0e-46fd-8b29-6d63c17035b6" />
 
 
 
