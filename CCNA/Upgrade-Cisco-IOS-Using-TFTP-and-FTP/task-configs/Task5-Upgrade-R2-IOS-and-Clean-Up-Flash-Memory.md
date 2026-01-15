@@ -61,7 +61,7 @@ In Priviiged EXEC mode:
 delete flash:c2900-universalk9-mz.SPA.151-4.M4.bin
 ```
 
-<img width="683" height="192" alt="T4-FTP" src="https://github.com/user-attachments/assets/cf9ef2d6-464f-4d15-9e68-b691e895a1b3" />
+<img width="711" height="80" alt="T5-delete-old-os" src="https://github.com/user-attachments/assets/36a2b80f-0594-4345-b4ec-66ded2c9b8c4" />
 
 When prompted, hit Enter
 
