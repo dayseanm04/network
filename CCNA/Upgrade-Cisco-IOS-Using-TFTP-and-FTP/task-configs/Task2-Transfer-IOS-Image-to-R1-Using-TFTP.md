@@ -18,5 +18,16 @@ Use **TFTP** on **R1** to download a new **Cisco IOS image** from **SRV1** and s
 
 ---
 
+## 📁 IOS Image Information
+
+| Item | Value |
+|----|----|
+| IOS File | `c2900-universalk9-mz.SPA.155-3.M4a.bin` |
+| Transfer Method | TFTP |
+| Source Device | SRV1 |
+| Destination Device | R1 |
+| Destination Location | Flash |
+
+---
 
 
