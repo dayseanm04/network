@@ -36,4 +36,8 @@ By completing this lab, you will be able to:
 
 ---
 
+### 🚫 Task 3 – Disable CDP Globally on All Network Devices
+- Disable CDP globally on each router and switch
+
+---
 
