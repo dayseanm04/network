@@ -41,3 +41,10 @@ By completing this lab, you will be able to:
 
 ---
 
+### 📡 Task 4 – Enable LLDP and Verify Neighbors
+- Enable LLDP globally on each network device
+- Enable LLDP **transmit** and **receive** on interfaces connected to other network devices
+- Verify LLDP using:
+  - `show lldp neighbors`
+
+
