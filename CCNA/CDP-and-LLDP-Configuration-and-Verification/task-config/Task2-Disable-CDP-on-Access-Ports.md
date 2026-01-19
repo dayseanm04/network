@@ -74,16 +74,3 @@ configure terminal
 interface f0/24
 no cdp enable
 ```
-
-## ✅ Verification
-
-```bash
-show cdp neighbors
-```
-
-<img width="639" height="81" alt="T2-cdp-disabled" src="https://github.com/user-attachments/assets/5382b67d-fe7f-4688-a00a-509be3bba8a1" />
-
-
-
-
-
