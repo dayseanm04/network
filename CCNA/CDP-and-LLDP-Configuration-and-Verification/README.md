@@ -31,3 +31,9 @@ By completing this lab, you will be able to:
 
 ---
 
+### 📴 Task 2 – Disable CDP on PC Facing Switch Ports
+- Disable CDP on switch access ports connected to PCs
+
+---
+
+
