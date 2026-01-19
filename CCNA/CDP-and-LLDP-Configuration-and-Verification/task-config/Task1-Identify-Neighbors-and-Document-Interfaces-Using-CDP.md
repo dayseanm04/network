@@ -16,3 +16,9 @@ Run on **R1, R2, R3**:
 ```bash
 show cdp neighbors
 ```
+
+Run on **SW1, SW2, SW3**:
+
+```bash
+show cdp neighbors
+```
