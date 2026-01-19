@@ -1,3 +1,9 @@
+# 📴 Task2-Disable-CDP-on-Access-Ports
+
+## 📌 Objective
+Disable **CDP** on switch interfaces that are connected to **end devices (PCs)**.
+
+PCs do not need to receive CDP advertisements, and disabling CDP on access ports reduces unnecessary information exposure.
 
 # Topology For Reference
 
