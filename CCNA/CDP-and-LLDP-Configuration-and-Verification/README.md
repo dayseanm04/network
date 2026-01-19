@@ -15,3 +15,19 @@ By completing this lab, you will be able to:
 ## Topology For Reference
 
 <img width="564" height="278" alt="topology" src="https://github.com/user-attachments/assets/cec8d912-5346-4e0a-a7d2-fc793f76f1c1" />
+
+---
+
+## 🧪 Lab Tasks Overview
+
+### 🔍 Task 1 – Discover and Document Topology Using CDP
+- Use CDP and show commands to identify:
+  - Missing **IP addresses**
+  - Missing **interface IDs**
+- Commands used include:
+  - `show cdp neighbors`
+  - `show ip interface brief`
+  - PC IP configuration checks (ipconfig /all)
+
+---
+
