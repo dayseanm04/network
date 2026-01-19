@@ -1,3 +1,10 @@
+# 🚫 Task 3 Disable CDP Globally on All Network Devices
+
+## 📌 Objective
+Disable **CDP globally** on every network device in the topology.
+
+This stops the devices from sending and receiving CDP advertisements anywhere in the network.
+
 
 # Topology For Reference
 
