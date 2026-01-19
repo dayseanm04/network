@@ -22,3 +22,9 @@ Run on **SW1, SW2, SW3**:
 ```bash
 show cdp neighbors
 ```
+
+### 2️⃣ Check Interface IP Addresses (Routers)
+
+```bash
+show ip interface brief
+```
