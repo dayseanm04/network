@@ -19,9 +19,16 @@ Run this on **all network devices**:
 
 ## ⚙️ Configuration Steps (Run on Each Device)
 
-#### On each router and switch, Enter Global Config mode:
+#### 1️⃣ On each router and switch, Enter Global Config mode:
 
 ```bash
 enable
 configure terminal
+```
+
+#### 2️⃣ Disable CDP
+
+```bash
+no cdp run
+end
 ```
