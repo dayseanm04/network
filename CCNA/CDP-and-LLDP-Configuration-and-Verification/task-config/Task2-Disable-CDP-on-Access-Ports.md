@@ -58,5 +58,21 @@ interface f0/1
 no cdp enable
 ```
 
+# 🟧 SW3 – Disable CDP on F0/24
+
+#### 🟠 On SW1 Enter Global Config mode:
+
+```bash
+enable
+configure terminal
+```
+
+
+#### 🟠 On SW1 Enter Interface Config mode and disable CDP:
+
+```bash
+interface f0/24
+no cdp enable
+```
 
 
