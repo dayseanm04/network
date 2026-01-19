@@ -47,4 +47,10 @@ By completing this lab, you will be able to:
 - Verify LLDP using:
   - `show lldp neighbors`
 
+---
 
+## ✍️ Author Information
+
+**Name:** *Daysean Mensah*  
+**Course/Program:** *Cisco CCNA Studies*  
+**Lab completion date:** january 18 2026.
