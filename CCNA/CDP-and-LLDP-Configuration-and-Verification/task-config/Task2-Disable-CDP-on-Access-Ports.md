@@ -22,3 +22,14 @@ PCs do not need to receive CDP advertisements, and disabling CDP on access ports
 
 ---
 
+## ⚙️ Configuration Steps
+
+# 🟩 SW1 – Disable CDP on F0/10
+
+#### 🟢 On SW1 Enter Global Config mode:
+
+```bash
+enable
+configure terminal
+```
+
