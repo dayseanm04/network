@@ -33,3 +33,10 @@ enable
 configure terminal
 ```
 
+
+#### 🟢 On SW1 Enter Interface Config mode and disable CDP:
+
+```bash
+interface f0/10
+no cdp enable
+```
