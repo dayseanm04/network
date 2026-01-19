@@ -28,3 +28,11 @@ show cdp neighbors
 ```bash
 show ip interface brief
 ```
+
+### 3️⃣ Check End-Device IP Settings (PCs)
+
+On PC1, PC2, PC3:
+- Go to Desktop → IP Configuration
+- Or in Command Prompt: ipconfig
+
+
