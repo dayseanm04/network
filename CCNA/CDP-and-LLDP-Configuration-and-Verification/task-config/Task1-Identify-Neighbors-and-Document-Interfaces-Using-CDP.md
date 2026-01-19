@@ -1,4 +1,4 @@
-# 🔍 Task1-Identify-Neighbors-and-Document-Interfaces-Using-CDP
+# 🔍 Task 1 Identify Neighbors and Document Interfaces Using CDP
 
 ## 📌 Objective
 Use **CDP** (and show commands) to identify and label the **missing IP addresses** and **interface** of the devices in the topology.
