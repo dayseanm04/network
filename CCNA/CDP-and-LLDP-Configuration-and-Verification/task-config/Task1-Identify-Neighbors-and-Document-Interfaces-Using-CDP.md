@@ -35,4 +35,12 @@ On PC1, PC2, PC3:
 - Go to Desktop → IP Configuration
 - Or in Command Prompt: ipconfig
 
+## Reference labeled topoology:
+
+<img width="823" height="355" alt="T1-Net-with-labels" src="https://github.com/user-attachments/assets/b6575536-27f6-4e52-8ec6-87ae60bff4b2" />
+
+
+
+
+
 
