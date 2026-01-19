@@ -17,3 +17,11 @@ This stops the devices from sending and receiving CDP advertisements anywhere in
 
 Run this on **all network devices**:
 
+## ⚙️ Configuration Steps (Run on Each Device)
+
+#### On each router and switch, Enter Global Config mode:
+
+```bash
+enable
+configure terminal
+```
