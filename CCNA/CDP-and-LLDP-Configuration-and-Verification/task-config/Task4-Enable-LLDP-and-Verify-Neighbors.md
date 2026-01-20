@@ -24,3 +24,20 @@ enable
 configure terminal
 ```
 
+#### Enable LLDP Globally
+
+```bash
+lldp run
+end
+```
+
+
+
+
+
+
+
+
+
+
+
