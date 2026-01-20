@@ -13,7 +13,7 @@ In this lab:
 
 ---
 
-# ⚙️ Part A — Enable LLDP Globally (All Devices)
+# ⚙️ Part A - Enable LLDP Globally (All Devices)
 
 ### 🔷 On each router and switch:
 
@@ -31,8 +31,7 @@ lldp run
 end
 ```
 
-
-
+## ⚙️ Part B - Enable LLDP Tx/Rx 
 
 
 
