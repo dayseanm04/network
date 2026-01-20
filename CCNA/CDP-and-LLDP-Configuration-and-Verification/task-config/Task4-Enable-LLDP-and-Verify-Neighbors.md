@@ -56,13 +56,4 @@ lldp receive
 show lldp neighbor
 ```
 
-
-
-
-
-
-
-
-
-
-
+<img width="725" height="192" alt="R1-show-LLDP-Neighbors" src="https://github.com/user-attachments/assets/54cae0b3-d239-454f-8263-fe6145e2f531" />
