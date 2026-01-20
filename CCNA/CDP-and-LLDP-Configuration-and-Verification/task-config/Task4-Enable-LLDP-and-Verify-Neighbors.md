@@ -42,7 +42,13 @@ enable
 configure terminal
 ```
 
+#### Enable Tx/Rx on the interfaces connected to other Network devices
 
+```bash
+interface <interface-id>
+lldp transmit
+lldp receive
+```
 
 
 
