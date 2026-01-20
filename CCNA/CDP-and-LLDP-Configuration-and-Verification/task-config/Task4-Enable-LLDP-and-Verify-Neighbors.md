@@ -50,6 +50,19 @@ lldp transmit
 lldp receive
 ```
 
+## Verify LLDP Neighbors
+
+```bash
+show lldp neighbor
+```
+
+
+
+
+
+
+
+
 
 
 
