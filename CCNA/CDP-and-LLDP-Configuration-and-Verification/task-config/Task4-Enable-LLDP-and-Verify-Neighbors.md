@@ -15,10 +15,12 @@ In this lab:
 
 # ⚙️ Part A — Enable LLDP Globally (All Devices)
 
-On **each router and switch**:
+### 🔷 On each router and switch:
+
+#### 🟢 Enter Global Config mode:
 
 ```bash
 enable
 configure terminal
-lldp run
-end
+```
+
