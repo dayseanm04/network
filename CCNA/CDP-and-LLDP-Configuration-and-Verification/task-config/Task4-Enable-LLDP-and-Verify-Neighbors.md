@@ -1,5 +1,11 @@
 # 📡 Task 4 Enable LLDP and Verify Neighbors
 
+## 📌 Objective
+Enable **LLDP** on all network devices and verify neighbor discovery using LLDP.
+
+In this lab:
+- I will enable LLDP **globally** on every network device
+- I will configfure LLDP **Tx/Rx** on the interfaces connected to other network devices
 
 # Topology For Reference
 
