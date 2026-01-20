@@ -33,7 +33,14 @@ end
 
 ## ⚙️ Part B - Enable LLDP Tx/Rx 
 
+### 🔷 On each router and switch:
 
+#### 🟢 Enter Global Config mode:
+
+```bash
+enable
+configure terminal
+```
 
 
 
